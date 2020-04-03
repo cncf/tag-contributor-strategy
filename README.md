@@ -59,7 +59,7 @@ channels:
 
 ### SIG Chairs
 
-- Paris Pittman ([@parispittman](hhttps://github.com/parispittman)), Google
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
 - Gerred Dillon ([@gerred](https://github.com/gerred)), D2iQ
 
@@ -79,7 +79,7 @@ channels:
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
 - Karen Chu ([@karenhchu](https://github.com/karenhchu)), Microsoft
 - Matt Klein ([@mattklein123](https://github.com/mattklein123)), Lyft
-- Paris Pittman ([@parispittman](hhttps://github.com/parispittman)), Google
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
 - Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
 - Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
 - Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
@@ -100,7 +100,7 @@ Status: [Proposed](https://github.com/cncf/sig-contributor-strategy/issues/1)
 
 Facilitators:
 
-- Paris Pittman ([@parispittman](hhttps://github.com/parispittman)), Google
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
 - Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
 - Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
 
