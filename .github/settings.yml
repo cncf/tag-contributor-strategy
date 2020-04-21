@@ -40,3 +40,9 @@ collaborators:
 
   - username: mattklein123
     permission: push
+
+  - username: thisisnotapril
+    permission: push
+
+  - username: karenhchu
+    permission: push
