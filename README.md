@@ -111,12 +111,13 @@ Facilitators:
 
 ### Contributor Growth  
 
-Status: [Proposed](issue link)
+
+* [Charter](/contributor-growth/README.md)
 
 Facilitators:
 
-- Carolyn Van Slyck, Microsoft
-- Paris Pittman, Google
+- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
 
 
 ### Maintainer's Circle
