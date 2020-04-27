@@ -7,15 +7,19 @@ sustainably growing their contributor base.
 
 * Provide best practices and resources for managing and interacting with
   contributors to CNCF projects.
-* Provide guidance on building a contributor pipeline that brings in new
-  contributors and promotes them to higher levels of responsibility within CNCF
-  projects, including the maintainer role.
+* Provide guidance on a sustainable contributor lifecycle for CNCF Projects to:
+  * Develop a pipeline that brings in new contributors.
+  * Define a contribution ladder with activities that promote contributors to
+    higher levels of responsibility.
+  * Support their maintainers with advice and resources that improve sustainability
+    and plan for transitions from the project.
+    
 
 ## Scope
 
 * Templates for common documents like a contributing guide, reviewing guide,
   maintainers guide, contribution ladder, etc.
-* Case studies of sucessful projects of various kinds/sizes and how they manage
+* Case studies of successful projects of various kinds/sizes and how they manage
   contributions.
 * Collect and share talks related to the subproject's mission, for example
   building open source communities, or reflections on a particular community's
@@ -28,19 +32,21 @@ sustainably growing their contributor base.
   management, design, user experience and documentation and how CNCF projects
   can prioritize work that may not be the maintainers primary skillset.
 * Provide materials that a CNCF project can use to address the TOC [due
-  dilligence guidelines] related to project's contributors and community.
+  diligence guidelines] related to project's contributors and community.
 
-[due dilligence guidelines]: https://github.com/cncf/toc/blob/master/process/due-diligence-guidelines.md#project
+[due diligence guidelines]: https://github.com/cncf/toc/blob/master/process/due-diligence-guidelines.md#project
 
 ### Out-of-Scope
 
-The following are exmaples of things out-of-scope:
+The following are examples of things out-of-scope:
 
 * Project governance.
 * Project automation, such as prow.
 * Day to day support for improving the contribution experience for CNCF
-  projects. That falls under other projects, for example Kubernetes SIG
-  Contributor Experience.
+  projects. Some CNCF projects have support for this, for example within
+  Kubernetes, that would be Kubernetes SIG Contributor Experience. Even when
+  there is not a relevant CNCF project these activities are out-of-scope
+  for this subproject.
 
 ## Members
 
@@ -60,6 +66,6 @@ Currently there are no scheduled meetings.  Discussion happens on the
 
 # Documentation
 
-Our documentation is shared in the [cncf/contribute] respository.
+Our documentation is shared in the [cncf/contribute] repository.
 
 [cncf/contribute]: https://github.com/cncf/contribute
