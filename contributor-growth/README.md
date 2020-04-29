@@ -1,7 +1,7 @@
 # Contributor Growth
 
-The Contributor Growth subproject is interested in assisting CNCF projects with
-sustainably growing their contributor base.
+The Contributor Growth working group is interested in assisting CNCF projects
+with sustainably growing their contributor base.
 
 ## Goals
 
@@ -21,7 +21,7 @@ sustainably growing their contributor base.
   maintainers guide, contribution ladder, etc.
 * Case studies of successful projects of various kinds/sizes and how they manage
   contributions.
-* Collect and share talks related to the subproject's mission, for example
+* Collect and share talks related to the working group's mission, for example
   building open source communities, or reflections on a particular community's
   best practices.
 * Document ways to contribute to a project, especially roles outside of the
