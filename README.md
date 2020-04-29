@@ -12,7 +12,7 @@ The [SIG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
   - [SIG Chairs](#sig-chairs)
   - [TOC Liaisons](#toc-liaisons)
   - [Bootstrap SIG members](#bootstrap-sig-members)
-- [Subprojects](#subprojects)
+- [Working Groups](#working-groups)
   - [Governance](#governance)
   - [Maintainer's Circle](#maintainers-circle)
   - [GitHub Management](#github-management)
@@ -84,7 +84,7 @@ channels:
 - Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
 - Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
 
-## Subprojects
+## Working Groups
 
 ### Governance
 
