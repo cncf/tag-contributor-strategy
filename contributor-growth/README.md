@@ -43,10 +43,8 @@ The following are examples of things out-of-scope:
 * Project governance.
 * Project automation, such as prow.
 * Day to day support for improving the contribution experience for CNCF
-  projects. Some CNCF projects have support for this, for example within
-  Kubernetes, that would be Kubernetes SIG Contributor Experience. Even when
-  there is not a relevant CNCF project these activities are out-of-scope
-  for this subproject.
+  projects. Instead, CNCF projects should take on this support themselves (for
+  example, Kubernetes has SIG Contributor Experience).
 
 ## Members
 
