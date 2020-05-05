@@ -26,8 +26,6 @@ with sustainably growing their contributor base.
   best practices.
 * Document ways to contribute to a project, especially roles outside of the
   obvious feature enhancement/code contributions.
-* Create spaces for maintainers of CNCF projects to share their own best
-  practices and ask questions.
 * Discuss non-code areas that support contributor growth, such as project
   management, design, user experience and documentation and how CNCF projects
   can prioritize work that may not be the maintainers primary skillset.
