@@ -23,9 +23,9 @@ The [SIG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
 The Contributor Strategy Special Interest Group meets biweekly on Thursday at
 10:30am PT (USA Pacific, see your timezone [here](https://time.is/compare/1030AM_26_Mar_2020_in_PT)):
 
-- Calendar invites are sent to the mailing list(see:[#communicating-with-us]).
+- Calendar invites are sent to the mailing list(see: [Communicating with us](#communicating-with-us)).
 Once you join, you won't automatically have the invite on your calendar. You can
-get it from a [past message here](https://lists.cncf.io/g/cncf-sig-contributor-strategy/message/2)
+get it from a [past message here](https://lists.cncf.io/g/cncf-sig-contributor-strategy/message/1)
 - [Meeting minutes and agenda](https://bit.ly/cncf-contribstrat-agenda)
 - Meeting Link: [zoom.us/my/cncfsigcontributorstrategy](https://zoom.us/my/cncfsigcontributorstrategy)
   - Meeting ID: **574 406 1161**
@@ -56,7 +56,7 @@ work of the group happens outside of SIG Contributor Strategy meetings and we
 encourage project teams to share progress updates or post questions in these
 channels:
 
-- [Email list](https://lists.cncf.io/g/cncf-sig-contributor-strategy)
+- [Mailing list](https://lists.cncf.io/g/cncf-sig-contributor-strategy)
   - The mailing list is used for decisions, announcements, and broad communications
   on record for the entire SIG.
   - Calendar invites will be sent to this address. You can get the calendar
