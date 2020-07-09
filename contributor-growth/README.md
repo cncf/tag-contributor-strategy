@@ -40,8 +40,7 @@ The following are examples of things out-of-scope:
 
 * Project governance.
 * Project automation, such as prow.
-* Day to day support for improving the contribution experience for CNCF
-  projects. Instead, CNCF projects should take on this support themselves (for
+* Day to day support for improving the contribution experience for CNCF projects. Instead, CNCF projects should take on this support themselves (for
   example, Kubernetes has SIG Contributor Experience).
 
 ## Members
@@ -49,13 +48,16 @@ The following are examples of things out-of-scope:
 * Carolyn Van Slyck - [@carolynvs](https://github.com/carolynvs) (Lead)
 * Karen Chu - [@karenhchu](https://github.com/karenhchu)
 * Paris Pittman - [@parispittman](https://github.com/parispittman)
+* Jennifer Davis - [@iennae](https://github.com/iennae)
+* Aaron Schlesinger - [@arschles](https://github.com/arschles)
 
 Don't see your name? That was an oversight! Open a PR and add yourself. ❤️
 
 ## Meetings
 
-Currently there are no scheduled meetings.  Discussion happens on the
-[mailing list] or on #sig-contributor-strategy on [Slack].
+Meetings take place every 1st and 3rd Tuesday at 2pm PT / 4pm CT Tuesdays.
+
+Discussion happens on the [mailing list] or on #sig-contributor-strategy on [Slack].
 
 [mailing list]: https://lists.cncf.io/g/cncf-sig-contributor-strategy
 [Slack]: https://slack.cncf.io/
