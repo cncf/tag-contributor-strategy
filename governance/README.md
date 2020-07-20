@@ -32,8 +32,11 @@ The following are examples of things outside of the scope of this working group:
 
 The following contributors are currently "members" of this working group:
 
-* Josh Berkus (Lead)
-* April Kyle Nassi (Contributor)
+* Josh Berkus
+* April Kyle Nassi
+* Dawn Foster
+* Jennifer Davis
+* Davanum Srinivas
 
 Currently there are no scheduled meetings.  Discussion happens on the [contributor strategy mailing list](https://lists.cncf.io/g/cncf-sig-contributor-strategy) or on #sig-contributor-strategy on [CNCF slack](https://slack.cncf.io/).
 

@@ -24,7 +24,7 @@ collaborators:
     permission: admin
 
   - username: gerred
-    permission: admin
+    permission: push
 
   - username: parispittman
     permission: admin
@@ -46,6 +46,16 @@ collaborators:
 
   - username: karenhchu
     permission: push
+
+  - username: dims
+    permission: push
+
+  - username: geekygirldawn
+    permission: push
+
+  - username: iennae
+    permission: push
+
 labels:
   - name: new-wg
     color: 228b22
