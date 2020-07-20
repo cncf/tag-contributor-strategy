@@ -30,9 +30,10 @@ Our initial three stakeholders:
 ## Mission
 Consistent with the CNCF SIG definition, the mission of CNCF SIG Contributor
 Strategy is to collaborate on strategies related to building, scaling, and
-retaining contributor communities, including (people) governance, communications,
-operations, and tools. We want to help grow flourishing, sustainable communities
-with smooth journeys throughout their CNCF project lifecycle.  
+retaining contributor communities, including (people) governance, 
+communications, operations, and tools. We want to help grow flourishing, 
+sustainable communities with smooth journeys throughout their CNCF project 
+lifecycle.   
 To do that we will:
 * **Create intentional space.** Form a "Maintainers Circle" (name may
   change) comprised of those interested in growing their projects and joining
@@ -47,14 +48,16 @@ points for rolling feedback and guidance.
  contributors and vice versa.
 
 #### In scope:
-The following, non exhaustive, bootstrap list of activities and deliverables are
+The following, non exhaustive list of activities and deliverables are
 in-scope for the SIG:
 * Definition of a contributor. This is helpful across projects for metrics and
 establishing guidelines, programs, and workflows.
+* Contributor and goverance related proposed/suggested/modified project 
+lifecycle requirements for graduation or incubation
 * “Contributing health checks”/’community health checks’ (name tbd) for project
-evaluations at graduation time.
-* Webinars, meetings, and other events to engage with the end user community on
-upstream contributing trainings and engagement programs.  
+evaluations at graduation time  
+* Webinars, meetings, and other events to engage with the end user and CNCF 
+project community on upstream contributing trainings and engagement programs.  
 * Development of guidelines, documents for project governance, recruiting and
 retaining contributor communities, mentorship, and project maturity.
 * Collection of current state of contributor strategies and governance models
@@ -62,8 +65,8 @@ via surveys, GB reps, and Maintainers Circle (Example: what is the project doing
   now, challenges, gaps)
 
 #### Out of scope
-* The day to day operations of CNCF SIGs, Kubernetes SIGs, or any community group
-of CNCF or its respective projects of any graduation level.
+* The day to day operations of CNCF SIGs, Kubernetes SIGs, or any community 
+group of CNCF or its respective projects of any graduation level.
 * The creation and approval of CNCF SIGs or other community groups; we will
 offer advice but the responsibility lies on the TOC for those matters.
 * CNCF operations and marketing initiatives such as: product review/demo
@@ -72,36 +75,20 @@ webinars, kubecon event planning, branding, stickers, swag, etc
 * Testing
 
 
-## Roadmap
-#### 1) SIG Formation
-Role creation
-Stakeholder reps recruited and identified  
+## Current Roadmap
+In no particular order,
+* Launch the maintainers circle and build community 
+  * Training and discussion: inclusive language, code of conduct, code 
+  reviewing, leadership, and more
+* Continue making recommendations to TOC for project lifecycle milestones as it 
+relates to contributor strategy and governance topics (example: multi-org 
+contributing requirement, community management, etc)
+* Create a project template repo for projects to use as they see fit in a fork 
+all or some approach (example: CONTRIBUTING.md, CONTRIBUTOR-LADDER.md templates)
 
-#### 2) Discovery
-Who: CNCF SIGs, projects, and end user community  
-What: Collect information that will help us assess gaps/needs, inventory
-contributor best practices and current operations/programs to identify possible
-templates, standards, and more to help projects scale and sustain  
-How: Surveys (past data and new), focus groups, crowdsourcing
-questions/discussion topics, contributor mailing lists and slack!    
-
-#### 3) Establish working groups
-Create them from discovery or already known gaps while #2 is ongoing. Examples
-include:  
-1. Maintainers Circle
-2. Contributor growth and outreach: docs, diversity, recruitment, retention
- * includes modern mentoring, succession planning, and staffing contributor role
-  strategies
-3. "Community/Contributor health check"
-  * evaluation criteria  
-  * check-in/review/consulting process  
-4. Open governance guidelines and governance operations best practices
-  * the why, how, and where, your contributors make decisions  
-  * contributor diversity
 
 *Possible future roadmap projects*  
 If you see something here that interests you, join us and start it:  
-* Training: leadership, code of conduct, code reviewing, etc  
 * Contributor metrics and definitions  
 * Automation and self service for contributors, community GitOps
 
@@ -146,8 +133,9 @@ Members who are no longer participating actively in the SIG (including both WG
 
 #### Chairs and TOC Liaison
 
-- TOC Liaison: Matt Klein   
-- Chairs: Josh Berkus, Gerred Dillon, Paris Pittman  
+- TOC Liaison: Matt Klein, Saad Ali   
+- Chairs: Josh Berkus, Stephen Augustus, Paris Pittman  (Emeritus: Gerred 
+Dillon)
 - Tech Leads: None at this time but can change with need at a later time with
 charter ratification   
 
@@ -158,7 +146,7 @@ The TOC will also appoint 3 [Chairs](https://github.com/cncf/toc/blob/master/sig
 ### Meetings and Decisions
 
 Most SIG work will be carried out without requiring any kind of regular meeting
-or vote. The SIG will have a regular meeting, initially monthly, at which the
+or vote. The SIG will have a regular meeting, bi-weekly, at which the
 membership may vote on the following items as the come up:
 
 * Addition of new members or removal of inactive ones
@@ -178,3 +166,9 @@ mailer at [lists.cncf.io](https://lists.cncf.io)
 [Meeting Notes](https://docs.google.com/document/d/1Xjw-yAqidQW67zv7OfMRErsfCotc-mfQ_248Te_YL0g/edit#heading=h.252i9x89qe0d)  
 Slack channel: [#sig-contributor-strategy]  
 Public Meetings: Bi-weekly on Thursday at 5:30pm UTC. Join our mailing list for
+
+
+[cncf-sigs.md]: https://github.com/cncf/toc/blob/master/sigs/cncf-sigs.md
+[sig-contributor-strategy]: mailto:sig-contributor-strategy@lists.cncf.io
+[lists.cncf.io]: https://lists.cncf.io
+[Meeting Notes]: https://docs.google.com/document/d/1Xjw-yAqidQW67zv7OfMRErsfCotc-mfQ_248Te_YL0g/edit#heading=h.252i9x89qe0d
