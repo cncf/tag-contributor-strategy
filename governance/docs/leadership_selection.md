@@ -39,7 +39,7 @@ maintainer and seconded by two other maintainers.
 Elected leadership is often used for the highest levels of leadership in larger
 projects, since defining the election criteria and process can require more
 effort than some of the other options, although there are simpler ways of
-conducting votes. The[ Kubernetes Steering
+conducting votes. The [Kubernetes Steering
 Committee](https://github.com/kubernetes/steering/blob/master/elections.md) has
 a robust, but more complicated process where they are elected by a vote of
 eligible contributors with a maximum of one-third representation from any one
