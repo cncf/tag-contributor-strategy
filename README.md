@@ -103,7 +103,7 @@ channels:
 
 ### Governance
 
-Status: [Proposed](https://github.com/cncf/sig-contributor-strategy/issues/7)
+[Charter](/governance/README.md)
 
 Facilitators:
 
