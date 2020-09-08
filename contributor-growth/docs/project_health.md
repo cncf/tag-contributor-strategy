@@ -62,8 +62,8 @@ inclusivity, toxic contributors).
 
 -   Overall contributors: Are the number of contributors increasing or
     decreasing for your project?
-    -   Number of Contributors section in the [DevStats Project Health](https://all.devstats.cncf.io/d/53/projects-health-table?orgId=1)
-dashboard.
+    -   [Contributions chart](https://k8s.devstats.cncf.io/d/74/contributions-chart?orgId=1) in Devstats.
+    -   Number of Contributors section in the [DevStats Project Health](https://all.devstats.cncf.io/d/53/projects-health-table?orgId=1) dashboard.
 -   Pull request creators: is the number of people writing code and
     documentation going up, down, or staying about the same?  A slow but steady
 increase here is the best result, but staying about the same for mature projects
