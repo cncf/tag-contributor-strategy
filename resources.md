@@ -1,7 +1,7 @@
 # Useful resources, research, and quick links
 
 ## Purpose  
-Serve as a quick resource for the SIG to grab links that we work with at high frequency and reference from other research. This is not official guidance. 
+Serve as a quick resource for the SIG to grab links that we work with at high frequency and reference from other research. This is not official guidance.
 
 ### CNCF Quick Links
 
@@ -14,19 +14,21 @@ Serve as a quick resource for the SIG to grab links that we work with at high fr
 - [Sandbox->Incubation Requirements](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#incubating-stage)
 [Sandbox Annual Review has related questions](https://github.com/cncf/toc/blob/master/process/sandbox-annual-review.md#annual-review-contents)
 
-### Governance 
+### Governance
 - [Governance Checklist for OSS projects](https://sustainers.github.io/governance-readiness/)  
 - [Velero Governance](https://github.com/vmware-tanzu/velero/blob/master/GOVERNANCE.md#velero-governance)
 - [Jupyterhub Project Governance](https://jupyterhub-team-compass.readthedocs.io/en/latest/governance.html#jupyterhub-project-governance)  
 - [Selenium Project Governance](https://www.selenium.dev/governance/)
 - [Debian Constitution](https://www.debian.org/devel/constitution)
+- [Python PEP 8002](https://www.python.org/dev/peps/pep-8002/)
+- [The Open Source Way](https://github.com/theopensourceway/guidebook)
 
 ### New Contributor Recruiting, Growth of Current Contributors, Succession
 
 - [Attracting, Growing, Communicating, and Governance](https://softdev4research.github.io/4OSS-lesson/04-contributions/)
 - [Moya Community Continuity Guidelines](https://github.com/Moya/contributors/blob/master/Contributing.md)
-- [Kubernetes Org Membership and OWNERS structure](https://github.com/kubernetes/community/blob/master/community-membership.md) 
-- [Service Catalog Contributor Ladder](https://svc-cat.io/docs/contribute/ladder/) 
+- [Kubernetes Org Membership and OWNERS structure](https://github.com/kubernetes/community/blob/master/community-membership.md)
+- [Service Catalog Contributor Ladder](https://svc-cat.io/docs/contribute/ladder/)
 - [Porter Contributor Ladder](https://github.com/deislabs/porter/blob/main/CONTRIBUTION_LADDER.md)
 - [Guix's Definition of Commit Access](https://guix.gnu.org/manual/en/html_node/Commit-Access.html)
 - [Debian New Maintainer](https://www.debian.org/devel/join/newmaint)
@@ -38,16 +40,16 @@ Serve as a quick resource for the SIG to grab links that we work with at high fr
 - [Knative Roles](https://github.com/knative/community/blob/master/ROLES.md)
 - [Django Organization](https://docs.djangoproject.com/en/dev/internals/organization/)
 - [OPENMRS Developer Stages](https://wiki.openmrs.org/display/RES/OpenMRS+Developer+Stages)
-- [Astropy Roles](https://www.astropy.org/team.html) 
+- [Astropy Roles](https://www.astropy.org/team.html)
 
 ## Tools
 
 ## Contributing Guides
 - [Nayafia's template from researching a ton of open source projects](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md)
 - [GoodDocs: aiming to help projects with good templates](https://thegooddocsproject.dev/contribute.html)
-- [Athens Contributing Guide](https://github.com/gomods/athens/blob/master/CONTRIBUTING.md) 
+- [Athens Contributing Guide](https://github.com/gomods/athens/blob/master/CONTRIBUTING.md)
 - [Porter Contributing Guide](https://github.com/deislabs/porter/blob/master/CONTRIBUTING.md)
-- [Open Policy Agent Contributing Guide](https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md#code-review) 
+- [Open Policy Agent Contributing Guide](https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md#code-review)
 
 ## Maintainer/Core Contributor Advice
 - [Maintainers: Avoiding Burnout from homebrew community](https://github.com/Homebrew/brew/blob/master/docs/Maintainers-Avoiding-Burnout.md)
