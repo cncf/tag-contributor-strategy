@@ -16,9 +16,10 @@ Serve as a quick resource for the SIG to grab links that we work with at high fr
 
 ### Governance
 - [Governance Checklist for OSS projects](https://sustainers.github.io/governance-readiness/)  
+- [FOSS Project Governance documents collection](https://fossgovernance.org/)
 - [Velero Governance](https://github.com/vmware-tanzu/velero/blob/master/GOVERNANCE.md#velero-governance)
 - [Jupyterhub Project Governance](https://jupyterhub-team-compass.readthedocs.io/en/latest/governance.html#jupyterhub-project-governance)  
-- [Selenium Project Governance](https://www.selenium.dev/governance/)
+- [Selenium Project Governance](https://www.selenium.dev/governance/)s
 - [Debian Constitution](https://www.debian.org/devel/constitution)
 - [Python PEP 8002](https://www.python.org/dev/peps/pep-8002/)
 - [The Open Source Way](https://github.com/theopensourceway/guidebook)
