@@ -1,7 +1,10 @@
 
 # Master Checklist for Project Paperwork
 
-[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc)
+This is a condensed, outline-format checklist of the paperwork requirements to reach the various
+[CNCF Graduation Levels](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc).
+It does not substitute for the full documentation or full requirements, but is a useful quick
+reference if your project is planning to join the CNCF or graduate levels.
 
 ## Entering Sandbox
 
@@ -15,6 +18,7 @@
     *   Adhere to [CNCF IP Policy](https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy)
     *   CONTRIBUTING.md containing basic “how to contribute” ([Harbor example](https://github.com/goharbor/harbor/blob/master/CONTRIBUTING.md))
         *   [Template](https://github.com/cncf/project-template/blob/master/CONTRIBUTING.md)
+    *   Light project roadmap, at least an easily findable list of TODO items or issues
     *   LICENSE
         *   [Template](https://github.com/cncf/project-template/blob/master/LICENSE)
             *   You need to edit "Copyright [yyyy] [name of copyright owner]".
