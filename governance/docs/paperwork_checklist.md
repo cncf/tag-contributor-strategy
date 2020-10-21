@@ -1,5 +1,5 @@
 
-# Master Checklist for Project Paperwork
+# Checklist for Project Paperwork
 
 This is a condensed, outline-format checklist of the paperwork requirements to reach the various
 [CNCF Graduation Levels](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc).
