@@ -10,6 +10,7 @@ reference if your project is planning to join the CNCF or graduate levels.
 
 *   Requirements:
     *   [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+        *   [Template](https://github.com/cncf/project-template/blob/master/CODE_OF_CONDUCT.md)
         *   Decide if COC enforcement will be handled by the project or by the CNCF
             *   CNCF is a good option for young/small projects.  They will provide contact.
         *   If handling it yourself: decide who are the contacts and how to deal with a maintainer being reported, or a contact being reported. Need more than one contact.
