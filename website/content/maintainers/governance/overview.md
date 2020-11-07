@@ -1,4 +1,10 @@
-# What Is Governance?
+---
+title: "Overview"
+date: 2020-09-15
+weight: 10
+---
+
+## What is Goverernance?
 
 Because open source projects are organizations, all projects have governance. Some of governance structures are more *explicit* than others. Some are more *formal* than others. But every project has them.
 

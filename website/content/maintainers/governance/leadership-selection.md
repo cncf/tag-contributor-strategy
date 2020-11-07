@@ -1,4 +1,10 @@
-# Governance: Leadership Selection
+---
+title: "Governance: Leadership Selection"
+linkTitle: "Leadership Selection"
+date: 2020-09-01
+weight: 30
+---
+
 CNCF does not require its hosted projects to follow any specific governance
 model by default. Instead, CNCF specifies that graduated projects need to
 "[e]xplicitly define a project governance and committer process." This varied

@@ -76,7 +76,7 @@ channels:
 
 - Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Gerred Dillon ([@gerred](https://github.com/gerred)), D2iQ
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
 
 ### TOC Liaisons
 

@@ -5,24 +5,31 @@ show...:*
 
 🛬Thanks for landing here! There's a good chance you want to help the
 contributor side of the code in one of our working groups, get involved on a
-regular basis, or simply be curious, no matter your reason are excited to have
+regular basis, or simply be curious, no matter your reason, we are excited to have
 you.
 
 This [SIG] (Special Interest Group) is an extension of the [TOC] that works to
 build programs and guidance to help scale and grow open source communities. We
 work in two CNCF GitHub repositories:  
+
 🆕[cncf/sig-contributor-strategy]  
  contains our meta docs that cover our governance, how we operate, and resources that we
- collect along the way.
+ collect along the way. The [website/content] directory contains the source for the
+ web pages at [contribute.cncf.io/maintainers][maintainers] and is advice for people who
+ are running and maintaining CNCF projects.
 
 🔜[cncf/contribute]  
-will house contributing information and guidance that we provide to CNCF
-projects for contributor strategy topics. The intention is to grow this as a
-resource for all contributors - aspiring, current, and maintainers.  
+houses contributing information and guidance for people who are contributors
+or aspire to be contributors to CNCF projects. This content is available on our
+website at [contribute.cncf.io/contributors][contributors].
 
 Our [charter] describes our mission and initial scope of what we’d like to
 accomplish. Each of our members are closely involved with at least one CNCF
 project; we are here to learn as much as those we serve.
+
+## Contribute to the website
+
+Read our [contributing guide] for details on how to contribute content for [contribute.cncf.io].
 
 ## Ground Rules
 We very much welcome everyone on any of our [communication channels] including
@@ -121,3 +128,7 @@ https://www.firsttimersonly.com/
 [cncf/sig-contributor-strategy]: https://github.com/cncf/sig-contributor-strategy
 [maintainers circle]: https://github.com/cncf/sig-contributor-strategy/issues/1
 [4th Thursday meeting of each month]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md#meetings
+[website/content]: website/content/
+[contributing guide]: https://contribute.cncf.io/about/contributing/
+[maintainers]: https://contribute.cncf.io/maintainers
+[contributors]: https://contribute.cncf.io/contributors 

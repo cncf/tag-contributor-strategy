@@ -1,0 +1,84 @@
+/*
+    Extend the theme's styles here
+*/
+
+.external-content {
+    @extend .td-max-width-on-larger-screens;
+
+    margin-top: 5em;
+    margin-left: auto;
+    margin-right: auto;
+
+    h1 {
+        text-align: center;
+    }
+
+    > pre, > .highlight, > .lead, > h1, > h2, > ul, > ol, > p, > blockquote, > dl dd, .footnotes, > .alert {
+        max-width: initial;
+    }
+}
+
+#hero {
+    margin-top: 8em;
+
+    p {
+        font-size: 2em;
+        font-weight: bold;
+    }
+    a {
+        color: white;
+
+        &:hover {
+            color: $yellow;
+        }
+    }
+}
+
+// Let us put two same color sections next to each other without extra space
+.td-default main .section-group section ~ section {
+    padding-top: 0;
+}
+
+.td-default main .section-group section:first-of-type {
+    padding-top: 5rem;
+}
+
+// Default flexgrids to center their content evenly
+.td-main {
+    .row {
+        justify-content: space-evenly;
+    }
+}
+
+// Fix link contrast
+.td-box--primary, .td-box--secondary, .td-box--dark {
+    a, p > a {
+        color: $light;
+
+        &:hover{
+            color: $yellow;
+        }
+    }
+}
+
+section .content {
+    flex-grow: 1
+}
+
+footer {
+    min-height: unset;
+    overflow: visible;
+
+    .order-sm-2.text-center {
+        text-align: left !important;
+    }
+
+    &.py-5 {
+        padding-top: 1em !important;
+        padding-bottom: 0em !important;
+    }
+
+    .py-2 {
+        padding: 0 !important;
+    }
+}

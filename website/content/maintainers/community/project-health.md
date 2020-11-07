@@ -1,4 +1,10 @@
-# Contributor Growth: Project Health Measurement
+---
+title: "Project Health Measurement"
+linkTitle: "Project Health"
+date: 2020-09-08
+description: >
+  How to measure your project's health.
+---
 
 While popularity measurements, like stars / forks, might be interesting, they
 don't provide much real insight into project health. We encourage projects to

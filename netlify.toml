@@ -1,0 +1,17 @@
+[settings]
+  ID = "cncf-contribute"
+
+[build]
+  base = "/"
+  publish = "website/public/"
+  command = "go run mage.go Deploy"
+
+[build.environment]
+  HUGO_VERSION = "0.79.0"
+  HUGO_ENV = "production"
+
+[context.branch-deploy]
+  command = "go run mage.go DeployPreview"
+  
+[context.deploy-preview]
+  command = "go run mage.go DeployPreview"
