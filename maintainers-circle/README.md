@@ -1,49 +1,108 @@
 # Maintainer's Circle
 
-Placeholder for the Maintainer's Circle subproject [proposed here](https://github.com/cncf/sig-contributor-strategy/issues/1).
+Initially [proposed here](https://github.com/cncf/sig-contributor-strategy/issues/1).
+
+Once a month, we welcome you to a maintainers circle: a peer group that will 
+meet with scheduled topics, ample discussion, and networking time for fellow 
+reviewers, approvers, maintainers, and other core leaders of CNCF projects. This
+is a time for you to stay connected, learn from and with each other, and 
+discuss topics that are close to you. We'll have a 100 person capacity for each 
+event and depending on demand, may re-run the session. The capacity is set to
+make sure everyone that wants an interactive experience vs a lecture can have 
+one. 
+
+The only contract of the members of each circle is to abide by the CNCF Code of 
+Conduct, be kind, open as you'd like, and committed to hearing others out. 
+Everyone will have a chance to participate in whatever activity is set forth in 
+that meeting. 
 
 ## Goals:
-Bring CNCF project maintainers🔹 together to:
+Bring CNCF project maintainer* together to:
 - Collaborate on strategic issues; tackling size:L OSS challenges together
-- Listening (to build better programs, relationships, and sustainability efforts)
-- Share Best Practices
+- Listen (to build better programs, relationships, and sustainability efforts)
+- Share best practices
 - Participate in peer coaching and seek guidance  
 - Highlight successes
 
-🔹Maintainer Definition  
-A maintainer is anyone recognized as a maintainer or core role of a project by
-that project's standards and governance. You can maintain code and/or docs.
+*What/Who is a maintainer? There are a lot of meanings within the community.  
+A maintainer is anyone recognized as a maintainer or in a core role of a CNCF 
+project by
+that project's standards and governance. You can maintain code, docs, policy and
+ more, but you are making decisions.
 Relevant CNCF project examples:  
-- [containerd](https://github.com/containerd/project/blob/master/GOVERNANCE.md#maintainership) lists maintainers and code reviewers as key role
+- [containerd](https://github.com/containerd/project/blob/master/GOVERNANCE.md#maintainership) 
+lists maintainers and code reviewers as key role
 - [Prometheus](https://github.com/prometheus/prometheus/blob/master/MAINTAINERS.md)
 lists maintainers in a MAINTAINERS.md file
-- [Kubernetes](owners link)
-doesn't use the word maintainers but uses an OWNERs file method for ownership by
+- [Kubernetes](https://github.com/kubernetes/community/blob/master/community-membership.md)
+doesn't use the word maintainer but uses an OWNERs file method for ownership by
 listing reviewers and approvers
 
 We recognize the term does not apply across the board perfectly. Maintainers
 is an umbrella succinct term that covers many of your roles and inclusivity.
 
-Important note: CNCF has a pool of listed maintainers for each project that vote on behalf of their project in TOC
-elections. This circle is open to all types of maintainers.
-
+Important note: CNCF has a pool of listed maintainers for each project that vote
+ on behalf of their project in TOC elections. Some projects have more maintainer 
+ roles than this and the Circle welcomes all decision makers. 
 
 ## Where
-n candence meetings on Zoom  
-
-In person:  
-KubeCon/CloudNativeCon  
-tbu
-
-//TODO what does the first meeting look like?  
-in welcome email, include a call for
-suggested content - we will get a few topics to give us ideas of what people are
-interested in and find valuable  
-
-### Slack
-
-#maintainers-circle  
-//TO BE DISCUSSED  
+Zoom with breakout rooms  
+In-person as soon as we can at the next face-to-face KubeCon (TBD) 
 
 ## When  
-TBU
+Every 3 weeks on:*  
+Thursdays, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)  
+*currently displays as sig-contributor-strategy meeting on [CNCF calendar] https://www.cncf.io/calendar/ but will be repurposed for this.  
+
+## What  
+
+First one:  
+December 17, 2020  
+Thursday, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)   
+**Registration** is an emoji reaction to the invite on the future thread in 
+#maintainer-circle 
+
+**First half + breakouts:**
+In 2017, Dorothy Howard spoke at SciPy on the research and effects of burnout on
+ FOSS maintainers. She follows up with us on what’s happened since conducting 
+ new and ongoing qualitative research and interviews with maintainers on 
+ burnout, mental health, and software sustainability sponsored by the Ford/Sloan
+  Foundations and the NSF. After a 20minute talk, Dorothy will seed the audience
+   questions about burnout as you break out into small breakout rooms with your
+    fellow maintainers in a 15minute session. 
+
+**Second half + breakouts:**
+We'll have a fireside chat with Aaron Crickenberger, Emeritus Kubernetes
+Steering Committee Member, co-chair of SIG-Testing, and subproject owner in
+multiple SIGs, about his experiences with burnout. It's been a 5 year journey 
+with Kubernetes; we'll hear some of the realistic and honest ways Aaron tackles
+time management and self care while steering huge ships. In this 15 minute
+session, you can ask questions live to Aaron as a group, and then breakout 
+into final small groups of the session.   
+
+## General Circle Structure  
+
+:35 - meeting kicks off with a welcome, announcements, and how breakouts work  
+:40-:00 - first speaker (academic, expert, other OSS maintainer)  
+:00-:20 - first breakout session (max: 10 rooms, 20 people in each)
+           - round of short intros [name/project name] before discussion  
+:25-:45 - second speaker (most likely a CNCF maintainer)  
+:45-:05 - second breakout session   
+:10-:15 - wrap up    
+
+To suggest future topics, file an issue in our repo. If you have something to 
+share with the group, reach out to us on slack directly 
+[#sig-contributor-strategy](https://cloud-native.slack.com/archives/CT6CWS1JN).
+
+In the works for 2021:
+- Accidental Evangelism: Jérôme Petazzoni + one more speaker
+- Communicating Effectively: locking in speaker + one more speaker
+- Dealing with conflict: locking in speaker + one more speaker
+- Maintaining/Project leading during grief and loss: looking for speakers
+- Maintaining with Inclusive Language: Stephen Augustus + one more speaker
+- Values and Principles Development: Sarah Novotny + one more speaker
+
+
+### Join the channel on Slack
+
+[#maintainers-circle](https://cloud-native.slack.com/archives/C014YQ8CDCG)  
