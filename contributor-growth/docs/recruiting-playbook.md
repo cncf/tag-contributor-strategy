@@ -4,7 +4,11 @@ Recruiting Contributors
 
 # Summary 
 
+<<<<<<< HEAD
 Recruiting and retention go hand in hand. If you are thinking "how can we add more amazing contributors?" and "where do we find them?" the projects leadership needs to think about how you keep folks around, too. If your goal is to limit to only single contributions aka drive-bys then this might not apply to you. But once you open the gates to more contributors of any type, balancing maintainers time becomes the next challenge. This is why it's important to think of recruiting and retention initiatives together rather than separate. 
+=======
+Recruiting and retention go hand in hand. If you are thinking "how can we add more amazing contributors?" and "where do we find them?" the projects leadership needs to think about how you keep folks around, too. If your goal is to limit to only single contributions aka drive-bys then this might not apply to you. But once you open the gates to more contributors of any type, balancing maintainers time becomes the next challenge. This is why it's important to think of these initiatives together rather than separate. 
+>>>>>>> 316e52b... adding skeleton for recruiting playbook
 
 For the purpose of this document, we will dig into the how and where to do outreach [TODO other retention related docs and info; contributor ladder]
 
@@ -13,19 +17,33 @@ Outreach depends on your audience, how they consume information, and their motiv
 
 1. Downstream community members
    [TODO add more here, motivations, where to reach, etc]
+<<<<<<< HEAD
    - Companies that use your project
    - Individuals
    - CNCF End User Committee 
 2. Ecosystem (and dependency) contributors and maintainers
+=======
+   - Companies using your project
+   - Individuals
+   - CNCF End User Committee 
+2. Ecosystem (and dependacy) contributors and maintainers
+>>>>>>> 316e52b... adding skeleton for recruiting playbook
    [TODO add more here, motivations, where to reach, etc]
    - People who build on top of, with, for extendability and any other reason
 3. Academia - students, professors/administrators, scientists, interns
    [TODO add more here, motivations, where to reach, etc]
+<<<<<<< HEAD
 4. Individuals interested in contributing to open source with no familiarity with the project or dependencies. 
 5. Anyone else? 
 
 # Where
 Always be recruiting. Think of ways to always promote your needs and areas of growth for the project anytime you have a chance. Be as specific as you can when you are communicating though. The more ambiguous it sounds, the less likely someone is to check it out or take interest. Talk about roles (example: reviewers in a certain area/subject, community managers, project managers, go developers) and provide any kind of guides, role descriptions, contributor ladders as you have. The more of these documents that you have available in your project repository the easier it will be for you in explaining how your project works to potential new contributors. 
+=======
+5. TODO who else?
+
+# Where
+Always be recruiting. Think of ways to always promote your needs and areas of growth for the project anytime you have a chance. Be as specific as you can when you are communicating though. The more ambiguous it sounds, the less likely someone is to check it out or take interest. Talk about roles (example: reviewers in a certain area/subject, community managers, project managers, go developers) and provide any kind of guides, role descriptions, contributor ladders as you have. 
+>>>>>>> 316e52b... adding skeleton for recruiting playbook
 
 General areas with specifics below:
 - your repo via labels, issues calling out help wanted areas, project boards, and other organization
@@ -59,6 +77,7 @@ In triage and anywhere in your community. if folks are coming around to file iss
 [TODO - add example links to documentation and sites, etc]
 
 ### Online 
+<<<<<<< HEAD
 [TODO - expand]
 
 * Code walk through videos.
@@ -67,6 +86,12 @@ In triage and anywhere in your community. if folks are coming around to file iss
 
 ## Contributor Playground
 This can be paired with a workshop or on its own for people to try. This gives new contributors the opportunity to get used to the CI and build systems and the ownership model. This can reduce the frustration that contributors have contributing to a new project as well as reduce the common questions about these areas to maintainers. 
+=======
+[TODO - add example links to documentation and sites, etc.] 
+
+## Contributor Playground
+This can be paired with the workshop or on its own for people to try, get used to the CI, build system, ownership model, etc. 
+>>>>>>> 316e52b... adding skeleton for recruiting playbook
 [TODO add examples]
 
 ## AMAs / Office Hours / Meet the Maintainers
@@ -76,13 +101,21 @@ Meet the maintainers
 [TODO - add example links to documentation and sites, etc.]
 
 ## Build a community, outreach, contributor, or related team or hire a community manager
+<<<<<<< HEAD
 Create the intentional space for this work to always be occurring if your project has goals of becoming a contributor community (have many contributors). [TODO paris is working on this in a separate thread]
+=======
+Create the intentional space for this work to always be accuring if your project has goals of becoming a contributor community (have many contributors). [TODO paris is working on this in a separate thread]
+>>>>>>> 316e52b... adding skeleton for recruiting playbook
 
 ## Internships
 
 GSOC
 Outreachy
+<<<<<<< HEAD
 CommunityBridge
+=======
+CommunityBride
+>>>>>>> 316e52b... adding skeleton for recruiting playbook
 [TODO - what else? link all docs here and examples of other projects involvement] 
 
 ## Open Source Hackathons
@@ -90,4 +123,8 @@ CommunityBridge
 Hacktoberfest
 [TODO others and examples]
 
+<<<<<<< HEAD
 ## [TODO add more]
+=======
+## [TODO add more]
+>>>>>>> 316e52b... adding skeleton for recruiting playbook
