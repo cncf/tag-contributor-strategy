@@ -76,7 +76,7 @@ Meet the maintainers
 [TODO - add example links to documentation and sites, etc.]
 
 ## Build a community, outreach, contributor, or related team or hire a community manager
-Create the intentional space for this work to always be accuring if your project has goals of becoming a contributor community (have many contributors). [TODO paris is working on this in a separate thread]
+Create the intentional space for this work to always be occurring if your project has goals of becoming a contributor community (have many contributors). [TODO paris is working on this in a separate thread]
 
 ## Internships
 
