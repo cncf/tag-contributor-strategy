@@ -59,14 +59,14 @@ In triage and anywhere in your community. if folks are coming around to file iss
 [TODO - add example links to documentation and sites, etc]
 
 ### Online 
-[TODO - expland]
+[TODO - expand]
 
 * Code walk through videos.
 * Links to talks in conferences.
 * Links to presentations/meetups.
 
 ## Contributor Playground
-This can be paired with the workshop or on its own for people to try, get used to the CI, build system, ownership model, etc. 
+This can be paired with a workshop or on its own for people to try. This gives new contributors the opportunity to get used to the CI and build systems and the ownership model. This can reduce the frustration that contributors have contributing to a new project as well as reduce the common questions about these areas to maintainers. 
 [TODO add examples]
 
 ## AMAs / Office Hours / Meet the Maintainers
