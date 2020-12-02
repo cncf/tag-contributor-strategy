@@ -13,7 +13,7 @@ Outreach depends on your audience, how they consume information, and their motiv
 
 1. Downstream community members
    [TODO add more here, motivations, where to reach, etc]
-   - Companies using your project
+   - Companies that use your project
    - Individuals
    - CNCF End User Committee 
 2. Ecosystem (and dependency) contributors and maintainers
