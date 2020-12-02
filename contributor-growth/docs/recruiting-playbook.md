@@ -59,7 +59,11 @@ In triage and anywhere in your community. if folks are coming around to file iss
 [TODO - add example links to documentation and sites, etc]
 
 ### Online 
-[TODO - add example links to documentation and sites, etc.] 
+[TODO - expland]
+
+* Code walk through videos.
+* Links to talks in conferences.
+* Links to presentations/meetups.
 
 ## Contributor Playground
 This can be paired with the workshop or on its own for people to try, get used to the CI, build system, ownership model, etc. 
@@ -78,7 +82,7 @@ Create the intentional space for this work to always be accuring if your project
 
 GSOC
 Outreachy
-CommunityBride
+CommunityBridge
 [TODO - what else? link all docs here and examples of other projects involvement] 
 
 ## Open Source Hackathons
