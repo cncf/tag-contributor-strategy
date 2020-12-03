@@ -134,6 +134,11 @@ If and when contributors' committment levels change, contributors can consider s
 
 Please reach out to X to discuss this process.
 
+## Stepping Back Into a Role
+If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by project leadership.
+
+Please reach out to X to dicuss this process.
+
 ## Contact
 * For inquiries, please reach out to:
     *  <!-- TODO: fill in contact info-->
