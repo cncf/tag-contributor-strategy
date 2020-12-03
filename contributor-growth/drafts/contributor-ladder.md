@@ -3,20 +3,20 @@
 This is a template contributor ladder for CNCF projects that requires editing before it is ready to use. Read the markdown comments, `<!-- COMMENT -->`, for additional guidance. The raw markdown uses `TODO` to identify areas that require customization.
 
 
-* [Contributor Ladder](##contributor-ladder-template)
-    * [Community Member](###contributor-ladder)
-    * [Contributor](###contributor)
-    * [Approver](###approver)
-    * [Maintainer](###maintainer)
-        * [Community Maintainer](####community-manager)
-        * [Project Manager](####project-manager)
-        * [Release Manager](####release-manager)
-        * [Docs Manager](####docs-manager)
-    * [Project Lead](###project-lead)
-* [Inactivity](##inactivity)
-    * [Involuntary Removal](##involuntary-removal)
-    * [Stepping Down/Emeritus Process](##stepping-downemeritus-process)
-* [Contact](##contact)
+* [Contributor Ladder](#contributor-ladder-template)
+    * [Community Member](#contributor-ladder)
+    * [Contributor](#contributor)
+    * [Approver](#approver)
+    * [Maintainer](#maintainer)
+        * [Community Maintainer](#community-manager)
+        * [Project Manager](#project-manager)
+        * [Release Manager](#release-manager)
+        * [Docs Manager](#docs-manager)
+    * [Project Lead](#project-lead)
+* [Inactivity](#inactivity)
+    * [Involuntary Removal](#involuntary-removal)
+    * [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
+* [Contact](#contact)
 
 
 ## Contributor Ladder
