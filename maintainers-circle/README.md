@@ -50,13 +50,30 @@ Zoom with breakout rooms
 In-person as soon as we can at the next face-to-face KubeCon (TBD) 
 
 ## When  
-Every 3 weeks on:*  
+Every other Contributor Strategy meeting:*  
 Thursdays, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)  
-*currently displays as sig-contributor-strategy meeting on [CNCF calendar] https://www.cncf.io/calendar/ but will be repurposed for this.  
+*[CNCF calendar] https://www.cncf.io/calendar/.  
 
 ## What  
 
-First one:  
+### January 28th @ 1030am PT / 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT) 
+Inclusive Language: For You as a Maintainer and Your Project
+**Registration** is an emoji reaction to the invite on the future thread in 
+#maintainer-circle  
+
+**First half** (first 30)
+In 2020, Stephen Augustus and Celeste Horgan helped found the Inclusive Language
+ Initiative. This expands the work they've been doing in the Kubernetes 
+ community around removing harmful language in software and open source. They 
+ follow up with us on the broader initiative and what they've been working on.
+
+**Second half** (second 30)
+Stephen and Celeste will guide you through the thought process of removing one 
+piece of harmful language in your projects. You'll work with a small breakout 
+group to brainstorm the possible touchpoints and understand the scope of the 
+changes for yourself.  
+
+### First one:  
 December 17, 2020  
 Thursday, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)   
 **Registration** is an emoji reaction to the invite on the future thread in 
