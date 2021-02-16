@@ -49,6 +49,7 @@ The following are examples of things out-of-scope:
 * Karen Chu - [@karenhchu](https://github.com/karenhchu)
 * Paris Pittman - [@parispittman](https://github.com/parispittman)
 * Jennifer Davis - [@iennae](https://github.com/iennae)
+* Catherine Paganini - [@cathpag](https://github.com/CathPag)
 
 Don't see your name? That was an oversight! Open a PR and add yourself. ❤️
 
