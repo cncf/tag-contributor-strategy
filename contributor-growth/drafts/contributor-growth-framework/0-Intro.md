@@ -1,5 +1,6 @@
 # Contributor Growth Framework
-The goal of this framework is to help open source projects develop workflows, processes, and habits that incentivize users to become long-term active and engaged members of your community. 
+
+The goal of this framework is to help open source projects develop workflows, processes, and habits that incentivize users to become long-term, active, and engaged members of your community. 
 
 The first version of this document summarizes the experience different project maintainers have gathered over the past years (chronologically ordered by interview):
 
