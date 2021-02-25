@@ -56,7 +56,7 @@ Thursdays, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/
 
 ## What  
 
-### March 11th @ 1030am PT / 6:30pm GMT ([Your timezone here]
+### March 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
 (https://time.is/compare/1030AM_17_Dec_2020_in_PT))
   
 **Registration** is an emoji reaction to the invite on the future thread in 
