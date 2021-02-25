@@ -22,8 +22,8 @@ Be open about your roadmap and what you are trying to accomplish. Contributors w
 
 When you discuss the roadmap, make sure it's all discussed publicly (e.g. community meetings, Slack, discourse, mailing list, GitHub issues or discussions). This will also help avoid situations in which someone submits a massive PR out of the blue which will almost certainly end up in a bad contributor experience. PRs aren't the best place to have feature discussion, so make sure you provide a platform for that discussion to happen (e.g Slack, GitHub Discussions, etc.). 
 
-Be clear and descriptive about how people can get involved and document it well. Good "first issues" and "help wanted" labels are great ways to signal how people can get started. It also shows that the maintainers have taken the time to identify how newcomers can help.  But also be explicit about what you need and communicate it where your users are (e.g. Twitter, Slack, tech blogs, docs, releases).  
-The more descriptive, the better. While telling contributors " just to jump in" may be easy, it can also be really overwhelming. Taking the time to describe what you need and how you need it is time-consuming, but it will also save you time down the line as people start work on things you need the way you specified them, reducing backs and forth. By describing the "what" and "how" of what you need, you are onboarding new contributors and empowering them to help other potential contributors. It's like a ponzi scheme, but for good. :)
+Be clear and descriptive about how people can get involved and document it well. Good "first issues" and "help wanted" labels are great ways to signal how people can get started (for guidance on curating your good first issues [please refer to this doc)](https://github.com/cncf/sig-contributor-strategy/blob/master/contributor-growth/docs/issue-labels.md). It also shows that the maintainers have taken the time to identify how newcomers can help.  But also be explicit about what you need and communicate it where your users are (e.g. Twitter, Slack, tech blogs, docs, releases).  
+The more descriptive, the better. While telling contributors " just to jump in" may be easy, it can also be really overwhelming. Taking the time to describe what you need and how you need it is time-consuming, but it will also save you time down the line as people start work on things you need the way you specified them, reducing backs and forth. By describing the "what" and "how" of what you need, you are onboarding new contributors and empowering them to help other potential contributors. 
 
 An adopters list lets people know who's using your project. Big company names always help instill confidence but may also signal people working at these companies that they could get more involved, maybe even become a maintainer. 
 More mature projects should take advantage of end-user committees. Generally composed of a diverse group of decision-makers, building relationships with your end-users and getting input on what they would like to see on the roadmap is incredibly valuable. 
@@ -50,7 +50,9 @@ While you may have onboarding docs, they may be outdated or incomplete (after al
 
 The first setup experience is key. Make sure that the development requirements are clear. What languages does the project use? Where can a contributor find the tooling that they need to install to be successful during development? Leverage any tool that reduces steps or makes the entire process smoother.  
 
-Use scripts to install tooling or tests and be clear about what is being installed. Ideally, all your contributor needs is one command to set up the environment, maybe two to run tests. 
+Use scripts to install tooling or tests and be clear about what is being installed. Ideally, all your contributor needs is one command to set up the environment, maybe two to run tests.
+
+Also, consider how someone on Windows should build and run the project locally. If it only works on Mac/Linux, or requires WSL (i.e. Linux) to work, let them know.
 
 If your project has external dependencies, Docker Compose is a great tool.  It allows you to put a database into a Docker Compose file, and let the contributor run docker-compose up. 
 And make sure everything is well documented in your docs and/or video tutorials. No matter how trivial a step is, if it's part of the process, document it. Remember that friction is dangerous, so always ask yourself "can I make this easier?"  
@@ -60,7 +62,7 @@ Tool | What it does
 ---|---
 Tilt | [Automate a lot of otherwise manual steps, significantly improving the contributor experience. ] >> needs proper description
 Docker compose | To put dependencies in a Docker Compose file
-docker | To run docker containers locally
+docker | To run docker containers locally or to create a consistent development environment  
 An IDE that they are comfortable with
 VSCode, IntelliJ IDEA, etc. | An editor that does syntax highlighting and catches errors will save you a ton of time. If you can provide workspace definition files that will configure their existing IDE installations around your codebase, that will drastically reduce friction
   
@@ -98,10 +100,10 @@ Orbit | Community CRM with Discourse, GitHub, and Twitter, Slack (beta) integrat
 
 ## Metrics for Checking Contributor Growth
 
-A good starting point for finding contribution metrics about a CNCF project is on Devstats. Every CNCF project has a set of dashboards that display metrics from different sources, and the most relevant source for understanding contributor growth is the repository where commits are made for a project. At the time of this writing, all projects are hosted on GitHub and there is a dashboard that shows the number of contributors and contributions. Here is an example.
+A good starting point for finding contribution metrics about a CNCF project is on Devstats. Every CNCF project has a set of dashboards that display metrics from different sources, and the most relevant source for understanding contributor growth is the repository where commits are made for a project. At the time of this writing, all projects are hosted on GitHub and there is a dashboard that shows the number of contributors and contributions. [Here is an example.](https://linkerd.devstats.cncf.io/d/74/contributions-chart?orgId=1)
 
 ## Contributor Recruitment Tactics  
 
-You can also engage in targeted efforts to recruit contributors. Tactics include new contributor workshops, contributor playground, AMAs/office hours/meet the maintainers, hackathons, and more. To learn more about this, please refer to the [recruiting playbook](https://github.com/cncf/sig-contributor-strategy/pull/63/files#diff-c3fcb95b44f62636424a6a0a1ed2f6598a11f8ca8011266d1e55fb2d80554804).  
+You can also engage in targeted efforts to recruit contributors. Tactics include new contributor workshops, contributor playground, AMAs/office hours/meet the maintainers, hackathons, and more. To learn more about this, please refer to the [recruiting playbook](https://github.com/cncf/sig-contributor-strategy/pull/63/files).  
 
 One especially useful approach is to keep track of how community members are using the project or integrating with other projects. If a new potential contributor asks a question, you can introduce the two of them and instantly build connections.
