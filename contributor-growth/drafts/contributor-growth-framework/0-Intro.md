@@ -4,7 +4,7 @@ The goal of this framework is to help open source projects develop workflows, pr
 
 The first version of this document summarizes the experience different project maintainers have gathered over the past years (chronologically ordered by interview):
 
-- **PP**
+- [**Paris Pittman**](https://github.com/parispittman) (Kubernetes maintainer, Apple)
 - [**Carlisia Thompson**](https://github.com/carlisia) (Velero maintainer, VMware)
 - [**Aaron Schlesinger**](https://github.com/arschles) (The Athens Project maintainer, Microsoft)
 - [**Stephen Augustus**](https://github.com/justaugustus) (Kubernetes maintainer, VMware)
