@@ -56,10 +56,49 @@ Thursdays, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/
 
 ## What  
 
-### January 28th @ 1030am PT / 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT) 
-Inclusive Language: For You as a Maintainer and Your Project
+### March 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
+(https://time.is/compare/1030AM_17_Dec_2020_in_PT))
+  
+**Registration** is an emoji reaction to the invite on the future thread in 
+#maintainer-circle
+
+Information: TBU  
+
+### Febraury 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
+(https://time.is/compare/1030AM_17_Dec_2020_in_PT))
+  
+Accidental Evangelist with Jérôme Petazzoni 
+
+In 2013, Jérôme was an SRE manager when he accidentally became Docker's first 
+evangelist. He had a vague idea of what an evangelist does: author blog posts, 
+deliver conference talks, write abstracts about himself in the 3rd person. 
+(Sounds like stuff you have to do, too?) 
+But he didn't know how much he was supposed to do. How many meetups and 
+conferences should one attend per day, week, month, year? Tracking progress and 
+setting goals can be tricky when one switches to an entirely different career. 
+Join us for a converation with Jerome and two break out sessions on how to 
+manage this, track it, and not burn yourself out.  
+  
+**Registration** is an emoji reaction to the invite on the future thread in 
+#maintainer-circle   
+Notes: https://hackmd.io/BC9mHtRZQMyZEbPjdH_Sow
+
+**First half** (first 30)  
+Background and lead into first break out "how do you measure yourself?"  
+
+**Second half** (second 30)  
+What targets to set? What are the things that you might be a bottleneck on?  
+Delegate. 
+
+### January 28th @ 10:30am PT / 06:30pm GMT ([Your timezone here]
+(https://time.is/compare/1030AM_17_Dec_2020_in_PT))
+   
+Inclusive Language: For You as a Maintainer and Your Project  
+  
 **Registration** is an emoji reaction to the invite on the future thread in 
 #maintainer-circle  
+  
+Notes from session: https://hackmd.io/vzRv5CyITSKfy2n9LTwM5w  
 
 **First half** (first 30)
 In 2020, Stephen Augustus and Celeste Horgan helped found the Inclusive Language
