@@ -64,7 +64,7 @@ Thursdays, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/
 
 Information: TBU  
 
-### Febraury 11th @ 1030am PT / 6:30pm GMT ([Your timezone here]
+### Febraury 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
 (https://time.is/compare/1030AM_17_Dec_2020_in_PT))
   
 Accidental Evangelist with Jérôme Petazzoni 
