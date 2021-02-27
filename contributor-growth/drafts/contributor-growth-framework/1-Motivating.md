@@ -75,7 +75,7 @@ The more welcoming your community is, the more contributors you'll attract. Espe
 Building individual connections is more of a grassroots effort and gets increasingly difficult as the community grows. But for smaller projects, these 1:1 interactions are key, and you'll need to nurture relationships if you want people to volunteer their time. Then, master the art of "nerd sniping" by dangling a problem in front of contributors in the hopes of triggering their interest and getting them working on it. 
 
 ## Community CRMs
-To foster an engaged community, keeping track of contributor activity, preferences, motivations, etc., is key. Community CRMs like Savannah or Orbit help maintainers keep a pulse on your community and provide real data versus mere gut feeling. 
+To foster an engaged community, keeping track of contributor activity, preferences, motivations, etc., is key. Community CRMs like [Savannah](https://www.savannahhq.com/) or [Orbit](https://orbit.love/) help maintainers keep a pulse on your community and provide real data versus mere gut feeling. 
 
 Here are some best practices when using a community CRM:  
 **Take a lot of notes:** This is key as you won't be able to remember all relevant information. Also, consider other maintainers interacting with that particular contributor; they too must have access to the same information. Also, maintainers do move on. Diligently taking notes will minimize information loss.   
@@ -93,9 +93,9 @@ Another open source CNCF project is the [CHAOSS Project](https://chaoss.communit
 
 Tool | What it does
 ---|---
-Chaoss | The Augur and Grimoire Lab projects can be integrated with the GitHub repositories for your project to view the commits and people who are making those commits over time.
-Savannah | Community CRM with GitHub, GitLab, Slack, Discourse, Discord, Stack Exchange integration
-Orbit | Community CRM with Discourse, GitHub, and Twitter, Slack (beta) integration.  1 
+[CHAOSS](https://chaoss.community/about/) | The Augur and Grimoire Lab projects can be integrated with the GitHub repositories for your project to view the commits and people who are making those commits over time.
+[Savannah](https://www.savannahhq.com/) | Community CRM with GitHub, GitLab, Slack, Discourse, Discord, Stack Exchange integration
+[Orbit](https://orbit.love/) | Community CRM with Discourse, GitHub, and Twitter, Slack (beta) integration.  1 
 
 
 ## Metrics for Checking Contributor Growth
