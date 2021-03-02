@@ -67,6 +67,8 @@ labels:
     color: ff8c00
   - name: meeting
     color: 00ff00
+  - name: needs-toc-approval
+    color: FF0000
   - name: wg/governance
     color: 2f4f4f
   - name: wg/maintainer
