@@ -51,7 +51,8 @@ In-person as soon as we can at the next face-to-face KubeCon (TBD)
 
 ## When  
 Every other Contributor Strategy meeting:*  
-Thursdays, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)  
+Thursdays, 10:30am PT / 06:30pm GMT ([Your timezone here]
+(https://time.is/compare/1030AM_17_Dec_2020_in_PT))  
 *[CNCF calendar] https://www.cncf.io/calendar/.  
 
 ## What  
@@ -114,7 +115,8 @@ changes for yourself.
 
 ### First one:  
 December 17, 2020  
-Thursday, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)   
+Thursday, 10:30am PT / 06:30pm GMT ([Your timezone here]
+(https://time.is/compare/1030AM_17_Dec_2020_in_PT))   
 **Registration** is an emoji reaction to the invite on the future thread in 
 #maintainer-circle 
 
