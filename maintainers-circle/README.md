@@ -51,21 +51,12 @@ In-person as soon as we can at the next face-to-face KubeCon (TBD)
 
 ## When  
 Every other Contributor Strategy meeting:*  
-Thursdays, 10:30am PT / 06:30pm GMT[Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)  
+Thursdays, 10:30am PT / 06:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)  
 *[CNCF calendar] https://www.cncf.io/calendar/.  
 
 ## What  
 
-### March 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
-(https://time.is/compare/1030AM_17_Dec_2020_in_PT))
-  
-**Registration** is an emoji reaction to the invite on the future thread in 
-#maintainer-circle
-
-Information: TBU  
-
-### March 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
-(https://time.is/compare/1030AM_17_Dec_2020_in_PT))
+### March 11th @ 10:30am PT / 6:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_11_Mar_2021_in_PT)
 
 Values and Principles Development with Sarah Novotny
 
