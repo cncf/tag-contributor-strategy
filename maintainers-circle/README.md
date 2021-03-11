@@ -65,8 +65,6 @@ TBU
 
 Values and Principles Development with Sarah Novotny
 
-Sarah and the K8s bootstrap governance team developed values (which might actually be principles) from the behavior of the kubernetes community.  Discussions and decisions are guided by these values.  This Maintainer Circle will not focus on whether they are values or principles, but instead focus on developing a common framework for your community to use for peer accountability and to guide decisions.
-
 BIO: Sarah Novotny has long been an Open Source champion in projects such as Kubernetes, NGINX and MySQL.  She is part of the Microsoft Azure Office of the CTO, sits on the Linux Foundation  Board of Directors, previously led an Open Source Strategy group at Google and ran large scale technology infrastructures before web-scale had a name.
 
 **Registration** is an emoji reaction to the invite on the future thread in 
@@ -74,14 +72,11 @@ BIO: Sarah Novotny has long been an Open Source champion in projects such as Kub
 
 **Notes:** https://hackmd.io/e12IWyStSayMnXn8iYx-uw
 
-**First half** (first 15 mins)  
-Presentation
+**First half**   
+Sarah and the K8s bootstrap governance team developed values (which might actually be principles) from the behavior of the kubernetes community.  Discussions and decisions are guided by these values.  This Maintainer Circle will not focus on whether they are values or principles, but instead focus on developing a common framework for your community to use for peer accountability and to guide decisions.
 
-**Breakout** (15 mins)
-
-**Second half** (15 mins)  
-Reporitng back on breakout discussions
-
+**Breakout**   
+Think of a decision in your community that took a lot of effort to wrap up. Looking at the whole story arc – What do you wish you’d known at the beginning? Did the path to this decision reveal anything about the community? Is there a principle or value which fits the community which if explicit could have made the decision easier.
 
 ### Febraury 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
 (https://time.is/compare/1030AM_17_Dec_2020_in_PT))
