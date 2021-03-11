@@ -56,6 +56,11 @@ Thursdays, 10:30am PT / 06:30pm GMT / [Your timezone here](https://time.is/compa
 
 ## What  
 
+### April 8th @ 10:30am PT / 6:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_08_Apr_2021_in_PT)
+
+TBU
+
+
 ### March 11th @ 10:30am PT / 6:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_11_Mar_2021_in_PT)
 
 Values and Principles Development with Sarah Novotny
@@ -67,7 +72,7 @@ BIO: Sarah Novotny has long been an Open Source champion in projects such as Kub
 **Registration** is an emoji reaction to the invite on the future thread in 
 #maintainer-circle   
 
-**Notes:** TBU
+**Notes:** https://hackmd.io/e12IWyStSayMnXn8iYx-uw
 
 **First half** (first 15 mins)  
 Presentation
