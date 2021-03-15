@@ -64,7 +64,6 @@ Tool | What it does
 Tilt | [Automate a lot of otherwise manual steps, significantly improving the contributor experience. ] >> needs proper description
 Docker compose | To put dependencies in a Docker Compose file
 docker | To run docker containers locally or to create a consistent development environment  
-An IDE that they are comfortable with
 VSCode, IntelliJ IDEA, etc. | An editor that does syntax highlighting and catches errors will save you a ton of time. If you can provide workspace definition files that will configure their existing IDE installations around your codebase, that will drastically reduce friction
   
   
