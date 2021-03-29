@@ -1,4 +1,11 @@
 Recruiting Contributors
+---
+title: "Recruiting Playbook"
+date: 2020-12-02
+description: >
+  How to recruit more contributors to your project.
+---
+
 *Status: Draft; Missing Components*
 /help-wanted
 

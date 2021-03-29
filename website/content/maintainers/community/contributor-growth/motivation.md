@@ -1,4 +1,13 @@
-# 1. Motivating users to contribute
+---
+title: "Motivating users to contribute"
+linkTitle: "Motivation"
+date: 2020-03-15
+draft: true
+weight: 1
+description: >
+   Identify what motivates your users to contribute and how you can encourage more people to contribute.
+---
+
 Users are motivated to contribute for different reasons, they:
    * Use a project at work and need a specific feature; 
    * Are poking around and see something that triggers their interest; 
@@ -22,7 +31,7 @@ Be open about your roadmap and what you are trying to accomplish. Contributors w
 
 When you discuss the roadmap, make sure it's all discussed publicly (e.g. community meetings, Slack, discourse, mailing list, GitHub issues or discussions). This will also help avoid situations in which someone submits a massive PR out of the blue which will almost certainly end up in a bad contributor experience. PRs aren't the best place to have feature discussion, so make sure you provide a platform for that discussion to happen (e.g Slack, GitHub Discussions, etc.). 
 
-Be clear and descriptive about how people can get involved and document it well. Good "first issues" and "help wanted" labels are great ways to signal how people can get started (for guidance on curating your good first issues [please refer to this doc)](https://github.com/cncf/sig-contributor-strategy/blob/master/contributor-growth/docs/issue-labels.md). It also shows that the maintainers have taken the time to identify how newcomers can help.  But also be explicit about what you need and communicate it where your users are (e.g. Twitter, Slack, tech blogs, docs, releases).  
+Be clear and descriptive about how people can get involved and document it well. Good "first issues" and "help wanted" labels are great ways to signal how people can get started (for guidance on curating your good first issues [please refer to this doc)](/maintainers/github/issue-labels/). It also shows that the maintainers have taken the time to identify how newcomers can help.  But also be explicit about what you need and communicate it where your users are (e.g. Twitter, Slack, tech blogs, docs, releases).  
 
 The more descriptive, the better. While telling contributors " just to jump in" may be easy, it can also be really overwhelming. Taking the time to describe what you need and how you need it is time-consuming, but it will also save you time down the line as people start work on things you need the way you specified them, reducing backs and forth. By describing the "what" and "how" of what you need, you are onboarding new contributors and empowering them to help other potential contributors. 
 

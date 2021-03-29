@@ -1,4 +1,12 @@
-# Contributor Growth Framework
+---
+title: "Contributor Growth"
+date: 2020-02-26
+layout: single
+draft: true
+description: >
+  A framework to help open source projects develop workflows, processes, and habits that 
+  incentivize users to become long-term, active, and engaged members of your community. 
+---
 
 The goal of this framework is to help open source projects develop workflows, processes, and habits that incentivize users to become long-term, active, and engaged members of your community. 
 
@@ -15,8 +23,8 @@ The first version of this document summarizes the experience different project m
 
 This framework has five independent sections, so feel free to jump into whichever section interests you most.
 
-[1. Motivating users to contribute](1-Motivating.md)  
-2. A successful PR workflow   
+1. [Motivating users to contribute](motivation/)  
+2. [A successful PR workflow](pr-workflow/)
 3. Keeping contributors engaged after their first contribution   
 4. Incentivizing contributors to move up the ladder  
 5. Incentivizing non-code contributions    
