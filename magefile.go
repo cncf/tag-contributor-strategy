@@ -203,7 +203,7 @@ func buildImage() error {
 }
 
 func docsy() error {
-	_, err := os.Stat("website/themes/docsy")
+	_, err := os.Stat("website/themes/docsy/assets/vendor/bootstrap")
 	if err != nil {
 		if os.IsNotExist(err) {
 			return shx.RunV("git", "submodule", "update", "--init", "--recursive", "--force")
