@@ -206,7 +206,7 @@ func docsy() error {
 	_, err := os.Stat("website/themes/docsy")
 	if err != nil {
 		if os.IsNotExist(err) {
-			return shx.RunE("git", "submodule", "update", "--init", "--recursive", "--force")
+			return shx.RunV("git", "submodule", "update", "--init", "--recursive", "--force")
 		}
 		return errors.Wrap(err, "could not clone the docsy theme")
 	}
