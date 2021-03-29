@@ -2,6 +2,7 @@
 title: "Checklist for Project Paperwork"
 linkTitle: "Paperwork Checklist"
 date: 2020-10-21
+draft: true
 weight: 20
 ---
 
