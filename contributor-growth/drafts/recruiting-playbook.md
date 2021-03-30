@@ -1,22 +1,14 @@
 # Recruiting Contributors
 *Status: Draft; Missing Components*
-/help-wanted
 
 ## Summary 
 
 Recruiting and retention go hand in hand. If you are thinking "how can we add 
 more amazing contributors?" and "where do we find them?" the projects leadership
- needs to think about how you keep folks around, too. If your goal is to limit 
- to only single contributions aka drive-bys then this might not apply to you. 
- But once you open the gates to more contributors of any type, balancing 
- maintainers time becomes the next challenge. This is why it's important to 
- think of recruiting and retention initiatives together rather than separate. 
+ needs to think about how you keep folks around, too. Once you open the gates to more contributors of any type, balancing maintainers time becomes the next challenge. This is why it's important to think of recruiting and retention initiatives together rather than separate. 
 
-For the purpose of this document, we will dig into the how and where to do 
-outreach [TODO other retention related docs and info; contributor ladder]
-
-Outreach depends on your audience, how they consume information, and their 
-motivations to help an open source project.  
+For the purpose of this document, we will dig into the How and Where to do 
+outreach. This exercise depends on your audience, how they consume information, and their motivations to help an open source project.  
 
 ## Where
 Always be recruiting. Think of ways to always promote your needs and areas of 
@@ -46,19 +38,19 @@ your main README is the most effective way
 Links to good examples: TODO include containerd 'now recruiting'
 
 ### Contributor Documentation
-Contributor Guide (for all contributors)
-[TODO include recommendations and links]
-Developer Guide (deep dive for developers)
-[TODO include recommendations and links]
+Contributor Guide (for all contributors)  
+[TODO include recommendations and links]  
+Developer Guide (deep dive for developers)  
+[TODO include recommendations and links]  
 
 
 ### Issue and PR Triage strategy 
 This is the first thing new contributors will see after some kind of interest in
- your project.
-Good first issues
-Help Wanted
-Be kind.
-In triage and anywhere in your community. if folks are coming around to file 
+ your project.  
+Good first issues  
+Help Wanted  
+Be kind.  
+In triage and anywhere in your community. if folks are coming around to file   
 issues and submit one-off PRs, being kind can help them want to do it again the 
 next time they think about it. Saying please, thank you, and welcome never 
 hurts. 
@@ -93,11 +85,10 @@ Activites:
 Best Practices and past examples: TODO links
 
 ## Contributor Playground
-This can be paired with a workshop or on its own for people to try. This gives 
-new contributors the opportunity to get used to the CI and build systems and the
- ownership model. This can reduce the frustration that contributors have 
- contributing to a new project as well as reduce the common questions about 
- these areas to maintainers. 
+A contributor playground is a non-production repository where contributors can practice submitting pull requests, interacting with any project bots, and safely test out how to participate. This can be paired with a workshop or on its own for people to try. This gives new contributors the opportunity to get used to the CI
+ and build systems and the ownership/governance model. This can reduce the frustration that contributors have contributing to a new project as well as 
+ reduce the common questions about these areas to maintainers. 
+
 [TODO add examples]
 
 ## AMAs / Office Hours / Meet the Maintainers
@@ -107,27 +98,28 @@ human. No matter the topic, this can help recruit contributors, too, depending
 on how you position it. 
 Example: technical office hours can bring new use cases and validating current 
 ones - you can ask people to file issues, PRs, or come to additional meetings to
- help out. 
+help out. 
 Meet the maintainers
 [TODO - add example links to documentation and sites, etc.]
 
-## Build a community, outreach, contributor, or related team or hire a community
- manager
+## Build a community, outreach, contributor, or related team or hire a community manager
 Create the intentional space for this work to always be occurring if your 
 project has goals of becoming a contributor community (have many contributors). 
 [TODO paris is working on this in a separate thread]
 
 ## Internships
 
-GSOC
-Outreachy
-CommunityBridge
-[TODO - what else? link all docs here and examples of other projects 
-involvement] 
+Google Summer of Code  
+Google Summer of Docs  
+LFX Mentoring  
+Outreachy  
+CommunityBridge  
+
 
 ## Open Source Hackathons
 
-Hacktoberfest
-[TODO others and examples]
+Hacktoberfest  
+[100 Days of Code](https://www.100daysofcode.com)
 
-## [TODO add more]
+
+## [What else? PR yours in here]
