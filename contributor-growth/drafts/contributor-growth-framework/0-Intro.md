@@ -16,7 +16,7 @@ The first version of this document summarizes the experience different project m
 This framework has five independent sections, so feel free to jump into whichever section interests you most.
 
 [1. Motivating users to contribute](1-Motivating.md)  
-2. A successful PR workflow   
+[2. A successful PR workflow](https://github.com/cncf/sig-contributor-strategy/blob/master/contributor-growth/drafts/contributor-growth-framework/pr-worflow.md)
 3. Keeping contributors engaged after their first contribution   
 4. Incentivizing contributors to move up the ladder  
 5. Incentivizing non-code contributions    
