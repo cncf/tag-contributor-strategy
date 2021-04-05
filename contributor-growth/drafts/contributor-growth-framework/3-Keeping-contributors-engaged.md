@@ -1,7 +1,7 @@
 # Keeping contributors engaged after their first contribution
 
 To keep contributors engaged, the human element is important. Building a warm and fuzzy environment spreads like wildfire. While it may sound obvious, it's easy to forget, so make sure you:  
-  1. Thank contributors publicly and privately (tools like Orbit auto populate a thank you tweet and email)  
+  1. Thank contributors publicly and privately (some community CRMs auto populate a thank you tweet and email for first PRs)
   2. Engage them in a conversation on Slack and show interest by asking questions about their project, their interest, etc.  
   3. Suggest the next step when reviewing their PR. 
   4. Invite them to join your next community meeting to introduce themselves.
