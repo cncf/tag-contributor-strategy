@@ -80,7 +80,6 @@ channels:
 
 ### TOC Liaisons
 
-- Matt Klein ([@mattklein123](https://github.com/mattklein123)), Lyft
 - Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
 
 ### Bootstrap SIG members
