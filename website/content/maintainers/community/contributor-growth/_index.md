@@ -23,8 +23,16 @@ The first version of this document summarizes the experience different project m
 
 This framework has five independent sections, so feel free to jump into whichever section interests you most.
 
+<<<<<<< HEAD:website/content/maintainers/community/contributor-growth/_index.md
 1. [Motivating users to contribute](motivation/)  
 2. [A successful PR workflow](pr-workflow/)
 3. Keeping contributors engaged after their first contribution   
 4. Incentivizing contributors to move up the ladder  
 5. Incentivizing non-code contributions    
+=======
+[1. Motivating users to contribute](1-Motivating.md)  
+[2. A successful PR workflow](2-Pr-worflow.md)   
+[3. Keeping contributors engaged after their first contribution](3-Keeping-contributors-engaged.md)   
+[4. Incentivizing contributors to move up the ladder](4-Incentivizing-contributors.md)  
+[5. Incentivizing non-code contributions](5-Incentivizing-non-code.md)    
+>>>>>>> master:contributor-growth/drafts/contributor-growth-framework/0-Intro.md
