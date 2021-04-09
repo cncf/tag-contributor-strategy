@@ -8,18 +8,13 @@ description: >
    Develop a welcoming pull request workflow that sets contributors up for success.
 ---
 
-
 The PR workflow is at the core of code contributions. Make sure it's a smooth experience, automate as much as possible (bots can be really helpful), and try to get contributors to contribute something else after successfully submitting a PR. 
 
 Here's a typical PR workflow: 
    1. **User opens an issue** (bug, feature request, vulnerability): As maintainers, you will first troubleshoot the bug or review the feature request. Reach out to the submitter to thank them for the issue and assess if they want to be involved. If they are, ask them to continue the conversation on your contributor channel. 
 
    2. **Pick conversation up on contributor channel**:  
-<<<<<<< HEAD:website/content/maintainers/community/contributor-growth/pr-workflow.md
-Projects should consider assigning new contributors to a mentor or point of contact who can follow up making sure they remain motivated and follow through. Community CRMs will help you keep track of contributor activity. If you don't see any activity from your prospective contributor, check-in to see if they are still interested. A gentle reminder may revive their motivation and show them you really care about their contribution.
-=======
 Consider assigning new contributors to a mentor or point of contact who can follow up making sure they remain motivated and follow through (may not always be possible due to time constraints). Community CRMs will help you keep track of contributor activity. If you don't see any activity from your prospective contributor, check-in to see if they are still interested. A gentle reminder may revive their motivation and show them you really care about their contribution. 
->>>>>>> master:website/content/maintainers/community/contributor-growth/2-Pr-worflow.md
 
    3. **Submit one PR**:Once they submitted their PR, suggest another contribution or, if they have been contributing for a while, ask them if they'd like to take the next step and move up the contributor ladder.  
 

@@ -1,4 +1,10 @@
-# Keeping contributors engaged after their first contribution
+---
+title: "Keeping contributors engaged after their first contribution"
+linkTitle: "Engagement"
+date: 2021-04-8
+weight: 3
+draft: true
+---
 
 To keep contributors engaged, the human element is important. Building a warm and fuzzy environment spreads like wildfire. While it may sound obvious, it's easy to forget, so make sure you:  
   1. Thank contributors publicly and privately (some community CRMs auto populate a thank you tweet and email for first PRs)

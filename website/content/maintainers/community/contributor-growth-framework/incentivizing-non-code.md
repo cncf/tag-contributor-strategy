@@ -1,4 +1,10 @@
-# 5. Incentivizing non-code contributions 
+---
+title: "Incentivizing non-code contributions"
+linkTitle: "Non-Code Contributors"
+date: 2021-04-8
+weight: 5
+draft: true
+---
 
 While swag and awards can motivate community members to help others or share their stories, that strategy doesn't scale and is only feasible for small projects. It certainly is a good tool for projects earlier in their journey.  
 
