@@ -1,4 +1,7 @@
-# CNCF SIG Contributor Strategy Charter
+---
+title: CNCF SIG Contributor Strategy Charter
+linkTitle: Charter
+---
 
 Primary Authors: Paris Pittman, Josh Berkus  
 
