@@ -29,7 +29,7 @@ project; we are here to learn as much as those we serve.
 
 ## Contribute to the website
 
-Read our [contributing guide] for details on how to contribute content for [contribute.cncf.io].
+Read our [contributing guide] for details on how to contribute content for [contribute.cncf.io](https://cncf-contribute.netlify.app).
 
 ## Ground Rules
 We very much welcome everyone on any of our [communication channels] including
@@ -129,6 +129,6 @@ https://www.firsttimersonly.com/
 [maintainers circle]: https://github.com/cncf/sig-contributor-strategy/issues/1
 [4th Thursday meeting of each month]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md#meetings
 [website/content]: website/content/
-[contributing guide]: https://contribute.cncf.io/about/contributing/
-[maintainers]: https://contribute.cncf.io/maintainers
-[contributors]: https://contribute.cncf.io/contributors 
+[contributing guide]: https://cncf-contribute.netlify.app/about/contributing/
+[maintainers]: https://cncf-contribute.netlify.app/maintainers
+[contributors]: https://cncf-contribute.netlify.app/contributors 
