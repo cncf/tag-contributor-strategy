@@ -1,6 +1,6 @@
 ---
 title: "Charter: Mission, Scope, Values, and Principles"
-linkTitle: "Charterr"
+linkTitle: "Charter"
 date: 2021-04-28
 draft: true
 weight: 20
