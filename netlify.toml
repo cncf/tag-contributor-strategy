@@ -11,7 +11,7 @@
   HUGO_ENV = "production"
 
 [context.branch-deploy]
-  command = "go run mage.go -v DeployPreview"
+  command = "go run mage.go -v DeployBranch"
   
 [context.deploy-preview]
   command = "go run mage.go -v DeployPreview"
