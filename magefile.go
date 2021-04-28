@@ -97,12 +97,21 @@ func Hugo() error {
 	return errors.Wrap(err, "could not start hugo in a container")
 }
 
+// Build the live website.
 func Deploy() error {
 	mg.Deps(docsy, syncGoMod)
 
 	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose")
 }
 
+// Deploy branch builds the website, including future dated and draft posts
+func DeployBranch() error {
+	mg.Deps(docsy, syncGoMod)
+
+	return shx.RunV("hugo", "-s", "website", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl())
+}
+
+// Deploy preview builds the website for a pull request, using the same build settings as the live site.
 func DeployPreview() error {
 	mg.Deps(docsy, syncGoMod)
 
