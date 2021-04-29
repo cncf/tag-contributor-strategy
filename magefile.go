@@ -115,7 +115,7 @@ func DeployBranch() error {
 func DeployPreview() error {
 	mg.Deps(docsy, syncGoMod)
 
-	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose", "-b", getBaseUrl())
+	return shx.RunV("hugo", "-s", "website", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl())
 }
 
 func syncGoMod() error {
