@@ -143,10 +143,10 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://example.com"
+url_latest_version = "https://contribute.cncf.io"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "011737558837375720776:fsdu1nryfng"
+gcs_engine_id = "c76c1079f2bf2f4fa"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
