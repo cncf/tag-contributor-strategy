@@ -2,10 +2,10 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: sig-contributor-strategy
+  name: tag-contributor-strategy
 
   # A short description of the repository that will show up on GitHub
-  description: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
+  description: CNCF Technical Advisory Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
 
   # A URL with more information about the repository
   homepage: https://cncf.io/projects
