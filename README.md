@@ -76,7 +76,7 @@ channels:
 
 - Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 
 ### Tech Lead
 
