@@ -111,9 +111,12 @@ Depending on the Community CRM, you can either use a native API or an integratio
 
 ## Popular Community CRMs
 
-[Savannah](https://docs.savannahhq.com/): Gives you a holistic view of your community, helps you identify key members, track engagements with and between individual members, and allow you to make data-based decisions to increase the health and growth of your community.”
-
-Orbit: [TODO: short description]
+- [Savannah](https://docs.savannahhq.com/): "Gives you a holistic view of your community, helps you identify key members, track engagements with and between individual members, and allow you to make data-based decisions to increase the health and growth of your community.”
+- [Orbit](https://orbit.love/): "Orbit helps open source maintainers understand metrics and triage new contributors"
+- [Commsor](https://www.commsor.com/): "Commsor integrates with all the tools you already use, tying your community together and enabling you to unlock insights, measure impact, and build a community-led company."
+- [Krunch](https://www.krunchdata.io/): "An easy way to track and share your developer content performance and community discussions/trends. Help others understand and appreciate the community work you do."
+- [ahoyconnect](https://www.ahoyconnect.com/): "System of record for community data and daily operating platform for the community team"
+- [commonroom](https://www.commonroom.io/): "Deepen relationships across your community, anywhere people are."
 
 [Community CRM feature comparison](https://docs.google.com/spreadsheets/d/1HMBGb3n4U9942aBD-Gc_n1WaEOcktJCpGIa41R7yBCo/edit#gid=0)
 
