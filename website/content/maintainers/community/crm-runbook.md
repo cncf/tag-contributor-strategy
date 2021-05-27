@@ -1,4 +1,11 @@
-# Community CRM Runbook
+---
+title: "Community CRM Runbook"
+date: 2021-05-13
+draft: true
+description: >
+  How to use a Customer Relationship Management tool to track and improve your interactions with the community
+---
+
 
 A Community CRM (Customer Relationship Management) is a tool that provides data-based insights into your community's health. It aggregates disparate data pulled from sources such as GitHub, Slack, Twitter providing a unified view of your members.  Community managers and developer relations professionals log and manage all their interactions with the members capturing keeping information from their entire teams. 
 This doc summarizes best practices identified by some community CRM users. While some tips will work for your projects, others may not. Each community is different and you'll have to try and find out. We also want this to be a living document, so if you've identified best practices that should be captured here, please submit a PR – we appreciate your contribution! 
