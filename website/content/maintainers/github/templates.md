@@ -33,6 +33,11 @@ when you view the markdown file in GitHub unless you view the raw text.
 * [LICENSE](https://github.com/cncf/project-template/blob/main/LICENSE)
 * [CONTRIBUTING.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTING.md)
 * [README.md](https://github.com/cncf/project-template/blob/main/README.md)
+* [CODE_OF_CONDUCT.md](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md)
+
+## Recommended Files
+* [CONTRIBUTOR_LADDER.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
+* [GOVERNANCE.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE.md)
 
 [contrib-strat]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md
 [project template]: https://github.com/cncf/project-template
