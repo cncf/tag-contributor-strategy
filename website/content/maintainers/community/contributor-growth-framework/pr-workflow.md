@@ -49,11 +49,13 @@ To incentivize contributions, you need more than just a contributor guide; you n
    * Templates  
    * Hello World 
    * Code walkthroughs (videos, docs, etc.)
-   * Contributor ladder/"a day in the life of a maintainer" description 
+   * [Contributor ladder]/"a day in the life of a maintainer" description 
 
 ***On demand videos:*** Contributing 101, guideline videos. These can be served through [automated bots](https://github.com/hoodiehq/first-timers-bot) (e.g.  "hey, I see you are a first-time contributor. Check out this video on how to successfully submit a PR").  
 
 ***New contributor workshops:*** This also makes maintainers more comfortable with them contributing  
+
+[Contributor ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
 
 ## Automate as much as you can  
 

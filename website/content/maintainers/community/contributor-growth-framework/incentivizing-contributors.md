@@ -9,7 +9,7 @@ draft: true
 By developing a contributor ladder and describing roles, responsibilities, privileges, and the level of effort associated with each, contributors get a sense of what it means to be part of your community at various levels. Just like in their professional careers, understanding the different paths and what it takes to get there can be motivating.   
 
 ## Developing a Contributor Ladder
-The first step is to develop a contributor ladder that is appealing and motivating. For the different possible roles, please refer to the [contributor ladder template](https://github.com/cncf/sig-contributor-strategy/blob/master/contributor-growth/drafts/contributor-ladder.md).  
+The first step is to develop a contributor ladder that is appealing and motivating. For the different possible roles, please refer to the [contributor ladder template](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md).  
 
 Define the roles and be very descriptive so users and contributors truly understand what it takes. 
 
