@@ -118,8 +118,8 @@ Depending on the Community CRM, you can either use a native API or an integratio
 
 ## Popular Community CRMs
 
-[Savannah](https://docs.savannahhq.com/): Gives you a holistic view of your community, helps you identify key members, track engagements with and between individual members, and allow you to make data-based decisions to increase the health and growth of your community.”
+[Orbit](https://orbit.love): Grow and measure your community across any platform with Orbit. Use our integrations, API, or Zapier to pull in all your community data for a single view of the community, with reports, alerts, and actions, so you can build relationships, not spreadsheets.
 
-Orbit: [TODO: short description]
+[Savannah](https://docs.savannahhq.com/): Gives you a holistic view of your community, helps you identify key members, track engagements with and between individual members, and allow you to make data-based decisions to increase the health and growth of your community.
 
 [Community CRM feature comparison](https://docs.google.com/spreadsheets/d/1HMBGb3n4U9942aBD-Gc_n1WaEOcktJCpGIa41R7yBCo/edit#gid=0)
