@@ -24,8 +24,8 @@ growth for the project anytime you have a chance. Be as specific as you can when
  you are communicating though. The more ambiguous it sounds, the less likely 
  someone is to check it out or take interest. Talk about roles (example: 
  reviewers in a certain area/subject, community managers, project managers, go 
- developers) and provide any kind of guides, role descriptions, contributor 
- ladders as you have. The more of these documents that you have available in 
+ developers) and provide any kind of guides, role descriptions, [contributor 
+ ladder] as you have. The more of these documents that you have available in 
  your project repository the easier it will be for you in explaining how your 
  project works to potential new contributors. 
 
@@ -37,6 +37,8 @@ and other organization
 - in-person or virtual talks and workshops about the project
 - section during community meeting 
 - project twitter announcements 
+
+[contributor ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
 
 ## Specific Projects & Programs 
 

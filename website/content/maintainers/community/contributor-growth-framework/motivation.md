@@ -23,7 +23,7 @@ Another less tangible but equally, if not more, important piece is the human fac
 
 ## Honest and Clear Communication 
 
-The first thing prospective contributors will want to know is the level of effort it will take on their end and what they will gain -- be clear about that. This will ideally be captured in your contributor ladder (you can find a [contributor ladder template here](https://github.com/cncf/sig-contributor-strategy/blob/master/contributor-growth/drafts/contributor-ladder.md)). 
+The first thing prospective contributors will want to know is the level of effort it will take on their end and what they will gain -- be clear about that. This will ideally be captured in your contributor ladder (you can find a [contributor ladder template here](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)). 
 
 Shared ownership and governance is also a huge motivator. The prospect of molding the project and playing a role in its development can be a huge intrinsic motivator. Be vocal about it. When you bring in people, tell them that you're willing to share responsibility. All too often maintainers don't spell it out, assuming contributors know. This is especially important early on in the project.
 

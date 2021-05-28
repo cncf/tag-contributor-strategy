@@ -14,9 +14,11 @@ Foster a Q&A culture where people feel comfortable to just jump in. Tag others f
 
 Especially for large projects, Slack can get messy quickly. If it's too noisy, people won't engage. Create topic specific Slack channels where it's easier to follow conversations they care about.  
 
-Non-code contributor roles such as moderators, community managers, and documentation maintainers should be part of your ladder. They can ask (loaded) questions in chats to seed discussions. Post helpful, curated content and links. While you can't ask people to answer questions, if the channel is not super high vol and/or specific to their interest, they'll answer.  
+Non-code contributor roles such as moderators, community managers, and documentation maintainers should be part of your [ladder]. They can ask (loaded) questions in chats to seed discussions. Post helpful, curated content and links. While you can't ask people to answer questions, if the channel is not super high vol and/or specific to their interest, they'll answer.  
 
 To request content, consider creating a GitHub issue asking for blog posts. Contributors can send their links which you can tweet out. You'll need a community manager to keep track of this, though.
+
+[ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
 
 ## Long-term contributors
 

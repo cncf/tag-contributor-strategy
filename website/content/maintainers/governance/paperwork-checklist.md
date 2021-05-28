@@ -50,7 +50,7 @@ reference if your project is planning to join the CNCF or graduate levels.
     *   Clear versioning scheme ([Harbor example](https://github.com/goharbor/harbor/blob/master/RELEASES.md))
         *   Implies, but does not require, a release process
 *   Good To Have:
-    *   Contributor ladder process in CONTRIBUTION_LADDER.md ([Porter example](https://github.com/getporter/porter/blob/main/CONTRIBUTION_LADDER.md))
+    *   Contributor ladder process in [CONTRIBUTOR_LADDER.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
     *   Project logo/trademark (CNCF helps with this)
 
 

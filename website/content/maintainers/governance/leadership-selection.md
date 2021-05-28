@@ -85,7 +85,7 @@ maintainer-based leadership. It is also common for projects to use voting for
 senior leadership roles and committer / maintainer-based for entry level
 leadership roles; for example, Kubernetes uses voting for the steering
 committee, but other roles on the [contributor
-ladder](https://github.com/kubernetes/community/blob/master/community-membership.md)
+ladder](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
 simply need sponsorship from a couple of existing leaders.
 
 ## Best Practices for Leadership Selection
