@@ -2,7 +2,7 @@
 title: "Charter: Mission, Scope, Values, and Principles"
 linkTitle: "Charter"
 date: 2021-04-28
-draft: true
+draft: false
 weight: 20
 ---
 
