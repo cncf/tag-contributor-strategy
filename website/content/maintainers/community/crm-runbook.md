@@ -7,12 +7,13 @@ description: >
 ---
 
 
-A Community CRM (Customer Relationship Management) is a tool that provides data-based insights into your community's health. It aggregates disparate data pulled from sources such as GitHub, Slack, Twitter providing a unified view of your members.  Community managers and developer relations professionals log and manage all their interactions with the members capturing keeping information from their entire teams. 
-This doc summarizes best practices identified by some community CRM users. While some tips will work for your projects, others may not. Each community is different and you'll have to try and find out. We also want this to be a living document, so if you've identified best practices that should be captured here, please submit a PR – we appreciate your contribution! 
+A Community CRM (Customer Relationship Management) is a tool that provides data-based insights into your community's health. It aggregates disparate data pulled from sources such as GitHub, Slack, Twitter providing a unified view of your members.  Community managers and developer relations professionals log and manage all their interactions with the members, capturing information from their entire teams. 
+
+This doc summarizes best practices identified by some community CRM users. While some tips will work for your projects, others may not. Each community is different and you'll have to try and find what works for you. We also want this to be a living document, so if you've identified best practices that should be captured here, please submit a PR – we appreciate your contribution! 
 
 ## Before getting started
 
-**Break your project down into different subprojects**, so you can track them individually. At a minimum, you can split it up between docs and your project. But you can also separate different resources (e.g., different GitHub repositories). This is useful if you want to see how the community behaves as a whole (contributions, conversations, engagement) on different community platforms.
+**Break your project down into different subprojects**, so you can track them individually. At a minimum, you can split it up between docs and your project. You can also separate your different resources (e.g., different GitHub repositories). This is useful if you want to see how the community behaves as a whole (contributions, conversations, engagement) on different community platforms.
 
 Keep an overarching project that contains all the platforms that you use. That way you can keep track of how every community cluster interacts with another (e.g discord community and GitHub community). Finding the people who function as “bridges” is crucial, since they are the reason that the communities move somewhat in parallel. 
 
