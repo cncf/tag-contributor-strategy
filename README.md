@@ -74,13 +74,18 @@ channels:
 
 ### SIG Chairs
 
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
+
+### Tech Lead
+
+- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
 
 ### TOC Liaisons
 
 - Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
+- Alena Prokharchyk ([@alena1108](https://github.com/alena1108)), Apple
 
 ### Bootstrap SIG members
 
