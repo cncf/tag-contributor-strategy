@@ -23,19 +23,19 @@ collaborators:
   - username: jberkus
     permission: admin
 
-  - username: gerred
-    permission: push
-
   - username: parispittman
     permission: admin
 
   - username: idvoretskyi
     permission: admin
+    
+  - username: carolynvs
+    permission: admin
 
     # Contributors
     # all permissions except admin
-
-  - username: carolynvs
+    
+  - username: gerred
     permission: push
 
   - username: mattklein123
