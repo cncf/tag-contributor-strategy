@@ -94,9 +94,9 @@ heard from us in 5 days.
 squash them for you.
 - If a member asks you to "rebase" your PR, they're saying that a lot of docs/code
  has changed, and that you need to update your branch to incorporate the latest
- changes from master before we can merge your PR. You can use whatever you are
- comfortable with, either merging master into your branch or rebasing your
- branch on master.
+ changes from main before we can merge your PR. You can use whatever you are
+ comfortable with, either merging main into your branch or rebasing your
+ branch on main.
 #### Reviewers:
 - We leave pull requests open for at least 48 hours, so that others have the
 chance to review/comment except in cases of the following:
@@ -118,16 +118,16 @@ https://www.firsttimersonly.com/
 
 
 [CNCF’s code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
-[communication channels]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md#communications
+[communication channels]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#communications
 [TOC]: https://www.cncf.io/people/technical-oversight-committee/
 [SIG]: https://github.com/cncf/toc/tree/master/sigs
-[README]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md
-[charter]: https://github.com/cncf/sig-contributor-strategy/blob/master/CHARTER.md
-[working groups]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md#working-groups
+[README]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
+[charter]: https://github.com/cncf/tag-contributor-strategy/blob/main/CHARTER.md
+[working groups]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#working-groups
 [cncf/contribute]: https://github.com/cncf/contribute
 [cncf/sig-contributor-strategy]: https://github.com/cncf/sig-contributor-strategy
 [maintainers circle]: https://github.com/cncf/sig-contributor-strategy/issues/1
-[4th Thursday meeting of each month]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md#meetings
+[4th Thursday meeting of each month]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#meetings
 [website/content]: website/content/
 [contributing guide]: https://cncf-contribute.netlify.app/about/contributing/
 [maintainers]: https://cncf-contribute.netlify.app/maintainers

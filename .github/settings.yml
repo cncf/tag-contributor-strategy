@@ -4,6 +4,9 @@ repository:
   # The name of the repository. Changing this will rename the repository
   name: tag-contributor-strategy
 
+  # Updates the default branch for this repository.
+  default_branch: main
+
   # A short description of the repository that will show up on GitHub
   description: CNCF Technical Advisory Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
 

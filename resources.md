@@ -49,7 +49,7 @@ Serve as a quick resource for the SIG to grab links that we work with at high fr
 - [Nayafia's template from researching a ton of open source projects](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md)
 - [GoodDocs: aiming to help projects with good templates](https://thegooddocsproject.dev/contribute.html)
 - [Athens Contributing Guide](https://github.com/gomods/athens/blob/master/CONTRIBUTING.md)
-- [Porter Contributing Guide](https://github.com/deislabs/porter/blob/master/CONTRIBUTING.md)
+- [Porter Contributing Guide](https://github.com/getporter/porter/blob/main/CONTRIBUTING.md)
 - [Open Policy Agent Contributing Guide](https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md#code-review)
 
 ## Maintainer/Core Contributor Advice
