@@ -8,7 +8,7 @@
 {{ $gh_repo := index $github "repo" }}
 {{ $gh_subdir := index $github "subdir" }}
 {{ $gh_project_repo := index $github "project_repo" }}
-{{ $gh_branch := (default "master" (index $github "branch")) }}
+{{ $gh_branch := (default "main" (index $github "branch")) }}
 {{ if $gh_repo }}
 <div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
 {{ $gh_repo_path := printf "%s/content/%s" $gh_branch $pathFormatted }}
