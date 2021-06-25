@@ -39,5 +39,5 @@ when you view the markdown file in GitHub unless you view the raw text.
 * [CONTRIBUTOR_LADDER.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
 * [GOVERNANCE.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE.md)
 
-[contrib-strat]: https://github.com/cncf/sig-contributor-strategy/blob/master/README.md
+[contrib-strat]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
 [project template]: https://github.com/cncf/project-template

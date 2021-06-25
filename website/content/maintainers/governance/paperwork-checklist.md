@@ -15,7 +15,7 @@ reference if your project is planning to join the CNCF or graduate levels.
 
 *   Requirements:
     *   [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
-        *   [Template](https://github.com/cncf/project-template/blob/master/CODE_OF_CONDUCT.md)
+        *   [Template](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md)
         *   Decide if COC enforcement will be handled by the project or by the CNCF
             *   CNCF is a good option for young/small projects.  They will provide contact.
         *   If handling it yourself: decide who are the contacts and how to deal with a maintainer being reported, or a contact being reported. Need more than one contact.
@@ -23,10 +23,10 @@ reference if your project is planning to join the CNCF or graduate levels.
             *   If the COC enforcement body is your maintainers, then you need to have a policy to escalate to CNCF if the report is against a maintainer.
     *   Adhere to [CNCF IP Policy](https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy)
     *   CONTRIBUTING.md containing basic “how to contribute” ([Harbor example](https://github.com/goharbor/harbor/blob/master/CONTRIBUTING.md))
-        *   [Template](https://github.com/cncf/project-template/blob/master/CONTRIBUTING.md)
+        *   [Template](https://github.com/cncf/project-template/blob/main/CONTRIBUTING.md)
     *   Light project roadmap, at least an easily findable list of TODO items or issues
     *   LICENSE
-        *   [Template](https://github.com/cncf/project-template/blob/master/LICENSE)
+        *   [Template](https://github.com/cncf/project-template/blob/main/LICENSE)
             *   You need to edit "Copyright [yyyy] [name of copyright owner]".
             *   Replace [yyyy] with the current year.
             *   Replace [name of copyright owner] with "The PROJECT Authors", e.g. "The Kubernetes Authors" or "The Helm Authors".
@@ -40,7 +40,7 @@ reference if your project is planning to join the CNCF or graduate levels.
 ## Entering Incubation
 
 *   Additional Requirements:
-    *   Governance.md showing the leaders and [how they are selected](https://github.com/cncf/sig-contributor-strategy/blob/master/governance/docs/leadership_selection.md)
+    *   Governance.md showing the leaders and [how they are selected](https://contribute.cncf.io/maintainers/governance/leadership-selection/)
         *   Include full election docs if there are elections
         *   Governance process must be employer-neutral
     *   File showing who the end users are
