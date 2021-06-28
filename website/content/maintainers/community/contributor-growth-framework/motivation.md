@@ -2,7 +2,6 @@
 title: "Motivating users to contribute"
 linkTitle: "Motivation"
 date: 2020-03-15
-draft: true
 weight: 1
 description: >
    Identify what motivates your users to contribute and how you can encourage more people to contribute.

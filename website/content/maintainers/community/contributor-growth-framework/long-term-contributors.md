@@ -3,7 +3,6 @@ title: "Long-term contributors"
 linkTitle: "Long-term Contributors"
 date: 2021-04-8
 weight: 6
-draft: true
 ---
 
 But you also want more permanent non-code contributions. Think tech writers, PXMs, or product managers, all have a great skill set your project can benefit from. Unfortunately, most of these people don't really know that they, too, can be active members of the open source community.  

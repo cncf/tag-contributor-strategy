@@ -3,7 +3,6 @@ title: "A successful PR workflow"
 linkTitle: "PR Workflow"
 date: 2020-03-29
 weight: 2
-draft: true
 description: >
    Develop a welcoming pull request workflow that sets contributors up for success.
 ---
