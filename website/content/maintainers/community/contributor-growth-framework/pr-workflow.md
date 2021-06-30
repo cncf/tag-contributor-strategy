@@ -16,7 +16,7 @@ Here's a typical PR workflow:
    2. **Pick conversation up on contributor channel**:  
 Consider assigning new contributors to a mentor or point of contact who can follow up making sure they remain motivated and follow through (may not always be possible due to time constraints). Community CRMs will help you keep track of contributor activity. If you don't see any activity from your prospective contributor, check-in to see if they are still interested. A gentle reminder may revive their motivation and show them you really care about their contribution. 
 
-   3. **Submit one PR**:Once they submitted their PR, suggest another contribution or, if they have been contributing for a while, ask them if they'd like to take the next step and move up the contributor ladder.  
+   3. **Submit one PR**: Once they submitted their PR, suggest another contribution or, if they have been contributing for a while, ask them if they'd like to take the next step and move up the contributor ladder.  
 
 This is really key. If you want people to engage more or take on more responsibility, you have to encourage them to do so. It's a little bit like a career coach (don't forget to take notes in your community CRM about their preferences, time restrictions, etc. Having that info at hand will prove useful during future conversations). While guiding people is a lot of work and you may think you don't have time to do so, it will save you a lot of time down the line. 
 
@@ -42,14 +42,15 @@ Loop contributors into issues when you know that they are interested in that par
 
 ## Providing Sufficient Contributor Tools
 
-To incentivize contributions, you need more than just a contributor guide; you need a toolkit. But don't overdo it. If you have too many resources, you may overwhelm them. Here are a few examples. Identify what makes most sense for your project and what you'll be able to maintain (and retire old material not to confuse them). 
+To incentivize contributions, you need more than just a contributor guide; you need a toolkit. But don't overdo it. If you have too many resources, you may overwhelm them. Here are a few examples. Identify what makes most sense for your project and what you'll be able to maintain (and retire old material to avoid confusion). 
 
    * Comprehensive docs 
    * PR checklist  
    * Templates  
    * Hello World 
    * Code walkthroughs (videos, docs, etc.)
-   * [Contributor ladder]/"a day in the life of a maintainer" description 
+   * [Contributor ladder]
+   * "A day in the life of a maintainer" description 
 
 ***On demand videos:*** Contributing 101, guideline videos. These can be served through [automated bots](https://github.com/hoodiehq/first-timers-bot) (e.g.  "hey, I see you are a first-time contributor. Check out this video on how to successfully submit a PR").  
 
