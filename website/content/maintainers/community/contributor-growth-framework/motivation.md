@@ -33,7 +33,7 @@ When you discuss the roadmap, make sure it's all discussed publicly (e.g. commun
 
 Be clear and descriptive about how people can get involved and document it well. Good "first issues" and "help wanted" labels are great ways to signal how people can get started (for guidance on curating your good first issues [please refer to this doc)](/maintainers/github/issue-labels/). It also shows that the maintainers have taken the time to identify how newcomers can help.  But also be explicit about what you need and communicate it where your users are (e.g. Twitter, Slack, tech blogs, docs, releases).  
 
-The more descriptive, the better. While telling contributors " just to jump in" may be easy, it can also be really overwhelming. Taking the time to describe what you need and how you need it is time-consuming, but it will also save you time down the line as people start work on things you need the way you specified them, reducing backs and forth. By describing the "what" and "how" of what you need, you are onboarding new contributors and empowering them to help other potential contributors. 
+The more descriptive, the better. While telling contributors "just to jump in" may be easy, it can also be really overwhelming. Taking the time to describe what you need and how you need it is time-consuming, but it will also save you time down the line as people start work on things you need the way you specified them, reducing backs and forth. By describing the "what" and "how" of what you need, you are onboarding new contributors and empowering them to help other potential contributors. 
 
 An adopters list lets people know who's using your project. Big company names always help instill confidence but may also signal people working at these companies that they could get more involved, maybe even become a maintainer. 
 More mature projects should take advantage of end-user committees. Generally composed of a diverse group of decision-makers, building relationships with your end-users and getting input on what they would like to see on the roadmap is incredibly valuable. 
@@ -43,7 +43,7 @@ More mature projects should take advantage of end-user committees. Generally com
 Motivation to contribute can be gone as quickly as it appeared. To ensure prospective contributors remain motivated, eliminate as much friction as possible. As mentioned above, each additional step represents an additional friction point and a possible drop-off. Make sure the entire contributor experience is intuitive and easy, including:
    * Running the code locally before opening a PR (e.g. providing a Makefile and test data on top of instructions to build and run it)
    * Automated testing during PR process
-   * Clear PR submission requirements (e.g. Contributor License Agreement, Digital Certificate of Origin)
+   * Clear PR submission requirements (e.g. Contributor License Agreement, Developer Certificate of Origin)
    * Submitting the PR (and be sure to set the expectations right regarding wait time, but more to that below)
 
 ### Documentation
@@ -71,8 +71,8 @@ Examples of tools that help minimize PR submission process
 Tool | What it does
 ---|---
 Tilt | Automate a lot of otherwise manual steps to get developers up and running, significantly improving the contributor experience.
-Docker compose | To put dependencies in a Docker Compose file
-docker | To run docker containers locally or to create a consistent development environment  
+Docker Compose | To put dependencies in a Docker Compose file
+Docker | To run docker containers locally or to create a consistent development environment  
 VSCode, IntelliJ IDEA, etc. | An editor that does syntax highlighting and catches errors will save you a ton of time. If you can provide workspace definition files that will configure their existing IDE installations around your codebase, that will drastically reduce friction
   
   
@@ -92,7 +92,7 @@ Here are some best practices when using a community CRM:
 
 **Capture everything that is relevant:** If someone is interested in a particular tech or subproject, add that in the notes section of their profile. If they continuously engage in the subproject or conversations around it, add a tag. 
 
-Is a community member interested in speaking at events or writing blogs? Maybe someone expressed interest in working on a particular feature or taking the next step in the contributor ladder six months from now. Combine that with tasks so you remember to follow-up. 
+Is a community member interested in speaking at events or writing blog posts? Maybe someone expressed interest in working on a particular feature or taking the next step in the contributor ladder six months from now. Combine that with tasks so you remember to follow-up. 
 You can even track things like who received what swag, ensuring you don't resend the same goodie twice.  
 
 1. **Leverage "tasks" for anything that needs a follow up:** Whether a blog post someone wanted to write or additional info you promised to provide. If it's an action item and you won't tackle it right away, create a task.
@@ -100,11 +100,11 @@ You can even track things like who received what swag, ensuring you don't resend
 4. **Use tags:** Tags can be based on interest, subprojects, or whatever makes sense for your project. Let's say you want to find contributors for your next observability feature on the roadmap. If used correctly, tags allow you to identify everyone who's expressed interest in that area.   
 
 These CRMs do lots of cool stuff. Savannah, for instance, allows you to see the impact your swag has on contributor productivity. 
-Another open source CNCF project is the [CHAOSS Project](https://chaoss.community/about/) which provides guidelines and processes for measuring the health of a community. It's not necessary to use CHAOSS or its principles for your project, but it is good to consider the overall health of your community and what you will use to measure that health as the community grows.  
+Another open source CNCF project is the [CHAOSS Project](https://chaoss.community/about/), which is not a CRM, but it does provide metrics, guidelines, and processes for measuring the health of a community. It's not necessary to use CHAOSS or its principles for your project, but it is good to consider the overall [health of your community](/maintainers/community/project-health/) and what you will use to measure that health as the community grows.  
 
 Tool | What it does
 ---|---
-Chaoss | The Augur and Grimoire Lab projects can be integrated with the GitHub repositories for your project to view the commits and people who are making those commits over time.
+Augur and GrimoireLab | These CHAOSS projects can be integrated with most community tools, including your GitLab / GitHub repositories for your project to view the commits and people who are making those commits over time.
 Savannah | Community CRM with GitHub, GitLab, Slack, Discourse, Discord, Stack Exchange integration
 Orbit | Community CRM with Discourse, GitHub, and Twitter, Slack (beta) integration.   
 
