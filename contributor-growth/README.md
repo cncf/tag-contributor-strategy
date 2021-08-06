@@ -57,9 +57,9 @@ Don't see your name? That was an oversight! Open a PR and add yourself. ❤️
 
 Meetings take place every 1st and 3rd Tuesday at 2pm PT / 4pm CT Tuesdays.
 
-Discussion happens on the [mailing list] or on #sig-contributor-strategy on [Slack].
+Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Slack].
 
-[mailing list]: https://lists.cncf.io/g/cncf-sig-contributor-strategy
+[mailing list]: https://lists.cncf.io/g/cncf-tag-contributor-strategy
 [Slack]: https://slack.cncf.io/
 
 # Documentation
