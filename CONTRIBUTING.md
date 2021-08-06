@@ -1,6 +1,6 @@
-# Contributor Strategy Special Interest Group Contributing Guide
+# Contributor Strategy Technical Advisory Group Contributing Guide
 *this is a bootstrapped document that will update frequently in the next few
-months as we lay the groundwork for the operations of the SIG. Now onto the
+months as we lay the groundwork for the operations of the TAG. Now onto the
 show...:*
 
 🛬Thanks for landing here! There's a good chance you want to help the
@@ -8,11 +8,11 @@ contributor side of the code in one of our working groups, get involved on a
 regular basis, or simply be curious, no matter your reason, we are excited to have
 you.
 
-This [SIG] (Special Interest Group) is an extension of the [TOC] that works to
+This [TAG] (Technical Advisory Group) is an extension of the [TOC] that works to
 build programs and guidance to help scale and grow open source communities. We
 work in two CNCF GitHub repositories:  
 
-🆕[cncf/sig-contributor-strategy]  
+🆕[cncf/tag-contributor-strategy]  
  contains our meta docs that cover our governance, how we operate, and resources that we
  collect along the way. The [website/content] directory contains the source for the
  web pages at [contribute.cncf.io/maintainers][maintainers] and is advice for people who
@@ -61,7 +61,7 @@ an operational level
 - Give us feedback on where you need help, guidance, requested templates,
 recommendations, and more here
   - Or you can provide feedback by filing issues against the
-cncf/sig-contributor-strategy repo, send a note to the mailing list, or find a
+cncf/tag-contributor-strategy repo, send a note to the mailing list, or find a
 chair or working group facilitator privately on slack.
 - Become a contributor in one of our [working groups]
   - File issues and PRs
@@ -120,13 +120,13 @@ https://www.firsttimersonly.com/
 [CNCF’s code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
 [communication channels]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#communications
 [TOC]: https://www.cncf.io/people/technical-oversight-committee/
-[SIG]: https://github.com/cncf/toc/tree/master/sigs
+[TAG]: https://github.com/cncf/toc/tree/main/tags
 [README]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
 [charter]: https://github.com/cncf/tag-contributor-strategy/blob/main/CHARTER.md
 [working groups]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#working-groups
 [cncf/contribute]: https://github.com/cncf/contribute
-[cncf/sig-contributor-strategy]: https://github.com/cncf/sig-contributor-strategy
-[maintainers circle]: https://github.com/cncf/sig-contributor-strategy/issues/1
+[cncf/tag-contributor-strategy]: https://github.com/cncf/tag-contributor-strategy
+[maintainers circle]: https://github.com/cncf/tag-contributor-strategy/issues/1
 [4th Thursday meeting of each month]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#meetings
 [website/content]: website/content/
 [contributing guide]: https://cncf-contribute.netlify.app/about/contributing/

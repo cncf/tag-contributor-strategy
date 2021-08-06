@@ -1,8 +1,8 @@
 # Governance
 
-The Governance working group of Contributor Strategy aims to assist all CNCF projects with implementing good open source governance practices.  If you are looking for the governance documents of SIG-Contributor-Strategy itself, please read CONTRIBUTING.md.
+The Governance working group of Contributor Strategy aims to assist all CNCF projects with implementing good open source governance practices.  If you are looking for the governance documents of TAG-Contributor-Strategy itself, please read CONTRIBUTING.md.
 
-If you are interested in helping with this project, please speak up on #sig-contributor-strategy in CNCF Slack, or on the mailing list.
+If you are interested in helping with this project, please speak up on #tag-contributor-strategy in CNCF Slack, or on the mailing list.
 
 ## Goals of the Working Group
 
@@ -12,7 +12,7 @@ If you are interested in helping with this project, please speak up on #sig-cont
 
 ## Scope
 
-The Governance working group is focused on, and restricted to, matters related to CNCF project governance, defined as project participation roles, rules, and procedures.  For more information on what governance is, please see the [Governance Documentation](https://github.com/cncf/sig-contributor-strategy/tree/master/governance/docs). As examples, this would include issues like:
+The Governance working group is focused on, and restricted to, matters related to CNCF project governance, defined as project participation roles, rules, and procedures.  For more information on what governance is, please see the [Governance Documentation](https://contribute.cncf.io/maintainers/governance/). As examples, this would include issues like:
 
 * Selection/election process for new Owners
 * How to make sure your meetings are really open
@@ -25,7 +25,7 @@ The Governance working group is focused on, and restricted to, matters related t
 The following are examples of things outside of the scope of this working group:
 
 * Recruiting new contributors (this will be handled by Contributor Growth working group)
-* CNCF SIG governance (handled by the TOC)
+* CNCF TAG governance (handled by the TOC)
 * Drafting legal documents for your project, or choosing a license (we're not attorneys)
 
 ## Working Group Members
@@ -42,7 +42,7 @@ The following contributors are currently "members" of this working group:
 
 Meetings take place every 1st and 3rd Tuesday at 10am PT.
 
-Discussion happens on the [contributor strategy mailing list](https://lists.cncf.io/g/cncf-sig-contributor-strategy) or on #sig-contributor-strategy on [CNCF slack](https://slack.cncf.io/).
+Discussion happens on the [contributor strategy mailing list](https://lists.cncf.io/g/cncf-tag-contributor-strategy) or on #tag-contributor-strategy on [CNCF slack](https://slack.cncf.io/).
 
 ## Directory
 
