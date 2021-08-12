@@ -159,7 +159,7 @@ prism_syntax_highlighting = false
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 [params.github]
-  repo = "https://github.com/cncf/sig-contributor-strategy"
+  repo = "https://github.com/cncf/tag-contributor-strategy"
   branch = "main"
   subdir = "website"
 
