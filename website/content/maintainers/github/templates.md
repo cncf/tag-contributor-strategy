@@ -17,6 +17,8 @@ to get started and eventually join the CNCF. You can either create a new reposit
 1. Remove **.github/settings.yml**. This is not a template and contains
    configuration specific our repository. You should not keep this file.
 1. Customize every [required file](#required-files) and address each TODO item.
+1. Security templates may be found in the [Security TAG's project resources
+   folder](https://github.com/cncf/tag-security/tree/main/project-resources).
 
 ### Customize Templates
 
@@ -34,10 +36,16 @@ when you view the markdown file in GitHub unless you view the raw text.
 * [CONTRIBUTING.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTING.md)
 * [README.md](https://github.com/cncf/project-template/blob/main/README.md)
 * [CODE_OF_CONDUCT.md](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md)
+* [SECURITY.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md)
 
 ## Recommended Files
 * [CONTRIBUTOR_LADDER.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
 * [GOVERNANCE.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE.md)
+* [SECURITY_CONTACTS.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
+* [ISSUE_TEMPLATE.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md)
+* [embargo-policy.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
+* [embargo.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
+* [incident-response.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
 
 [contrib-strat]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
 [project template]: https://github.com/cncf/project-template
