@@ -60,8 +60,8 @@ Examples:
     manages your containers, but will not maintain your hardware ([Kubernetes
     scope
     doc](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)).
-*   The scope of CRI-O is tied to the scope of the CRI.
-    ([CRI-O scope](https://github.com/cri-o/cri-o#what-is-the-scope-of-this-project))
+*   The scope of CRI-O is tied to the scope of the CRI
+    ([CRI-O scope doc](https://github.com/cri-o/cri-o#what-is-the-scope-of-this-project)).
 
 **Values / Principles**
 
