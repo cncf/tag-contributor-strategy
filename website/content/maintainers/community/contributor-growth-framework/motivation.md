@@ -66,14 +66,7 @@ Also, consider how someone on Windows should build and run the project locally. 
 If your project has external dependencies, Docker Compose is a great tool.  It allows you to put a database into a Docker Compose file, and let the contributor run docker-compose up. 
 And make sure everything is well documented in your docs and/or video tutorials. No matter how trivial a step is, if it's part of the process, document it. Remember that friction is dangerous, so always ask yourself "can I make this easier?"  
 
-Examples of tools that help minimize PR submission process
-Tool | What it does
----|---
-Tilt | Automate a lot of otherwise manual steps to get developers up and running, significantly improving the contributor experience.
-Docker compose | To put dependencies in a Docker Compose file
-docker | To run docker containers locally or to create a consistent development environment  
-VSCode, IntelliJ IDEA, etc. | An editor that does syntax highlighting and catches errors will save you a ton of time. If you can provide workspace definition files that will configure their existing IDE installations around your codebase, that will drastically reduce friction
-  
+Some examples of tools that minimize the PR submission process would be: linters, IDE plugins for your programming language or tech stack, or using Docker to automate developer environment setup.
   
 # The Human Factor
 
