@@ -1,17 +1,17 @@
-# CNCF SIG Contributor Strategy
+# CNCF TAG Contributor Strategy
 
-SIG Contributor Strategy is responsible for contributor experience,
+TAG Contributor Strategy is responsible for contributor experience,
 sustainability, governance, and openness guidance to help CNCF community groups
 and projects with their own contributor strategies for a healthy project.
 
-The [SIG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
+The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
 - [Meetings](#meetings)
 - [Communicating With Us](#communicating-with-us)
 - [Members](#members)
-  - [SIG Chairs](#sig-chairs)
+  - [TAG Chairs](#tag-chairs)
   - [TOC Liaisons](#toc-liaisons)
-  - [Bootstrap SIG members](#bootstrap-sig-members)
+  - [Bootstrap TAG members](#bootstrap-tag-members)
 - [Working Groups](#working-groups)
   - [Governance](#governance)
   - [Contributor Growth](#contributor-growth)
@@ -20,14 +20,14 @@ The [SIG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
 
 ## Meetings
 
-The Contributor Strategy Special Interest Group meets biweekly on Thursday at
+The Contributor Strategy Teechnical Advisory Group meets biweekly on Thursday at
 10:30am PT (USA Pacific, see your timezone [here](https://time.is/compare/1030AM_26_Mar_2020_in_PT)):
 
 - Calendar invites are sent to the mailing list(see: [Communicating with us](#communicating-with-us)).
 Once you join, you won't automatically have the invite on your calendar. You can
-get it from a [past message here](https://lists.cncf.io/g/cncf-sig-contributor-strategy/message/1)
+get it from a [past message here](https://lists.cncf.io/g/cncf-tag-contributor-strategy/message/1)
 - [Meeting minutes and agenda](https://bit.ly/cncf-contribstrat-agenda)
-- Meeting Link: [zoom.us/my/cncfsigcontributorstrategy](https://zoom.us/my/cncfsigcontributorstrategy)
+- Meeting Link: [zoom.us/my/cncftagcontributorstrategy](https://zoom.us/my/cncftagcontributorstrategy)
   - Meeting ID: **574 406 1161**
   - One tap mobile:
     - +16465588656,,5744061161# US (New York)
@@ -50,29 +50,29 @@ get it from a [past message here](https://lists.cncf.io/g/cncf-sig-contributor-s
 
 ## Communicating with Us
 
-Anyone is welcome to join our open discussions of SIG Contributor Strategy
+Anyone is welcome to join our open discussions of TAG Contributor Strategy
 projects and share news related to the group's mission and charter. Much of the
-work of the group happens outside of SIG Contributor Strategy meetings and we
+work of the group happens outside of TAG Contributor Strategy meetings and we
 encourage project teams to share progress updates or post questions in these
 channels:
 
-- [Mailing list](https://lists.cncf.io/g/cncf-sig-contributor-strategy)
+- [Mailing list](https://lists.cncf.io/g/cncf-tag-contributor-strategy)
   - The mailing list is used for decisions, announcements, and broad communications
-  on record for the entire SIG.
+  on record for the entire TAG.
   - Calendar invites will be sent to this address. You can get the calendar
-  invite from a [past message here](https://lists.cncf.io/g/cncf-sig-contributor-strategy/message/2)
+  invite from a [past message here](https://lists.cncf.io/g/cncf-tag-contributor-strategy/message/2)
 
-- [#sig-contributor-strategy](https://cloud-native.slack.com/archives/CT6CWS1JN) on [CNCF Slack](https://slack.cncf.io/)
+- [#tag-contributor-strategy](https://cloud-native.slack.com/archives/CT6CWS1JN) on [CNCF Slack](https://slack.cncf.io/)
   - Real time communication is great! Chat with us here but we might ask you to
   open an issue or remind us on the mailing list so we can have a record.
 
-- [File an Issue](https://github.com/cncf/sig-contributor-strategy)
+- [File an Issue](https://github.com/cncf/tag-contributor-strategy)
   - Working on a project? Have an idea for something we/you should work on? Talk
   about a change you'd like to propose?
 
 ## Members
 
-### SIG Chairs
+### TAG Chairs
 
 - Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
@@ -87,7 +87,7 @@ channels:
 - Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
 - Alena Prokharchyk ([@alena1108](https://github.com/alena1108)), Apple
 
-### Bootstrap SIG members
+### Bootstrap TAG members
 
 - Amye Scavarda Perrin ([@amye](https://github.com/amye)), CNCF
 - April Kyle Nassi ([@thisisnotapril](https://github.com/thisisnotapril)), Google
@@ -126,7 +126,7 @@ Facilitators:
 
 ### Maintainer's Circle
 
-Status: [Proposed](https://github.com/cncf/sig-contributor-strategy/issues/1)
+Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/1)
 
 Facilitators:
 
@@ -136,7 +136,7 @@ Facilitators:
 
 ### GitHub Management
 
-Status: [Proposed](https://github.com/cncf/sig-contributor-strategy/issues/5)
+Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/5)
 
 Facilitators:
 

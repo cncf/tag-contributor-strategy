@@ -1,7 +1,7 @@
 # Useful resources, research, and quick links
 
 ## Purpose  
-Serve as a quick resource for the SIG to grab links that we work with at high frequency and reference from other research. This is not official guidance.
+Serve as a quick resource for the TAG to grab links that we work with at high frequency and reference from other research. This is not official guidance.
 
 ### CNCF Quick Links
 
