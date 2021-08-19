@@ -10,7 +10,7 @@ description: >
 The PR workflow is at the core of code contributions. Make sure it's a smooth experience, automate as much as possible (bots can be really helpful), and try to get contributors to contribute something else after successfully submitting a PR. 
 
 Here's a typical PR workflow: 
-   1. **User opens an issue** (bug, feature request, vulnerability): As maintainers, you will first troubleshoot the bug or review the feature request. Reach out to the submitter to thank them for the issue and assess if they want to be involved. If they are, ask them to continue the conversation on your contributor channel. 
+   1. **User opens an issue** (bug or feature request): As maintainers, you will first troubleshoot the bug or review the feature request. Reach out to the submitter to thank them for the issue and assess if they want to be involved. If they are, ask them to continue the conversation on your contributor channel. For vulnerabilities, projects should adopt the processes outlined by [TAG Security](https://github.com/cncf/tag-security/tree/main/project-resources), so that projects can accept security reports privately and address them before they are disclosed publicly. 
 
    2. **Pick conversation up on contributor channel**:  
 Consider assigning new contributors to a mentor or point of contact who can follow up making sure they remain motivated and follow through (may not always be possible due to time constraints). Community CRMs will help you keep track of contributor activity. If you don't see any activity from your prospective contributor, check-in to see if they are still interested. A gentle reminder may revive their motivation and show them you really care about their contribution. 
