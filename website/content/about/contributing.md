@@ -45,8 +45,7 @@ Targets:
 
 ## Content Organization
 
-The main website and the "Maintainers" section is in the [TAG
-Contributor Strategy repository]. 
+The main website and the "Maintainers" section is in the [TAG Contributor Strategy repository]. 
 
 1. Clone the [TAG Contributor Strategy repository].
 1. Follow the steps to [Preview your changes locally](#preview-your-changes-locally).
