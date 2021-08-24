@@ -3,7 +3,6 @@ title: "Incentivizing non-code contributions"
 linkTitle: "Non-Code Contributors"
 date: 2021-04-8
 weight: 5
-draft: true
 ---
 
 While swag and awards can motivate community members to help others or share their stories, that strategy doesn't scale and is only feasible for small projects. It certainly is a good tool for projects earlier in their journey.  
@@ -19,4 +18,3 @@ Non-code contributor roles such as moderators, community managers, and documenta
 To request content, consider creating a GitHub issue asking for blog posts. Contributors can send their links which you can tweet out. You'll need a community manager to keep track of this, though.
 
 [ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
-

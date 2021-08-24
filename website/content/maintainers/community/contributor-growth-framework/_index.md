@@ -2,7 +2,6 @@
 title: "Contributor Growth"
 date: 2020-02-26
 layout: single
-draft: true
 description: >
   A framework to help open source projects develop workflows, processes, and habits that 
   incentivize users to become long-term, active, and engaged members of your community.

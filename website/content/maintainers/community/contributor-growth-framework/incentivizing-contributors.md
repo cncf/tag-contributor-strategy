@@ -3,7 +3,6 @@ title: "Incentivizing contributors to move up the ladder"
 linkTitle: "Incentivizing Contributors"
 date: 2021-04-8
 weight: 4
-draft: true
 ---
 
 By developing a contributor ladder and describing roles, responsibilities, privileges, and the level of effort associated with each, contributors get a sense of what it means to be part of your community at various levels. Just like in their professional careers, understanding the different paths and what it takes to get there can be motivating.   
