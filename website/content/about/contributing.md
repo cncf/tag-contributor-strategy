@@ -45,17 +45,16 @@ Targets:
 
 ## Content Organization
 
-The main website and the "Maintainers" section is in the [SIG
-Contributor Strategy repository]. 
+The main website and the "Maintainers" section is in the [TAG Contributor Strategy repository]. 
 
-1. Clone the [SIG Contributor Strategy repository].
+1. Clone the [TAG Contributor Strategy repository].
 1. Follow the steps to [Preview your changes locally](#preview-your-changes-locally).
 1. Optionally clone the [cncf/contribute repository] in a directory
-    next to the SIG Contributor Strategy repository to edit content
+    next to the TAG Contributor Strategy repository to edit content
     in the "Contributors" section.
     
     For example, if you have cloned the Contributor Strategy repo to 
-    `~/src/sig-contributor-strategy`, clone the CNCF Contribute repo to
+    `~/src/tag-contributor-strategy`, clone the CNCF Contribute repo to
     `~/src/contribute`.
 
 If you need to clone the CNCF Contribute repository elsewhere, set an environment
@@ -68,7 +67,7 @@ Here's a quick guide to updating the docs. It assumes you're familiar with the
 GitHub workflow, and you're happy to use the automated preview of your doc
 updates:
 
-1. Fork the [SIG Contributor Strategy repository] on GitHub.
+1. Fork the [TAG Contributor Strategy repository] on GitHub.
 1. Make your changes and send a pull request (PR).
 1. If you're not yet ready for a review, add "WIP" to the PR name or create a
    Draft Pull Request to indicate it's a work in progress.
@@ -108,7 +107,7 @@ Docsy has a shortcut for you:
 If you want to run a Docker container to preview your changes as you work:
 
 1. [Install Docker](https://docs.docker.com/get-docker/) and [Go].
-1. Fork the [SIG Contributor Strategy repository] into your own project, then
+1. Fork the [TAG Contributor Strategy repository] into your own project, then
    create a local copy using `git clone`. 
 1. Run `mage preview` to preview the site. When the site is ready, it will open
    your web browser to http://localhost:1313/. Now that you're serving your site
@@ -122,7 +121,7 @@ If you need to see the Hugo output, run `mage logs`.
 ## Creating an issue
 
 If you've found a problem in the docs, but you're not sure how to fix it
-yourself, please create an issue in the [SIG Contributor Strategy repository].
+yourself, please create an issue in the [TAG Contributor Strategy repository].
 You can also create an issue about a specific page by clicking the **Create
 Issue** button in the top right hand corner of the page.
 
@@ -136,5 +135,5 @@ Issue** button in the top right hand corner of the page.
 * [Github Hello World!](https://guides.github.com/activities/hello-world/): A
   basic introduction to GitHub concepts and workflow.
 
-[SIG Contributor Strategy repository]: https://github.com/cncf/sig-contributor-strategy
+[TAG Contributor Strategy repository]: https://github.com/cncf/tag-contributor-strategy
 [cncf/contribute repository]: https://github.com/cncf/contribute
