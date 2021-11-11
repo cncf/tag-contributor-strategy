@@ -56,7 +56,7 @@ resources and advice.
   - Take back this information to build (or continue to build!) intentional
 community and governance spaces and/or roles in your project to do this work at
 an operational level
-- Join us for a Contributor Strategy AMA on the [4th Thursday meeting of each month]. This is your time to ask us general or
+- Have questions? Drop in on a [meeting], either the main TAG meeting or the relevant working group meeting. This is your time to ask us general or
  specific questions that can give you ideas, unblock you, or help with strategy around TOC graduation or incubation project criteria.
 - Give us feedback on where you need help, guidance, requested templates,
 recommendations, and more here
@@ -127,8 +127,8 @@ https://www.firsttimersonly.com/
 [cncf/contribute]: https://github.com/cncf/contribute
 [cncf/tag-contributor-strategy]: https://github.com/cncf/tag-contributor-strategy
 [maintainers circle]: https://github.com/cncf/tag-contributor-strategy/issues/1
-[4th Thursday meeting of each month]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#meetings
 [website/content]: website/content/
 [contributing guide]: https://cncf-contribute.netlify.app/about/contributing/
 [maintainers]: https://cncf-contribute.netlify.app/maintainers
 [contributors]: https://cncf-contribute.netlify.app/contributors 
+[meeting]: https://github.com/cncf/tag-contributor-strategy/#meetings

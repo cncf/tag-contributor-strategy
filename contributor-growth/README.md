@@ -55,7 +55,8 @@ Don't see your name? That was an oversight! Open a PR and add yourself. ❤️
 
 ## Meetings
 
-Meetings take place every 1st and 3rd Tuesday at 2pm PT / 4pm CT Tuesdays.
+We meet twice a month.
+Go to https://www.cncf.io/calendar/ and enter "Contributor Growth WG" in the search box to see when we meet next.
 
 Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Slack].
 
