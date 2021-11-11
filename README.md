@@ -21,7 +21,7 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
 ## Meetings
 
 We have one general meeting a month, along with meetings for our working groups.
-Go to https://www.cncf.io/calendar/ and enter "TAG Contributor Strategy" in the search box to see when we meet next.
+Go to [the CNCF calendar](https://www.cncf.io/calendar/) and enter "TAG Contributor Strategy" in the search box to see when we meet next.
 
 - Calendar invites are sent to the mailing list(see: [Communicating with us](#communicating-with-us)).
 Once you join, you won't automatically have the invite on your calendar. You can
