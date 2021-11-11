@@ -46,13 +46,12 @@ Important note: CNCF has a pool of listed maintainers for each project that vote
  roles than this and the Circle welcomes all decision makers. 
 
 ## Where
-Zoom with breakout rooms  
-In-person as soon as we can at the next face-to-face KubeCon (TBD) 
+Zoom with breakout rooms
+In-person at KubeCon
 
 ## When  
-Every other Contributor Strategy meeting:*  
-Thursdays, 10:30am PT / 06:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)  
-*[CNCF calendar] https://www.cncf.io/calendar/.  
+Meetings are scheduled ad-hoc when we have a topic and speaker.
+Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing list</a> or our #maintainers-circle channel in the CNCF Slack to be notified of the next event.
 
 ## What  
 
@@ -78,7 +77,7 @@ Sarah and the K8s bootstrap governance team developed values (which might actual
 **Breakout**   
 Think of a decision in your community that took a lot of effort to wrap up. Looking at the whole story arc – What do you wish you’d known at the beginning? Did the path to this decision reveal anything about the community? Is there a principle or value which fits the community which if explicit could have made the decision easier.
 
-### Febraury 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
+### February 11th @ 10:30am PT / 6:30pm GMT ([Your timezone here]
 (https://time.is/compare/1030AM_17_Dec_2020_in_PT))
   
 Accidental Evangelist with Jérôme Petazzoni 

@@ -168,7 +168,7 @@ Mailing List: [tag-contributor-strategy](mailto:tag-contributor-strategy@lists.c
 mailer at [lists.cncf.io](https://lists.cncf.io)  
 [Meeting Notes](https://docs.google.com/document/d/1Xjw-yAqidQW67zv7OfMRErsfCotc-mfQ_248Te_YL0g/edit#heading=h.252i9x89qe0d)  
 Slack channel: [#tag-contributor-strategy]  
-Public Meetings: Bi-weekly on Thursday at 5:30pm UTC. Join our mailing list for
+Public Meetings: Go to [the CNCF calendar](https://www.cncf.io/calendar/) and enter "TAG Contributor Strategy" in the search box to see our meetings
 
 
 [cncf-tags.md]: https://github.com/cncf/toc/blob/main/tags/cncf-tags.md
