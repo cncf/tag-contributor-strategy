@@ -1,7 +1,6 @@
 ---
 title: "Community CRM Runbook"
 date: 2021-05-13
-draft: true
 description: >
   How to use a Customer Relationship Management tool to track and improve your interactions with the community
 ---
