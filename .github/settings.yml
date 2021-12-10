@@ -58,6 +58,13 @@ collaborators:
 
   - username: iennae
     permission: push
+    
+    # burnout forum leads
+  - username: juliasimon
+    permission: push
+  
+  - username: mcgonagle
+    permission: push
 
 labels:
   - name: new-wg
