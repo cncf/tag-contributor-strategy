@@ -23,7 +23,7 @@ is a CNCF maintainer that has experience with the subject.
 
 ### Logistics and Other Planning 
 1. Schedule a 15 minute touch base with the speakers over slack or zoom to nail
-down the final structure and get a final run of show together. 
+down the final structure and get a final run of show together.  Make sure to ask them how to pronounce their names, pronouns, and how to they prefer to do Q&A/breakout rooms.
 2. send the speakers placeholder calendar invites directly vs having them copy
 from CNCF calendar. Invite them to CNCF slack if they are not there already.
 3. Provide the speakers with a run of show a few days prior to the event/ask if 
