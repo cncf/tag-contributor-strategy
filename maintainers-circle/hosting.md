@@ -29,7 +29,9 @@ from CNCF calendar. Invite them to CNCF slack if they are not there already.
 3. Provide the speakers with a run of show a few days prior to the event/ask if 
 they want to meet. 
 
-### Calendar and Promotion 
+### Calendar and Promotion  
+
+Promotion should start as soon as the speaker and abstract is confirmed with a save the date
 1. Ask Amye or another CNCF staff member to change sig-contributor strategy's
 Thursday meeting to [Maintainers Circle] - [topic] in calendar event name and abstract in the description
 with content both sessions. 
