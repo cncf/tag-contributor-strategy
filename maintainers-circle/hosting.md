@@ -10,7 +10,7 @@ running. Below is guidance to help in this process.
  first. If no topics are left, initiate ideas with the sig in slack. Next step, 
  ask directly in the #maintainers-circle channel as to what folks would like to 
  discuss/learn.
- 2. Add a short bio for the speakers
+ 2. Add a short bio for the speakers here -> https://github.com/cncf/tag-contributor-strategy/tree/main/maintainers-circle 
 
 Content should not be a sales pitch of any kind. It should match with the goals
 and intent of the group and have at least one 15 minute break out session to so
