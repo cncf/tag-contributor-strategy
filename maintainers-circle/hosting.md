@@ -69,7 +69,7 @@ the right time
 4. If you go into a breakroom for hosting/moderating, you can see if others come
 in the main room for breakroom assigments by looking at the breakout zoom popup.
 You don't need to stay in that room the entire time. 
-5. Continue the above cycle for another round or whatever the agenda is shown.
+5. Continue the above cycle for another round or whatever is shown on the agenda.
 6. Get everyone back into the main room after the time is up from the second
 breakout room and proceed with wrap up:  
 6.5. Speaker may want to do a follow up from the last sesssion, ask for a final
