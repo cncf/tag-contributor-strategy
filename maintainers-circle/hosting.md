@@ -22,7 +22,7 @@ Try for one speaker that has info/science/data/research/teacher and another that
 is a CNCF maintainer that has experience with the subject. 
 
 ### Logistics and Other Planning 
-1. Schedule a 15 minute touch base with the speaker over slack or zoom to nail
+1. Schedule a 15 minute touch base with the speakers over slack or zoom to nail
 down the final structure and get a final run of show together. 
 2. send the speaker a placeholder calendar invite directly vs having them copy
 from CNCF calendar. Invite them to CNCF slack if they are not there already.
