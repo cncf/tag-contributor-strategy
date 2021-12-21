@@ -32,7 +32,7 @@ they want to meet.
 ### Calendar and Promotion 
 1. Ask Amye or another CNCF staff member to change sig-contributor strategy's
 Thursday meeting to [Maintainers Circle] - [topic] in calendar event name and abstract in the description
-with content. 
+with content both sessions. 
 2. Ask Amye to email maintainers@ cncf list with info about the event. Previous
 emails can be used as a template. Make sure to over emphasize that other core
 decision makers (committee members, etc), reviewers and other maintainer-like
