@@ -5,7 +5,7 @@ running. Below is guidance to help in this process.
 
 ## Planning
 
-### Curating content
+### Curating content (for two sessions)
 1. Check on the [README] and [issue backlog] to see what topics are in the queue
  first. If no topics are left, initiate ideas with the sig in slack. Next step, 
  ask directly in the #maintainers-circle channel as to what folks would like to 
