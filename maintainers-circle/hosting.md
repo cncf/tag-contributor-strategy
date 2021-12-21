@@ -47,7 +47,7 @@ can find, #maintainers-circle, #toc, #sig-contributor-strategy
 be needed
 2. 3+ hours before the event - ping in all -dev, -contributor slack channel for
 projects, #maintainers-circle, #toc, #sig-contributor-strategy 
-3. create a hackmd notes file so attendees can have a way to capture links
+3. create a hackmd notes file so attendees can have a way to capture links. this inclusive naming group can be used as a template but modify as you see necessary: https://hackmd.io/vzRv5CyITSKfy2n9LTwM5w 
 
 ## During Event 
 0. Make sure to claim host, breakout room capabilities are working, and 
