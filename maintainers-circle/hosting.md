@@ -78,7 +78,7 @@ announce next date of the maintainers circle and other info you have about it
 
 
  ## After Event
-1. Scrub and format notes  
+1. Scrub and format notes to take out names, identifiers, add full/correct links to resources, etc. 
 2. Post the notes #maintainers-circle
 3. Make sure next host is lined up
 
