@@ -18,7 +18,7 @@ that this isn't another talk. Networking and learning together is an important
 piece to this. 
 The [structure] should follow the model on the README but can be tailored based
 on increasing breakout time/interactive reasons or really good content! 
-Try for one speaker that has info/science/data/research/teacher and another that
+Try for one speaker who has a science/data/research/teacher background and another who has experience
 is a CNCF maintainer that has experience with the subject. 
 
 ### Logistics and Other Planning 
