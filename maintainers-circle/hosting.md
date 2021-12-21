@@ -26,7 +26,7 @@ is a CNCF maintainer that has experience with the subject.
 down the final structure and get a final run of show together. 
 2. send the speaker a placeholder calendar invite directly vs having them copy
 from CNCF calendar. Invite them to CNCF slack if they are not there already.
-3. Provide the speaker with a run of show a few days prior to the event/ask if 
+3. Provide the speakers with a run of show a few days prior to the event/ask if 
 they want to meet. 
 
 ### Calendar and Promotion 
