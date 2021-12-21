@@ -50,7 +50,7 @@ projects, #maintainers-circle, #toc, #sig-contributor-strategy
 3. create a hackmd notes file so attendees can have a way to capture links. this inclusive naming group can be used as a template but modify as you see necessary: https://hackmd.io/vzRv5CyITSKfy2n9LTwM5w 
 
 ## During Event 
-0. Make sure to claim host, breakout room capabilities are working, and 
+0. Make sure to claim host (the TAG chairs have this info; get beforehand), breakout room capabilities are working, and 
 recording is turned off 
 1. Welcome everyone as folks join the line, mention that this won't be recorded,
 and that we will start at :03 after. 
