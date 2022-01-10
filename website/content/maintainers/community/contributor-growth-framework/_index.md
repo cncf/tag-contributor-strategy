@@ -14,7 +14,7 @@ The first version of this document summarizes the experience different project m
 - [**Paris Pittman**](https://github.com/parispittman) (Kubernetes maintainer, Apple)
 - [**Carlisia Thompson**](https://github.com/carlisia) (Velero maintainer, VMware)
 - [**Aaron Schlesinger**](https://github.com/arschles) (KEDA-HTTP maintainer, Microsoft)
-- [**Stephen Augustus**](https://github.com/justaugustus) (Kubernetes maintainer, VMware)
+- [**Stephen Augustus**](https://github.com/justaugustus) (Kubernetes maintainer, Cisco)
 - [**Charles Pretzer**](https://github.com/cpretzer) (Linkerd maintainer, Buoyant)
 - [**Phil Estes**](https://github.com/estesp) (containerd maintainer, AWS)
 

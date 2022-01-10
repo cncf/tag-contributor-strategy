@@ -7,11 +7,13 @@ and projects with their own contributor strategies for a healthy project.
 The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
 - [Meetings](#meetings)
-- [Communicating With Us](#communicating-with-us)
+- [Communicating with Us](#communicating-with-us)
 - [Members](#members)
   - [TAG Chairs](#tag-chairs)
+  - [Tech Leads](#tech-leads)
   - [TOC Liaisons](#toc-liaisons)
   - [Bootstrap TAG members](#bootstrap-tag-members)
+  - [Emeritus Leads](#emeritus-leads)
 - [Working Groups](#working-groups)
   - [Governance](#governance)
   - [Contributor Growth](#contributor-growth)
@@ -74,11 +76,10 @@ channels:
 
 ### TAG Chairs
 
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
+- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 
-### Tech Lead
+### Tech Leads
 
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
 
@@ -93,15 +94,21 @@ channels:
 - April Kyle Nassi ([@thisisnotapril](https://github.com/thisisnotapril)), Google
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
 - Cheryl Hung ([@oicheryl](https://github.com/oicheryl)), CNCF
-- Gerred Dillon ([@gerred](https://github.com/gerred)), D2iQ
+- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
 - Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
 - Karen Chu ([@karenhchu](https://github.com/karenhchu)), Microsoft
 - Matt Klein ([@mattklein123](https://github.com/mattklein123)), Lyft
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 - Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 - Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
+
+### Emeritus Leads
+
+- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 
 ## Working Groups
 
@@ -115,14 +122,12 @@ Facilitators:
 
 ### Contributor Growth  
 
-
-* [Charter](/contributor-growth/README.md)
+[Charter](/contributor-growth/README.md)
 
 Facilitators:
 
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
-
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 
 ### Maintainer's Circle
 
@@ -130,8 +135,8 @@ Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/1)
 
 Facilitators:
 
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Google
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 - Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
 
 ### GitHub Management
@@ -140,7 +145,7 @@ Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/5)
 
 Facilitators:
 
-- Gerred Dillon ([@gerred](https://github.com/gerred)), D2iQ
+- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
 - Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), VMware
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
