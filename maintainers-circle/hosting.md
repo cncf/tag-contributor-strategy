@@ -57,7 +57,9 @@ recording is turned off
 1. Welcome everyone as folks join the line, mention that this won't be recorded,
 and that we will start at :03 after. 
 2. Kick off at :03-5 depending on the flow of traffic
-2.5 Welcome message: hello! thank you for coming, 
+  
+  Sample script:  
+  Welcome message: hello! thank you for coming, 
 not recording but taking notes that will be published later, 
 there will be a breakout session where folks can share/learn/whatever activity 
 they are doing that day, 
