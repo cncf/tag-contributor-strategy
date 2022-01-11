@@ -69,6 +69,7 @@ where folks can ask questions,
 add a disclaimer that we are not licensed professional doctors, lawyers, etc 
 (unless the speaker is!); this is based on shared experiences.  
 Lastly, if anyone has questions and then start the show.
+  
 3. Manage time for the speaker and then start to  get everyone in breakrooms at 
 the right time
 4. If you go into a breakroom for hosting/moderating, you can see if others come
