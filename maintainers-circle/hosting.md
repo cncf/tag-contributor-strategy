@@ -59,7 +59,8 @@ and that we will start at :03 after.
 2. Kick off at :03-5 depending on the flow of traffic
   
   Sample script:  
-  Welcome message: hello! thank you for coming, 
+  Welcome message: hello! thank you for coming, not recording but taking notes that will be published later, 
+ there will be a breakout session where folks can share/learn/whatever activity they are doing that day, give an overview of the agenda, where folks can ask questions, add a disclaimer that we are not licensed professional doctors, lawyers, etc (unless the speaker is!); this session is based on shared experiences. Lastly, if anyone has questions and then start the show.
 not recording but taking notes that will be published later, 
 there will be a breakout session where folks can share/learn/whatever activity 
 they are doing that day, 
