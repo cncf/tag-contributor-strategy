@@ -6,9 +6,10 @@ description: >
 ---
 
 
-A Community CRM (Customer Relationship Management) is a tool that provides data-based insights into your community's health. It aggregates disparate data pulled from sources such as GitHub, Slack, Twitter providing a unified view of your members.  Community managers and developer relations professionals log and manage all their interactions with the members, capturing information from their entire teams. 
+A Community CRM (Customer Relationship Management) is a SaaS tool that provides data-based insights into your community's health. It aggregates disparate **public** data pulled from sources such as GitHub, Slack, Twitter providing a unified view of your members. Community managers and developer relations professionals log and manage all their interactions with the members, capturing information from their entire teams. Only team members who have been given access to the CRM will be able to access it. While the data is public, the aggregated view isn't. 
 
-This doc summarizes best practices identified by some community CRM users. While some tips will work for your projects, others may not. Each community is different and you'll have to try and find what works for you. We also want this to be a living document, so if you've identified best practices that should be captured here, please submit a PR – we appreciate your contribution! 
+This doc summarizes best practices identified by some community CRM users. While some tips will work for your projects, others may not. Each community is different and you'll have to try and find what works for you. We also want this to be a living document, so if you've identified best practices that should be captured here, please submit a PR – we appreciate your contribution!
+
 
 ## Before getting started
 
