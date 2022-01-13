@@ -22,18 +22,38 @@ The benefits of defining your review process include:
 
 The [reviewing.md template](https://github.com/cncf/project-template/blob/main/REVIEWING.md) is located in our [templates repository](https://github.com/cncf/project-template).
 
-Copy the template file into your repository and view the raw markdown.
-There are instructions for filling out the template in HTML comments, that look like this
+Copy the template file into your repository.
+There are instructions for filling out the template that look like the example below:
 
-```markdown
-<!-- TODO: do an important thing here -->
-```
+⚠️ Define your project’s review process
 
-When you complete the template, remove any remaining HTML comments.
+When you complete the template, remove any remaining template instructions
 
-**!TODO!**: move explanatory html comments out of the template into here
-The template should just have `<!-- TODO: do x-->` and the bulk of the text should be in here.
-We will finish this section when we finish the reviewing.md template.
+### The Reviewer Role
+
+Define who is allowed to review pull requests and what rights reviewers have.
+
+* Must all reviewers have write access to the repository?
+* Are maintainers and reviewers separate roles? 
+* Is everyone encouraged to review code, even if they aren't officially reviewers?
+
+### Values
+
+We encourage you to define the values that reviewers should model. A review is a new contributors first interaction with a project, often with the community following along. Some suggestions are included in the template and you should include any additional project values as needed.
+
+### Process
+
+We encourage you to answer whether or not maintainers can merge their own pull requests or not.
+
+* Only after it has been reviewed? 
+* Do maintainers require a review in certain circumstances? This lets both maintainers and the community know what standards are enforced.
+
+Below are some examples that you could use in reviewing.md:
+
+* Self merging is not allowed in this project. Even pull requests from maintainers must be reviewed and merged by another maintainer.
+* Self merging is allowed, after another reviewer has approved the pull request.
+
+### Checklist
 
 ## Suggested Reading
 
