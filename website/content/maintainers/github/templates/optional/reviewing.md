@@ -43,17 +43,20 @@ We encourage you to define the values that reviewers should model. A review is a
 
 ### Process
 
-We encourage you to answer whether or not maintainers can merge their own pull requests or not.
+Because every project's process is unique, this section is empty in the template. Here are some questions to consider when defining your review process:
 
-* Only after it has been reviewed? 
-* Do maintainers require a review in certain circumstances? This lets both maintainers and the community know what standards are enforced.
-
-Below are some examples that you could use in reviewing.md:
-
-* Self merging is not allowed in this project. Even pull requests from maintainers must be reviewed and merged by another maintainer.
-* Self merging is allowed, after another reviewer has approved the pull request.
+* Should the reviewer assign the pull request or set specific labels?
+* Explain if the project use automation/bots and how they should be used.
+* Are reviews required from maintainers?
+* Are there required checks that must pass before merging?
+* How should reviewers help a stuck pull request?
+* Can reviewers commit changes directly to the pull request when the original author has abandoned the pull request or needs help?
+* Can maintainers can merge their own pull requests after it has been reviewed?
+* Can maintainers merge pull requests without review in times of great need?
 
 ### Checklist
+
+Define a checklist for reviewers to use when reviewing a pull request. A common set of questions are provided to get you started. Your project may have extra checks, for example manually running a set of integration tests.
 
 ## Suggested Reading
 
