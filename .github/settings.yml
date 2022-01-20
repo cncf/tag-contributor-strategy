@@ -13,20 +13,17 @@ repository:
   # A URL with more information about the repository
   homepage: https://cncf.io/projects
 
-  # Collaborators: give specific users access to this repository.
-  # see /governance/roles.md for details on write access policy
-  # note that the permissions below may provide wider access than needed for
-  # a specific role, and we trust these individuals to act according to their
-  # role. If there are questions, please contact one of the chairs.
+# Collaborators: give specific users access to this repository.
+# see /governance/roles.md for details on write access policy
+# note that the permissions below may provide wider access than needed for
+# a specific role, and we trust these individuals to act according to their
+# role. If there are questions, please contact one of the chairs.
 collaborators:
-  # Chairs and Admin Help
-  - username: justaugustus
+  # Admins
+  - username: geekygirldawn
     permission: admin
 
   - username: jberkus
-    permission: admin
-
-  - username: parispittman
     permission: admin
 
   - username: idvoretskyi
@@ -35,9 +32,16 @@ collaborators:
   - username: carolynvs
     permission: admin
 
-    # Contributors
-    # all permissions except admin
-    
+  # Maintainers
+  - username: justaugustus
+    permission: maintain
+
+  - username: parispittman
+    permission: maintain
+
+  # Contributors
+  # all permissions except admin
+
   - username: gerred
     permission: push
 
@@ -53,16 +57,13 @@ collaborators:
   - username: dims
     permission: push
 
-  - username: geekygirldawn
-    permission: push
-
   - username: iennae
     permission: push
-    
-    # burnout forum leads
+
+  # burnout forum leads
   - username: juliasimon
     permission: push
-  
+
   - username: mcgonagle
     permission: push
 

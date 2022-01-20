@@ -134,13 +134,12 @@ but cannot vote.
 Members who are no longer participating actively in the TAG (including both WG
   work and the regular meetings) will step down from membership.
 
-#### Chairs and TOC Liaison
+#### Leadership
 
-- TOC Liaison: Matt Klein, Saad Ali   
-- Chairs: Josh Berkus, Stephen Augustus, Paris Pittman  (Emeritus: Gerred 
-Dillon)
-- Tech Leads: None at this time but can change with need at a later time with
-charter ratification   
+- [Chairs](/README.md#tag-chairs)
+- [Tech Leads](/README.md#tech-leads)
+- [TOC Liaisons](/README.md#toc-liaisons)
+- [Emeritus Leads](/README.md#emeritus-leads)
 
 In accordance with the terms and roles laid out in [cncf-tags.md](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md)
 
