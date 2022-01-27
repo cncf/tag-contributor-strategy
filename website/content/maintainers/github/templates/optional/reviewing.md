@@ -20,14 +20,14 @@ The benefits of defining your review process include:
 
 ## Fill out the template
 
-The [reviewing.md template](https://github.com/cncf/project-template/blob/main/REVIEWING.md) is located in our [templates repository](https://github.com/cncf/project-template).
+The [reviewing.md template](https://github.com/cncf/project-template/blob/main/REVIEWING.md) is located in the CNCF [project-template repository](https://github.com/cncf/project-template).
 
 Copy the template file into your repository.
 There are instructions for filling out the template that look like the example below:
 
 ⚠️ Define your project’s review process
 
-When you complete the template, remove any remaining template instructions
+When you finish editing the template, remove the Instruction links that explain how to fill out the template. Also remove any ⚠️ prompts and their explanatory text.
 
 ### The Reviewer Role
 
