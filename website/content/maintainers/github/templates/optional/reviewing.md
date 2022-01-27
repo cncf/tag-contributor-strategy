@@ -25,7 +25,7 @@ The [reviewing.md template](https://github.com/cncf/project-template/blob/main/R
 Copy the template file into your repository.
 There are instructions for filling out the template that look like the example below:
 
-⚠️ Define your project’s review process
+![screenshot of the reviewing.md template, there is a link to instructions, and a warning emoji with text explaining how to fill out this section of the template](/maintainers/github/templates/optional/sample-instructions.png)
 
 When you finish editing the template, remove the Instruction links that explain how to fill out the template. Also remove any ⚠️ prompts and their explanatory text.
 
