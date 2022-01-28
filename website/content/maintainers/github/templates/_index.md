@@ -38,7 +38,7 @@ when you view the markdown file in GitHub unless you view the raw text.
 * [CODE_OF_CONDUCT.md](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md)
 * [SECURITY.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md)
 
-## Recommended Files
+## Optional Files
 * [CONTRIBUTOR_LADDER.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
 * [GOVERNANCE.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE.md)
 * [SECURITY_CONTACTS.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
@@ -46,6 +46,7 @@ when you view the markdown file in GitHub unless you view the raw text.
 * [embargo-policy.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
 * [embargo.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
 * [incident-response.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
+* [REVIEWING.md](optional/reviewing/)
 
 [contrib-strat]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
 [project template]: https://github.com/cncf/project-template
