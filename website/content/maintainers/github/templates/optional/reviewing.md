@@ -54,6 +54,12 @@ Because every project's process is unique, this section is empty in the template
 * Can maintainers can merge their own pull requests after it has been reviewed?
 * Can maintainers merge pull requests without review in times of great need?
 
+Below are example reviewing guides to help you get started:
+
+* [Kubernetes Reviewing for Approvers and Reviewers](https://kubernetes.io/docs/contribute/review/for-approvers/)
+* [Porter's REVIEWING.md](https://github.com/getporter/porter/blob/main/REVIEWING.md)
+* [Athens REVIEWS.md](https://github.com/gomods/athens/blob/main/REVIEWS.md)
+
 ### Checklist
 
 Define a checklist for reviewers to use when reviewing a pull request. A common set of questions are provided to get you started. Your project may have extra checks, for example manually running a set of integration tests.
@@ -62,5 +68,3 @@ Define a checklist for reviewers to use when reviewing a pull request. A common 
 
 * [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 * [Kindness and Code Reviews: Improving the Way We Give Feedback](https://product.voxmedia.com/2018/8/21/17549400/kindness-and-code-reviews-improving-the-way-we-give-feedback)
-* Example: [Kubernetes Reviewing for Approvers and Reviewers](https://kubernetes.io/docs/contribute/review/for-approvers/)
-* Example: [Porter's REVIEWING.md](https://github.com/getporter/porter/blob/main/REVIEWING.md)
