@@ -1,6 +1,7 @@
 ---
 title: "Templates"
 linkTitle: "Templates"
+layout: single
 date: 2020-11-07
 description: >
   Jump start your CNCF project by using our recommended templates
