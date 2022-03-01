@@ -39,7 +39,7 @@ Define who is allowed to review pull requests and what rights reviewers have.
 
 ### Values
 
-We encourage you to define the values that reviewers should model. A review is a new contributors first interaction with a project, often with the community following along. Some suggestions are included in the template and you should include any additional project values as needed.
+We encourage you to define the values that reviewers should model. A review is a new contributor's first interaction with a project, often with the community following along. Some suggestions are included in the template and you should include any additional project values as needed.
 
 ### Process
 
