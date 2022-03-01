@@ -6,7 +6,7 @@ date: 2021-09-20
 
 | Audience of this HowTo | Audience of reviewing.md | Required by CNCF |
 | -------- | -------- | -------- |
-| maintainers     | reviewers     | No, it's optional     |
+| Maintainers     | Reviewers     | No, but encouraged!     |
 
 
 This HowTo is for project maintainers to help guide them in making intentional decisions about how they want to run their review process, and what they want to require of reviewers. A written review process can ensure that reviews are consistent and adhere to your project values. Reviewers default to patterns set from their own experiences in open source, or processes used at previous jobs. Don't assume that whatever review process you have experienced is universal.
