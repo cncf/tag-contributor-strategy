@@ -1,6 +1,7 @@
 ---
 title: "Templates"
 linkTitle: "Templates"
+layout: single
 date: 2020-11-07
 description: >
   Jump start your CNCF project by using our recommended templates
@@ -46,6 +47,7 @@ when you view the markdown file in GitHub unless you view the raw text.
 * [embargo-policy.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
 * [embargo.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
 * [incident-response.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
+* [REVIEWING.md](recommended/reviewing/)
 
 [contrib-strat]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
 [project template]: https://github.com/cncf/project-template
