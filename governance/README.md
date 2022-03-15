@@ -40,7 +40,7 @@ The following contributors are currently "members" of this working group:
 
 ## Meetings
 
-We meet twice a month.
+We meet once a month.
 Go to [the CNCF calendar](https://www.cncf.io/calendar/) and enter "Governance WG" in the search box to see when we meet next.
 
 Discussion happens on the [contributor strategy mailing list](https://lists.cncf.io/g/cncf-tag-contributor-strategy) or on #tag-contributor-strategy on [CNCF slack](https://slack.cncf.io/).
