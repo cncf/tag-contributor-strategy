@@ -29,6 +29,8 @@ There are instructions for filling out the template that look like the example b
 
 When you finish editing the template, remove the Instruction links that explain how to fill out the template. Also remove any ⚠️ prompts and their explanatory text.
 
+Below are instructions for each section in the template:
+
 ### The Reviewer Role
 
 Define who is allowed to review pull requests and what rights reviewers have.
