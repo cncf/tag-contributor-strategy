@@ -60,6 +60,13 @@ collaborators:
   - username: iennae
     permission: push
 
+  # Current TOC liaisons
+  - username: mattfarina
+    permission: push
+  
+  - username: kgamanji
+    permission: push
+  
   # burnout forum leads
   - username: juliasimon
     permission: push
