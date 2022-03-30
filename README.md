@@ -1,5 +1,7 @@
 # CNCF TAG Contributor Strategy
 
+<img src="website/static/images/tag-contributor-strategy-icon-color.png" alt="a line drawing of a busy bee" align=right width="150px">
+
 TAG Contributor Strategy is responsible for contributor experience,
 sustainability, governance, and openness guidance to help CNCF community groups
 and projects with their own contributor strategies for a healthy project.
