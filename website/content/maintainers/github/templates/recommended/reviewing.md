@@ -17,6 +17,7 @@ The benefits of defining your review process include:
 * Reduce contributor churn.
 * Improve likelihood of new contributors becoming regular contributors.
 * Reduces misunderstandings and confusion during reviews.
+* Sets clear expectations for contributors and reviewers.
 
 ## Fill out the template
 
