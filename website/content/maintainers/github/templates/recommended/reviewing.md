@@ -49,6 +49,7 @@ Because every project's process is unique, this section is empty in the template
 
 * Should the reviewer assign the pull request or set specific labels?
 * Explain if the project use automation/bots and how they should be used.
+* Should the reviewer wait for automated checks to pass before reviewing?
 * Are reviews required from maintainers?
 * Are there required checks that must pass before merging?
 * How should reviewers help a stuck pull request?
