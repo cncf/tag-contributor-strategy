@@ -6,6 +6,10 @@ TAG Contributor Strategy is responsible for contributor experience,
 sustainability, governance, and openness guidance to help CNCF community groups
 and projects with their own contributor strategies for a healthy project.
 
+If you are looking for how-to resources produced by the TAG, please visit
+[contribute.cncf.io](https://contribute.cncf.io/) or have a look at the
+contributor, goverance, and related [templates](https://github.com/cncf/project-template).
+
 The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
 - [Meetings](#meetings)
