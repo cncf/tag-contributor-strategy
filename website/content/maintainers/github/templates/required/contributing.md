@@ -36,7 +36,7 @@ Below are instructions for each section in the template:
 
 Your contributing guide is the first place that new contributors will look to understand if your project welcomes contributions and what to expect. So start off strong and make it clear that the project encourages people to contribute. Customize the introductory text in the template to fit your project culture.
 
-The template includes a table of contents, and we encourage you to provide content not just for new contributors, but also for other relevant documentation that you have created for contributors. This makes it easy for everyone to find developer documentation without having to search for it. Splitting out developer documentation into separate documents, such as a Contributing Tutorial, [Reviewing Guide](../recommended/reviewing/), etc prevent your Contributing Guide becoming overwhelming.
+The template includes a table of contents, and we encourage you to provide content not just for new contributors, but also for other relevant documentation that you have created for contributors. This makes it easy for everyone to find developer documentation without having to search for it. Splitting out developer documentation into separate documents, such as a Contributing Tutorial and [Reviewing Guide](../recommended/reviewing/) prevent your Contributing Guide becoming overwhelming.
 
 ## Ways to Contribute
 
@@ -83,6 +83,7 @@ Instead of a fixed template, use the questions below as an exercise to uncover t
 * How to handle stuck pull requests that you can’t seem to get reviewed?
 * How to handle follow-up issues and pull requests?
 * What kind of pull requests do you prefer: small scope, incremental value or feature complete?
+* Do you use feature branches?
 * What should contributors do if they no longer want to follow-through with the PR? Do maintainers sometimes commit to the PR directly to help get it merged? Or do maintainers close a PR if the contributor hasn’t responded in a specific time frame?
 * Once a PR is merged, what is the process for it getting into the next release?
 * When does a merged pull request end up in a release?
@@ -106,9 +107,10 @@ You should explain how to do at least these basic tasks:
 
 Many new contributors do not have experience with having to sign or agree to a [Developer Certificate of Origin][DCO] (DCO) or Contributor License Agreement (CLA). Figuring out how to sign a commit can be a common stumbling block. Depending on which your project uses, keep either the text for the DCO or CLA sections.
 
-Since a DCO is pretty standardized, we have provided a template for projects that use them, but projects using a CLA should explain their process for signing a CLA as either an individual or a company.
+Since a DCO is pretty standardized, we have provided a template for projects that use them, but projects using a CLA should explain their process for signing a CLA as either an individual or a company.  Most CNCF projects will use [EasyCLA], which automates CLA signing via Github.
 
 [DCO]: https://probot.github.io/apps/dco/
+[EasyCLA]: https://github.com/communitybridge/easycla
 
 ## Pull Request Checklist
 
