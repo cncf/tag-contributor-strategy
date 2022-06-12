@@ -13902,4 +13902,21 @@ footer {
   footer .py-2 {
     padding: 0 !important; }
 
+.slides a {
+  font-weight: bold; }
+
+.video {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  /* The height of the item will now be 56.25% of the width. */
+  margin-bottom: 1em; }
+  .video iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0; }
+
 /*# sourceMappingURL=main.css.map */
