@@ -104,3 +104,12 @@ footer {
         top: 0;
     }
 }
+
+// Highlights a set of videos at /videos
+.featured {
+    background-color: $light;
+}
+
+.video-resources a {
+    font-weight: bold;
+}

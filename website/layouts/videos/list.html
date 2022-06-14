@@ -2,14 +2,31 @@
 <h1>{{ .Title }}</h1>
 {{ with .Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
 
+<div class="row featured">
+	<div class="col-12">
+		<ul class="list-unstyled mt-4">
+			{{ range where $.Pages.ByTitle "Params.featured" true }}
+			<li class="media mb-4">
+				<div class="media-body">
+					<h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
+					<p class="mb-2 mb-md-3"><small class="text-muted">{{ .Params.conference}} {{ .Date.Format "2006" }}</small></p>
+					{{ partial "featured-image.html" (dict "p" . "w" 320 "h" 180 "class" "float-left mr-3 pt-1 d-none d-md-block") }}
+					<p class="pt-0 mt-0">{{ .Params.featuredDescription | default .Description }}</p>
+				</div>
+			</li>
+			{{ end }}
+			</ul>
+	</div>
+</div>
+
 <div class="row">
 	<div class="col-12">
 		{{- if .Pages -}}
 		{{ $pag := .Paginate ($.Pages.GroupByDate "2006")}}
 			{{ range $pag.PageGroups }}
-			<!--<h2>{{ .Key }}</h2>-->
+			<h2>{{ .Key }}</h2>
 			<ul class="list-unstyled mt-4">
-				{{ range .Pages }}
+				{{ range where .Pages "Params.featured" "!=" true }}
 				<li class="media mb-4">
 					<div class="media-body">
 						<h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>

@@ -11,7 +11,12 @@
 	<div class="video">
 	<iframe src="https://www.youtube.com/embed/{{ .Params.youtubeID}}" title="{{ .LinkTitle }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<p class="slides"><a href="{{ .Params.slides }}">View slides</a></p>
+	{{ with .Params.slides }}
+	<p class="video-resources"><a href="{{ . }}">View slides</a></p>
+	{{ end }}
+	{{ with .Params.transcript }}
+	<p class="video-resources"><a href="{{ . }}">View transcript</a></p>
+	{{ end }}
 	{{ .Content }}
 	{{ if (.Site.Params.DisqusShortname) }}
 		<br />

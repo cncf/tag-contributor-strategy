@@ -13919,4 +13919,10 @@ footer {
     left: 0;
     top: 0; }
 
+.featured {
+  background-color: #D3F3EE; }
+
+.video-resources a {
+  font-weight: bold; }
+
 /*# sourceMappingURL=main.css.map */
