@@ -12,6 +12,7 @@ speakers:
   - name: Carolyn Van Slyck
     url: https://github.com/carolynvs
 youtubeID: ujglnZgOfXk
+slides: https://docs.google.com/presentation/d/128RNg9t34ghK28Qy7ccOMq16Gm1ly1w6UB64DlKlthk/preview
 transcript: https://static.sched.com/hosted_files/kccncna20/eb/Text_Transcript_TDQH-8469.txt
 ---
 
