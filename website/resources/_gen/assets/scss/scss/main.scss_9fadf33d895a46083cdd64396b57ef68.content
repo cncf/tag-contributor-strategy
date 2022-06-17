@@ -13856,7 +13856,7 @@ footer {
     Extend the theme's styles here
 */
 .external-content {
-  margin-top: 5em;
+  margin-top: 2em;
   margin-left: auto;
   margin-right: auto; }
   .external-content h1 {
@@ -13877,7 +13877,7 @@ footer {
 .td-default main .section-group section ~ section {
   padding-top: 0; }
 
-.td-default main .section-group section:first-of-type {
+.td-default main .section-group section:first-of-type, .td-default main section:first-of-type {
   padding-top: 5rem; }
 
 .td-main .row {
