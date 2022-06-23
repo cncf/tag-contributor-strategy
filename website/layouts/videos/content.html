@@ -1,0 +1,28 @@
+<div class="td-content">
+	<h1>{{ .Title }}</h1>
+	{{ with .Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+	<div class="td-byline mb-4">
+		{{ T "post_byline_by" }} 
+		{{ range .Params.speakers }}
+		<a href="{{ .url }}">{{ .name }}</a> |
+		{{ end }}
+		<span class="text-muted">{{ .Params.conference }} {{ $.Date.Format "2006"  }}</span>
+	</div>
+	<div class="video">
+	<iframe src="https://www.youtube.com/embed/{{ .Params.youtubeID}}" title="{{ .LinkTitle }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	{{ with .Params.slides }}
+	<p class="video-resources"><a href="{{ . }}">View slides</a></p>
+	{{ end }}
+	{{ with .Params.transcript }}
+	<p class="video-resources"><a href="{{ . }}">View transcript</a></p>
+	{{ end }}
+	{{ .Content }}
+	{{ if (.Site.Params.DisqusShortname) }}
+		<br />
+		{{ partial "disqus-comment.html" . }}
+		<br />
+	{{ end }}
+
+	{{ partial "pager.html" . }}
+</div>

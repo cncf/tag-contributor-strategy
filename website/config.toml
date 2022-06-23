@@ -124,8 +124,8 @@ id = "UA-140890431-3"
 [params]
 copyright = "The CNCF Authors"
 
-# First one is picked as the Twitter card image if not set on page.
-# images = ["images/project-illustration.png"]
+# Default Twitter card image if not set on page.
+image = "featured-background.jpg"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
