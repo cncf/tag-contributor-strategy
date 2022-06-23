@@ -102,7 +102,7 @@ func Hugo() error {
 func Deploy() error {
 	mg.Deps(docsy, syncGoMod)
 
-	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose", "-b", getBaseUrl())
+	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose", "-b", "https://contribute.cncf.io/")
 }
 
 // Deploy branch builds the website, including future dated and draft posts
