@@ -124,7 +124,11 @@ func syncGoMod() error {
 }
 
 func getBaseUrl() string {
-	return os.Getenv("DEPLOY_PRIME_URL") + "/"
+	host := os.Getenv("DEPLOY_PRIME_URL")
+	if host != "" {
+		return host + "/"
+	}
+	return "https://contribute.cncf.io/"
 }
 
 // Create go.local.mod with any appropriate replace statements, and
