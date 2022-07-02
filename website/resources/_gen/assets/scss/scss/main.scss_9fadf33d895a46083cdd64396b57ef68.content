@@ -90,7 +90,7 @@ h2 a:hover, h3 a:hover {
 .article-teaser h3 {
   margin-top: 34px !important; }
 
-.td-sidebar-toc {
+.td-toc {
   padding-top: 5rem !important; }
 
 .td-sidebar-nav > .td-sidebar-nav__section {
