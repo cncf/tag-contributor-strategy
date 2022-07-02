@@ -22,7 +22,7 @@
 {{ $newPageQS := querify "value" $newPageStub.Content "filename" "change-me.md" | safeURL }}
 {{ $newPageURL := printf "%s/new/%s?%s"  $gh_repo $gh_repo_path $newPageQS }}
 
-<a href="/about/contributing">Contributing Guide</a>
+<a href="/about/contributing"><i class="fa fa-file fa-fw"></i> Contributing Guide</a>
 <a href="{{ $editURL }}" target="_blank"><i class="fa fa-edit fa-fw"></i> {{ T "post_edit_this" }}</a>
 <a href="{{ $newPageURL }}" target="_blank"><i class="fa fa-edit fa-fw"></i> {{ T "post_create_child_page" }}</a>
 <a href="{{ $issuesURL }}" target="_blank"><i class="fab fa-github fa-fw"></i> {{ T "post_create_issue" }}</a>
