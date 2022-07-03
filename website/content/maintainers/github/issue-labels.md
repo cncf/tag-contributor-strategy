@@ -23,14 +23,14 @@ maintaining a set of issues for new contributors.
   * [Candidate Issues](#candidate-issues)
 * [Reviewing Pull Requests from New Contributors](#reviewing-pull-requests-from-new-contributors)
 
-# Labels
+## Labels
 
 We encourage you to stick with the well-defined labels "good first issue" and
 "help wanted". People unfamiliar with your project look for these labels, and
 efforts to increase participation from new contributors, such as [First Timers
 Only] or [Open Sauced], rely on standard labels to identity issues.
 
-## Help Wanted
+### Help Wanted
 
 These issues should be suitable for someone who has either contributed to the project
 before, or an experienced developer who is comfortable navigating a new codebase. Items
@@ -64,7 +64,7 @@ marked with the "help wanted" label should:
   implemented, aren't necesesary anymore, that the suggested solution or design
   is still appropriate, etc.
 
-## Good First Issue
+### Good First Issue
 
 Items marked with the "good first issue" label are intended for **first-time
 contributors**. After a contributor has completed 1-2 "good first issue" items,
@@ -120,7 +120,7 @@ wanted" and also:
   issue, add a test fixture. This prep often makes a great help wanted task!
 
 
-# Grooming Issues
+## Grooming Issues
 
 Below are explanations of what to look for when grooming your issue queue.
 Usually issues have just enough information to make sense for another maintainer
@@ -148,7 +148,7 @@ articulated; it is to assist a new contributor in becoming familiar with your
 project and provide them with a positive experience so they are willing to
 contribute again.
 
-## Candidate Issues
+### Candidate Issues
 
 Do not apply the label to an issue without first editing it to add context.
 Since it takes time to prepare an issue, we suggest creating one more label that
@@ -162,7 +162,7 @@ at regular intervals filter your issues by that label and update them. This is
 also really helpful when someone asks for a good first issue and you don't have
 any at the moment, you can quickly identify a candidate and make one for them.
 
-# Reviewing Pull Requests from New Contributors
+## Reviewing Pull Requests from New Contributors
 
 We encourage our more experienced members to help new contributors. This helps
 grow and maintain a kind, inclusive community and eventually should increase
