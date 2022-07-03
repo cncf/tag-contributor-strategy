@@ -93,25 +93,18 @@ h2 a:hover, h3 a:hover {
 .td-toc {
   padding-top: 5rem !important; }
 
-.td-sidebar-nav > .td-sidebar-nav__section {
-  margin-bottom: 4rem !important; }
-
-.td-sidebar-nav .td-sidebar-link__page {
-  font-weight: 600 !important;
+.td-sidebar-nav .td-sidebar-link {
+  font-weight: 300 !important;
   color: black !important;
   padding: 0.5rem 8px !important;
   letter-spacing: 0.02em !important; }
 
-.td-sidebar-nav .td-sidebar-link__page:hover {
+.td-sidebar-nav .td-sidebar-link:hover {
   color: #d62293 !important;
   text-decoration: none !important; }
 
 .td-sidebar-nav a.active {
-  border-left: 4px solid #747474;
-  background-color: white;
-  padding-left: 6px !important;
-  border-radius: 3px;
-  filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.05)); }
+  font-weight: 600 !important; }
 
 .td-main .row {
   justify-content: unset !important; }
