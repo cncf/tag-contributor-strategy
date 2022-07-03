@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="td-content">
 <h1>{{ .Title }}</h1>
 {{ with .Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
 
@@ -24,7 +25,7 @@
 		{{- if .Pages -}}
 		{{ $pag := .Paginate ($.Pages.GroupByDate "2006")}}
 			{{ range $pag.PageGroups }}
-			<h2>{{ .Key }}</h2>
+			<h2 class="mt-5">{{ .Key }}</h2>
 			<ul class="list-unstyled mt-4">
 				{{ range where .Pages "Params.featured" "!=" true }}
 				<li class="media mb-4">
@@ -47,5 +48,6 @@
 			{{ template "_internal/pagination.html" . }}
 		{{ end }}
 	</div>
+</div>
 </div>
 {{ end }}

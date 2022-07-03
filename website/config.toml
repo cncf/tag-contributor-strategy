@@ -61,6 +61,10 @@ pygmentsStyle = "tango"
     target = "layouts/maintainers"
 
   [[module.mounts]]
+    source = "layouts/videos"
+    target = "layouts/resources"
+
+  [[module.mounts]]
     source = "data"
     target = "data"
 
