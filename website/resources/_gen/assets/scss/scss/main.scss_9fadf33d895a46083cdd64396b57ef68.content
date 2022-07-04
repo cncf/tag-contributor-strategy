@@ -345,7 +345,7 @@ div.lead {
   .td-navbar {
     min-height: 5rem !important; }
   .navbar-brand {
-    margin-left: 1rem; }
+    margin-left: 2rem; }
   .social-links {
     text-align: right; }
   .td-search-input {
