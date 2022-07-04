@@ -1,53 +1,63 @@
 {{ define "main" }}
 <div class="td-content">
 <h1>{{ .Title }}</h1>
-{{ with .Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+	{{ with .Params.description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+	{{ if (and (not .Params.hide_readingtime) (.Site.Params.ui.readingtime.enable)) }}
+		{{ partial "reading-time.html" . }}
+	{{ end }}
 
-<div class="row featured">
-	<div class="col-12">
-		<ul class="list-unstyled mt-4">
-			{{ range where $.Pages.ByTitle "Params.featured" true }}
-			<li class="media mb-4">
-				<div class="media-body">
-					<h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
-					<p class="mb-2 mb-md-3"><small class="text-muted">{{ .Params.conference}} {{ .Date.Format "2006" }}</small></p>
-					{{ partial "featured-image.html" (dict "p" . "w" 320 "h" 180 "class" "float-left mr-3 pt-1 d-none d-md-block") }}
-					<p class="pt-0 mt-0">{{ .Params.featuredDescription | default .Description }}</p>
-				</div>
-			</li>
-			{{ end }}
-			</ul>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col-12">
-		{{- if .Pages -}}
-		{{ $pag := .Paginate ($.Pages.GroupByDate "2006")}}
-			{{ range $pag.PageGroups }}
-			<h2 class="mt-5">{{ .Key }}</h2>
+	{{ if eq .Params.linkTitle "Videos" }}
+	<div class="row featured">
+		<div class="col-12">
 			<ul class="list-unstyled mt-4">
-				{{ range where .Pages "Params.featured" "!=" true }}
+				{{ range where $.Pages.ByTitle "Params.featured" true }}
 				<li class="media mb-4">
 					<div class="media-body">
 						<h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
 						<p class="mb-2 mb-md-3"><small class="text-muted">{{ .Params.conference}} {{ .Date.Format "2006" }}</small></p>
 						{{ partial "featured-image.html" (dict "p" . "w" 320 "h" 180 "class" "float-left mr-3 pt-1 d-none d-md-block") }}
-						<p class="pt-0 mt-0">{{ .Params.Description }}</p>
+						<p class="pt-0 mt-0">{{ .Params.featuredDescription | default .Description }}</p>
 					</div>
 				</li>
 				{{ end }}
-			</ul>
+				</ul>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-12">
+			{{- if .Pages -}}
+			{{ $pag := .Paginate ($.Pages.GroupByDate "2006")}}
+				{{ range $pag.PageGroups }}
+				<h2 class="mt-5">{{ .Key }}</h2>
+				<ul class="list-unstyled mt-4">
+					{{ range where .Pages "Params.featured" "!=" true }}
+					<li class="media mb-4">
+						<div class="media-body">
+							<h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
+							<p class="mb-2 mb-md-3"><small class="text-muted">{{ .Params.conference}} {{ .Date.Format "2006" }}</small></p>
+							{{ partial "featured-image.html" (dict "p" . "w" 320 "h" 180 "class" "float-left mr-3 pt-1 d-none d-md-block") }}
+							<p class="pt-0 mt-0">{{ .Params.Description }}</p>
+						</div>
+					</li>
+					{{ end }}
+				</ul>
+				{{ end }}
 			{{ end }}
-		{{ end }}
+		</div>
 	</div>
-</div>
-<div class="row pl-2 pt-2">
-	<div class="col">
-		{{ if .Pages }}
-			{{ template "_internal/pagination.html" . }}
-		{{ end }}
-	</div>
-</div>
+	{{ else }}
+		{{ .Content }}
+		{{ partial "section-index.html" . }}
+	{{ end }}
+	{{ if (and (not .Params.hide_feedback) (.Site.Params.ui.feedback.enable) (.Site.GoogleAnalytics)) }}
+		{{ partial "feedback.html" .Site.Params.ui.feedback }}
+		<br />
+	{{ end }}
+	{{ if (.Site.DisqusShortname) }}
+		<br />
+		{{ partial "disqus-comment.html" . }}
+	{{ end }}
+	<div class="text-muted mt-5 pt-3 border-top">{{ partial "page-meta-lastmod.html" . }}</div>
 </div>
 {{ end }}
