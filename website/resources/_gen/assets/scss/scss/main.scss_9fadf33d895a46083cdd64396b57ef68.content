@@ -365,6 +365,9 @@ div.lead {
   .form-control {
     padding: 1.8rem 0.75rem !important; } }
 
+#hero a {
+  color: black !important; }
+
 /*
 
 Bootstrap variables overrides for theme.
