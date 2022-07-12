@@ -94,17 +94,18 @@ h2 a:hover, h3 a:hover {
   padding-top: 5rem !important; }
 
 .td-sidebar-nav .td-sidebar-link {
-  font-weight: 300 !important;
-  color: black !important;
   padding: 0.5rem 8px !important;
   letter-spacing: 0.02em !important; }
+
+.td-sidebar-nav .td-sidebar-link__page {
+  font-weight: 300 !important; }
 
 .td-sidebar-nav .td-sidebar-link:hover {
   color: #d62293 !important;
   text-decoration: none !important; }
 
 .td-sidebar-nav a.active {
-  font-weight: 600 !important; }
+  color: #d62293 !important; }
 
 .td-main .row {
   justify-content: unset !important; }
