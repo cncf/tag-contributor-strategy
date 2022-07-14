@@ -295,6 +295,9 @@ h1.thin {
 div.lead {
   font-size: 32px !important; }
 
+.td-content > h3 {
+  margin-top: 3rem !important; }
+
 @media (max-width: 768px) {
   .navbar-brand {
     padding-top: .5rem !important;
