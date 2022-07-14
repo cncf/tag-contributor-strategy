@@ -372,7 +372,18 @@ div.lead {
 .td-content > h3 {
     margin-top: 3rem !important;
 }
-
+.toc-header {
+    color: #222;
+    font-weight: 600;
+}
+.td-toc #TableOfContents a {
+    color: #495057 !important;
+    font-weight: 300 !important;
+    padding-bottom: .5rem !important;
+}
+.td-toc {
+    height: calc(100vh - 5rem) !important;
+}
 
 
 // mobile.
