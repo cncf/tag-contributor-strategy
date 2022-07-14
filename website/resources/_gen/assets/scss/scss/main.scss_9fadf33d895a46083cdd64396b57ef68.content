@@ -110,6 +110,18 @@ h2 a:hover, h3 a:hover {
 .td-main .row {
   justify-content: unset !important; }
 
+.toc-header {
+  color: #222;
+  font-weight: 600; }
+
+.td-toc #TableOfContents a {
+  color: #495057 !important;
+  font-weight: 300 !important;
+  padding-bottom: .5rem !important; }
+
+.td-toc {
+  height: calc(100vh - 5rem) !important; }
+
 .td-navbar {
   padding-right: 0.5rem I !important;
   padding-left: 0.5rem !important;
@@ -297,18 +309,6 @@ div.lead {
 
 .td-content > h3 {
   margin-top: 3rem !important; }
-
-.toc-header {
-  color: #222;
-  font-weight: 600; }
-
-.td-toc #TableOfContents a {
-  color: #495057 !important;
-  font-weight: 300 !important;
-  padding-bottom: .5rem !important; }
-
-.td-toc {
-  height: calc(100vh - 5rem) !important; }
 
 @media (max-width: 768px) {
   .navbar-brand {
