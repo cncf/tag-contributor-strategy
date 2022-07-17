@@ -1,115 +1,132 @@
-/*
-    Extend the theme's styles here
+/**
+* Project Styles
+*
+* This theme is used to overide the variables in themes/docsy/assets/scss/_styles_project.scss
+*
+* It's loaded AFTER all other styles.
+*
 */
 
-.external-content {
-    @extend .td-max-width-on-larger-screens;
+@import 'hamburger';
 
-    margin-top: 2em;
-    margin-left: auto;
-    margin-right: auto;
+@import 'archive';
+@import 'buttons';
+@import 'categories';
+@import 'footer';
+@import 'header';
+@import 'main';
+@import 'search';
+@import 'sidebar-left';
+@import 'sidebar-toc';
+@import 'taxonomy';
+@import 'typography';
 
-    h1 {
-        text-align: center;
-    }
-
-    > pre, > .highlight, > .lead, > h1, > h2, > ul, > ol, > p, > blockquote, > dl dd, .footnotes, > .alert {
-        max-width: initial;
-    }
+.navbar-dark .navbar-nav a.active {
+	border-bottom: 4px #5c2cff9c solid !important;
 }
 
-#hero {
-    margin-top: 8em;
+// External content - not sure how this is used.
+// .external-content {
+// 	@extend .td-max-width-on-larger-screens;
 
-    p {
-        font-size: 2em;
-        font-weight: bold;
-    }
-    a {
-        color: white;
+// 	margin-top: 2em;
+// 	margin-left: auto;
+// 	margin-right: auto;
 
-        &:hover {
-            color: $yellow;
-        }
-    }
-}
+// 	h1 {
+// 		text-align: center;
+// 	}
+
+// 	> pre,
+// 	> .highlight,
+// 	> .lead,
+// 	> h1,
+// 	> h2,
+// 	> ul,
+// 	> ol,
+// 	> p,
+// 	> blockquote,
+// 	> dl dd,
+// 	.footnotes,
+// 	> .alert {
+// 		max-width: initial;
+// 	}
+// }
 
 // Let us put two same color sections next to each other without extra space
-.td-default main .section-group section ~ section {
-    padding-top: 0;
-}
+// .td-default main {
+// 	.section-group section ~ section {
+// 		padding-top: 0;
+// 	}
+// 	.section-group section:first-of-type,
+// 	section:first-of-type {
+// 		padding-top: 5rem;
+// 	}
+// }
 
-.td-default main .section-group section:first-of-type, .td-default main section:first-of-type {
-    padding-top: 5rem;
-}
+// Boxes used on About page.
+// .td-box--primary,
+// .td-box--secondary,
+// .td-box--dark {
+// 	a,
+// 	p > a {
+// 		color: $light;
 
-// Default flexgrids to center their content evenly
-.td-main {
-    .row {
-        justify-content: space-evenly;
-    }
-}
+// 		&:hover {
+// 			color: $yellow;
+// 		}
+// 	}
+// }
 
-// Fix link contrast
-.td-box--primary, .td-box--secondary, .td-box--dark {
-    a, p > a {
-        color: $light;
+// section .content {
+// 	flex-grow: 1;
+// }
 
-        &:hover{
-            color: $yellow;
-        }
-    }
-}
+// footer {
+// 	min-height: unset;
+// 	overflow: visible;
 
-section .content {
-    flex-grow: 1
-}
+// 	.order-sm-2.text-center {
+// 		text-align: left !important;
+// 	}
 
-footer {
-    min-height: unset;
-    overflow: visible;
+// 	&.py-5 {
+// 		padding-top: 1em !important;
+// 		padding-bottom: 0em !important;
+// 	}
 
-    .order-sm-2.text-center {
-        text-align: left !important;
-    }
+// 	.py-2 {
+// 		padding: 0 !important;
+// 	}
+// }
 
-    &.py-5 {
-        padding-top: 1em !important;
-        padding-bottom: 0em !important;
-    }
-
-    .py-2 {
-        padding: 0 !important;
-    }
-}
-
-.slides a {
-    font-weight: bold;
-}
+// .slides a {
+// 	font-weight: bold;
+// }
 
 // Render the video player as big as possible while retaining the aspect ratio
 // https://stackoverflow.com/a/35153397
 .video {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
-    margin-bottom: 1em;
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
+	margin-bottom: 1em;
 
-    iframe {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        left: 0;
-        top: 0;
-    }
+	iframe {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+	}
 }
 
 // Highlights a set of videos at /videos
 .featured {
-    background-color: $light;
+	background-color: $light;
 }
 
 .video-resources a {
-    font-weight: bold;
+	font-weight: bold;
 }
