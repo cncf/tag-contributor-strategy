@@ -10,10 +10,10 @@ Hello maintainers!
 TAG Contributor Strategy is reaching out to you after your project's annual review to introduce ourselves and offer our assistance with action items from your annual review.
 
 ## Who is TAG Contributor Strategy?
-[TAG Contributor Strategy](https://contribute.cncf.io/about/) is a Technical Advisory Group for the CNCF Technical Oversight Committee (TOC). We develop strategies to build, scale, and retain contributor communities and assist the TOC with: project governance, contributor growth, and supporting maintainers. 
+[TAG Contributor Strategy](https://contribute.cncf.io/about/) is a Technical Advisory Group for the CNCF Technical Oversight Committee (TOC). We develop strategies to build, scale, and retain contributor communities and assist the TOC with: project governance, contributor growth, mentorship programs, and supporting maintainers. 
 
 ## What can we help with?
-We can answer questions and offer guidance on non-technical action items from your annual review. Here are examples of common review feedback that we can help with:
+We can answer questions and offer guidance on action items from your annual review. Here are examples of common review feedback that we can help with:
 
 * Increase maintainers from different companies
 * Establish or refine project governance structure
@@ -31,6 +31,6 @@ We are here to help, so let's connect!
 ## Resources
 
 * Ask questions on the [#tag-contributor-strategy](https://cloud-native.slack.com/archives/CT6CWS1JN) Slack channel.
-* [Maintainers Circle](https://contribute.cncf.io/about/maintainers-circle/) holds private events where maintainers can discuss the stresses of running a project, and provide each other support.
+* [Maintainers Circle](https://contribute.cncf.io/about/maintainers-circle/) holds private events where maintainers can discuss the stresses of running a project and provide mutual support.
 * Go to [contribute.cncf.io](https://contribute.cncf.io/maintainers/) for advice on project governance and community management.
 * Copy our [templates](https://contribute.cncf.io/maintainers/github/templates/) for required documents, such as a CONTRIBUTOR_LADDER.md or GOVERNANCE.md, or get ideas for how to improve your existing documents.
