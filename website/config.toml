@@ -129,7 +129,7 @@ id = "UA-140890431-3"
 copyright = "The CNCF Authors"
 
 # Default Twitter card image if not set on page.
-image = "twitter-card.png"
+image = "images/cloud-native-contributors.png"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
