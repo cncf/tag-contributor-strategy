@@ -118,6 +118,36 @@ If you want to run a Docker container to preview your changes as you work:
 
 If you need to see the Hugo output, run `mage logs`.
 
+## Add a video
+
+We have a videos section that highlights talks related to our group's charter.
+If you would like to add a video, here's how:
+
+1. Go to the videos directory in website/content/videos
+1. Pick the appropriate year for the video, such as 2022 and go to that directory.
+1. Make a child directory named after the video, like "project-paperwork"
+1. Copy the template below and save it as "index.md" in the new directory.
+
+```yaml
+---
+title: "FULL TALK TITLE" # Displayed in the videos list and on the video page
+linkTitle: "SHORT TALK TITLE" # Displayed in the left navigation
+description: "USE JUST A SENTENCE FROM THE TALK DESCRIPTION" # Displayed in the video list and twitter previews
+date: "2021-10-29" # CHANGE TO THE DATE OF THE TALK
+conference: "KubeCon North America" # CHANGE TO THE CONFERENCE NAME (OMIT THE YEAR)
+slides: "URL TO THE SLIDES" # You can find the slides at the bottom of the talk description on the agenda
+speakers:
+  - name: "SPEAKER NAME 1"
+    url: "SPEAKER 1 URL" # We usually use their github profile link
+  - name: "SPEAKER NAME 2"
+    url: "SPEAKER 2 URL"
+video: "YOUTUBE EMBED LINK" # Go to the video, click the share -> embed button and copy the URL of the embedded video. It will look like this: https://www.youtube.com/embed/YOUTUBE_ID
+image: "https://i.ytimg.com/vi/YOUTUBE_ID/maxresdefault.jpg" # Grab the unique video id from the video url and replace it in image link
+---
+
+Copy the talk description from the schedule and paste it here. The formatting is probably wrong so spend a bit of time to fix it so that it's not a giant wall of text.
+```
+
 ## Creating an issue
 
 If you've found a problem in the docs, but you're not sure how to fix it

@@ -1,22 +1,21 @@
 ---
 title: "HowTo: Make a Contributing Guide"
 linkTitle: "Contributing Guide"
-date: 2022-03-17
+date: 2022-05-01
 ---
 
-| Audience of this HowTo | Audience of CONTRIBUTING.md | Required by CNCF |
-| ---------------------- | --------------------------- | ---------------- |
-| Maintainers            | Contributors                | Yes              |
+| Audience of this HowTo | Audience of CONTRIBUTING.md | Required by CNCF      |
+| ---------------------- | --------------------------- | --------------------- |
+| Maintainers            | Contributors                | Yes, sandbox and higher |
 
 
-This HowTo is for project maintainers writing a CONTRIBUTING.md file for their project.
-The goal of a Contributing Guide is to communicate to new and existing contributors how to contribute to your project.
+This HowTo is for project maintainers who need a Contributing Guide for their project. The goal of a CONTRIBUTING.md file is to increase the number of successful contributors to your project. 
 
+A great contributing guide will:
 
-The benefits of defining your contributing process include:
-* Higher quality pull requests from external contributors because your expectations and requirements are well-defined.
-* Attracting new contributors to your project through a welcoming new contributor experience.
-* Improved productivity of all contributors through defining common development tasks such as how to clone, build, and run tests.
+* Demonstrate to new contributors that your project has a good contributor experience.
+* Improve the quality of contributions to your project.
+* Make your developer documentation more discoverable.
 
 ## Fill out the template
 
@@ -27,63 +26,55 @@ There are instructions for filling out the template that look like the example b
 
 ![screenshot of the CONTRIBUTING.md template, there is a link to instructions, and a warning emoji with text explaining how to fill out this section of the template](/maintainers/github/templates/sample-instructions.png)
 
+Some links are specific to your project.
+Search for the word TODO in the markdown for links that need to be customized.
 When you finish editing the template, remove the Instruction links that explain how to fill out the template. Also remove any ⚠️ prompts and their explanatory text.
-
-The template uses the placeholder text TODO where you will need to replace it with appropriate information, such as for meeting links, or project contacts.
 
 Below are instructions for each section in the template:
 
 ## Introduction
 
-We encourage you to start off the Contributing Guide with a welcoming statement that indicates that the project is interested in contributions, and offer guidance to new contributors.
-This is often your chance to make a good first impression for new contributors, before you have even interacted, so take advantage of it.
+Your contributing guide is the first place that new contributors will look to understand if your project welcomes contributions and what to expect. So start off strong and make it clear that the project encourages people to contribute. Customize the introductory text in the template to fit your project culture.
 
-The template focuses on the new contributor tasks but feel free to add  more to the table of contents and link to other project documents such as your reviewing guide, developer guides, security processes, etc.
-Having an index of key project documents in your contributing guide can help improve the odds of people finding and reading them.
-
+The template includes a table of contents, and we encourage you to provide content not just for new contributors, but also for other relevant documentation that you have created for contributors. This makes it easy for everyone to find developer documentation without having to search for it. Splitting out developer documentation into separate documents, such as a Contributing Tutorial and [Reviewing Guide](../recommended/reviewing/) prevent your Contributing Guide becoming overwhelming.
 
 ## Ways to Contribute
 
-Fill in exactly which type of contributions you are willing to shepherd through your processes to make sure that contributors feel successful with their contributions.
-Think about your project's [Contributor Ladder], and if applicable, encourage people to review pull requests as a way to contribute as well.
+Brainstorm ways that contributors can help the project beyond the obvious code contributions. Maintainers often serve multiple functions and roles on a project, not just technical decision making (which is harder to delegate) but also marketing, content creation, technical writing, project management, community management, and more! If you would accept help with any of these tasks, call that out to attract a more diverse set of contributors with complimentary skillets to your existing contributors.
 
-Including non-code contributions, such as attending meetings, taking notes, providing feedback, answering questions, etc, can attract a wider range of contributors who can help with unacknowledged tasks that often fall to the maintainers.
+Don't forget to assess maintainer availability and be realistic about which type of contributions you are willing to shepherd through your processes to ensure contributors are successful. Large vendor-backed projects are more likely to have time to mentor and assist people new to open source or programming. We encourage you to start with a limited list of paths to contributing, and expand them over time as your project grows.
 
-An important way to contribute is by disclosing security vulnerabilities that they have discovered, so make sure you provide clear information on how that should be reported.
-Link to your [Incident Response] page, if available.
+Think about your project's contribution ladder, and if it makes sense, encourage people to review pull requests as a way to contribute as well.
 
-[Contributor Ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
-[Incident Response]: https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md
+Often security-related contributions, such as reporting security issues, are handled by a specific security process. Include a link to your security reporting process so that people can find and follow it.
 
-## Come to meetings!
+### Come to Meetings
 
-If your project has open meetings with the community, include information on when you meet and link to the agenda.
-Contributors who attend meetings often submit higher quality patches, have an overall higher engagement with the project, and are likely candidates for becoming maintainers one day.
-So make sure people know that they are encouraged to participate.
+If your project has open meetings, encourage contributors to attend and customize the template with your meeting information. The more contributors interact with your project, the more likely they are to find meaningful ways to contribute and stick around.
 
 ## Find an Issue
 
-Help new contributors identify good issues to work on by explaining which labels you use.
-Common labels are "good first issue" and "help wanted", but there's more to it than just applying the label.
-Learn how to [improve your issues that are labeled for new contributors][labels] to ensure that they will be successful.
+Often contributors want to help out but don't know where to start. If you have an issue labeling strategy, explain it here. For example, ["good first issue" or "help wanted" for new contributors][issue-labels]. 
 
-Since most contributors can't assign issues to themselves, provide instructions for how they should indicate that they want to work on an issue.
-If you have a bot to help with this, document the command for assigning the issue to themselves.
+Let contributors know how they should indicate that they want to work on an issue, such as commenting with "I would like to work on this".
 
-[labels]: /maintainers/github/issue-labels/
+If your project doesn't always have issues labeled and ready to find, and you are willing to help find suitable issues, let new contributors know how to ask for something to work on.
+
+[issue-labels]: /maintainers/github/issue-labels/
 
 ## Ask for Help
 
-This is an optional section that explains how your project prefers that contributors reach out when they need help.
-You are not required to provide contact information, or contributor support.
-If you want all communication directly on the issue or pull request, or are happy to answer questions in Slack, let people know.
+Expect that all contributors will get stuck sometimes and figure out how they should ask for help. This is a great time to not only direct them to the proper communication channel but also provide links to relevant documentation such as a contributing tutorial, troubleshooting guides, etc.
+
+If you are a project that regularly gets contributors who are also new to git or the programming language, considering linking to where they can get help for non-project related questions, such as [ohshitgit], CNCF Slack channels, or a community forum like the Gophers or Kubernetes Slack.
+
+[ohshitgit]: https://ohshitgit.com
 
 ## Pull Request Lifecycle
 
-This is an optional section but we encourage you to think about your pull request process and help set expectations for both contributors and reviewers.
+This is an optional section but we encourage you to think about your pull request process and set expectations for both contributors and reviewers.
 
-Instead of a fixed template, use these questions below as an exercise to uncover the unwritten rules and norms your project has for both reviewers and contributors.
-Using your answers, write a description of what a contributor can expect during their pull request.
+Instead of a fixed template, use the questions below as an exercise to uncover the unwritten rules and norms your project has for both reviewers and contributors. Using your answers, write a description of what a contributor can expect during their pull request.
 
 * When should contributors start to submit a PR - when it’s ready for review or as a work-in-progress?
 * How do contributors signal that a PR is ready for review or that it’s not complete and still a work-in-progress?
@@ -92,55 +83,54 @@ Using your answers, write a description of what a contributor can expect during 
 * How to handle stuck pull requests that you can’t seem to get reviewed?
 * How to handle follow-up issues and pull requests?
 * What kind of pull requests do you prefer: small scope, incremental value or feature complete?
-* What should contributors do if they no longer want to follow-through with the PR? For example, will maintainers potentially refactor and use the code?
-  Will maintainers close a PR if the contributor hasn’t responded in a specific time frame?
+* Do you use feature branches?
+* What should contributors do if they no longer want to follow-through with the PR? Do maintainers sometimes commit to the PR directly to help get it merged? Or do maintainers close a PR if the contributor hasn’t responded in a specific time frame?
 * Once a PR is merged, what is the process for it getting into the next release?
-* When does a contribution show up “live”?
-
-Here are some examples from other projects:
- 
-* [Porter's The Life of a Pull Request](https://porter.sh/src/CONTRIBUTING.md#the-life-of-a-pull-request)
+* When does a merged pull request end up in a release?
 
 ## Development Environment Setup
 
-Provide enough information so that someone can find your project on the weekend and get set up, build the code, test it, and submit a pull request successfully without having to ask any questions.
-If there are tools they need to install, common errors people run into, or useful scripts they should run, document it here. 
+Provide enough information so that someone can find your project on the weekend and get set up, build the code, test it, and submit a pull request successfully without having to ask any questions. If there is a one-off tool they need to install, common error people run into, or useful script they should run, document that here. 
 
-Document any necessary tools, for example VS Code and recommended extensions.
-You don’t have to document the beginner’s guide to these tools, but how they are used within the scope of your project.
+Document any necessary tools, such as linters, or recommended IDE extensions. You don’t have to document the beginner’s guide to these tools, but how they are used within the scope of your project. This is a great place to include links to new user documentation videos and examples to get people started and understanding how to use the project
 
-* How to get the source code.
-* How to get any dependencies.
-* How to build the source code.
-* How to run the project locally.
-* How to test the source code, unit and "integration" or "end-to-end".
-* How to generate and preview the documentation locally.
-* Links to new user documentation videos and examples to get people started and understanding how to use the project.
+You should explain how to do at least these basic tasks:
+
+* Get the source code
+* Retrieve any dependencies
+* Build the source code
+* Run the project locally
+* Test the source code, unit and "integration" or "end-to-end"
+* Generate and preview the documentation locally
 
 ## Sign Your Commits
 
-Based on your project, keep either the DCO or CLA section.
+Many new contributors do not have experience with having to sign or agree to a [Developer Certificate of Origin][DCO] (DCO) or Contributor License Agreement (CLA). Figuring out how to sign a commit can be a common stumbling block. Depending on which your project uses, keep either the text for the DCO or CLA sections.
 
-### DCO
+Since a DCO is pretty standardized, we have provided a template for projects that use them, but projects using a CLA should explain their process for signing a CLA as either an individual or a company.  Most CNCF projects will use [EasyCLA], which automates CLA signing via Github.
 
-The [Developer Certificate of Origin] (DCO) section usually does not require further edits.
-You can optionally provide a script in your repository to assist those new to git and commit signing to set up the repository to automatically sign their comments.
-Here is an example [script](https://github.com/getporter/porter/tree/main/scripts/setup-dco) from Porter, that contributors can run with `make setup-dco`.
-
-[Developer Certificate of Origin]: https://developercertificate.org/
-
-### CLA
-
-The Contributor License Agreement (CLA) section should be updated with instructions for how sign your project's CLA as an individual or as a company.
+[DCO]: https://probot.github.io/apps/dco/
+[EasyCLA]: https://github.com/communitybridge/easycla
 
 ## Pull Request Checklist
 
-List both automated and manual checks performed by reviewers.
-It is very helpful when the validations are automated in a script, such as a Makefile, so that contributors can validate their code before opening a pull request.
+Give contributors an idea of how their pull request is evaluated and how to run those checks locally before submitting the pull request. Include both the automated and any manual checks performed by reviewers.
 
-Below is an example checklist:
+Providing a script in the repository and instructions for how to validate a pull request before submitting is extremely helpful to all contributors.
 
-* It passes tests: run the following command to run all of the tests locally: `make build test lint`.
-* Impacted code has new or updated tests.
-* Documentation created/updated.
-* We use Azure DevOps/GitHub Actions/CircleCI to test all pull requests. We require that all tests succeed on a pull request before it is merged.
+Below is an example project checklist and we encourage you to not only document the checklist in the CONTRIBUTING.md file but also in the [GitHub pull request template][pr-template].
+
+- [ ] It passes tests: run the following command to run all of the tests locally: `make build test lint`
+- [ ] Impacted code has new or updated tests
+- [ ] Documentation created/updated
+- [ ] All tests succeed when run by the CI build on a pull request before it is merged
+
+[pr-template]: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository
+
+## Examples
+
+Below are examples of real Contributing Guides:
+
+* [Kubernetes Contributing Guide](https://github.com/kubernetes/community/tree/master/contributors/guide)
+* [Porter Contributing Guide](https://github.com/getporter/porter/blob/main/CONTRIBUTING.md)
+* [Helm Contributing Guide](https://github.com/helm/helm/blob/main/CONTRIBUTING.md)

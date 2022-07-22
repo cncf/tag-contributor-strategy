@@ -5,7 +5,7 @@
 .external-content {
     @extend .td-max-width-on-larger-screens;
 
-    margin-top: 5em;
+    margin-top: 2em;
     margin-left: auto;
     margin-right: auto;
 
@@ -39,7 +39,7 @@
     padding-top: 0;
 }
 
-.td-default main .section-group section:first-of-type {
+.td-default main .section-group section:first-of-type, .td-default main section:first-of-type {
     padding-top: 5rem;
 }
 
@@ -81,4 +81,35 @@ footer {
     .py-2 {
         padding: 0 !important;
     }
+}
+
+.slides a {
+    font-weight: bold;
+}
+
+// Render the video player as big as possible while retaining the aspect ratio
+// https://stackoverflow.com/a/35153397
+.video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
+    margin-bottom: 1em;
+
+    iframe {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+}
+
+// Highlights a set of videos at /videos
+.featured {
+    background-color: $light;
+}
+
+.video-resources a {
+    font-weight: bold;
 }

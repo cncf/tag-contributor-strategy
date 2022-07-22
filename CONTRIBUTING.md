@@ -88,6 +88,11 @@ in slack, or we'll see you at a meeting!
 work. If it’s typos and fixes to docs, please submit. 😀
 - Tap one of the chairs or working group facilitators in slack if you haven’t
 heard from us in 5 days.
+- If this is a change that you intend to work on iteratively over multiple pull 
+requests before it is ready to go live, please make the pull request against the 
+drafts branch. When you are ready for the TOC to review your final changes, submit a pull request with your changes to the main branch.
+
+  This makes it easier to collaborate on change sets with multiple people. You can preview changes made on the drafts branch at https://drafts--cncf-contribute.netlify.app
 - When making changes to your PR, put them into a new commit (instead of rebasing
   or amending) so that it's easier for reviewers to see just your new changes.
 - We will give you an opportunity to clean up your commits before merging or can

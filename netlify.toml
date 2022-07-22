@@ -9,6 +9,7 @@
 [build.environment]
   HUGO_VERSION = "0.79.0"
   HUGO_ENV = "production"
+  NODE_VERSION = "12.20.0"
 
 [context.branch-deploy]
   command = "go run mage.go -v DeployBranch"

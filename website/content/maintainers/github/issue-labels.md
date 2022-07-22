@@ -55,7 +55,7 @@ marked with the "help wanted" label should:
 - **Medium to Low Priority**
 
   Select issues that aren't in key pathways, or must be done quickly. You don't
-  wan to put effort into grooming these issues, then end up having to do it
+  want to put effort into grooming these issues, then end up having to do it
   yourself because it must be done soon.
 
 - **Up-To-Date**
