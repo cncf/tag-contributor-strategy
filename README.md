@@ -1,8 +1,14 @@
 # CNCF TAG Contributor Strategy
 
+<img src="website/static/images/tag-contributor-strategy-icon-color.png" alt="a line drawing of a busy bee" align=right width="150px">
+
 TAG Contributor Strategy is responsible for contributor experience,
 sustainability, governance, and openness guidance to help CNCF community groups
 and projects with their own contributor strategies for a healthy project.
+
+If you are looking for how-to resources produced by the TAG, please visit
+[contribute.cncf.io](https://contribute.cncf.io/) or have a look at the
+contributor, goverance, and related [templates](https://github.com/cncf/project-template).
 
 The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
@@ -85,10 +91,73 @@ channels:
 
 ### TOC Liaisons
 
-- Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
-- Alena Prokharchyk ([@alena1108](https://github.com/alena1108)), Apple
+- Matt Farina ([@mattfarina](https://github.com/mattfarina)), SuSE
+- Katie Gamanji ([@kgamanji](https://github.com/kgamanji)), Apple
 
-### Bootstrap TAG members
+### Emeritus Leads
+
+- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
+
+## Working Groups And Teams
+
+### Governance WG
+
+[Charter](/governance/README.md)
+
+Facilitators:
+
+- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
+- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
+
+### Contributor Growth WG
+
+[Charter](/contributor-growth/README.md)
+
+Facilitators:
+
+- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
+- Catherine Paganini ([@CathPag](https://github.com/CathPag)), Buoyant
+
+### Maintainer's Circle
+
+Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/1)
+
+Facilitators:
+
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
+- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
+- Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
+
+### Inclusiveness Team
+
+Facilitators
+
+- Melania De Angelis ([@melaniadeangelis](https://github.com/melaniadeangelis)), SIGHUP
+- Sara Trapetti ([@SaraTrap](https://github.com/SaraTrap)), SIGHUP
+- Jade Applegate ([@jadeapplegate](https://github.com/jadeapplegate)), Indeed
+
+### Mentoring WG
+
+Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/167)
+
+Facilitators
+
+- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
+- Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
+- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
+
+
+### Community Infrastructure Team
+
+Facilitators
+
+- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
+- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
+- Hippie Hacker ([@hh](https://github.com/hh)), ii
+
+### Original Bootstrap TAG members
 
 - Amye Scavarda Perrin ([@amye](https://github.com/amye)), CNCF
 - April Kyle Nassi ([@thisisnotapril](https://github.com/thisisnotapril)), Google
@@ -103,49 +172,3 @@ channels:
 - Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
 - Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 - Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
-
-### Emeritus Leads
-
-- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
-
-## Working Groups
-
-### Governance
-
-[Charter](/governance/README.md)
-
-Facilitators:
-
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-
-### Contributor Growth  
-
-[Charter](/contributor-growth/README.md)
-
-Facilitators:
-
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-
-### Maintainer's Circle
-
-Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/1)
-
-Facilitators:
-
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
-- Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
-
-### GitHub Management
-
-Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/5)
-
-Facilitators:
-
-- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
-- Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco

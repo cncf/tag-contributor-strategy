@@ -1,5 +1,6 @@
 ---
-title: "Recommended"
+title: "Recommended Project Templates"
+linkTitle: "Recommended"
 date: 2021-09-20
 ---
 

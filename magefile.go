@@ -1,3 +1,4 @@
+//go:build mage
 // +build mage
 
 // This is a magefile, and is a "makefile for go".
@@ -22,11 +23,11 @@ import (
 	"github.com/pkg/errors"
 )
 
-// Default target to run when none is specified
-// If not set, running mage will list available targets
 var (
+	// Default target to run when none is specified
 	Default        = Preview
 	contributeRepo = "../contribute"
+	must           = shx.CommandBuilder{StopOnError: true}
 )
 
 const (
@@ -50,7 +51,7 @@ func Build() error {
 	}
 
 	pwd, _ := os.Getwd()
-	return shx.Command("docker","run", "--rm", "-v", pwd+":/src",
+	return shx.Command("docker", "run", "--rm", "-v", pwd+":/src",
 		contribMount, goModMount, containerName, "--debug", "--verbose").CollapseArgs().RunV()
 }
 
@@ -101,7 +102,7 @@ func Hugo() error {
 func Deploy() error {
 	mg.Deps(docsy, syncGoMod)
 
-	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose")
+	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose", "-b", "https://contribute.cncf.io/")
 }
 
 // Deploy branch builds the website, including future dated and draft posts
@@ -123,7 +124,11 @@ func syncGoMod() error {
 }
 
 func getBaseUrl() string {
-	return os.Getenv("DEPLOY_PRIME_URL" + "/")
+	host := os.Getenv("DEPLOY_PRIME_URL")
+	if host != "" {
+		return host + "/"
+	}
+	return "https://contribute.cncf.io/"
 }
 
 // Create go.local.mod with any appropriate replace statements, and
@@ -220,7 +225,7 @@ func docsy() error {
 		return errors.Wrap(err, "could not clone the docsy theme")
 	}
 
-	return nil
+	return shx.Command("npm", "install", "postcss", "postcss-cli").In("website").RunE()
 }
 
 func containerExists(name string) bool {

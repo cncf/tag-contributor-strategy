@@ -1,33 +1,36 @@
 ---
-title: "HowTo: Make a reviewing.md"
-linkTitle: "reviewing.md"
+title: "HowTo: Make a Reviewing Guide"
+linkTitle: "Reviewing Guide"
 date: 2021-09-20
 ---
 
-| Audience of this HowTo | Audience of reviewing.md | Required by CNCF |
-| -------- | -------- | -------- |
-| Maintainers     | Reviewers     | No, but encouraged!     |
+| Audience of this HowTo | Audience of REVIEWING.md | Required by CNCF    |
+| ---------------------- | ------------------------ | ------------------- |
+| Maintainers            | Reviewers                | No, but encouraged! |
 
 
 This HowTo is for project maintainers to help guide them in making intentional decisions about how they want to run their review process, and what they want to require of reviewers. A written review process can ensure that reviews are consistent and adhere to your project values. Reviewers default to patterns set from their own experiences in open source, or processes used at previous jobs. Don't assume that whatever review process you have experienced is universal.
 
-The goal of a reviewing.md file is to help set expectations and guardrails for reviewers. It should cover reviewer responsibilities, such as following a common checklist for all reviews, requiring that comments are constructive and kind, or applying labels to the pull request. It can also help a reviewer set boundaries, such as reasonable turnaround times on feedback or how much assistance they are expected to provide new contributors. 
+The goal of a REVIEWING.md file is to help set expectations and guardrails for reviewers. It should cover reviewer responsibilities, such as following a common checklist for all reviews, requiring that comments are constructive and kind, or applying labels to the pull request. It can also help a reviewer set boundaries, such as reasonable turnaround times on feedback or how much assistance they are expected to provide new contributors. 
 
 The benefits of defining your review process include:
 * Reduce contributor churn.
 * Improve likelihood of new contributors becoming regular contributors.
 * Reduces misunderstandings and confusion during reviews.
+* Sets clear expectations for contributors and reviewers.
 
 ## Fill out the template
 
-The [reviewing.md template](https://github.com/cncf/project-template/blob/main/REVIEWING.md) is located in the CNCF [project-template repository](https://github.com/cncf/project-template).
+The [REVIEWING.md template](https://github.com/cncf/project-template/blob/main/REVIEWING.md) is located in the CNCF [project-template repository](https://github.com/cncf/project-template).
 
 Copy the template file into your repository.
 There are instructions for filling out the template that look like the example below:
 
-![screenshot of the reviewing.md template, there is a link to instructions, and a warning emoji with text explaining how to fill out this section of the template](/maintainers/github/templates/recommended/sample-instructions.png)
+![screenshot of the REVIEWING.md template, there is a link to instructions, and a warning emoji with text explaining how to fill out this section of the template](/maintainers/github/templates/sample-instructions.png)
 
 When you finish editing the template, remove the Instruction links that explain how to fill out the template. Also remove any ⚠️ prompts and their explanatory text.
+
+Below are instructions for each section in the template:
 
 ### The Reviewer Role
 
@@ -47,6 +50,7 @@ Because every project's process is unique, this section is empty in the template
 
 * Should the reviewer assign the pull request or set specific labels?
 * Explain if the project use automation/bots and how they should be used.
+* Should the reviewer wait for automated checks to pass before reviewing?
 * Are reviews required from maintainers?
 * Are there required checks that must pass before merging?
 * How should reviewers help a stuck pull request?
@@ -57,8 +61,8 @@ Because every project's process is unique, this section is empty in the template
 Below are example reviewing guides to help you get started:
 
 * [Kubernetes Reviewing for Approvers and Reviewers](https://kubernetes.io/docs/contribute/review/for-approvers/)
-* [Porter's REVIEWING.md](https://github.com/getporter/porter/blob/main/REVIEWING.md)
-* [Athens REVIEWS.md](https://github.com/gomods/athens/blob/main/REVIEWS.md)
+* [Porter's Reviewing Guide](https://github.com/getporter/porter/blob/main/REVIEWING.md)
+* [Athens Project Reviews](https://github.com/gomods/athens/blob/main/REVIEWS.md)
 
 ### Checklist
 
