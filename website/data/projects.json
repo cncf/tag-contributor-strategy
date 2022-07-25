@@ -1,6 +1,7 @@
 [
     {
         "name": "containerd",
+        "path": "Runtime / Container Runtime",
         "description": "An open and reliable container runtime",
         "homepage_url": "https://containerd.io/",
         "project": "graduated",
@@ -17,10 +18,16 @@
         "mailing_list_url": null,
         "slack_url": "https://slack.containerd.io/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 5109698,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "CoreDNS",
+        "path": "Orchestration & Management / Coordination & Service Discovery",
         "description": "CoreDNS is a DNS server that chains plugins",
         "homepage_url": "https://coredns.io/",
         "project": "graduated",
@@ -37,10 +44,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/coredns-discuss",
         "slack_url": "https://cloud-native.slack.com/messages/coredns/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCbWRJZxiaQ8twm6sh7UymoQ"
+        "youtube_url": "https://www.youtube.com/channel/UCbWRJZxiaQ8twm6sh7UymoQ",
+        "language": {
+            "name": "Go",
+            "value": 1522107,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Envoy",
+        "path": "Orchestration & Management / Service Proxy",
         "description": "Cloud-native high-performance edge/middle/service proxy",
         "homepage_url": "https://www.envoyproxy.io",
         "project": "graduated",
@@ -57,10 +70,16 @@
         "mailing_list_url": null,
         "slack_url": "https://envoyproxy.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "C++",
+            "value": 33565137,
+            "color": "#f34b7d"
+        }
     },
     {
         "name": "etcd",
+        "path": "Orchestration & Management / Coordination & Service Discovery",
         "description": "Distributed reliable key-value store for the most critical data of a distributed system",
         "homepage_url": "https://etcd.io/",
         "project": "graduated",
@@ -75,12 +94,18 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/etcd",
         "blog_url": null,
         "mailing_list_url": "https://groups.google.com/forum/?hl=en#!forum/etcd-dev",
-        "slack_url": null,
+        "slack_url": "https://freenode.net/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 5244000,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Fluentd",
+        "path": "Observability and Analysis / Logging",
         "description": "Fluentd: Unified Logging Layer (project under CNCF)",
         "homepage_url": "https://www.fluentd.org/",
         "project": "graduated",
@@ -97,10 +122,16 @@
         "mailing_list_url": null,
         "slack_url": "http://slack.fluentd.org/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Ruby",
+            "value": 3193871,
+            "color": "#701516"
+        }
     },
     {
         "name": "Harbor",
+        "path": "Provisioning / Container Registry",
         "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
         "homepage_url": "https://goharbor.io/",
         "project": "graduated",
@@ -117,10 +148,16 @@
         "mailing_list_url": "https://lists.cncf.io/g/harbor-users/topics",
         "slack_url": "https://cloud-native.slack.com/messages/harbor/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 5455191,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Helm",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "The Kubernetes Package Manager",
         "homepage_url": "https://helm.sh/",
         "project": "graduated",
@@ -135,12 +172,18 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/helm",
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "slack.k8s.io",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1649535,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Jaeger",
+        "path": "Observability and Analysis / Tracing",
         "description": "CNCF Jaeger, a Distributed Tracing Platform",
         "homepage_url": "https://www.jaegertracing.io/",
         "project": "graduated",
@@ -157,10 +200,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/jaeger-tracing",
         "slack_url": null,
         "gitter_url": "https://gitter.im/jaegertracing/Lobby",
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2767757,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Kubernetes",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications",
         "homepage_url": "https://kubernetes.io/",
         "project": "graduated",
@@ -177,10 +226,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/kubernetes-dev",
         "slack_url": "http://slack.k8s.io/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg"
+        "youtube_url": "https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg",
+        "language": {
+            "name": "Go",
+            "value": 61158233,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Linkerd",
+        "path": "Orchestration & Management / Service Mesh",
         "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
         "homepage_url": "https://linkerd.io/",
         "project": "graduated",
@@ -197,10 +252,16 @@
         "mailing_list_url": null,
         "slack_url": "https://slack.linkerd.io/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/watch?v=wBgBwNZo_EE&list=PLI9FkLPXDscDB0gevkhEnyfgIfWF5yk4V"
+        "youtube_url": "https://www.youtube.com/watch?v=wBgBwNZo_EE&list=PLI9FkLPXDscDB0gevkhEnyfgIfWF5yk4V",
+        "language": {
+            "name": "Go",
+            "value": 2331490,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Open Policy Agent (OPA)",
+        "path": "Provisioning / Security & Compliance",
         "description": "An open source, general-purpose policy engine.",
         "homepage_url": "https://www.openpolicyagent.org/",
         "project": "graduated",
@@ -217,10 +278,16 @@
         "mailing_list_url": null,
         "slack_url": "http://slack.openpolicyagent.org/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 5774931,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Prometheus",
+        "path": "Observability and Analysis / Monitoring",
         "description": "The Prometheus monitoring system and time series database.",
         "homepage_url": "https://prometheus.io/",
         "project": "graduated",
@@ -235,12 +302,18 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/prometheus",
         "blog_url": "https://prometheus.io/blog/",
         "mailing_list_url": "https://prometheus.io/community/",
-        "slack_url": null,
+        "slack_url": "https://freenode.net/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC4pLFely0-Odea4B2NL1nWA"
+        "youtube_url": "https://www.youtube.com/channel/UC4pLFely0-Odea4B2NL1nWA",
+        "language": {
+            "name": "Go",
+            "value": 4199632,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Rook",
+        "path": "Runtime / Cloud Native Storage",
         "description": "Storage Orchestration for Kubernetes",
         "homepage_url": "https://rook.io/",
         "project": "graduated",
@@ -257,10 +330,16 @@
         "mailing_list_url": null,
         "slack_url": "https://rook-io.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 4177049,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "The Update Framework (TUF)",
+        "path": "Provisioning / Security & Compliance",
         "description": "Python reference implementation of The Update Framework (TUF)",
         "homepage_url": "https://theupdateframework.github.io/",
         "project": "graduated",
@@ -277,10 +356,16 @@
         "mailing_list_url": "https://groups.google.com/forum/?fromgroups#!forum/theupdateframework",
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Python",
+            "value": 380622,
+            "color": "#3572A5"
+        }
     },
     {
         "name": "TiKV",
+        "path": "App Definition and Development / Database",
         "description": "A distributed transactional key-value database. Based on the design of Google Spanner and HBase, but simpler to manage and without dependencies on any distributed filesystem",
         "homepage_url": "https://tikv.org",
         "project": "graduated",
@@ -297,10 +382,16 @@
         "mailing_list_url": "https://tikv.org/community/community/",
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCXyuUR4qEm0HLDniz46k6sg"
+        "youtube_url": "https://www.youtube.com/channel/UCXyuUR4qEm0HLDniz46k6sg",
+        "language": {
+            "name": "Rust",
+            "value": 14349336,
+            "color": "#dea584"
+        }
     },
     {
         "name": "Vitess",
+        "path": "App Definition and Development / Database",
         "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
         "homepage_url": "https://vitess.io/",
         "project": "graduated",
@@ -317,10 +408,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/vitess",
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 31617548,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Argo",
+        "path": "App Definition and Development / Continuous Integration & Delivery",
         "description": "Workflow engine for Kubernetes",
         "homepage_url": "https://argoproj.github.io/",
         "project": "incubating",
@@ -337,10 +434,16 @@
         "mailing_list_url": null,
         "slack_url": "https://argoproj.slack.com/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA"
+        "youtube_url": "https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA",
+        "language": {
+            "name": "Go",
+            "value": 3196309,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Backstage",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Backstage is an open platform for building developer portals",
         "homepage_url": "https://backstage.io/",
         "project": "incubating",
@@ -357,10 +460,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "TypeScript",
+            "value": 13268179,
+            "color": "#2b7489"
+        }
     },
     {
         "name": "Buildpacks",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "CLI for building apps using Cloud Native Buildpacks",
         "homepage_url": "https://buildpacks.io/",
         "project": "incubating",
@@ -375,12 +484,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://slack.buildpacks.io/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1880013,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Chaos Mesh",
+        "path": "Observability and Analysis / Chaos Engineering",
         "description": "A Chaos Engineering Platform for Kubernetes.",
         "homepage_url": "https://chaos-mesh.org/",
         "project": "incubating",
@@ -397,10 +512,16 @@
         "mailing_list_url": null,
         "slack_url": "https://join.slack.com/t/cloud-native/shared_invite/zt-fyy3b8up-qHeDNVqbz1j8HDY6g1cY4w",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC4OwT4QTd0ML3YNnV1ybT6g"
+        "youtube_url": "https://www.youtube.com/channel/UC4OwT4QTd0ML3YNnV1ybT6g",
+        "language": {
+            "name": "Go",
+            "value": 2681838,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Cilium",
+        "path": "Runtime / Cloud Native Network",
         "description": "eBPF-based Networking, Security, and Observability",
         "homepage_url": "https://cilium.io/",
         "project": "incubating",
@@ -417,10 +538,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cilium.herokuapp.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 10564612,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "CloudEvents",
+        "path": "App Definition and Development / Streaming & Messaging",
         "description": "CloudEvents Specification",
         "homepage_url": "https://cloudevents.io/",
         "project": "incubating",
@@ -437,10 +564,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/cloudevents",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Shell",
+            "value": 19943,
+            "color": "#89e051"
+        }
     },
     {
         "name": "Container Network Interface (CNI)",
+        "path": "Runtime / Cloud Native Network",
         "description": "Container Network Interface - networking for Linux containers",
         "homepage_url": "https://www.cni.dev/",
         "project": "incubating",
@@ -457,10 +590,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/cni-dev",
         "slack_url": "https://containernetworking.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 340739,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Contour",
+        "path": "Orchestration & Management / Service Proxy",
         "description": "Contour is a Kubernetes ingress controller using Envoy proxy.",
         "homepage_url": "https://projectcontour.io",
         "project": "incubating",
@@ -475,12 +614,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/contour",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 3853252,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Cortex",
+        "path": "Observability and Analysis / Monitoring",
         "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
         "homepage_url": "https://cortexmetrics.io/",
         "project": "incubating",
@@ -497,10 +642,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/cortex/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 6120342,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "CRI-O",
+        "path": "Runtime / Container Runtime",
         "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
         "homepage_url": "https://cri-o.io/",
         "project": "incubating",
@@ -517,10 +668,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kubernetes.slack.com/messages/CAZH62UR1",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1446720,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Crossplane",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "Cloud Native Control Planes",
         "homepage_url": "https://crossplane.io/",
         "project": "incubating",
@@ -537,10 +694,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC19FgzMBMqBro361HbE46Fw"
+        "youtube_url": "https://www.youtube.com/channel/UC19FgzMBMqBro361HbE46Fw",
+        "language": {
+            "name": "Go",
+            "value": 1292088,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "CubeFS",
+        "path": "Runtime / Cloud Native Storage",
         "description": "CubeFS is a cloud native distributed storage platform. ",
         "homepage_url": "https://cubefs.io/",
         "project": "incubating",
@@ -557,10 +720,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cubefs.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "C++",
+            "value": 9337807,
+            "color": "#f34b7d"
+        }
     },
     {
         "name": "Dapr",
+        "path": "Serverless / Framework",
         "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
         "homepage_url": "https://dapr.io",
         "project": "incubating",
@@ -577,10 +746,16 @@
         "mailing_list_url": null,
         "slack_url": "https://discord.com/invite/ptHhX6jc34",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2628659,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Dragonfly",
+        "path": "Provisioning / Container Registry",
         "description": "Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.",
         "homepage_url": "https://d7y.io/",
         "project": "incubating",
@@ -597,10 +772,16 @@
         "mailing_list_url": "https://groups.google.com/g/dragonfly-developers",
         "slack_url": "https://cloud-native.slack.com/messages/dragonfly/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2144521,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Emissary-Ingress",
+        "path": "Orchestration & Management / API Gateway",
         "description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy",
         "homepage_url": "https://www.getambassador.io/",
         "project": "incubating",
@@ -617,10 +798,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Python",
+            "value": 1886953,
+            "color": "#3572A5"
+        }
     },
     {
         "name": "Falco",
+        "path": "Provisioning / Security & Compliance",
         "description": "Cloud Native Runtime Security",
         "homepage_url": "https://falco.org/",
         "project": "incubating",
@@ -637,10 +824,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kubernetes.slack.com/messages/falco",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "C++",
+            "value": 396378,
+            "color": "#f34b7d"
+        }
     },
     {
         "name": "Flux",
+        "path": "App Definition and Development / Continuous Integration & Delivery",
         "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
         "homepage_url": "https://fluxcd.io/",
         "project": "incubating",
@@ -657,10 +850,16 @@
         "mailing_list_url": "https://github.com/fluxcd/flux2/discussions",
         "slack_url": "https://cloud-native.slack.com/messages/flux",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA"
+        "youtube_url": "https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA",
+        "language": {
+            "name": "Go",
+            "value": 752574,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "gRPC",
+        "path": "Orchestration & Management / Remote Procedure Call",
         "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
         "homepage_url": "https://grpc.io/",
         "project": "incubating",
@@ -677,10 +876,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": "https://gitter.im/grpc/grpc",
-        "youtube_url": "https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg"
+        "youtube_url": "https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg",
+        "language": {
+            "name": "C++",
+            "value": 16068082,
+            "color": "#f34b7d"
+        }
     },
     {
         "name": "Hubble",
+        "path": "Observability and Analysis / Monitoring",
         "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF",
         "homepage_url": "https://github.com/cilium/hubble",
         "project": "incubating",
@@ -697,10 +902,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 230684,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "in-toto",
+        "path": "Provisioning / Security & Compliance",
         "description": "in-toto is a framework to protect supply chain integrity.",
         "homepage_url": "https://in-toto.io",
         "project": "incubating",
@@ -717,10 +928,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/in-toto",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Python",
+            "value": 397493,
+            "color": "#3572A5"
+        }
     },
     {
         "name": "Keda",
+        "path": "Serverless / Installable Platform",
         "description": " KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ",
         "homepage_url": "https://keda.sh/",
         "project": "incubating",
@@ -737,10 +954,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kubernetes.slack.com/archives/CKZJ36A5D",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/playlist?list=PLvjRi5R9GQfASIcL4MLTfg2ZOoBdIi5Kq"
+        "youtube_url": "https://www.youtube.com/playlist?list=PLvjRi5R9GQfASIcL4MLTfg2ZOoBdIi5Kq",
+        "language": {
+            "name": "Go",
+            "value": 1753483,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Keptn",
+        "path": "App Definition and Development / Continuous Integration & Delivery",
         "description": "Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.",
         "homepage_url": "https://www.keptn.sh",
         "project": "incubating",
@@ -755,12 +978,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://slack.keptn.sh/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ"
+        "youtube_url": "https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ",
+        "language": {
+            "name": "Go",
+            "value": 3540835,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Knative",
+        "path": "Serverless / Installable Platform",
         "description": "Knative is a developer-focused serverless application layer which is a great complement to the existing Kubernetes application constructs. Knative consists of two components: an HTTP-triggered autoscaling container runtime called \u201cKnative Serving\u201d, and a CloudEvents-over-HTTP asynchronous routing layer called \u201cKnative Eventing\u201d.",
         "homepage_url": "https://knative.dev",
         "project": "incubating",
@@ -777,10 +1006,16 @@
         "mailing_list_url": "https://groups.google.com/d/forum/knative-users",
         "slack_url": "https://slack.knative.dev",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/c/KnativeProject"
+        "youtube_url": "https://www.youtube.com/c/KnativeProject",
+        "language": {
+            "name": "Go",
+            "value": 3883189,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "KubeEdge",
+        "path": "Provisioning / Automation & Configuration",
         "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
         "homepage_url": "https://kubeedge.io/en/",
         "project": "incubating",
@@ -797,10 +1032,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/kubeedge",
         "slack_url": "https://kubeedge.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2503092,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "KubeVirt",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
         "homepage_url": "https://kubevirt.io/",
         "project": "incubating",
@@ -817,10 +1058,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC2FH36TbZizw25pVT1P3C3g"
+        "youtube_url": "https://www.youtube.com/channel/UC2FH36TbZizw25pVT1P3C3g",
+        "language": {
+            "name": "Go",
+            "value": 10640842,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Kyverno",
+        "path": "Provisioning / Security & Compliance",
         "description": "Kubernetes Native Policy Management",
         "homepage_url": "https://kyverno.io/",
         "project": "incubating",
@@ -835,12 +1082,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": "https://app.slack.com/client/T09NY5SBT/CLGR9BJU9",
+        "slack_url": "https://kubernetes.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 8134695,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Litmus",
+        "path": "Observability and Analysis / Chaos Engineering",
         "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
         "homepage_url": "https://litmuschaos.io/",
         "project": "incubating",
@@ -857,10 +1110,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kubernetes.slack.com/messages/CNXNB0ZTN",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw"
+        "youtube_url": "https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw",
+        "language": {
+            "name": "HTML",
+            "value": 2678552,
+            "color": "#e34c26"
+        }
     },
     {
         "name": "Longhorn",
+        "path": "Runtime / Cloud Native Storage",
         "description": "Cloud-Native distributed storage built on and for Kubernetes",
         "homepage_url": "https://longhorn.io/",
         "project": "incubating",
@@ -877,10 +1136,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Shell",
+            "value": 26833,
+            "color": "#89e051"
+        }
     },
     {
         "name": "NATS",
+        "path": "App Definition and Development / Streaming & Messaging",
         "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
         "homepage_url": "https://nats.io/",
         "project": "incubating",
@@ -897,10 +1162,16 @@
         "mailing_list_url": "https://nats.io/blog/",
         "slack_url": "https://natsio.slack.com/join/shared_invite/enQtMzE2NDkxNDI2NTE1LTc5ZDEzYTkwYWZkYWQ5YjY1MzBjMWZmYzA5OGQxMzlkMGQzMjYxNGM3MWYxMjNiYmNjNzIwMTVjMWE2ZDgxZGM",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 6315889,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Notary",
+        "path": "Provisioning / Security & Compliance",
         "description": "Notary is a project that allows anyone to have trust over arbitrary collections of data",
         "homepage_url": "https://notaryproject.dev/",
         "project": "incubating",
@@ -917,10 +1188,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1907023,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "OpenMetrics",
+        "path": "Observability and Analysis / Monitoring",
         "description": "Evolving the Prometheus exposition format into a standard.",
         "homepage_url": "https://openmetrics.io/",
         "project": "incubating",
@@ -937,10 +1214,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/openmetrics",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 47993,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "OpenTelemetry",
+        "path": "Observability and Analysis / Tracing",
         "description": "OpenTelemetry community content",
         "homepage_url": "https://opentelemetry.io/",
         "project": "incubating",
@@ -957,10 +1240,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/opentelemetry",
         "gitter_url": "https://gitter.im/open-telemetry/community",
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "C#",
+            "value": 7570,
+            "color": "#178600"
+        }
     },
     {
         "name": "Operator Framework",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
         "homepage_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/what-are-openshift-operators",
         "project": "incubating",
@@ -977,10 +1266,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCxRfXpCVxnotoSGxEpB1hwA"
+        "youtube_url": "https://www.youtube.com/channel/UCxRfXpCVxnotoSGxEpB1hwA",
+        "language": {
+            "name": "Go",
+            "value": 1710297,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "SPIFFE",
+        "path": "Provisioning / Key Management",
         "description": "The SPIFFE Project",
         "homepage_url": "https://spiffe.io/",
         "project": "incubating",
@@ -997,10 +1292,16 @@
         "mailing_list_url": "https://groups.google.com/a/spiffe.io/forum/#!forum/announce",
         "slack_url": "https://slack.spiffe.io/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Shell",
+            "value": 2959,
+            "color": "#89e051"
+        }
     },
     {
         "name": "SPIRE",
+        "path": "Provisioning / Key Management",
         "description": "The SPIFFE Runtime Environment",
         "homepage_url": "https://spiffe.io/spire/",
         "project": "incubating",
@@ -1015,12 +1316,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://slack.spiffe.io/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 4876338,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Thanos",
+        "path": "Observability and Analysis / Monitoring",
         "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
         "homepage_url": "https://thanos.io/",
         "project": "incubating",
@@ -1037,10 +1344,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/CK5RSSC10",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 5826370,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Volcano",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "A Cloud Native Batch System (Project under CNCF)",
         "homepage_url": "https://volcano.sh/",
         "project": "incubating",
@@ -1057,10 +1370,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1644834,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Aeraki Mesh",
+        "path": "Orchestration & Management / Service Mesh",
         "description": "Aeraki Mesh allows you to manage any layer-7 traffic in a service mesh",
         "homepage_url": "https://www.aeraki.net/",
         "project": "sandbox",
@@ -1077,10 +1396,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/aeraki-mesh",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 360817,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Akri",
+        "path": "Provisioning / Automation & Configuration",
         "description": "A Kubernetes Resource Interface for the Edge",
         "homepage_url": "https://docs.akri.sh",
         "project": "sandbox",
@@ -1095,12 +1420,18 @@
         "stack_overflow_url": null,
         "blog_url": "https://medium.com/akri",
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/C01D9L7QE8Z",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 830452,
+            "color": "#dea584"
+        }
     },
     {
         "name": "Antrea",
+        "path": "Runtime / Cloud Native Network",
         "description": "Kubernetes networking based on Open vSwitch",
         "homepage_url": "https://antrea.io/",
         "project": "sandbox",
@@ -1117,10 +1448,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 6383492,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Artifact Hub",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Find, install and publish Kubernetes packages",
         "homepage_url": "https://artifacthub.io/",
         "project": "sandbox",
@@ -1137,10 +1474,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "TypeScript",
+            "value": 3015487,
+            "color": "#2b7489"
+        }
     },
     {
         "name": "Athenz",
+        "path": "Provisioning / Key Management",
         "description": "Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures",
         "homepage_url": "https://www.athenz.io",
         "project": "sandbox",
@@ -1157,10 +1500,16 @@
         "mailing_list_url": "https://groups.google.com/d/forum/athenz-users",
         "slack_url": "https://join.slack.com/t/athenz/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Java",
+            "value": 12693164,
+            "color": "#b07219"
+        }
     },
     {
         "name": "BFE",
+        "path": "Orchestration & Management / Service Proxy",
         "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
         "homepage_url": "https://www.bfe-networks.net",
         "project": "sandbox",
@@ -1177,10 +1526,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2701737,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Brigade",
+        "path": "App Definition and Development / Continuous Integration & Delivery",
         "description": "Event-driven scripting for Kubernetes",
         "homepage_url": "https://brigade.sh/",
         "project": "sandbox",
@@ -1197,10 +1552,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kubernetes.slack.com/messages/C87MF1RFD",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1537456,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "CDK for Kubernetes (CDK8s)",
+        "path": "Provisioning / Automation & Configuration",
         "description": "CDK8s lets you define Kubernetes apps and components using familiar programming languages and object-oriented APIs.",
         "homepage_url": "https://cdk8s.io/",
         "project": "sandbox",
@@ -1217,10 +1578,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Python",
+            "value": 3860832,
+            "color": "#3572A5"
+        }
     },
     {
         "name": "cert-manager",
+        "path": "Provisioning / Security & Compliance",
         "description": "Automatically provision and manage TLS certificates in Kubernetes",
         "homepage_url": "https://www.jetstack.io/open-source/",
         "project": "sandbox",
@@ -1237,10 +1604,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 4653247,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Chaosblade",
+        "path": "Observability and Analysis / Chaos Engineering",
         "description": "An easy to use and powerful chaos engineering experiment toolkit.\uff08\u963f\u91cc\u5df4\u5df4\u5f00\u6e90\u7684\u4e00\u6b3e\u7b80\u5355\u6613\u7528\u3001\u529f\u80fd\u5f3a\u5927\u7684\u6df7\u6c8c\u5b9e\u9a8c\u6ce8\u5165\u5de5\u5177\uff09",
         "homepage_url": "https://chaosblade.io/",
         "project": "sandbox",
@@ -1257,10 +1630,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 219460,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Cloud Custodian",
+        "path": "Provisioning / Automation & Configuration",
         "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
         "homepage_url": "https://cloudcustodian.io/",
         "project": "sandbox",
@@ -1277,10 +1656,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Python",
+            "value": 6187310,
+            "color": "#3572A5"
+        }
     },
     {
         "name": "Clusterpedia",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "Clusterpedia is used for complex resources search across multiple clusters, support simultaneous search of a single kind of resource  or multiple kinds of resources existing in multiple clusters.",
         "homepage_url": "https://clusterpedia.io",
         "project": "sandbox",
@@ -1297,10 +1682,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/clusterpedia",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 478583,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "CNI-Genie",
+        "path": "Runtime / Cloud Native Network",
         "description": "CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave ",
         "homepage_url": "https://cnigenie.netlify.app",
         "project": "sandbox",
@@ -1317,10 +1708,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 241223,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Confidential Containers",
+        "path": "Provisioning / Security & Compliance",
         "description": "Confidential Containers is an open source community working to enable cloud native  confidential computing by leveraging Trusted Execution Environments to protect  containers and data.",
         "homepage_url": "https://github.com/confidential-containers",
         "project": "sandbox",
@@ -1335,12 +1732,14 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://cloud-native.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": null
     },
     {
         "name": "Curiefense",
+        "path": "Provisioning / Security & Compliance",
         "description": "Curiefense is a unified, open source platform protecting cloud native applications.",
         "homepage_url": "https://www.curiefense.io/",
         "project": "sandbox",
@@ -1357,10 +1756,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "TypeScript",
+            "value": 517911,
+            "color": "#2b7489"
+        }
     },
     {
         "name": "Devfile",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Kube-native API for cloud development workspaces specification",
         "homepage_url": "https://devfile.io",
         "project": "sandbox",
@@ -1375,12 +1780,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/devfile",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 525760,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "DevStream",
+        "path": "Provisioning / Automation & Configuration",
         "description": "DevStream: the open-source DevOps toolchain manager (DTM).",
         "homepage_url": "https://www.devstream.io/",
         "project": "sandbox",
@@ -1397,10 +1808,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/devstream",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 524879,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Dex",
+        "path": "Provisioning / Security & Compliance",
         "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
         "homepage_url": "https://dexidp.io/",
         "project": "sandbox",
@@ -1417,10 +1834,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 958369,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Distribution",
+        "path": "Provisioning / Container Registry",
         "description": "The toolkit to pack, ship, store, and deliver container content",
         "homepage_url": "https://github.com/distribution/distribution",
         "project": "sandbox",
@@ -1437,10 +1860,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1559580,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Fluid",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "Fluid is an orchestration platform for elastic data abstraction and acceleration in cloud native environment.",
         "homepage_url": "http://pasa-bigdata.nju.edu.cn/fluid/index.html",
         "project": "sandbox",
@@ -1457,10 +1886,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 3357937,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Fonio",
+        "path": "Observability and Analysis / Monitoring",
         "description": "Data first monitoring agent using (e)BPF, built on RedBPF",
         "homepage_url": "https://ingraind.org/",
         "project": "sandbox",
@@ -1477,10 +1912,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 132804,
+            "color": "#dea584"
+        }
     },
     {
         "name": "Inclavare Containers",
+        "path": "Runtime / Container Runtime",
         "description": "A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.",
         "homepage_url": "https://inclavare-containers.io/",
         "project": "sandbox",
@@ -1495,12 +1936,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://cloud-native.slack.com/archives/C02HJJ81BD5",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "C",
+            "value": 1408437,
+            "color": "#555555"
+        }
     },
     {
         "name": "k3s",
+        "path": "Platform / Certified Kubernetes - Distribution",
         "description": "Lightweight Kubernetes",
         "homepage_url": "https://k3s.io",
         "project": "sandbox",
@@ -1517,10 +1964,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1022890,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "k8gb",
+        "path": "Orchestration & Management / Coordination & Service Discovery",
         "description": "A cloud native Kubernetes Global Balancer",
         "homepage_url": "https://www.k8gb.io",
         "project": "sandbox",
@@ -1537,10 +1990,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/k8gb",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 352973,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "K8up",
+        "path": "Runtime / Cloud Native Storage",
         "description": "Kubernetes and OpenShift Backup Operator",
         "homepage_url": "https://www.k8up.io/",
         "project": "sandbox",
@@ -1555,12 +2014,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://community.appuio.ch/channel/k8up",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 386918,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Karmada",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
         "homepage_url": "https://karmada.io/",
         "project": "sandbox",
@@ -1577,10 +2042,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/karmada",
         "slack_url": "https://karmada-io.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2081678,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Keylime",
+        "path": "Provisioning / Security & Compliance",
         "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
         "homepage_url": "https://keylime.dev/",
         "project": "sandbox",
@@ -1597,10 +2068,12 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": null
     },
     {
         "name": "Krator",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Kubernetes Rust State Machine Operator",
         "homepage_url": "https://docs.rs/crate/krator/latest",
         "project": "sandbox",
@@ -1617,10 +2090,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kubernetes.slack.com/messages/krator",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 129223,
+            "color": "#dea584"
+        }
     },
     {
         "name": "krustlet",
+        "path": "Wasm / Installable Platform",
         "description": "Kubernetes Rust Kubelet",
         "homepage_url": "https://krustlet.dev/",
         "project": null,
@@ -1637,10 +2116,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 822219,
+            "color": "#dea584"
+        }
     },
     {
         "name": "Kube-OVN",
+        "path": "Runtime / Cloud Native Network",
         "description": "A Bridge between SDN and Cloud Native (Project under CNCF)",
         "homepage_url": "https://kubeovn.github.io/docs/en/",
         "project": "sandbox",
@@ -1657,10 +2142,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kube-ovn-slackin.herokuapp.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1405542,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "kube-rs",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "kube-rs is the core Rust ecosystem for building applications against Kubernetes",
         "homepage_url": "https://kube.rs",
         "project": "sandbox",
@@ -1675,12 +2166,18 @@
         "stack_overflow_url": null,
         "blog_url": "https://kube.rs/blog",
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://discord.gg/tokio",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 640698,
+            "color": "#dea584"
+        }
     },
     {
         "name": "KubeArmor",
+        "path": "Provisioning / Security & Compliance",
         "description": "Runtime protection for Kubernetes & other cloud Workloads. Kubearmor provides a observability and policy enforcement system to restrict any unwanted, malicious behaviour of cloud-native workloads at runtime.",
         "homepage_url": "https://kubearmor.io/",
         "project": "sandbox",
@@ -1697,10 +2194,16 @@
         "mailing_list_url": null,
         "slack_url": "http://kubearmor.slack.com/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/watch?v=NS8XC78wSME"
+        "youtube_url": "https://www.youtube.com/watch?v=NS8XC78wSME",
+        "language": {
+            "name": "Go",
+            "value": 541278,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "KubeDL",
+        "path": "Provisioning / Automation & Configuration",
         "description": "Run your deep learning workloads on Kubernetes more easily and efficiently.",
         "homepage_url": "https://kubedl.io",
         "project": "sandbox",
@@ -1717,10 +2220,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/archives/C027KH1Q71A",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1184184,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Kuberhealthy",
+        "path": "Observability and Analysis / Monitoring",
         "description": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
         "homepage_url": "https://github.com/kuberhealthy/kuberhealthy",
         "project": "sandbox",
@@ -1737,10 +2246,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 374380,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "KubeVela",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "The Modern Application Platform.",
         "homepage_url": "https://kubevela.io",
         "project": "sandbox",
@@ -1757,10 +2272,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 6674560,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "KUDO",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Kubernetes Universal Declarative Operator (KUDO)",
         "homepage_url": "https://kudo.dev/",
         "project": "sandbox",
@@ -1777,10 +2298,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 994208,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Kuma",
+        "path": "Orchestration & Management / Service Mesh",
         "description": "\ud83d\udc3b The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
         "homepage_url": "https://kuma.io",
         "project": "sandbox",
@@ -1797,10 +2324,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 6130659,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Meshery",
+        "path": "Orchestration & Management / Service Mesh",
         "description": "Meshery, the cloud native management plane",
         "homepage_url": "https://meshery.io",
         "project": "sandbox",
@@ -1817,10 +2350,16 @@
         "mailing_list_url": "https://groups.google.com/a/meshery.dev/g/community",
         "slack_url": "https://cloud-native.slack.com/messages/meshery",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/playlist?list=PL3A-A6hPO2INr4oEIorJqC8N0FtxnYj0a"
+        "youtube_url": "https://www.youtube.com/playlist?list=PL3A-A6hPO2INr4oEIorJqC8N0FtxnYj0a",
+        "language": {
+            "name": "Go",
+            "value": 1432165,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Metal3-io",
+        "path": "Provisioning / Automation & Configuration",
         "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
         "homepage_url": "https://metal3.io/",
         "project": "sandbox",
@@ -1837,10 +2376,12 @@
         "mailing_list_url": "https://groups.google.com/g/metal3-dev",
         "slack_url": "https://kubernetes.slack.com/messages/CHD49TLE7",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC_xneeYbo-Dl4g-U78xW15g/videos"
+        "youtube_url": "https://www.youtube.com/channel/UC_xneeYbo-Dl4g-U78xW15g/videos",
+        "language": null
     },
     {
         "name": "Network Service Mesh",
+        "path": "Runtime / Cloud Native Network",
         "description": "The Hybrid/Multi-cloud IP Service Mesh",
         "homepage_url": "https://networkservicemesh.io/",
         "project": "sandbox",
@@ -1857,10 +2398,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/networkservicemesh",
         "slack_url": "https://cloud-native.slack.com/messages/CHQNNUPN1/details/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1611161,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Nocalhost",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Nocalhost is Cloud Native Dev Environment.",
         "homepage_url": "https://nocalhost.dev",
         "project": "sandbox",
@@ -1875,12 +2422,18 @@
         "stack_overflow_url": null,
         "blog_url": "https://nocalhost.dev/blog",
         "mailing_list_url": "https://groups.google.com/g/nocalhost",
-        "slack_url": "https://cloud-native.slack.com/archives/C02MNCR8R5H",
+        "slack_url": "https://cloud-native.slack.com/archives/C02NLKZCJ5D",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC2QC6HvFG8zOtFRvvMzcAUw"
+        "youtube_url": "https://www.youtube.com/channel/UC2QC6HvFG8zOtFRvvMzcAUw",
+        "language": {
+            "name": "Go",
+            "value": 2292996,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Open Cluster Management",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "Contains useful documentation on the OCM project. Report here if you found any issues in OCM.",
         "homepage_url": "https://open-cluster-management.io/",
         "project": "sandbox",
@@ -1897,10 +2450,16 @@
         "mailing_list_url": "https://groups.google.com/g/open-cluster-management",
         "slack_url": "https://kubernetes.slack.com/archives/C01GE7YSUUF",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC7xxOh2jBM5Jfwt3fsBzOZw"
+        "youtube_url": "https://www.youtube.com/channel/UC7xxOh2jBM5Jfwt3fsBzOZw",
+        "language": {
+            "name": "Shell",
+            "value": 1287,
+            "color": "#89e051"
+        }
     },
     {
         "name": "Open Service Mesh",
+        "path": "Orchestration & Management / Service Mesh",
         "description": "Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.",
         "homepage_url": "https://openservicemesh.io/",
         "project": "sandbox",
@@ -1917,10 +2476,16 @@
         "mailing_list_url": "https://groups.google.com/g/openservicemesh",
         "slack_url": "https://cloud-native.slack.com/messages/openservicemesh",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2729342,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "OpenCost",
+        "path": "Observability and Analysis / Continuous Optimization",
         "description": "OpenCost provides visibility into current and historical Kubernetes spend and resource allocation.",
         "homepage_url": "https://www.opencost.io/",
         "project": "sandbox",
@@ -1935,12 +2500,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://slack.cncf.io/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 2066411,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "OpenEBS",
+        "path": "Runtime / Cloud Native Storage",
         "description": "Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.",
         "homepage_url": "https://www.openebs.io/",
         "project": "sandbox",
@@ -1957,10 +2528,12 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/archives/CSL0PJ8GN",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC3ywadaAUQ1FI4YsHZ8wa0g"
+        "youtube_url": "https://www.youtube.com/channel/UC3ywadaAUQ1FI4YsHZ8wa0g",
+        "language": null
     },
     {
         "name": "OpenELB",
+        "path": "Orchestration & Management / Service Proxy",
         "description": "Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization",
         "homepage_url": "https://openelb.github.io",
         "project": "sandbox",
@@ -1975,12 +2548,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/openelb",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 206202,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "OpenFeature",
+        "path": "App Definition and Development / Continuous Integration & Delivery",
         "description": "Standardizing Feature Flagging for Everyone",
         "homepage_url": "https://openfeature.dev/",
         "project": "sandbox",
@@ -1997,10 +2576,12 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ"
+        "youtube_url": "https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ",
+        "language": null
     },
     {
         "name": "OpenFunction",
+        "path": "Serverless / Installable Platform",
         "description": "Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)",
         "homepage_url": "https://openfunction.dev",
         "project": "sandbox",
@@ -2015,12 +2596,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://slack.cncf.io/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 413924,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "OpenGitOps",
+        "path": "App Definition and Development / Continuous Integration & Delivery",
         "description": "Repository for top-level information about the OpenGitOps project",
         "homepage_url": "https://opengitops.dev/",
         "project": "sandbox",
@@ -2037,10 +2624,12 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": null
     },
     {
         "name": "OpenKruise",
+        "path": "App Definition and Development / Continuous Integration & Delivery",
         "description": "Automate application management on Kubernetes (project under CNCF)",
         "homepage_url": "https://openkruise.io/en-us/",
         "project": "sandbox",
@@ -2057,10 +2646,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 3934150,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "OpenYurt",
+        "path": "Provisioning / Automation & Configuration",
         "description": "An open platform that extending your native Kubernetes to edge.",
         "homepage_url": "https://openyurt.io/",
         "project": "sandbox",
@@ -2077,10 +2672,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1770770,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "ORAS",
+        "path": "Runtime / Cloud Native Storage",
         "description": "ORAS CLI",
         "homepage_url": "https://oras.land/",
         "project": "sandbox",
@@ -2097,10 +2698,16 @@
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/oras",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 65946,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Parsec",
+        "path": "Provisioning / Security & Compliance",
         "description": "Platform AbstRaction for SECurity service",
         "homepage_url": "https://parsec.community/",
         "project": "sandbox",
@@ -2117,10 +2724,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 842459,
+            "color": "#dea584"
+        }
     },
     {
         "name": "Piraeus Datastore",
+        "path": "Runtime / Cloud Native Storage",
         "description": "High Available Datastore for Kubernetes",
         "homepage_url": "https://piraeus.io/",
         "project": "sandbox",
@@ -2137,10 +2750,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Shell",
+            "value": 19767,
+            "color": "#89e051"
+        }
     },
     {
         "name": "Pixie",
+        "path": "Observability and Analysis / Monitoring",
         "description": "Open source Kubernetes observability for developers",
         "homepage_url": "https://px.dev/",
         "project": "sandbox",
@@ -2157,10 +2776,16 @@
         "mailing_list_url": null,
         "slack_url": "https://slackin.px.dev/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCOMCDRvBVNIS0lCyOmst7eg"
+        "youtube_url": "https://www.youtube.com/channel/UCOMCDRvBVNIS0lCyOmst7eg",
+        "language": {
+            "name": "C++",
+            "value": 8283102,
+            "color": "#f34b7d"
+        }
     },
     {
         "name": "Porter",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
         "homepage_url": "https://porter.sh/",
         "project": "sandbox",
@@ -2177,10 +2802,16 @@
         "mailing_list_url": "https://porter.sh/mailing-list",
         "slack_url": "https://porter.sh/community/#slack",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCbpSU5xLikfXQ-5meXLrsfA"
+        "youtube_url": "https://www.youtube.com/channel/UCbpSU5xLikfXQ-5meXLrsfA",
+        "language": {
+            "name": "Go",
+            "value": 1561651,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Pravega",
+        "path": "App Definition and Development / Streaming & Messaging",
         "description": "Pravega - Streaming as a new software defined storage primitive",
         "homepage_url": "https://cncf.pravega.io",
         "project": "sandbox",
@@ -2197,10 +2828,16 @@
         "mailing_list_url": null,
         "slack_url": "https://pravega-slack-invite.herokuapp.com/",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCiEkLCWdnjSpub76ZEZcdqw"
+        "youtube_url": "https://www.youtube.com/channel/UCiEkLCWdnjSpub76ZEZcdqw",
+        "language": {
+            "name": "Java",
+            "value": 19715964,
+            "color": "#b07219"
+        }
     },
     {
         "name": "SchemaHero",
+        "path": "App Definition and Development / Database",
         "description": "A Kubernetes operator for declarative database schema management (gitops for database schemas)",
         "homepage_url": "https://schemahero.io",
         "project": "sandbox",
@@ -2217,10 +2854,16 @@
         "mailing_list_url": null,
         "slack_url": "https://kubernetes.slack.com/messages/schemahero",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 467373,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "sealer",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.",
         "homepage_url": "https://sealer.cool",
         "project": "sandbox",
@@ -2235,12 +2878,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/sealer",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1067346,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Serverless Workflow",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Serverless Workflow Specification",
         "homepage_url": "https://serverlessworkflow.github.io",
         "project": "sandbox",
@@ -2257,10 +2906,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Makefile",
+            "value": 282,
+            "color": "#427819"
+        }
     },
     {
         "name": "Service Mesh Interface (SMI)",
+        "path": "Orchestration & Management / Service Mesh",
         "description": "Service Mesh Interface",
         "homepage_url": "https://smi-spec.io",
         "project": "sandbox",
@@ -2277,10 +2932,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Makefile",
+            "value": 191,
+            "color": "#427819"
+        }
     },
     {
         "name": "Service Mesh Performance",
+        "path": "Orchestration & Management / Service Mesh",
         "description": "Standardizing Service Mesh Value Measurement",
         "homepage_url": "https://smp-spec.io/",
         "project": "sandbox",
@@ -2297,10 +2958,16 @@
         "mailing_list_url": "https://groups.google.com/a/smp-spec.io/g/community",
         "slack_url": "https://cloud-native.slack.com/messages/service-mesh-performance",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Makefile",
+            "value": 156,
+            "color": "#427819"
+        }
     },
     {
         "name": "Skooner",
+        "path": "Observability and Analysis / Monitoring",
         "description": "Simple Kubernetes real-time dashboard and management.",
         "homepage_url": "https://skooner.io/",
         "project": "sandbox",
@@ -2317,10 +2984,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "JavaScript",
+            "value": 4601564,
+            "color": "#f1e05a"
+        }
     },
     {
         "name": "Strimzi",
+        "path": "App Definition and Development / Streaming & Messaging",
         "description": "Apache Kafka\u00ae running on Kubernetes",
         "homepage_url": "https://strimzi.io/",
         "project": "sandbox",
@@ -2337,10 +3010,16 @@
         "mailing_list_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#strimzi-logos",
         "slack_url": "https://cloud-native.slack.com/messages/strimzi",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Java",
+            "value": 10825150,
+            "color": "#b07219"
+        }
     },
     {
         "name": "Submariner",
+        "path": "Runtime / Cloud Native Network",
         "description": "Submariner enables direct networking between Pods and Services in different Kubernetes clusters, either on-premises or in the cloud.",
         "homepage_url": "https://submariner.io",
         "project": "sandbox",
@@ -2357,10 +3036,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 931393,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "SuperEdge",
+        "path": "Provisioning / Automation & Configuration",
         "description": "An edge-native container management system for edge computing",
         "homepage_url": "https://superedge.io/",
         "project": "sandbox",
@@ -2375,12 +3060,18 @@
         "stack_overflow_url": null,
         "blog_url": "https://superedge.io/blog/",
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://superedge-workspace.slack.com/",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1128455,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Telepresence",
+        "path": "App Definition and Development / Application Definition & Image Build",
         "description": "Local development against a remote Kubernetes or OpenShift cluster",
         "homepage_url": "https://www.telepresence.io/",
         "project": "sandbox",
@@ -2395,12 +3086,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://d6e.co/slack",
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1676077,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Teller",
+        "path": "Provisioning / Key Management",
         "description": "Cloud native secrets management for developers - never leave your command line for secrets.",
         "homepage_url": "https://tlr.dev",
         "project": "sandbox",
@@ -2414,13 +3111,19 @@
         "artwork_url": null,
         "stack_overflow_url": null,
         "blog_url": null,
-        "mailing_list_url": null,
+        "mailing_list_url": "https://github.com/SpectralOps/teller/discussions",
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 210144,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Tinkerbell",
+        "path": "Provisioning / Automation & Configuration",
         "description": "A workflow engine for provisioning bare metal.",
         "homepage_url": "https://tinkerbell.org/",
         "project": "sandbox",
@@ -2435,12 +3138,18 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://app.slack.com/client/T08PSQ7BQ/C01SRB41GMT",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCTzWInTQPvzH21KHS8jrq7A"
+        "youtube_url": "https://www.youtube.com/channel/UCTzWInTQPvzH21KHS8jrq7A",
+        "language": {
+            "name": "Go",
+            "value": 492740,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Tremor",
+        "path": "App Definition and Development / Streaming & Messaging",
         "description": "Main Tremor Project Rust Codebase",
         "homepage_url": "https://www.tremor.rs/",
         "project": "sandbox",
@@ -2457,10 +3166,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 3460282,
+            "color": "#dea584"
+        }
     },
     {
         "name": "Trickster",
+        "path": "Observability and Analysis / Monitoring",
         "description": "Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator",
         "homepage_url": "https://trickstercache.org",
         "project": "sandbox",
@@ -2477,10 +3192,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 1758435,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "Vineyard",
+        "path": "Runtime / Cloud Native Storage",
         "description": "Vineyard (v6d) is an in-memory immutable data manager.",
         "homepage_url": "https://v6d.io",
         "project": "sandbox",
@@ -2497,10 +3218,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "C++",
+            "value": 1777740,
+            "color": "#f34b7d"
+        }
     },
     {
         "name": "Virtual Kubelet",
+        "path": "Serverless / Installable Platform",
         "description": "Virtual Kubelet is an open source Kubernetes kubelet implementation.",
         "homepage_url": "https://virtual-kubelet.io/",
         "project": "sandbox",
@@ -2517,10 +3244,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 510568,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "wasmCloud",
+        "path": "Orchestration & Management / Scheduling & Orchestration",
         "description": "Project homepage. wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.",
         "homepage_url": "https://wasmcloud.com",
         "project": "sandbox",
@@ -2537,10 +3270,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Rust",
+            "value": 328907,
+            "color": "#dea584"
+        }
     },
     {
         "name": "WasmEdge Runtime",
+        "path": "Runtime / Container Runtime",
         "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
         "homepage_url": "https://wasmedge.org/",
         "project": "sandbox",
@@ -2557,10 +3296,16 @@
         "mailing_list_url": null,
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "C++",
+            "value": 2883299,
+            "color": "#f34b7d"
+        }
     },
     {
         "name": "OpenTracing",
+        "path": "Observability and Analysis / Tracing",
         "description": "OpenTracing API for Go. \ud83d\uded1 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163",
         "homepage_url": "https://opentracing.io/",
         "project": "archived",
@@ -2577,10 +3322,16 @@
         "mailing_list_url": "https://groups.google.com/forum/#!forum/opentracing",
         "slack_url": null,
         "gitter_url": "https://gitter.im/opentracing/public",
-        "youtube_url": null
+        "youtube_url": null,
+        "language": {
+            "name": "Go",
+            "value": 110743,
+            "color": "#00ADD8"
+        }
     },
     {
         "name": "rkt",
+        "path": "Runtime / Container Runtime",
         "description": "[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",
         "homepage_url": "https://github.com/rkt/rkt",
         "project": "archived",
@@ -2597,6 +3348,11 @@
         "mailing_list_url": "https://groups.google.com/forum/?hl=en#!forum/rkt-dev",
         "slack_url": null,
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/watch?v=XV6502odGd0&list=PLlh6TqkU8kg-5_WY2VVoRxnh-dFtB0ssp"
+        "youtube_url": "https://www.youtube.com/watch?v=XV6502odGd0&list=PLlh6TqkU8kg-5_WY2VVoRxnh-dFtB0ssp",
+        "language": {
+            "name": "Go",
+            "value": 1912884,
+            "color": "#00ADD8"
+        }
     }
 ]

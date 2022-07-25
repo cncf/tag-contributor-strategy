@@ -1,7 +1,6 @@
 ---
 title: Contribution Guides to the CNCF Ecosystem
 linkTitle: "Contributorss"
-layout: single
 menu:
   main:
     weight: 20
@@ -14,6 +13,8 @@ CNCF offers multiple ways to start contributing to the CNCF ecosystem, including
 ## Projects
 
 The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
+
+{{< projects >}}
 
 ## Graduated Projects
 
