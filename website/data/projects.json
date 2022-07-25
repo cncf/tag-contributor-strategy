@@ -19,11 +19,7 @@
         "slack_url": "https://slack.containerd.io/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 5109698,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "CoreDNS",
@@ -45,11 +41,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/coredns/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCbWRJZxiaQ8twm6sh7UymoQ",
-        "language": {
-            "name": "Go",
-            "value": 1522107,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Envoy",
@@ -71,11 +63,7 @@
         "slack_url": "https://envoyproxy.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "C++",
-            "value": 33565137,
-            "color": "#f34b7d"
-        }
+        "language": "C++"
     },
     {
         "name": "etcd",
@@ -97,11 +85,7 @@
         "slack_url": "https://freenode.net/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 5244000,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Fluentd",
@@ -123,11 +107,7 @@
         "slack_url": "http://slack.fluentd.org/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Ruby",
-            "value": 3193871,
-            "color": "#701516"
-        }
+        "language": "Ruby"
     },
     {
         "name": "Harbor",
@@ -149,11 +129,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/harbor/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 5455191,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Helm",
@@ -175,11 +151,7 @@
         "slack_url": "slack.k8s.io",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1649535,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Jaeger",
@@ -201,11 +173,7 @@
         "slack_url": null,
         "gitter_url": "https://gitter.im/jaegertracing/Lobby",
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2767757,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Kubernetes",
@@ -227,11 +195,7 @@
         "slack_url": "http://slack.k8s.io/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg",
-        "language": {
-            "name": "Go",
-            "value": 61158233,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Linkerd",
@@ -253,11 +217,7 @@
         "slack_url": "https://slack.linkerd.io/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/watch?v=wBgBwNZo_EE&list=PLI9FkLPXDscDB0gevkhEnyfgIfWF5yk4V",
-        "language": {
-            "name": "Go",
-            "value": 2331490,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Open Policy Agent (OPA)",
@@ -279,11 +239,7 @@
         "slack_url": "http://slack.openpolicyagent.org/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 5774931,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Prometheus",
@@ -305,11 +261,7 @@
         "slack_url": "https://freenode.net/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC4pLFely0-Odea4B2NL1nWA",
-        "language": {
-            "name": "Go",
-            "value": 4199632,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Rook",
@@ -331,11 +283,7 @@
         "slack_url": "https://rook-io.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 4177049,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "The Update Framework (TUF)",
@@ -357,11 +305,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Python",
-            "value": 380622,
-            "color": "#3572A5"
-        }
+        "language": "Python"
     },
     {
         "name": "TiKV",
@@ -383,11 +327,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCXyuUR4qEm0HLDniz46k6sg",
-        "language": {
-            "name": "Rust",
-            "value": 14349336,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "Vitess",
@@ -409,11 +349,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 31617548,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Argo",
@@ -435,11 +371,7 @@
         "slack_url": "https://argoproj.slack.com/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA",
-        "language": {
-            "name": "Go",
-            "value": 3196309,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Backstage",
@@ -461,11 +393,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "TypeScript",
-            "value": 13268179,
-            "color": "#2b7489"
-        }
+        "language": "TypeScript"
     },
     {
         "name": "Buildpacks",
@@ -487,11 +415,7 @@
         "slack_url": "https://slack.buildpacks.io/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1880013,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Chaos Mesh",
@@ -513,11 +437,7 @@
         "slack_url": "https://join.slack.com/t/cloud-native/shared_invite/zt-fyy3b8up-qHeDNVqbz1j8HDY6g1cY4w",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC4OwT4QTd0ML3YNnV1ybT6g",
-        "language": {
-            "name": "Go",
-            "value": 2681838,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Cilium",
@@ -539,11 +459,7 @@
         "slack_url": "https://cilium.herokuapp.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 10564612,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "CloudEvents",
@@ -565,11 +481,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/cloudevents",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Shell",
-            "value": 19943,
-            "color": "#89e051"
-        }
+        "language": "Shell"
     },
     {
         "name": "Container Network Interface (CNI)",
@@ -591,11 +503,7 @@
         "slack_url": "https://containernetworking.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 340739,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Contour",
@@ -617,11 +525,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/contour",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 3853252,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Cortex",
@@ -643,11 +547,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/cortex/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 6120342,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "CRI-O",
@@ -669,11 +569,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/CAZH62UR1",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1446720,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Crossplane",
@@ -695,11 +591,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC19FgzMBMqBro361HbE46Fw",
-        "language": {
-            "name": "Go",
-            "value": 1292088,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "CubeFS",
@@ -721,11 +613,7 @@
         "slack_url": "https://cubefs.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "C++",
-            "value": 9337807,
-            "color": "#f34b7d"
-        }
+        "language": "C++"
     },
     {
         "name": "Dapr",
@@ -747,11 +635,7 @@
         "slack_url": "https://discord.com/invite/ptHhX6jc34",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2628659,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Dragonfly",
@@ -773,11 +657,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/dragonfly/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2144521,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Emissary-Ingress",
@@ -799,11 +679,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Python",
-            "value": 1886953,
-            "color": "#3572A5"
-        }
+        "language": "Python"
     },
     {
         "name": "Falco",
@@ -825,11 +701,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/falco",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "C++",
-            "value": 396378,
-            "color": "#f34b7d"
-        }
+        "language": "C++"
     },
     {
         "name": "Flux",
@@ -851,11 +723,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/flux",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA",
-        "language": {
-            "name": "Go",
-            "value": 752574,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "gRPC",
@@ -877,11 +745,7 @@
         "slack_url": null,
         "gitter_url": "https://gitter.im/grpc/grpc",
         "youtube_url": "https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg",
-        "language": {
-            "name": "C++",
-            "value": 16068082,
-            "color": "#f34b7d"
-        }
+        "language": "C++"
     },
     {
         "name": "Hubble",
@@ -903,11 +767,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 230684,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "in-toto",
@@ -929,11 +789,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/in-toto",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Python",
-            "value": 397493,
-            "color": "#3572A5"
-        }
+        "language": "Python"
     },
     {
         "name": "Keda",
@@ -955,11 +811,7 @@
         "slack_url": "https://kubernetes.slack.com/archives/CKZJ36A5D",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/playlist?list=PLvjRi5R9GQfASIcL4MLTfg2ZOoBdIi5Kq",
-        "language": {
-            "name": "Go",
-            "value": 1753483,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Keptn",
@@ -981,11 +833,7 @@
         "slack_url": "https://slack.keptn.sh/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ",
-        "language": {
-            "name": "Go",
-            "value": 3540835,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Knative",
@@ -1007,11 +855,7 @@
         "slack_url": "https://slack.knative.dev",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/c/KnativeProject",
-        "language": {
-            "name": "Go",
-            "value": 3883189,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "KubeEdge",
@@ -1033,11 +877,7 @@
         "slack_url": "https://kubeedge.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2503092,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "KubeVirt",
@@ -1059,11 +899,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC2FH36TbZizw25pVT1P3C3g",
-        "language": {
-            "name": "Go",
-            "value": 10640842,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Kyverno",
@@ -1085,11 +921,7 @@
         "slack_url": "https://kubernetes.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 8134695,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Litmus",
@@ -1111,11 +943,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/CNXNB0ZTN",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw",
-        "language": {
-            "name": "HTML",
-            "value": 2678552,
-            "color": "#e34c26"
-        }
+        "language": "HTML"
     },
     {
         "name": "Longhorn",
@@ -1137,11 +965,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Shell",
-            "value": 26833,
-            "color": "#89e051"
-        }
+        "language": "Shell"
     },
     {
         "name": "NATS",
@@ -1163,11 +987,7 @@
         "slack_url": "https://natsio.slack.com/join/shared_invite/enQtMzE2NDkxNDI2NTE1LTc5ZDEzYTkwYWZkYWQ5YjY1MzBjMWZmYzA5OGQxMzlkMGQzMjYxNGM3MWYxMjNiYmNjNzIwMTVjMWE2ZDgxZGM",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 6315889,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Notary",
@@ -1189,11 +1009,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1907023,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "OpenMetrics",
@@ -1215,11 +1031,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/openmetrics",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 47993,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "OpenTelemetry",
@@ -1241,11 +1053,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/opentelemetry",
         "gitter_url": "https://gitter.im/open-telemetry/community",
         "youtube_url": null,
-        "language": {
-            "name": "C#",
-            "value": 7570,
-            "color": "#178600"
-        }
+        "language": "C#"
     },
     {
         "name": "Operator Framework",
@@ -1267,11 +1075,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCxRfXpCVxnotoSGxEpB1hwA",
-        "language": {
-            "name": "Go",
-            "value": 1710297,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "SPIFFE",
@@ -1293,11 +1097,7 @@
         "slack_url": "https://slack.spiffe.io/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Shell",
-            "value": 2959,
-            "color": "#89e051"
-        }
+        "language": "Shell"
     },
     {
         "name": "SPIRE",
@@ -1319,11 +1119,7 @@
         "slack_url": "https://slack.spiffe.io/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 4876338,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Thanos",
@@ -1345,11 +1141,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/CK5RSSC10",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 5826370,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Volcano",
@@ -1371,11 +1163,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1644834,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Aeraki Mesh",
@@ -1397,11 +1185,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/aeraki-mesh",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 360817,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Akri",
@@ -1423,11 +1207,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/C01D9L7QE8Z",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 830452,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "Antrea",
@@ -1449,11 +1229,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 6383492,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Artifact Hub",
@@ -1475,11 +1251,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "TypeScript",
-            "value": 3015487,
-            "color": "#2b7489"
-        }
+        "language": "TypeScript"
     },
     {
         "name": "Athenz",
@@ -1501,11 +1273,7 @@
         "slack_url": "https://join.slack.com/t/athenz/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Java",
-            "value": 12693164,
-            "color": "#b07219"
-        }
+        "language": "Java"
     },
     {
         "name": "BFE",
@@ -1527,11 +1295,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2701737,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Brigade",
@@ -1553,11 +1317,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/C87MF1RFD",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1537456,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "CDK for Kubernetes (CDK8s)",
@@ -1579,11 +1339,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Python",
-            "value": 3860832,
-            "color": "#3572A5"
-        }
+        "language": "Python"
     },
     {
         "name": "cert-manager",
@@ -1605,11 +1361,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 4653247,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Chaosblade",
@@ -1631,11 +1383,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 219460,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Cloud Custodian",
@@ -1657,11 +1405,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Python",
-            "value": 6187310,
-            "color": "#3572A5"
-        }
+        "language": "Python"
     },
     {
         "name": "Clusterpedia",
@@ -1683,11 +1427,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/clusterpedia",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 478583,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "CNI-Genie",
@@ -1709,11 +1449,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 241223,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Confidential Containers",
@@ -1757,11 +1493,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "TypeScript",
-            "value": 517911,
-            "color": "#2b7489"
-        }
+        "language": "TypeScript"
     },
     {
         "name": "Devfile",
@@ -1783,11 +1515,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/devfile",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 525760,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "DevStream",
@@ -1809,11 +1537,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/devstream",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 524879,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Dex",
@@ -1835,11 +1559,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 958369,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Distribution",
@@ -1861,11 +1581,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1559580,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Fluid",
@@ -1887,11 +1603,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 3357937,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Fonio",
@@ -1913,11 +1625,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 132804,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "Inclavare Containers",
@@ -1939,11 +1647,7 @@
         "slack_url": "https://cloud-native.slack.com/archives/C02HJJ81BD5",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "C",
-            "value": 1408437,
-            "color": "#555555"
-        }
+        "language": "C"
     },
     {
         "name": "k3s",
@@ -1965,11 +1669,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1022890,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "k8gb",
@@ -1991,11 +1691,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/k8gb",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 352973,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "K8up",
@@ -2017,11 +1713,7 @@
         "slack_url": "https://community.appuio.ch/channel/k8up",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 386918,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Karmada",
@@ -2043,11 +1735,7 @@
         "slack_url": "https://karmada-io.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2081678,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Keylime",
@@ -2091,11 +1779,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/krator",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 129223,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "krustlet",
@@ -2117,11 +1801,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 822219,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "Kube-OVN",
@@ -2143,11 +1823,7 @@
         "slack_url": "https://kube-ovn-slackin.herokuapp.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1405542,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "kube-rs",
@@ -2169,11 +1845,7 @@
         "slack_url": "https://discord.gg/tokio",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 640698,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "KubeArmor",
@@ -2195,11 +1867,7 @@
         "slack_url": "http://kubearmor.slack.com/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/watch?v=NS8XC78wSME",
-        "language": {
-            "name": "Go",
-            "value": 541278,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "KubeDL",
@@ -2221,11 +1889,7 @@
         "slack_url": "https://cloud-native.slack.com/archives/C027KH1Q71A",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1184184,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Kuberhealthy",
@@ -2247,11 +1911,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 374380,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "KubeVela",
@@ -2273,11 +1933,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 6674560,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "KUDO",
@@ -2299,11 +1955,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 994208,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Kuma",
@@ -2325,11 +1977,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 6130659,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Meshery",
@@ -2351,11 +1999,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/meshery",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/playlist?list=PL3A-A6hPO2INr4oEIorJqC8N0FtxnYj0a",
-        "language": {
-            "name": "Go",
-            "value": 1432165,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Metal3-io",
@@ -2399,11 +2043,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/CHQNNUPN1/details/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1611161,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Nocalhost",
@@ -2425,11 +2065,7 @@
         "slack_url": "https://cloud-native.slack.com/archives/C02NLKZCJ5D",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC2QC6HvFG8zOtFRvvMzcAUw",
-        "language": {
-            "name": "Go",
-            "value": 2292996,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Open Cluster Management",
@@ -2451,11 +2087,7 @@
         "slack_url": "https://kubernetes.slack.com/archives/C01GE7YSUUF",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC7xxOh2jBM5Jfwt3fsBzOZw",
-        "language": {
-            "name": "Shell",
-            "value": 1287,
-            "color": "#89e051"
-        }
+        "language": "Shell"
     },
     {
         "name": "Open Service Mesh",
@@ -2477,11 +2109,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/openservicemesh",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2729342,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "OpenCost",
@@ -2503,11 +2131,7 @@
         "slack_url": "https://slack.cncf.io/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 2066411,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "OpenEBS",
@@ -2551,11 +2175,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/openelb",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 206202,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "OpenFeature",
@@ -2599,11 +2219,7 @@
         "slack_url": "https://slack.cncf.io/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 413924,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "OpenGitOps",
@@ -2647,11 +2263,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 3934150,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "OpenYurt",
@@ -2673,11 +2285,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1770770,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "ORAS",
@@ -2699,11 +2307,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/oras",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 65946,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Parsec",
@@ -2725,11 +2329,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 842459,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "Piraeus Datastore",
@@ -2751,11 +2351,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Shell",
-            "value": 19767,
-            "color": "#89e051"
-        }
+        "language": "Shell"
     },
     {
         "name": "Pixie",
@@ -2777,11 +2373,7 @@
         "slack_url": "https://slackin.px.dev/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCOMCDRvBVNIS0lCyOmst7eg",
-        "language": {
-            "name": "C++",
-            "value": 8283102,
-            "color": "#f34b7d"
-        }
+        "language": "C++"
     },
     {
         "name": "Porter",
@@ -2803,11 +2395,7 @@
         "slack_url": "https://porter.sh/community/#slack",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCbpSU5xLikfXQ-5meXLrsfA",
-        "language": {
-            "name": "Go",
-            "value": 1561651,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Pravega",
@@ -2829,11 +2417,7 @@
         "slack_url": "https://pravega-slack-invite.herokuapp.com/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCiEkLCWdnjSpub76ZEZcdqw",
-        "language": {
-            "name": "Java",
-            "value": 19715964,
-            "color": "#b07219"
-        }
+        "language": "Java"
     },
     {
         "name": "SchemaHero",
@@ -2855,11 +2439,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/schemahero",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 467373,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "sealer",
@@ -2881,11 +2461,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/sealer",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1067346,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Serverless Workflow",
@@ -2907,11 +2483,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Makefile",
-            "value": 282,
-            "color": "#427819"
-        }
+        "language": "Makefile"
     },
     {
         "name": "Service Mesh Interface (SMI)",
@@ -2933,11 +2505,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Makefile",
-            "value": 191,
-            "color": "#427819"
-        }
+        "language": "Makefile"
     },
     {
         "name": "Service Mesh Performance",
@@ -2959,11 +2527,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/service-mesh-performance",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Makefile",
-            "value": 156,
-            "color": "#427819"
-        }
+        "language": "Makefile"
     },
     {
         "name": "Skooner",
@@ -2985,11 +2549,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "JavaScript",
-            "value": 4601564,
-            "color": "#f1e05a"
-        }
+        "language": "JavaScript"
     },
     {
         "name": "Strimzi",
@@ -3011,11 +2571,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/strimzi",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Java",
-            "value": 10825150,
-            "color": "#b07219"
-        }
+        "language": "Java"
     },
     {
         "name": "Submariner",
@@ -3037,11 +2593,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 931393,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "SuperEdge",
@@ -3063,11 +2615,7 @@
         "slack_url": "https://superedge-workspace.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1128455,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Telepresence",
@@ -3089,11 +2637,7 @@
         "slack_url": "https://d6e.co/slack",
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1676077,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Teller",
@@ -3115,11 +2659,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 210144,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Tinkerbell",
@@ -3141,11 +2681,7 @@
         "slack_url": "https://app.slack.com/client/T08PSQ7BQ/C01SRB41GMT",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCTzWInTQPvzH21KHS8jrq7A",
-        "language": {
-            "name": "Go",
-            "value": 492740,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Tremor",
@@ -3167,11 +2703,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 3460282,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "Trickster",
@@ -3193,11 +2725,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 1758435,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "Vineyard",
@@ -3219,11 +2747,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "C++",
-            "value": 1777740,
-            "color": "#f34b7d"
-        }
+        "language": "C++"
     },
     {
         "name": "Virtual Kubelet",
@@ -3245,11 +2769,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 510568,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "wasmCloud",
@@ -3271,11 +2791,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "Rust",
-            "value": 328907,
-            "color": "#dea584"
-        }
+        "language": "Rust"
     },
     {
         "name": "WasmEdge Runtime",
@@ -3297,11 +2813,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": {
-            "name": "C++",
-            "value": 2883299,
-            "color": "#f34b7d"
-        }
+        "language": "C++"
     },
     {
         "name": "OpenTracing",
@@ -3323,11 +2835,7 @@
         "slack_url": null,
         "gitter_url": "https://gitter.im/opentracing/public",
         "youtube_url": null,
-        "language": {
-            "name": "Go",
-            "value": 110743,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     },
     {
         "name": "rkt",
@@ -3349,10 +2857,6 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/watch?v=XV6502odGd0&list=PLlh6TqkU8kg-5_WY2VVoRxnh-dFtB0ssp",
-        "language": {
-            "name": "Go",
-            "value": 1912884,
-            "color": "#00ADD8"
-        }
+        "language": "Go"
     }
 ]

@@ -1,7 +1,19 @@
-<ul>
+<table>
+    <thead>
+    <tr>
+    <th style="text-align:center">Project Name</th>
+    <th style="text-align:center">Focus</th>
+    <th style="text-align:center">Primary Language</th>
+    </tr>
+    </thead>
+    <tbody>
 {{ range $.Site.Data.projects }}
-<li>
-    {{ .name }}, {{ .project }}
-</li>
+    <tr>
+        <td style="text-align:center">
+        <a href="/contributorss/projects/#kubernetes">{{ .name }}</a></td>
+        <td style="text-align:center">{{ .path }}</td>
+        <td style="text-align:center">{{ .language }}</td>
+    </tr>
 {{ end }}
-</ul>
+</tbody>
+</table>
