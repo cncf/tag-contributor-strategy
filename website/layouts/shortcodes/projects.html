@@ -1,1 +1,7 @@
-{{ now.Format "2006" }}
+<ul>
+{{ range $.Site.Data.projects }}
+<li>
+    {{ .name }}, {{ .project }}
+</li>
+{{ end }}
+</ul>
