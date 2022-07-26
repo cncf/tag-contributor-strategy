@@ -26,7 +26,7 @@ with urllib.request.urlopen(landscapeHostedProjects) as hostedProjectsResponse:
                 print("Processing {}...".format(projectData['name']))
                 csvRows.append({
                         'name': projectData['name'],
-                        'path': projectData['path'] if 'path' in projectData else None,
+                        'path': projectData['path'].split(' / ')[1] if 'path' in projectData else None,
                         'description': projectData['description'] if 'description' in projectData else None,
                         'homepage_url': projectData['homepage_url'] if 'homepage_url' in projectData else None,
                         'project': projectData['project'] if 'project' in projectData else None,

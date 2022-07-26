@@ -1,7 +1,7 @@
 [
     {
         "name": "containerd",
-        "path": "Runtime / Container Runtime",
+        "path": "Container Runtime",
         "description": "An open and reliable container runtime",
         "homepage_url": "https://containerd.io/",
         "project": "graduated",
@@ -23,7 +23,7 @@
     },
     {
         "name": "CoreDNS",
-        "path": "Orchestration & Management / Coordination & Service Discovery",
+        "path": "Coordination & Service Discovery",
         "description": "CoreDNS is a DNS server that chains plugins",
         "homepage_url": "https://coredns.io/",
         "project": "graduated",
@@ -45,7 +45,7 @@
     },
     {
         "name": "Envoy",
-        "path": "Orchestration & Management / Service Proxy",
+        "path": "Service Proxy",
         "description": "Cloud-native high-performance edge/middle/service proxy",
         "homepage_url": "https://www.envoyproxy.io",
         "project": "graduated",
@@ -67,7 +67,7 @@
     },
     {
         "name": "etcd",
-        "path": "Orchestration & Management / Coordination & Service Discovery",
+        "path": "Coordination & Service Discovery",
         "description": "Distributed reliable key-value store for the most critical data of a distributed system",
         "homepage_url": "https://etcd.io/",
         "project": "graduated",
@@ -89,7 +89,7 @@
     },
     {
         "name": "Fluentd",
-        "path": "Observability and Analysis / Logging",
+        "path": "Logging",
         "description": "Fluentd: Unified Logging Layer (project under CNCF)",
         "homepage_url": "https://www.fluentd.org/",
         "project": "graduated",
@@ -111,7 +111,7 @@
     },
     {
         "name": "Harbor",
-        "path": "Provisioning / Container Registry",
+        "path": "Container Registry",
         "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
         "homepage_url": "https://goharbor.io/",
         "project": "graduated",
@@ -133,7 +133,7 @@
     },
     {
         "name": "Helm",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "The Kubernetes Package Manager",
         "homepage_url": "https://helm.sh/",
         "project": "graduated",
@@ -155,7 +155,7 @@
     },
     {
         "name": "Jaeger",
-        "path": "Observability and Analysis / Tracing",
+        "path": "Tracing",
         "description": "CNCF Jaeger, a Distributed Tracing Platform",
         "homepage_url": "https://www.jaegertracing.io/",
         "project": "graduated",
@@ -177,7 +177,7 @@
     },
     {
         "name": "Kubernetes",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications",
         "homepage_url": "https://kubernetes.io/",
         "project": "graduated",
@@ -199,7 +199,7 @@
     },
     {
         "name": "Linkerd",
-        "path": "Orchestration & Management / Service Mesh",
+        "path": "Service Mesh",
         "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
         "homepage_url": "https://linkerd.io/",
         "project": "graduated",
@@ -221,7 +221,7 @@
     },
     {
         "name": "Open Policy Agent (OPA)",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "An open source, general-purpose policy engine.",
         "homepage_url": "https://www.openpolicyagent.org/",
         "project": "graduated",
@@ -243,7 +243,7 @@
     },
     {
         "name": "Prometheus",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "The Prometheus monitoring system and time series database.",
         "homepage_url": "https://prometheus.io/",
         "project": "graduated",
@@ -265,7 +265,7 @@
     },
     {
         "name": "Rook",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "Storage Orchestration for Kubernetes",
         "homepage_url": "https://rook.io/",
         "project": "graduated",
@@ -287,7 +287,7 @@
     },
     {
         "name": "The Update Framework (TUF)",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Python reference implementation of The Update Framework (TUF)",
         "homepage_url": "https://theupdateframework.github.io/",
         "project": "graduated",
@@ -309,7 +309,7 @@
     },
     {
         "name": "TiKV",
-        "path": "App Definition and Development / Database",
+        "path": "Database",
         "description": "A distributed transactional key-value database. Based on the design of Google Spanner and HBase, but simpler to manage and without dependencies on any distributed filesystem",
         "homepage_url": "https://tikv.org",
         "project": "graduated",
@@ -331,7 +331,7 @@
     },
     {
         "name": "Vitess",
-        "path": "App Definition and Development / Database",
+        "path": "Database",
         "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
         "homepage_url": "https://vitess.io/",
         "project": "graduated",
@@ -353,7 +353,7 @@
     },
     {
         "name": "Argo",
-        "path": "App Definition and Development / Continuous Integration & Delivery",
+        "path": "Continuous Integration & Delivery",
         "description": "Workflow engine for Kubernetes",
         "homepage_url": "https://argoproj.github.io/",
         "project": "incubating",
@@ -375,7 +375,7 @@
     },
     {
         "name": "Backstage",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Backstage is an open platform for building developer portals",
         "homepage_url": "https://backstage.io/",
         "project": "incubating",
@@ -397,7 +397,7 @@
     },
     {
         "name": "Buildpacks",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "CLI for building apps using Cloud Native Buildpacks",
         "homepage_url": "https://buildpacks.io/",
         "project": "incubating",
@@ -419,7 +419,7 @@
     },
     {
         "name": "Chaos Mesh",
-        "path": "Observability and Analysis / Chaos Engineering",
+        "path": "Chaos Engineering",
         "description": "A Chaos Engineering Platform for Kubernetes.",
         "homepage_url": "https://chaos-mesh.org/",
         "project": "incubating",
@@ -441,7 +441,7 @@
     },
     {
         "name": "Cilium",
-        "path": "Runtime / Cloud Native Network",
+        "path": "Cloud Native Network",
         "description": "eBPF-based Networking, Security, and Observability",
         "homepage_url": "https://cilium.io/",
         "project": "incubating",
@@ -463,7 +463,7 @@
     },
     {
         "name": "CloudEvents",
-        "path": "App Definition and Development / Streaming & Messaging",
+        "path": "Streaming & Messaging",
         "description": "CloudEvents Specification",
         "homepage_url": "https://cloudevents.io/",
         "project": "incubating",
@@ -485,7 +485,7 @@
     },
     {
         "name": "Container Network Interface (CNI)",
-        "path": "Runtime / Cloud Native Network",
+        "path": "Cloud Native Network",
         "description": "Container Network Interface - networking for Linux containers",
         "homepage_url": "https://www.cni.dev/",
         "project": "incubating",
@@ -507,7 +507,7 @@
     },
     {
         "name": "Contour",
-        "path": "Orchestration & Management / Service Proxy",
+        "path": "Service Proxy",
         "description": "Contour is a Kubernetes ingress controller using Envoy proxy.",
         "homepage_url": "https://projectcontour.io",
         "project": "incubating",
@@ -529,7 +529,7 @@
     },
     {
         "name": "Cortex",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
         "homepage_url": "https://cortexmetrics.io/",
         "project": "incubating",
@@ -551,7 +551,7 @@
     },
     {
         "name": "CRI-O",
-        "path": "Runtime / Container Runtime",
+        "path": "Container Runtime",
         "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
         "homepage_url": "https://cri-o.io/",
         "project": "incubating",
@@ -573,7 +573,7 @@
     },
     {
         "name": "Crossplane",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "Cloud Native Control Planes",
         "homepage_url": "https://crossplane.io/",
         "project": "incubating",
@@ -595,7 +595,7 @@
     },
     {
         "name": "CubeFS",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "CubeFS is a cloud native distributed storage platform. ",
         "homepage_url": "https://cubefs.io/",
         "project": "incubating",
@@ -617,7 +617,7 @@
     },
     {
         "name": "Dapr",
-        "path": "Serverless / Framework",
+        "path": "Framework",
         "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
         "homepage_url": "https://dapr.io",
         "project": "incubating",
@@ -639,7 +639,7 @@
     },
     {
         "name": "Dragonfly",
-        "path": "Provisioning / Container Registry",
+        "path": "Container Registry",
         "description": "Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.",
         "homepage_url": "https://d7y.io/",
         "project": "incubating",
@@ -661,7 +661,7 @@
     },
     {
         "name": "Emissary-Ingress",
-        "path": "Orchestration & Management / API Gateway",
+        "path": "API Gateway",
         "description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy",
         "homepage_url": "https://www.getambassador.io/",
         "project": "incubating",
@@ -683,7 +683,7 @@
     },
     {
         "name": "Falco",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Cloud Native Runtime Security",
         "homepage_url": "https://falco.org/",
         "project": "incubating",
@@ -705,7 +705,7 @@
     },
     {
         "name": "Flux",
-        "path": "App Definition and Development / Continuous Integration & Delivery",
+        "path": "Continuous Integration & Delivery",
         "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
         "homepage_url": "https://fluxcd.io/",
         "project": "incubating",
@@ -727,7 +727,7 @@
     },
     {
         "name": "gRPC",
-        "path": "Orchestration & Management / Remote Procedure Call",
+        "path": "Remote Procedure Call",
         "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
         "homepage_url": "https://grpc.io/",
         "project": "incubating",
@@ -749,7 +749,7 @@
     },
     {
         "name": "Hubble",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF",
         "homepage_url": "https://github.com/cilium/hubble",
         "project": "incubating",
@@ -771,7 +771,7 @@
     },
     {
         "name": "in-toto",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "in-toto is a framework to protect supply chain integrity.",
         "homepage_url": "https://in-toto.io",
         "project": "incubating",
@@ -793,7 +793,7 @@
     },
     {
         "name": "Keda",
-        "path": "Serverless / Installable Platform",
+        "path": "Installable Platform",
         "description": " KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ",
         "homepage_url": "https://keda.sh/",
         "project": "incubating",
@@ -815,7 +815,7 @@
     },
     {
         "name": "Keptn",
-        "path": "App Definition and Development / Continuous Integration & Delivery",
+        "path": "Continuous Integration & Delivery",
         "description": "Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.",
         "homepage_url": "https://www.keptn.sh",
         "project": "incubating",
@@ -837,7 +837,7 @@
     },
     {
         "name": "Knative",
-        "path": "Serverless / Installable Platform",
+        "path": "Installable Platform",
         "description": "Knative is a developer-focused serverless application layer which is a great complement to the existing Kubernetes application constructs. Knative consists of two components: an HTTP-triggered autoscaling container runtime called \u201cKnative Serving\u201d, and a CloudEvents-over-HTTP asynchronous routing layer called \u201cKnative Eventing\u201d.",
         "homepage_url": "https://knative.dev",
         "project": "incubating",
@@ -859,7 +859,7 @@
     },
     {
         "name": "KubeEdge",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
         "homepage_url": "https://kubeedge.io/en/",
         "project": "incubating",
@@ -881,7 +881,7 @@
     },
     {
         "name": "KubeVirt",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
         "homepage_url": "https://kubevirt.io/",
         "project": "incubating",
@@ -903,7 +903,7 @@
     },
     {
         "name": "Kyverno",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Kubernetes Native Policy Management",
         "homepage_url": "https://kyverno.io/",
         "project": "incubating",
@@ -925,7 +925,7 @@
     },
     {
         "name": "Litmus",
-        "path": "Observability and Analysis / Chaos Engineering",
+        "path": "Chaos Engineering",
         "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
         "homepage_url": "https://litmuschaos.io/",
         "project": "incubating",
@@ -947,7 +947,7 @@
     },
     {
         "name": "Longhorn",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "Cloud-Native distributed storage built on and for Kubernetes",
         "homepage_url": "https://longhorn.io/",
         "project": "incubating",
@@ -969,7 +969,7 @@
     },
     {
         "name": "NATS",
-        "path": "App Definition and Development / Streaming & Messaging",
+        "path": "Streaming & Messaging",
         "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
         "homepage_url": "https://nats.io/",
         "project": "incubating",
@@ -991,7 +991,7 @@
     },
     {
         "name": "Notary",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Notary is a project that allows anyone to have trust over arbitrary collections of data",
         "homepage_url": "https://notaryproject.dev/",
         "project": "incubating",
@@ -1013,7 +1013,7 @@
     },
     {
         "name": "OpenMetrics",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "Evolving the Prometheus exposition format into a standard.",
         "homepage_url": "https://openmetrics.io/",
         "project": "incubating",
@@ -1035,7 +1035,7 @@
     },
     {
         "name": "OpenTelemetry",
-        "path": "Observability and Analysis / Tracing",
+        "path": "Tracing",
         "description": "OpenTelemetry community content",
         "homepage_url": "https://opentelemetry.io/",
         "project": "incubating",
@@ -1057,7 +1057,7 @@
     },
     {
         "name": "Operator Framework",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
         "homepage_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/what-are-openshift-operators",
         "project": "incubating",
@@ -1079,7 +1079,7 @@
     },
     {
         "name": "SPIFFE",
-        "path": "Provisioning / Key Management",
+        "path": "Key Management",
         "description": "The SPIFFE Project",
         "homepage_url": "https://spiffe.io/",
         "project": "incubating",
@@ -1101,7 +1101,7 @@
     },
     {
         "name": "SPIRE",
-        "path": "Provisioning / Key Management",
+        "path": "Key Management",
         "description": "The SPIFFE Runtime Environment",
         "homepage_url": "https://spiffe.io/spire/",
         "project": "incubating",
@@ -1123,7 +1123,7 @@
     },
     {
         "name": "Thanos",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
         "homepage_url": "https://thanos.io/",
         "project": "incubating",
@@ -1145,7 +1145,7 @@
     },
     {
         "name": "Volcano",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "A Cloud Native Batch System (Project under CNCF)",
         "homepage_url": "https://volcano.sh/",
         "project": "incubating",
@@ -1167,7 +1167,7 @@
     },
     {
         "name": "Aeraki Mesh",
-        "path": "Orchestration & Management / Service Mesh",
+        "path": "Service Mesh",
         "description": "Aeraki Mesh allows you to manage any layer-7 traffic in a service mesh",
         "homepage_url": "https://www.aeraki.net/",
         "project": "sandbox",
@@ -1189,7 +1189,7 @@
     },
     {
         "name": "Akri",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "A Kubernetes Resource Interface for the Edge",
         "homepage_url": "https://docs.akri.sh",
         "project": "sandbox",
@@ -1211,7 +1211,7 @@
     },
     {
         "name": "Antrea",
-        "path": "Runtime / Cloud Native Network",
+        "path": "Cloud Native Network",
         "description": "Kubernetes networking based on Open vSwitch",
         "homepage_url": "https://antrea.io/",
         "project": "sandbox",
@@ -1233,7 +1233,7 @@
     },
     {
         "name": "Artifact Hub",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Find, install and publish Kubernetes packages",
         "homepage_url": "https://artifacthub.io/",
         "project": "sandbox",
@@ -1255,7 +1255,7 @@
     },
     {
         "name": "Athenz",
-        "path": "Provisioning / Key Management",
+        "path": "Key Management",
         "description": "Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures",
         "homepage_url": "https://www.athenz.io",
         "project": "sandbox",
@@ -1277,7 +1277,7 @@
     },
     {
         "name": "BFE",
-        "path": "Orchestration & Management / Service Proxy",
+        "path": "Service Proxy",
         "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
         "homepage_url": "https://www.bfe-networks.net",
         "project": "sandbox",
@@ -1299,7 +1299,7 @@
     },
     {
         "name": "Brigade",
-        "path": "App Definition and Development / Continuous Integration & Delivery",
+        "path": "Continuous Integration & Delivery",
         "description": "Event-driven scripting for Kubernetes",
         "homepage_url": "https://brigade.sh/",
         "project": "sandbox",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "CDK for Kubernetes (CDK8s)",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "CDK8s lets you define Kubernetes apps and components using familiar programming languages and object-oriented APIs.",
         "homepage_url": "https://cdk8s.io/",
         "project": "sandbox",
@@ -1343,7 +1343,7 @@
     },
     {
         "name": "cert-manager",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Automatically provision and manage TLS certificates in Kubernetes",
         "homepage_url": "https://www.jetstack.io/open-source/",
         "project": "sandbox",
@@ -1365,7 +1365,7 @@
     },
     {
         "name": "Chaosblade",
-        "path": "Observability and Analysis / Chaos Engineering",
+        "path": "Chaos Engineering",
         "description": "An easy to use and powerful chaos engineering experiment toolkit.\uff08\u963f\u91cc\u5df4\u5df4\u5f00\u6e90\u7684\u4e00\u6b3e\u7b80\u5355\u6613\u7528\u3001\u529f\u80fd\u5f3a\u5927\u7684\u6df7\u6c8c\u5b9e\u9a8c\u6ce8\u5165\u5de5\u5177\uff09",
         "homepage_url": "https://chaosblade.io/",
         "project": "sandbox",
@@ -1387,7 +1387,7 @@
     },
     {
         "name": "Cloud Custodian",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
         "homepage_url": "https://cloudcustodian.io/",
         "project": "sandbox",
@@ -1409,7 +1409,7 @@
     },
     {
         "name": "Clusterpedia",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "Clusterpedia is used for complex resources search across multiple clusters, support simultaneous search of a single kind of resource  or multiple kinds of resources existing in multiple clusters.",
         "homepage_url": "https://clusterpedia.io",
         "project": "sandbox",
@@ -1431,7 +1431,7 @@
     },
     {
         "name": "CNI-Genie",
-        "path": "Runtime / Cloud Native Network",
+        "path": "Cloud Native Network",
         "description": "CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave ",
         "homepage_url": "https://cnigenie.netlify.app",
         "project": "sandbox",
@@ -1453,7 +1453,7 @@
     },
     {
         "name": "Confidential Containers",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Confidential Containers is an open source community working to enable cloud native  confidential computing by leveraging Trusted Execution Environments to protect  containers and data.",
         "homepage_url": "https://github.com/confidential-containers",
         "project": "sandbox",
@@ -1475,7 +1475,7 @@
     },
     {
         "name": "Curiefense",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Curiefense is a unified, open source platform protecting cloud native applications.",
         "homepage_url": "https://www.curiefense.io/",
         "project": "sandbox",
@@ -1497,7 +1497,7 @@
     },
     {
         "name": "Devfile",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Kube-native API for cloud development workspaces specification",
         "homepage_url": "https://devfile.io",
         "project": "sandbox",
@@ -1519,7 +1519,7 @@
     },
     {
         "name": "DevStream",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "DevStream: the open-source DevOps toolchain manager (DTM).",
         "homepage_url": "https://www.devstream.io/",
         "project": "sandbox",
@@ -1541,7 +1541,7 @@
     },
     {
         "name": "Dex",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
         "homepage_url": "https://dexidp.io/",
         "project": "sandbox",
@@ -1563,7 +1563,7 @@
     },
     {
         "name": "Distribution",
-        "path": "Provisioning / Container Registry",
+        "path": "Container Registry",
         "description": "The toolkit to pack, ship, store, and deliver container content",
         "homepage_url": "https://github.com/distribution/distribution",
         "project": "sandbox",
@@ -1585,7 +1585,7 @@
     },
     {
         "name": "Fluid",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "Fluid is an orchestration platform for elastic data abstraction and acceleration in cloud native environment.",
         "homepage_url": "http://pasa-bigdata.nju.edu.cn/fluid/index.html",
         "project": "sandbox",
@@ -1607,7 +1607,7 @@
     },
     {
         "name": "Fonio",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "Data first monitoring agent using (e)BPF, built on RedBPF",
         "homepage_url": "https://ingraind.org/",
         "project": "sandbox",
@@ -1629,7 +1629,7 @@
     },
     {
         "name": "Inclavare Containers",
-        "path": "Runtime / Container Runtime",
+        "path": "Container Runtime",
         "description": "A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.",
         "homepage_url": "https://inclavare-containers.io/",
         "project": "sandbox",
@@ -1651,7 +1651,7 @@
     },
     {
         "name": "k3s",
-        "path": "Platform / Certified Kubernetes - Distribution",
+        "path": "Certified Kubernetes - Distribution",
         "description": "Lightweight Kubernetes",
         "homepage_url": "https://k3s.io",
         "project": "sandbox",
@@ -1673,7 +1673,7 @@
     },
     {
         "name": "k8gb",
-        "path": "Orchestration & Management / Coordination & Service Discovery",
+        "path": "Coordination & Service Discovery",
         "description": "A cloud native Kubernetes Global Balancer",
         "homepage_url": "https://www.k8gb.io",
         "project": "sandbox",
@@ -1695,7 +1695,7 @@
     },
     {
         "name": "K8up",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "Kubernetes and OpenShift Backup Operator",
         "homepage_url": "https://www.k8up.io/",
         "project": "sandbox",
@@ -1717,7 +1717,7 @@
     },
     {
         "name": "Karmada",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
         "homepage_url": "https://karmada.io/",
         "project": "sandbox",
@@ -1739,7 +1739,7 @@
     },
     {
         "name": "Keylime",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
         "homepage_url": "https://keylime.dev/",
         "project": "sandbox",
@@ -1761,7 +1761,7 @@
     },
     {
         "name": "Krator",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Kubernetes Rust State Machine Operator",
         "homepage_url": "https://docs.rs/crate/krator/latest",
         "project": "sandbox",
@@ -1783,7 +1783,7 @@
     },
     {
         "name": "krustlet",
-        "path": "Wasm / Installable Platform",
+        "path": "Installable Platform",
         "description": "Kubernetes Rust Kubelet",
         "homepage_url": "https://krustlet.dev/",
         "project": null,
@@ -1805,7 +1805,7 @@
     },
     {
         "name": "Kube-OVN",
-        "path": "Runtime / Cloud Native Network",
+        "path": "Cloud Native Network",
         "description": "A Bridge between SDN and Cloud Native (Project under CNCF)",
         "homepage_url": "https://kubeovn.github.io/docs/en/",
         "project": "sandbox",
@@ -1827,7 +1827,7 @@
     },
     {
         "name": "kube-rs",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "kube-rs is the core Rust ecosystem for building applications against Kubernetes",
         "homepage_url": "https://kube.rs",
         "project": "sandbox",
@@ -1849,7 +1849,7 @@
     },
     {
         "name": "KubeArmor",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Runtime protection for Kubernetes & other cloud Workloads. Kubearmor provides a observability and policy enforcement system to restrict any unwanted, malicious behaviour of cloud-native workloads at runtime.",
         "homepage_url": "https://kubearmor.io/",
         "project": "sandbox",
@@ -1871,7 +1871,7 @@
     },
     {
         "name": "KubeDL",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "Run your deep learning workloads on Kubernetes more easily and efficiently.",
         "homepage_url": "https://kubedl.io",
         "project": "sandbox",
@@ -1893,7 +1893,7 @@
     },
     {
         "name": "Kuberhealthy",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
         "homepage_url": "https://github.com/kuberhealthy/kuberhealthy",
         "project": "sandbox",
@@ -1915,7 +1915,7 @@
     },
     {
         "name": "KubeVela",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "The Modern Application Platform.",
         "homepage_url": "https://kubevela.io",
         "project": "sandbox",
@@ -1937,7 +1937,7 @@
     },
     {
         "name": "KUDO",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Kubernetes Universal Declarative Operator (KUDO)",
         "homepage_url": "https://kudo.dev/",
         "project": "sandbox",
@@ -1959,7 +1959,7 @@
     },
     {
         "name": "Kuma",
-        "path": "Orchestration & Management / Service Mesh",
+        "path": "Service Mesh",
         "description": "\ud83d\udc3b The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
         "homepage_url": "https://kuma.io",
         "project": "sandbox",
@@ -1981,7 +1981,7 @@
     },
     {
         "name": "Meshery",
-        "path": "Orchestration & Management / Service Mesh",
+        "path": "Service Mesh",
         "description": "Meshery, the cloud native management plane",
         "homepage_url": "https://meshery.io",
         "project": "sandbox",
@@ -2003,7 +2003,7 @@
     },
     {
         "name": "Metal3-io",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
         "homepage_url": "https://metal3.io/",
         "project": "sandbox",
@@ -2025,7 +2025,7 @@
     },
     {
         "name": "Network Service Mesh",
-        "path": "Runtime / Cloud Native Network",
+        "path": "Cloud Native Network",
         "description": "The Hybrid/Multi-cloud IP Service Mesh",
         "homepage_url": "https://networkservicemesh.io/",
         "project": "sandbox",
@@ -2047,7 +2047,7 @@
     },
     {
         "name": "Nocalhost",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Nocalhost is Cloud Native Dev Environment.",
         "homepage_url": "https://nocalhost.dev",
         "project": "sandbox",
@@ -2069,7 +2069,7 @@
     },
     {
         "name": "Open Cluster Management",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "Contains useful documentation on the OCM project. Report here if you found any issues in OCM.",
         "homepage_url": "https://open-cluster-management.io/",
         "project": "sandbox",
@@ -2091,7 +2091,7 @@
     },
     {
         "name": "Open Service Mesh",
-        "path": "Orchestration & Management / Service Mesh",
+        "path": "Service Mesh",
         "description": "Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.",
         "homepage_url": "https://openservicemesh.io/",
         "project": "sandbox",
@@ -2113,7 +2113,7 @@
     },
     {
         "name": "OpenCost",
-        "path": "Observability and Analysis / Continuous Optimization",
+        "path": "Continuous Optimization",
         "description": "OpenCost provides visibility into current and historical Kubernetes spend and resource allocation.",
         "homepage_url": "https://www.opencost.io/",
         "project": "sandbox",
@@ -2135,7 +2135,7 @@
     },
     {
         "name": "OpenEBS",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.",
         "homepage_url": "https://www.openebs.io/",
         "project": "sandbox",
@@ -2157,7 +2157,7 @@
     },
     {
         "name": "OpenELB",
-        "path": "Orchestration & Management / Service Proxy",
+        "path": "Service Proxy",
         "description": "Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization",
         "homepage_url": "https://openelb.github.io",
         "project": "sandbox",
@@ -2179,7 +2179,7 @@
     },
     {
         "name": "OpenFeature",
-        "path": "App Definition and Development / Continuous Integration & Delivery",
+        "path": "Continuous Integration & Delivery",
         "description": "Standardizing Feature Flagging for Everyone",
         "homepage_url": "https://openfeature.dev/",
         "project": "sandbox",
@@ -2201,7 +2201,7 @@
     },
     {
         "name": "OpenFunction",
-        "path": "Serverless / Installable Platform",
+        "path": "Installable Platform",
         "description": "Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)",
         "homepage_url": "https://openfunction.dev",
         "project": "sandbox",
@@ -2223,7 +2223,7 @@
     },
     {
         "name": "OpenGitOps",
-        "path": "App Definition and Development / Continuous Integration & Delivery",
+        "path": "Continuous Integration & Delivery",
         "description": "Repository for top-level information about the OpenGitOps project",
         "homepage_url": "https://opengitops.dev/",
         "project": "sandbox",
@@ -2245,7 +2245,7 @@
     },
     {
         "name": "OpenKruise",
-        "path": "App Definition and Development / Continuous Integration & Delivery",
+        "path": "Continuous Integration & Delivery",
         "description": "Automate application management on Kubernetes (project under CNCF)",
         "homepage_url": "https://openkruise.io/en-us/",
         "project": "sandbox",
@@ -2267,7 +2267,7 @@
     },
     {
         "name": "OpenYurt",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "An open platform that extending your native Kubernetes to edge.",
         "homepage_url": "https://openyurt.io/",
         "project": "sandbox",
@@ -2289,7 +2289,7 @@
     },
     {
         "name": "ORAS",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "ORAS CLI",
         "homepage_url": "https://oras.land/",
         "project": "sandbox",
@@ -2311,7 +2311,7 @@
     },
     {
         "name": "Parsec",
-        "path": "Provisioning / Security & Compliance",
+        "path": "Security & Compliance",
         "description": "Platform AbstRaction for SECurity service",
         "homepage_url": "https://parsec.community/",
         "project": "sandbox",
@@ -2333,7 +2333,7 @@
     },
     {
         "name": "Piraeus Datastore",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "High Available Datastore for Kubernetes",
         "homepage_url": "https://piraeus.io/",
         "project": "sandbox",
@@ -2355,7 +2355,7 @@
     },
     {
         "name": "Pixie",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "Open source Kubernetes observability for developers",
         "homepage_url": "https://px.dev/",
         "project": "sandbox",
@@ -2377,7 +2377,7 @@
     },
     {
         "name": "Porter",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
         "homepage_url": "https://porter.sh/",
         "project": "sandbox",
@@ -2399,7 +2399,7 @@
     },
     {
         "name": "Pravega",
-        "path": "App Definition and Development / Streaming & Messaging",
+        "path": "Streaming & Messaging",
         "description": "Pravega - Streaming as a new software defined storage primitive",
         "homepage_url": "https://cncf.pravega.io",
         "project": "sandbox",
@@ -2421,7 +2421,7 @@
     },
     {
         "name": "SchemaHero",
-        "path": "App Definition and Development / Database",
+        "path": "Database",
         "description": "A Kubernetes operator for declarative database schema management (gitops for database schemas)",
         "homepage_url": "https://schemahero.io",
         "project": "sandbox",
@@ -2443,7 +2443,7 @@
     },
     {
         "name": "sealer",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.",
         "homepage_url": "https://sealer.cool",
         "project": "sandbox",
@@ -2465,7 +2465,7 @@
     },
     {
         "name": "Serverless Workflow",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Serverless Workflow Specification",
         "homepage_url": "https://serverlessworkflow.github.io",
         "project": "sandbox",
@@ -2487,7 +2487,7 @@
     },
     {
         "name": "Service Mesh Interface (SMI)",
-        "path": "Orchestration & Management / Service Mesh",
+        "path": "Service Mesh",
         "description": "Service Mesh Interface",
         "homepage_url": "https://smi-spec.io",
         "project": "sandbox",
@@ -2509,7 +2509,7 @@
     },
     {
         "name": "Service Mesh Performance",
-        "path": "Orchestration & Management / Service Mesh",
+        "path": "Service Mesh",
         "description": "Standardizing Service Mesh Value Measurement",
         "homepage_url": "https://smp-spec.io/",
         "project": "sandbox",
@@ -2531,7 +2531,7 @@
     },
     {
         "name": "Skooner",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "Simple Kubernetes real-time dashboard and management.",
         "homepage_url": "https://skooner.io/",
         "project": "sandbox",
@@ -2553,7 +2553,7 @@
     },
     {
         "name": "Strimzi",
-        "path": "App Definition and Development / Streaming & Messaging",
+        "path": "Streaming & Messaging",
         "description": "Apache Kafka\u00ae running on Kubernetes",
         "homepage_url": "https://strimzi.io/",
         "project": "sandbox",
@@ -2575,7 +2575,7 @@
     },
     {
         "name": "Submariner",
-        "path": "Runtime / Cloud Native Network",
+        "path": "Cloud Native Network",
         "description": "Submariner enables direct networking between Pods and Services in different Kubernetes clusters, either on-premises or in the cloud.",
         "homepage_url": "https://submariner.io",
         "project": "sandbox",
@@ -2597,7 +2597,7 @@
     },
     {
         "name": "SuperEdge",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "An edge-native container management system for edge computing",
         "homepage_url": "https://superedge.io/",
         "project": "sandbox",
@@ -2619,7 +2619,7 @@
     },
     {
         "name": "Telepresence",
-        "path": "App Definition and Development / Application Definition & Image Build",
+        "path": "Application Definition & Image Build",
         "description": "Local development against a remote Kubernetes or OpenShift cluster",
         "homepage_url": "https://www.telepresence.io/",
         "project": "sandbox",
@@ -2641,7 +2641,7 @@
     },
     {
         "name": "Teller",
-        "path": "Provisioning / Key Management",
+        "path": "Key Management",
         "description": "Cloud native secrets management for developers - never leave your command line for secrets.",
         "homepage_url": "https://tlr.dev",
         "project": "sandbox",
@@ -2663,7 +2663,7 @@
     },
     {
         "name": "Tinkerbell",
-        "path": "Provisioning / Automation & Configuration",
+        "path": "Automation & Configuration",
         "description": "A workflow engine for provisioning bare metal.",
         "homepage_url": "https://tinkerbell.org/",
         "project": "sandbox",
@@ -2685,7 +2685,7 @@
     },
     {
         "name": "Tremor",
-        "path": "App Definition and Development / Streaming & Messaging",
+        "path": "Streaming & Messaging",
         "description": "Main Tremor Project Rust Codebase",
         "homepage_url": "https://www.tremor.rs/",
         "project": "sandbox",
@@ -2707,7 +2707,7 @@
     },
     {
         "name": "Trickster",
-        "path": "Observability and Analysis / Monitoring",
+        "path": "Monitoring",
         "description": "Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator",
         "homepage_url": "https://trickstercache.org",
         "project": "sandbox",
@@ -2729,7 +2729,7 @@
     },
     {
         "name": "Vineyard",
-        "path": "Runtime / Cloud Native Storage",
+        "path": "Cloud Native Storage",
         "description": "Vineyard (v6d) is an in-memory immutable data manager.",
         "homepage_url": "https://v6d.io",
         "project": "sandbox",
@@ -2751,7 +2751,7 @@
     },
     {
         "name": "Virtual Kubelet",
-        "path": "Serverless / Installable Platform",
+        "path": "Installable Platform",
         "description": "Virtual Kubelet is an open source Kubernetes kubelet implementation.",
         "homepage_url": "https://virtual-kubelet.io/",
         "project": "sandbox",
@@ -2773,7 +2773,7 @@
     },
     {
         "name": "wasmCloud",
-        "path": "Orchestration & Management / Scheduling & Orchestration",
+        "path": "Scheduling & Orchestration",
         "description": "Project homepage. wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.",
         "homepage_url": "https://wasmcloud.com",
         "project": "sandbox",
@@ -2795,7 +2795,7 @@
     },
     {
         "name": "WasmEdge Runtime",
-        "path": "Runtime / Container Runtime",
+        "path": "Container Runtime",
         "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
         "homepage_url": "https://wasmedge.org/",
         "project": "sandbox",
@@ -2817,7 +2817,7 @@
     },
     {
         "name": "OpenTracing",
-        "path": "Observability and Analysis / Tracing",
+        "path": "Tracing",
         "description": "OpenTracing API for Go. \ud83d\uded1 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163",
         "homepage_url": "https://opentracing.io/",
         "project": "archived",
@@ -2839,7 +2839,7 @@
     },
     {
         "name": "rkt",
-        "path": "Runtime / Container Runtime",
+        "path": "Container Runtime",
         "description": "[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",
         "homepage_url": "https://github.com/rkt/rkt",
         "project": "archived",
