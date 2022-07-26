@@ -14,100 +14,22 @@ CNCF offers multiple ways to start contributing to the CNCF ecosystem, including
 
 The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
 
-{{< projects >}}
-
 ## Graduated Projects
 
-|                   Project Name                   |        Focus         | Primary Language |
-| :----------------------------------------------: | :------------------: | :--------------: |
-|        [Kubernetes](projects/#kubernetes)        |    Orchestration     |        Go        |
-|        [Prometheus](projects/#prometheus)        |      Monitoring      |        Go        |
-|             [Envoy](projects/#envoy)             |     Service Mesh     |       C++        |
-|           [CoreDNS](projects/#coredns)           |  Service Discovery   |        Go        |
-|        [containerd](projects/#containerd)        |  Container Runtime   |        Go        |
-|           [Fluentd](projects/#fluentd)           |       Logging        |     C, Ruby      |
-|            [Jaeger](projects/#jaeger)            | Distributed Tracing  |        Go        |
-|            [Vitess](projects/#vitess)            |       Storage        |        Go        |
-|               [TUF](projects/#tuf)               | Software Update Spec |        \-        |
-|              [Helm](projects/#helm)              |  Package Management  |        Go        |
-|            [Harbor](projects/#harbor)            |       Registry       |        Go        |
-|              [Rook](projects/#rook)              |       Storage        |        Go        |
-|              [TiKV](projects/#tikv)              |   Key/Value Store    |       Rust       |
-|           [Linkerd](projects/#linkerd)           |     Service Mesh     |     Scala,Go     |
-|              [etcd](projects/#etcd)              |   Key/Value Store    |        Go        |
-| [Open Policy Agent](projects/#open-policy-agent) |        Policy        |        Go        |
+{{< projects level="graduated" >}}
 
-## Incubated Projects
+## Incubating Projects
 
-|               Project Name               |          Focus           | Primary Language |
-| :--------------------------------------: | :----------------------: | :--------------: |
-|          [gRPC](projects/#grpc)          |  Remote Procedure Call   |        Go        |
-|           [CNI](projects/#cni)           |      Networking API      |                  |
-|        [Notary](projects/#notary)        |         Security         |        Go        |
-|          [NATS](projects/#nats)          |        Messaging         |        Go        |
-|         [CRI-O](projects/#cri-o)         |    Container Runtime     |        Go        |
-|   [CloudEvents](projects/#cloudevents)   |        Serverless        |        \-        |
-|         [Falco](projects/#falco)         |    Container Security    |       C++        |
-|          [Argo](projects/#argo)          |          CI/CD           |        Go        |
-|     [Dragonfly](projects/#dragonfly)     |    Image Distribution    |        Go        |
-|        [SPIFFE](projects/#spiffe)        |      Identity spec       |        Go        |
-|         [SPIRE](projects/#spire)         |         Identity         |        Go        |
-|       [Contour](projects/#contour)       |        Networking        |        Go        |
-|      [KubeEdge](projects/#kubeedge)      |           Edge           |        Go        |
-|    [Buildpacks](projects/#buildpacks)    |      Packaging Spec      |        Go        |
-|        [Cortex](projects/#cortex)        |        Monitoring        |        Go        |
-|          [KEDA](projects/#keda)          | Event-driven autoscaling |        Go        |
-|        [Thanos](projects/#thanos)        |        Monitoring        |        Go        |
-|          [Flux](projects/#flux)          |          GitOps          |        Go        |
-| [OpenTelemetry](projects/#opentelemetry) |      Telemetry Spec      |        Go        |
-|          [Dapr](projects/#dapr)          |        Framework         |        Go        |
-|        [Cilium](projects/#cilium)        | eBPF Networking & Security |     Go, C      |
-| [Knative](projects/#knative) | Serverless & Event Driven Applications | Go |
+{{< projects level="incubating" >}}
 
 ## Sandbox Projects
 
-|                          Project Name                          |            Focus            |   Primary Language   |
-| :------------------------------------------------------------: | :-------------------------: | :------------------: |
-|             [Telepresence](projects/#telepresence)             |           Tooling           |          Go        |
-|              [OpenMetrics](projects/#openmetrics)              |          Security           |          Go          |
-|          [Virtual Kubelet](projects/#virtual-kubelet)          |          Nodeless           |          Go          |
-|                    [Keptn](projects/#keptn)                    | Event-driven orchestration  |     Go, Angular      |
-|                  [Brigade](projects/#Brigade)                  |          Scripting          |          Go          |
-|     [Network Service Mesh](projects/#network-service-mesh)     |         Networking          |          Go          |
-|                  [OpenEBS](projects/#openebs)                  |           Storage           |          Go          |
-|                  [in-toto](projects/#in-toto)                  |          Security           |        Python        |
-|                  [Strimzi](projects/#strimzi)                  |       Kafka Operator        |          Go          |
-|                 [KubeVirt](projects/#kubevirt)                 |         VM Operator         |          Go          |
-|                 [Longhorn](projects/#longhorn)                 |           Storage           |          Go          |
-|                 [ChubaoFS](projects/#chubaofs)                 |           Storage           |          Go          |
-|   [Service Mesh Interface](projects/#service-mesh-interface)   |        Service Mesh         |          Go          |
-|                  [Volcano](projects/#volcano)                  | High Performance Workloads  |          Go          |
-|                   [Litmus](projects/#litmus)                   |      Chaos Engineering      |          Go          |
-|                  [Meshery](projects/#meshery)                  |        Service Mesh         | Go, React, Rust, C++ |
-| [Service Mesh Performance](projects/#service-mesh-performance) |        Service Mesh         |      Go, DevOps      |
-|               [Tinkerbell](projects/#tinkerbell)               |   Bare Metal Provisioning   |          Go          |
-|                  [MetalLB](projects/#metallb)                  |  Bare Metal Load balancer   |          Go          |
-|                  [Karmada](projects/#karmada)                  |  Multi-Cloud Orchestration  |          Go          |
-|     [Inclavare Containers](projects/#inclavare-containers)     |          Security           |        C, Go         |
-|                [SuperEdge](projects/#SuperEdge)                |            Edge             |          Go          |
-|                 [WasmEdge](projects/#wasmedge)                 |      Container Runtime      |      C++, Rust       |
-|                     [Akri](projects/#akri)                     |          IoT, Edge          |         Rust         |
-|  [Open Cluster Management](projects/#open-cluster-management)  | Multi-Cluster Orchestration |          Go          |
-|                [KubeArmor](projects/#kubearmor)                |      Runtime Security       |        Go, C         |
-|                     [K8up](projects/#k8up)                     | Kubernetes Backup Operator  |          Go          |
-|            [Nocalhost](projects/#nocalhost)                    |    Cloud Dev Environment    |          Go          |
-|                  [kube-rs](projects/#kube-rs)                  |       Rust Ecosystem        |         Rust         |
-|                  [OpenELB](projects/#openelb)                  |       Load balancer	       |         Go           |
-|                  [Devfile](projects/#devfile)                  |           Devfile           |          Go          |
-|                 [Kyverno](projects/#kyverno)               | Kubernetes Native Policy Management |          Go          |
-|                 [sealer](projects/#sealer)               | Cluster lifecycle and delivery |          Go          |
-|  [Confidential Containers](projects/#confidential-containers)  |          Security           |       Rust, Go       |
-|                 [Teller](projects/#teller)                     |          Security           |          Go          |
-|             [OpenFunction](projects/#openfunction)             |  Cloud Native FaaS platform |          Go          |
-|              [Aeraki Mesh](projects/#aeraki-mesh)              |        Service Mesh         |       Go, C++        |
-|             [Clusterpedia](projects/#clusterpedia)             |         Multi-Cloud         |          Go          |
-|                [DevStream](projects/#devstream)                | Automation & Configuration  |          Go          |
-|                 [OpenCost](projects/#opencost)                 |       Cost Management       |     Go, Javascript   |
+{{< projects level="sandbox" >}}
+
+## Archived Projects
+
+{{< projects level="archived" >}}
+
 
 ## Non-code Projects
 

@@ -8,12 +8,14 @@
     </thead>
     <tbody>
 {{ range $.Site.Data.projects }}
+    {{ if eq .project ($.Get "level") }}
     <tr>
         <td style="text-align:center">
         <a href="/contributorss/projects/#kubernetes">{{ .name }}</a></td>
         <td style="text-align:center">{{ .path }}</td>
         <td style="text-align:center">{{ .language }}</td>
     </tr>
+    {{ end }}
 {{ end }}
 </tbody>
 </table>
