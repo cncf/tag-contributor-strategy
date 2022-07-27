@@ -33,6 +33,10 @@
 
 		> .td-sidebar-nav__section {
 			padding-left: 1rem;
+
+			ul {
+				padding-left: 0.5rem !important;
+			}
 		}
 		.td-sidebar-nav__section-title {
 			margin-bottom: 5px;
@@ -59,7 +63,7 @@
 						}
 					}
 					ul.foldable {
-						margin-left: 20px;
+						margin-left: 10px;
 					}
 				}
 			}
