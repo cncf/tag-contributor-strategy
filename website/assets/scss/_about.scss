@@ -1,0 +1,12 @@
+.td-box--primary .td-arrow-down::before {
+    border: none
+}
+
+section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.section-group section:first-of-type, .main section:first-of-type {
+    padding-top: 5rem;
+}
