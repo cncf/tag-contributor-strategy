@@ -13703,7 +13703,6 @@ readers do not read off random characters that represent icons */
   #TableOfContents > ul ul {
     display: none; }
   #TableOfContents > ul li {
-    letter-spacing: 0.02em;
     margin: 1em 0; }
 
 div.toc-header {
@@ -14451,7 +14450,6 @@ body {
   #TableOfContents > ul ul {
     display: none; }
   #TableOfContents > ul li {
-    letter-spacing: 0.02em;
     margin: 1em 0; }
 
 div.toc-header {
