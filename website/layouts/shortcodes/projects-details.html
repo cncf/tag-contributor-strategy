@@ -4,10 +4,10 @@
 <h3 id="{{ urlize .name }}">{{ .name }}</h3>
 <p><em>{{ .description }}</em></p>
 <ul>
-<li><a href="{{ .repo_url }}">Project Repository</a></li>
+<li><img src="/images/social/boxed-github.svg"><a href="{{ .repo_url }}">Project Repository</a></li>
 
 {{ if .slack_url }}
-<li><a href="{{ .slack_url }}" target="_blank">Chat</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
+<li><img src="/images/social/boxed-github.svg"><a href="{{ .slack_url }}" target="_blank">Chat</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
 {{ else if .gitter_url }}
 <li><a href="{{ .gitter_url }}" target="_blank">Chat</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
 {{ end }}
