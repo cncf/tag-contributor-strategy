@@ -14123,41 +14123,6 @@ footer {
   .cncf-button:hover {
     background-color: #747474; }
 
-.category {
-  margin-top: 0;
-  margin-right: 0;
-  margin-bottom: 1.875rem;
-  margin-right: 12px;
-  color: #747474;
-  font-weight: 700;
-  letter-spacing: 0.2em; }
-  @media (min-width: 768px) {
-    .category {
-      margin-bottom: 3.125rem; } }
-i.technology,
-i.property,
-i.concept {
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  display: inline-block;
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  line-height: 1;
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
-  padding-right: 0.5em;
-  color: #747474; }
-
-i.technology:before {
-  content: '\f7d9'; }
-
-i.property:before {
-  content: '\f1ad'; }
-
-i.concept:before {
-  content: '\f0eb'; }
-
 footer {
   min-height: unset;
   background-color: #000;
@@ -14519,7 +14484,7 @@ h1.thin {
 
 @media (min-width: 768px) {
   h1 {
-    font-size: 2.25rem;
+    font-size: 2.5rem;
     max-width: 90%; } }
 
 @media (max-width: 374px) {
@@ -14548,6 +14513,13 @@ h3 a:hover {
 .td-content p {
   line-height: 170%; }
 
+@media (min-width: 768px) {
+  h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before {
+    margin-top: -4rem; } }
+
+.lead {
+  font-size: 1.5rem; }
+
 .navbar-dark .navbar-nav a.active {
   border-bottom: 4px #5c2cff9c solid !important; }
 
@@ -14570,5 +14542,17 @@ h3 a:hover {
 
 .video-resources a {
   font-weight: bold; }
+
+ul.project-links {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 4em; }
+  ul.project-links li {
+    margin-bottom: 1em; }
+  ul.project-links img {
+    color: #000;
+    height: 32px;
+    width: auto;
+    margin-right: 1em; }
 
 /*# sourceMappingURL=main.css.map */
