@@ -58,6 +58,7 @@ h3 {
 @include media-breakpoint-up(md) {
     h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before {
         margin-top: -4rem;
+		height: 6rem;
     }
 }
 

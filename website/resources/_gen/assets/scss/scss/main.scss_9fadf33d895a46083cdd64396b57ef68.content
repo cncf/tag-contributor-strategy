@@ -13683,6 +13683,10 @@ readers do not read off random characters that represent icons */
 .td-toc ul {
   padding-left: 0; }
 
+#TableOfContents a {
+  font-weight: 400;
+  color: unset; }
+
 #TableOfContents ul {
   margin-block-start: 0;
   margin-block-end: 0;
@@ -13696,6 +13700,15 @@ readers do not read off random characters that represent icons */
   margin-left: 0.5rem !important; }
   #TableOfContents > ul > li:first-child > ul {
     list-style-type: none; }
+  #TableOfContents > ul ul {
+    display: none; }
+  #TableOfContents > ul li {
+    letter-spacing: 0.02em;
+    margin: 1em 0; }
+
+div.toc-header {
+  font-weight: 700;
+  letter-spacing: 0.02em; }
 
 .button-reset {
   background: none;
@@ -14418,6 +14431,10 @@ body {
 .td-toc ul {
   padding-left: 0; }
 
+#TableOfContents a {
+  font-weight: 400;
+  color: unset; }
+
 #TableOfContents ul {
   margin-block-start: 0;
   margin-block-end: 0;
@@ -14431,6 +14448,15 @@ body {
   margin-left: 0.5rem !important; }
   #TableOfContents > ul > li:first-child > ul {
     list-style-type: none; }
+  #TableOfContents > ul ul {
+    display: none; }
+  #TableOfContents > ul li {
+    letter-spacing: 0.02em;
+    margin: 1em 0; }
+
+div.toc-header {
+  font-weight: 700;
+  letter-spacing: 0.02em; }
 
 .article-meta {
   margin-bottom: 3rem; }
@@ -14512,7 +14538,8 @@ h3 a:hover {
 
 @media (min-width: 768px) {
   h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before {
-    margin-top: -4rem; } }
+    margin-top: -4rem;
+    height: 6rem; } }
 
 .lead {
   font-size: 1.5rem; }
