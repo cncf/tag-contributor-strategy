@@ -1,6 +1,6 @@
 ---
 title: Contribution Guides to the CNCF Ecosystem
-linkTitle: "Contributorss"
+linkTitle: "Contributors"
 menu:
   main:
     weight: 20
@@ -26,16 +26,17 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 
 {{< projects level="sandbox" >}}
 
-## Archived Projects
-
-{{< projects level="archived" >}}
-
 
 ## Non-code Projects
 
 |                          Project Name                          |            Focus            |   Primary Language   |
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
 |    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
+
+## Archived Projects
+
+{{< projects level="archived" >}}
+
 
 ## TOC
 

@@ -61,10 +61,6 @@ pygmentsStyle = "tango"
     target = "layouts/maintainers"
 
   [[module.mounts]]
-    source = "layouts/docs"
-    target = "layouts/contributorss"
-
-  [[module.mounts]]
     source = "layouts/videos"
     target = "layouts/resources"
 
@@ -83,13 +79,6 @@ pygmentsStyle = "tango"
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
-
-  [[module.imports]]
-    path = "github.com/cncf/contribute"
-
-  [[module.imports.mounts]]
-    source = "content/contributors"
-    target = "content/contributors/"
 
 # Configure how URLs look like per section.
 [permalinks]

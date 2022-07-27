@@ -1,0 +1,53 @@
+{{ range $.Site.Data.projects }}
+    {{ if eq .project ($.Get "level") }}
+
+<h3 id="{{ urlize .name }}">{{ .name }}</h3>
+<p><em>{{ .description }}</em></p>
+<ul>
+<li><a href="{{ .repo_url }}">Project Repository</a></li>
+
+{{ if .slack_url }}
+<li><a href="{{ .slack_url }}" target="_blank">Chat</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
+{{ else if .gitter_url }}
+<li><a href="{{ .gitter_url }}" target="_blank">Chat</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
+{{ end }}
+
+{{ if .mailing_list_url }}
+<li><a href="{{ .mailing_list_url }}" target="_blank">Developer List/Forum</a></li>
+{{ end }}
+
+{{ if .homepage_url }}
+<li><a href="{{ .homepage_url }}" target="_blank">Homepage</a></li>
+{{ end }}
+
+{{ if .twitter }}
+<li><a href="{{ .twitter }}" target="_blank">Twitter</a></li>
+{{ end }}
+
+{{ if .crunchbase }}
+<li><a href="{{ .crunchbase }}" target="_blank">Crunchbase</a></li>
+{{ end }}
+
+{{ if .dev_stats_url }}
+<li><a href="{{ .dev_stats_url }}" target="_blank">Devstats</a></li>
+{{ end }}
+
+{{ if .artwork_url }}
+<li><a href="{{ .artwork_url }}" target="_blank">Artwork</a></li>
+{{ end }}
+
+{{ if .stack_overflow_url }}
+<li><a href="{{ .stack_overflow_url }}" target="_blank">Stack Overflow</a></li>
+{{ end }}
+
+{{ if .blog_url }}
+<li><a href="{{ .blog_url }}" target="_blank">Blog</a></li>
+{{ end }}
+
+{{ if .youtube_url }}
+<li><a href="{{ .youtube_url }}" target="_blank">YouTube</a></li>
+{{ end }}
+
+</ul>
+    {{ end }}
+{{ end }}
