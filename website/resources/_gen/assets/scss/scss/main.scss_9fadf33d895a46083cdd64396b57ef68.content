@@ -14188,18 +14188,16 @@ footer {
     z-index: 1; }
   @media (min-width: 768px) {
     .td-navbar .navbar-brand {
-      padding-top: 0.5rem;
+      padding-top: 0;
       padding-bottom: 0rem;
-      margin-left: 1rem; } }
+      margin-left: 2rem; } }
   .td-navbar .navbar-brand .navbar-logo {
-    margin-bottom: 10px;
     display: block; }
     .td-navbar .navbar-brand .navbar-logo svg {
       height: 40px; }
   .td-navbar .td-navbar-nav-scroll {
     margin-top: 0;
-    margin-left: -0.5rem;
-    margin-right: -0.5rem; }
+    margin-left: -0.5rem; }
     .td-navbar .td-navbar-nav-scroll .navbar-nav {
       padding-bottom: 0;
       display: flex;
@@ -14335,8 +14333,7 @@ body {
   .td-sidebar .td-sidebar-nav .td-sidebar-nav__section-title {
     margin-bottom: 5px; }
     .td-sidebar .td-sidebar-nav .td-sidebar-nav__section-title > ul {
-      margin-top: 5px;
-      padding-left: 0; }
+      margin-top: 5px; }
       .td-sidebar .td-sidebar-nav .td-sidebar-nav__section-title > ul .td-sidebar-nav__section-title.with-child > a {
         position: relative;
         display: flex;
@@ -14499,7 +14496,7 @@ h3 a:hover {
   text-decoration: none; }
 
 .td-content > h1 {
-  margin-bottom: 1.5625rem; }
+  margin-bottom: 2.1rem; }
 
 .td-content > h1:not(:first-child) {
   margin-top: 3rem; }
