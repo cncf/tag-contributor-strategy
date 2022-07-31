@@ -3,10 +3,29 @@
 }
 
 section {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 
 .section-group section:first-of-type, .main section:first-of-type {
     padding-top: 5rem;
+}
+
+.td-box--primary p > a, .td-box--secondary p > a, .td-box--light p > a {
+    color: $link-color;
+}
+
+.td-box--secondary {
+    color: #464646;
+}
+
+.td-box--primary, .td-box--white {
+    background-color: #FDFDFD;
+}
+
+@media (min-width: 768px) {
+.td-box--primary h2[id]:before {
+    margin-top: 0;
+    height: 0;
+}
 }
