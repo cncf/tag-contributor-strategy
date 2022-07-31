@@ -16,11 +16,16 @@ section {
 }
 
 .td-box--secondary {
+    background-color: #ffb24c;
     color: #464646;
 }
 
 .td-box--primary, .td-box--white {
     background-color: #FDFDFD;
+}
+
+.text-center span.h4 p {
+    text-align: left;
 }
 
 @media (min-width: 768px) {
