@@ -14605,4 +14605,7 @@ ul.project-links {
     width: auto;
     margin-right: 1em; }
 
+img.project-logo {
+  height: 200px; }
+
 /*# sourceMappingURL=main.css.map */
