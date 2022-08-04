@@ -4,17 +4,9 @@ linkTitle: Contributor Growth
 url: /about/contributor-growth/
 ---
 
-
-{{% blocks/lead color="primary" %}}
-
 We are interested in assisting CNCF projects with sustainably growing their
 contributor base.
 
-{{% /blocks/lead %}}
-
-{{% blocks/section color="white" %}}
-
-<div class="content">
 
 We meet once a month.
 Go to <a href="https://www.cncf.io/calendar/">cncf.io/calendar</a> and enter "Contributor Growth WG" in the search box to see when we meet next.
@@ -27,4 +19,3 @@ Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Sla
 [mailing list]: https://lists.cncf.io/g/cncf-tag-contributor-strategy
 [Slack]: https://slack.cncf.io/
 
-{{% /blocks/section %}}

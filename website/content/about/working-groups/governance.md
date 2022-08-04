@@ -5,16 +5,8 @@ url: /about/governance/
 ---
 
 
-{{% blocks/lead color="primary" %}}
-
 We aim to assist all CNCF projects with implementing good open source governance
 practices.
-
-{{% /blocks/lead %}}
-
-{{% blocks/section color="white" %}}
-
-<div class="content">
 
 We meet once a month.
 Go to <a href="https://www.cncf.io/calendar/">cncf.io/calendar</a> and enter "Governance WG" in the search box to see when we meet next.
@@ -26,5 +18,3 @@ Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Sla
 
 [mailing list]: https://lists.cncf.io/g/cncf-tag-contributor-strategy
 [Slack]: https://slack.cncf.io/
-
-{{% /blocks/section %}}
