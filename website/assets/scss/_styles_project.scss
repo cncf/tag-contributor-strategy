@@ -8,7 +8,7 @@
 */
 
 @import 'hamburger';
-
+@import 'reset';
 @import 'archive';
 @import 'buttons';
 @import 'footer';
@@ -20,57 +20,6 @@
 @import 'taxonomy';
 @import 'typography';
 @import 'about';
-
-
-.navbar-dark .navbar-nav a.active {
-	border-bottom: 4px #5c2cff9c solid !important;
-}
-
-// Render the video player as big as possible while retaining the aspect ratio
-// https://stackoverflow.com/a/35153397
-.video {
-	position: relative;
-	width: 100%;
-	height: 0;
-	padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
-	margin-bottom: 1em;
-
-	iframe {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		left: 0;
-		top: 0;
-	}
-}
-
-// Highlights a set of videos at /videos
-.featured {
-	background-color: $light;
-}
-
-.video-resources a {
-	font-weight: bold;
-}
-
-// project social links
-ul.project-links {
-	list-style-type: none;
-	padding-left: 0;
-	margin-bottom: 4em;
-	
-	li {
-		margin-bottom: 1em;
-	}
-
-	img {
-		color: #000;
-		height: 32px;
-		width: auto;
-		margin-right: 1em;
-	}
-}
-
-img.project-logo {
-	height: 200px;
-}
+@import 'video';
+@import 'projects';
+@import 'home';

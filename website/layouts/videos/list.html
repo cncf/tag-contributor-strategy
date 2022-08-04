@@ -7,12 +7,6 @@
 	{{ end }}
 
 	{{ if eq .Params.linkTitle "Videos" }}
-		{{ with .CurrentSection.OutputFormats.Get "rss" -}}
-		<a class="btn btn-lg -bg-orange td-rss-button d-none d-lg-block" href="{{ .Permalink | safeURL }}" target="_blank">
-		RSS <i class="fa fa-rss ml-2 "></i>
-		</a>
-		{{ end }}
-
 		<div class="row featured">
 			<div class="col-12">
 				<ul class="list-unstyled mt-4">
@@ -29,7 +23,7 @@
 					</ul>
 			</div>
 		</div>
-		
+
 		<div class="row">
 			<div class="col-12">
 				{{- if .Pages -}}

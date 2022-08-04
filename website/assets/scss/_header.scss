@@ -7,7 +7,6 @@
 	padding-bottom: 15px;
 	@media (min-width: 768px) {
 		min-height: 5rem;
-		margin-bottom: 3rem;
 		padding: 0;
 	}
 	&:after {
@@ -20,6 +19,7 @@
 		z-index: 1;
 	}
 
+	// Logo area.
 	.navbar-brand {
 		@media (min-width: 768px) {
 			padding-top: 0;
@@ -34,6 +34,7 @@
 		}
 	}
 
+	// Main nav bar.
 	.td-navbar-nav-scroll {
 		margin-top: 0;
 		margin-left: -0.5rem;
@@ -64,6 +65,9 @@
 					}
 					@media (min-width: 768px) {
 						letter-spacing: 0.02em;
+					}
+					&.active {
+						border-bottom: 4px #5c2cff9c solid;
 					}
 				}
 				// Topnav dropdown.

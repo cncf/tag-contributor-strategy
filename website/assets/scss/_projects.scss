@@ -1,0 +1,22 @@
+// project social links
+ul.project-links {
+	list-style-type: none;
+	padding-left: 0;
+	margin-top: 2rem;
+	margin-bottom: 4rem;
+
+	li {
+		margin-bottom: 1em;
+	}
+
+	img {
+		color: #000;
+		height: 32px;
+		width: auto;
+		margin-right: 1em;
+	}
+}
+
+img.project-logo {
+	height: 200px;
+}
