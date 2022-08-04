@@ -31,7 +31,7 @@ with urllib.request.urlopen(landscapeHostedProjects) as hostedProjectsResponse:
                         'homepage_url': projectData['homepage_url'] if 'homepage_url' in projectData else None,
                         'project': projectData['project'] if 'project' in projectData else None,
                         'repo_url': projectData['repo_url'] if 'repo_url' in projectData else None,
-                        'logo': projectData['logo'] if 'logo' in projectData else None,
+                        'logo': projectData['href'] if 'href' in projectData else None,
                         'twitter': projectData['twitter'] if 'twitter' in projectData else None,
                         'crunchbase': projectData['crunchbase'] if 'crunchbase' in projectData else None,
                         'chat_channel': projectData['extra']['chat_channel'] if 'extra' in projectData and 'chat_channel' in projectData['extra'] else None,
