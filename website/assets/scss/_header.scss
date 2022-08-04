@@ -22,12 +22,11 @@
 
 	.navbar-brand {
 		@media (min-width: 768px) {
-			padding-top: 0.5rem;
+			padding-top: 0;
 			padding-bottom: 0rem;
-			margin-left: 1rem;
+			margin-left: 2rem;
 		}
 		.navbar-logo {
-			margin-bottom: 10px;
 			display: block;
 			svg {
 				height: 40px;
@@ -38,7 +37,6 @@
 	.td-navbar-nav-scroll {
 		margin-top: 0;
 		margin-left: -0.5rem;
-		margin-right: -0.5rem;
 		.navbar-nav {
 			padding-bottom: 0;
 			display: flex;

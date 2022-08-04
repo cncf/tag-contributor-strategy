@@ -4,4 +4,4 @@ linkTitle: Templates
 description: We have templates that you can use to jump start a new project or take your existing project to the next level.
 ---
 
-## [_View templates here_](/maintainers/github/templates/)
+[See our templates](/maintainers/github/templates/)

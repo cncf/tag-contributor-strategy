@@ -80,13 +80,6 @@ pygmentsStyle = "tango"
     source = "archetypes"
     target = "archetypes"
 
-  [[module.imports]]
-    path = "github.com/cncf/contribute"
-
-  [[module.imports.mounts]]
-    source = "content/contributors"
-    target = "content/contributors/"
-
 # Configure how URLs look like per section.
 [permalinks]
 blog = "/:section/:year/:month/:day/:slug/"

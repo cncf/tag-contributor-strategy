@@ -14,7 +14,7 @@ h1 {
 		font-weight: 400;
 	}
 	@media (min-width: 768px) {
-		font-size: 2.25rem;
+		font-size: 2.5rem;
 		max-width: 90%;
 	}
 }
@@ -24,7 +24,7 @@ h2 {
 		font-size: 1.5rem;
 	}
 	&.feedback--title {
-		margin-top: 3rem;
+		margin-top: 5rem;
 	}
 }
 
@@ -38,7 +38,7 @@ h3 {
 // Main page content styling.
 .td-content {
 	> h1 {
-		margin-bottom: 1.5625rem;
+		margin-bottom: 2.1rem;
 	}
 	> h1:not(:first-child) {
 		margin-top: 3rem;
@@ -52,4 +52,16 @@ h3 {
 	p {
 		line-height: 170%;
 	}
+}
+
+// Adjust anchors vs the fixed menu.
+@include media-breakpoint-up(md) {
+    h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before {
+        margin-top: -4rem;
+		height: 6rem;
+    }
+}
+
+.lead {
+    font-size: 1.5rem;
 }

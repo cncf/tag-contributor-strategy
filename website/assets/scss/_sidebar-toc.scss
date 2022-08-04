@@ -43,10 +43,6 @@
 	}
 
 	#TableOfContents {
-		// Hugo's ToC is a mouthful, this can be used to style the top level h2 entries.
-		> ul > li > ul > li > a {
-		}
-
 		a {
 			color: $gray-600;
 
@@ -63,6 +59,11 @@
 }
 
 #TableOfContents {
+	a {
+		font-weight: 400;
+		color: unset;
+	}
+
 	// reset all ul.
 	ul {
 		margin-block-start: 0;
@@ -78,5 +79,19 @@
 		> li:first-child > ul {
 			list-style-type: none;
 		}
+
+		// hides subheadings from TOC
+		ul {
+			display: none;
+		}
+
+		li {
+			margin: 1em 0;
+		}
 	}
+}
+
+div.toc-header {
+	font-weight: 700;
+	letter-spacing: 0.02em;
 }
