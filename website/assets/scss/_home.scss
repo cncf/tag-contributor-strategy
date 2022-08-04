@@ -21,6 +21,9 @@
 			// Size of nav is 80px.
 			padding-top: 80px;
 		}
+		@media (min-width: 1000px) {
+			min-height: calc(770px - 80px);
+		}
 		@media (min-width: 1200px) {
 			.slider-container {
 				position: relative;

@@ -14642,6 +14642,9 @@ img.project-logo {
     .td-home .frontpage {
       min-height: calc(445px + 100px);
       padding-top: 80px; } }
+  @media (min-width: 1000px) {
+    .td-home .frontpage {
+      min-height: calc(770px - 80px); } }
   @media (min-width: 1200px) {
     .td-home .frontpage .slider-container {
       position: relative; } }
