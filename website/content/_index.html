@@ -9,18 +9,21 @@ type: single
 		<div class="slider">
 			<div class="slide background-image-wrapper">
 				<figure class="background-image-figure">
-					<img width="1440" height="770" src="/images/slide01.jpg"
-						alt="">
+					<img width="1440" height="770"
+						src="/images/person-working-at-conference.jpg"
+						alt="A person working on a laptop at a CNCF conference">
 				</figure>
 				<div class="background-image-text-overlay">
 					<h2>Contributors <br class="show-over-768" />shape the cloud
-						<br class="show-over-768" />native landscape</h2>
+						<br class="show-over-768" />native landscape
+					</h2>
 				</div>
 			</div>
 			<div class="slide background-image-wrapper">
 				<figure class="background-image-figure">
-					<img width="1440" height="770" src="/images/slide02.jpg"
-						alt="">
+					<img width="1440" height="770"
+						src="/images/people-chatting-at-event.jpg"
+						alt="People chatting at a CNCF event">
 				</figure>
 				<div class="background-image-text-overlay">
 					<h2>Grow flourishing, <br
@@ -30,8 +33,9 @@ type: single
 			</div>
 			<div class="slide background-image-wrapper">
 				<figure class="background-image-figure">
-					<img width="1440" height="770" src="/images/slide03.jpg"
-						alt="">
+					<img width="1440" height="770"
+						src="/images/person-working-on-laptop.jpg"
+						alt="People chatting at a CNCF community event">
 				</figure>
 				<div class="background-image-text-overlay">
 					<h2>And drive
@@ -66,6 +70,8 @@ type: single
 	integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg=="
 	crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+<script src="/js/home.js"></script>
+
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
 	integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
@@ -75,29 +81,3 @@ type: single
 	href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"
 	integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A=="
 	crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<script>
-	$( document ).ready( function () {
-		$( '.slider' ).slick( {
-			slidesToShow: 1,
-			slidesToScroll: 1,
-			autoplay: true,
-			autoplaySpeed: 7500,
-			speed: 1500,
-			arrows: false,
-			dots: true,
-			fade: true,
-			pauseOnHover: false,
-			infinite: true,
-		} );
-
-		let slide = $( '.td-home .frontpage .slider .slide' );
-		let minHeight = $( '.td-main' ).height();
-		console.log(minHeight)
-		if ( minHeight > 689 ) {
-			slide.css( 'min-height',minHeight );
-		}
-		// TODO: Add resize check.
-
-	} );
-</script>
