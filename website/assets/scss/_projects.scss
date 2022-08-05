@@ -4,9 +4,17 @@ ul.project-links {
 	padding-left: 0;
 	margin-top: 2rem;
 	margin-bottom: 4rem;
-
+	@media (min-width: 1000px) {
+		margin-bottom: 6rem;
+	}
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 100% !important;
 	li {
 		margin-bottom: 1em;
+		&:not(:last-child) {
+			margin-right: 1em;
+		}
 	}
 
 	img {
@@ -18,5 +26,9 @@ ul.project-links {
 }
 
 img.project-logo {
-	height: 200px;
+	max-height: 110px;
+	max-width: 110px;
+	width: 100%;
+	height: auto;
+	margin: 0;
 }

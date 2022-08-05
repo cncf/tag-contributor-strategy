@@ -1,48 +1,71 @@
 {{ range $.Site.Data.projects }}
     {{ if eq .project ($.Get "level") }}
 
+<img class="project-logo" alt="{{ .name }} logo" src="https://landscape.cncf.io/{{ .logo }}">
 <h3 id="{{ urlize .name }}">{{ .name }}</h3>
 <p><em>{{ .description }}</em></p>
-<img class="project-logo" alt="{{ .name }} logo" src="https://landscape.cncf.io/{{ .logo }}">
-<ul class="project-links">
-<li><a href="{{ .repo_url }}"><img src="/social/boxed-github.svg">Project Repository</a></li>
 
-{{ if .slack_url }}
-<li><a href="{{ .slack_url }}" target="_blank"><img src="/social/boxed-slack.svg">Chat</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
-{{ else if .gitter_url }}
-<li><a href="{{ .gitter_url }}" target="_blank"><img src="/social/boxed-gitter.svg">Chat</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
+<ul class="project-links">
+<li><a href="{{ .repo_url }}"><img src="/social/boxed-github.svg">
+	<!-- Project Repository -->
+</a></li>
+
+{{ if .homepage_url }}
+<li><a href="{{ .homepage_url }}" target="_blank"><img src="/social/boxed-website.svg">
+	<!-- Homepage -->
+</a></li>
 {{ end }}
 
 {{ if .mailing_list_url }}
-<li><a href="{{ .mailing_list_url }}" target="_blank"><img src="/social/boxed-discussion.svg">Developer List/Forum</a></li>
-{{ end }}
-
-{{ if .homepage_url }}
-<li><a href="{{ .homepage_url }}" target="_blank"><img src="/social/boxed-website.svg">Homepage</a></li>
+<li><a href="{{ .mailing_list_url }}" target="_blank"><img src="/social/boxed-discussion.svg">
+	<!-- Developer List/Forum -->
+</a></li>
 {{ end }}
 
 {{ if .twitter }}
-<li><a href="{{ .twitter }}" target="_blank"><img src="/social/boxed-twitter.svg">Twitter</a></li>
+<li><a href="{{ .twitter }}" target="_blank"><img src="/social/boxed-twitter.svg">
+	<!-- Twitter -->
+</a></li>
 {{ end }}
 
 {{ if .dev_stats_url }}
-<li><a href="{{ .dev_stats_url }}" target="_blank"><img src="/social/boxed-lf-devstats.svg">Devstats</a></li>
+<li><a href="{{ .dev_stats_url }}" target="_blank"><img src="/social/boxed-lf-devstats.svg">
+	<!-- Devstats -->
+</a></li>
 {{ end }}
 
 {{ if .artwork_url }}
-<li><a href="{{ .artwork_url }}" target="_blank"><img src="/social/boxed-lf-artwork.svg">Artwork</a></li>
+<li><a href="{{ .artwork_url }}" target="_blank"><img src="/social/boxed-lf-artwork.svg">
+	<!-- Artwork -->
+</a></li>
 {{ end }}
 
 {{ if .stack_overflow_url }}
-<li><a href="{{ .stack_overflow_url }}" target="_blank"><img src="/social/boxed-stack-overflow.svg">Stack Overflow</a></li>
+<li><a href="{{ .stack_overflow_url }}" target="_blank"><img src="/social/boxed-stack-overflow.svg">
+	<!-- Stack Overflow -->
+</a></li>
 {{ end }}
 
 {{ if .blog_url }}
-<li><a href="{{ .blog_url }}" target="_blank"><img src="/social/boxed-blog.svg">Blog</a></li>
+<li><a href="{{ .blog_url }}" target="_blank"><img src="/social/boxed-blog.svg">
+	<!-- Blog -->
+</a></li>
 {{ end }}
 
 {{ if .youtube_url }}
-<li><a href="{{ .youtube_url }}" target="_blank"><img src="/social/boxed-youtube.svg">YouTube</a></li>
+<li><a href="{{ .youtube_url }}" target="_blank"><img src="/social/boxed-youtube.svg">
+	<!-- YouTube -->
+</a></li>
+{{ end }}
+
+{{ if .slack_url }}
+<li><a href="{{ .slack_url }}" target="_blank"><img src="/social/boxed-slack.svg">
+	<!-- Chat -->
+</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
+{{ else if .gitter_url }}
+<li><a href="{{ .gitter_url }}" target="_blank"><img src="/social/boxed-gitter.svg">
+	<!-- Chat -->
+</a> {{ if .chat_channel }}({{ .chat_channel }}){{ end }}</li>
 {{ end }}
 
 </ul>
