@@ -4,11 +4,13 @@ linkTitle: "Maintainers Circle"
 url: /about/maintainers-circle
 ---
 
-{{% blocks/lead color="primary" %}}
+{{% blocks/lead color="primary" align="left" %}}
 
 Connect with other maintainers, share best practices, commiserate and grow.
 
 {{% /blocks/lead %}}
+
+<div class="section-group">
 
 {{% blocks/section color="dark" %}}
 
@@ -27,6 +29,9 @@ that meeting.
 
 {{% /blocks/section %}}
 
+</div>
+<div class="section-group">
+
 {{% blocks/section color="secondary" %}}
 
 ## Goals
@@ -38,6 +43,9 @@ that meeting.
 - Highlight successes
 
 {{% /blocks/section %}}
+
+</div>
+<div class="section-group">
 
 {{% blocks/section color="white" %}}
 ## Who is a maintainer?
@@ -67,6 +75,9 @@ roles than this and the Circle welcomes all decision makers.
 
 {{% /blocks/section %}}
 
+</div>
+<div class="section-group">
+
 {{< blocks/section color="primary" >}}
 
 {{% blocks/feature title="Meetings" icon="fas fa-video" %}}
@@ -83,6 +94,9 @@ roles than this and the Circle welcomes all decision makers.
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
+
+</div>
+<div class="section-group">
 
 {{% blocks/section color="secondary" %}}
 
@@ -117,6 +131,9 @@ into final small groups of the session.
 </div>
 {{% /blocks/section %}}
 
+</div>
+<div class="section-group">
+
 {{% blocks/section color="white" %}}
 ### General Circle Structure
 
@@ -135,3 +152,5 @@ share with the group, reach out to us on slack directly
 
 </div>
 {{% /blocks/section %}}
+
+</div>

@@ -2,9 +2,66 @@ body {
 	background-color: #fdfdfd;
 }
 
-// Align main content on desktop.
-.td-main main {
-	@media (min-width: 768px) {
+@media (max-width: 992px) {
+	.section-group {
+		section:first-child {
+			padding-top: 4rem;
+		}
+		section::last-child {
+			padding-bottom: 4rem;
+		}
+	}
+
+	.feature-block + .feature-block {
+		margin-top: 4em;
+	}
+
+	.mb-10 {
+		margin-bottom: 6em;
+	}
+}
+
+@media (min-width: 576px) {
+	.container-sm,
+	.container {
+		max-width: 100% !important;
+	}
+}
+
+@media (min-width: 768px) {
+	// Align main content on desktop.
+	.td-main main {
 		padding-top: 9.5rem;
 	}
+	.td-box .row {
+		padding-left: 0vw;
+		padding-right: 0vw;
+		flex-direction: row;
+	}
+}
+
+section {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.td-box--gray-900 {
+	color: #fff;
+	background-color: #403f4c;
+}
+.td-box--gray-700 {
+	color: #fff;
+	background-color: #2c2e35;
+}
+.td-box--gray-300 {
+	color: #000;
+	background-color: #f5f6ff;
+}
+.td-box--gray-200 {
+	color: #000;
+	background-color: #eaeeff;
+}
+
+.td-box--white p > a {
+	color: $link-color;
 }

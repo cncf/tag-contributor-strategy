@@ -23,3 +23,10 @@
 @import 'video';
 @import 'projects';
 @import 'home';
+
+// section group no longer exists.
+// .main doesnt exist?
+.section-group section:first-of-type,
+.main section:first-of-type {
+	padding-top: 5rem;
+}
