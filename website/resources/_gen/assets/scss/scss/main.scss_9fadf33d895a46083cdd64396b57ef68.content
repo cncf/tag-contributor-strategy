@@ -14589,14 +14589,6 @@ h3 a:hover {
 .td-content p {
   line-height: 170%; }
 
-@media (min-width: 768px) {
-  h2[id]:before,
-  h3[id]:before,
-  h4[id]:before,
-  h5[id]:before {
-    margin-top: -4rem;
-    height: 6rem; } }
-
 .lead {
   font-size: 1.5rem; }
 
@@ -14850,8 +14842,5 @@ img.project-logo {
   @media (min-width: 767px) {
     .show-over-768 {
       display: block; } }
-.section-group section:first-of-type,
-.main section:first-of-type {
-  padding-top: 5rem; }
 
 /*# sourceMappingURL=main.css.map */
