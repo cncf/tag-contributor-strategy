@@ -14305,7 +14305,7 @@ section {
 
 .td-box--gray-700 {
   color: #fff;
-  background-color: #2c2e35; }
+  background-color: #12182c; }
 
 .td-box--gray-300 {
   color: #000;
@@ -14673,7 +14673,7 @@ h3 a:hover {
 ul.project-links {
   list-style-type: none;
   padding-left: 0;
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-bottom: 4rem;
   display: flex;
   flex-wrap: wrap;

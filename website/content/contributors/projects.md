@@ -41,6 +41,7 @@ Non-code Projects
  -   **Chat:** CNCF Slack: `#glossary` and `#glossary-localizations` in [cloudnative.slack.com](https://cloud-native.slack.com/)
  -   **License:** Apache 2.0 license. Documentation is distributed under CC BY 4.0.
 
+<div style="height:40px" aria-hidden="true"	class="wp-block-spacer"></div>
 
 Archived Projects
 -----------------
