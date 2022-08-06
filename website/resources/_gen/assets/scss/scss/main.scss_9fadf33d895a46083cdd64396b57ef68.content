@@ -78,7 +78,7 @@ See https://github.com/twbs/bootstrap/pull/23260
   --blue: #72A1E5;
   --indigo: #6610f2;
   --purple: #6f42c1;
-  --pink: #e83e8c;
+  --pink: #d62293;
   --red: #dc3545;
   --orange: #BA5A31;
   --yellow: #ffc107;
@@ -11957,15 +11957,15 @@ readers do not read off random characters that represent icons */
 
 .-bg-pink {
   color: #fff;
-  background-color: #e83e8c; }
+  background-color: #d62293; }
 
 .-bg-pink p > a {
-  color: #aec9f0; }
+  color: #bad1f2; }
   .-bg-pink p > a:hover {
     color: #d62293; }
 
 .-text-pink {
-  color: #e83e8c; }
+  color: #d62293; }
 
 .-bg-red {
   color: #fff;
@@ -12856,25 +12856,25 @@ readers do not read off random characters that represent icons */
 
 .td-box--pink {
   color: #fff;
-  background-color: #e83e8c; }
+  background-color: #d62293; }
   .td-box--pink .td-arrow-down::before {
     left: 50%;
     margin-left: -30px;
     bottom: -25px;
     border-style: solid;
     border-width: 25px 30px 0 30px;
-    border-color: #e83e8c transparent transparent transparent;
+    border-color: #d62293 transparent transparent transparent;
     z-index: 3;
     position: absolute;
     content: ""; }
 
 .td-box--pink p > a {
-  color: #aec9f0; }
+  color: #bad1f2; }
   .td-box--pink p > a:hover {
     color: #d62293; }
 
 .td-box--1pink.td-box--gradient {
-  background: #e83e8c linear-gradient(180deg, #eb5b9d, #e83e8c) repeat-x !important; }
+  background: #d62293 linear-gradient(180deg, #dc43a3, #d62293) repeat-x !important; }
 
 .td-box--red {
   color: #fff;
@@ -14660,6 +14660,9 @@ h3 a:hover {
   top: unset;
   right: unset;
   z-index: unset; }
+  .td-blog .td-rss-button:hover {
+    background-color: #c53490;
+    color: #fff; }
 
 .featured {
   background-color: #D3F3EE; }

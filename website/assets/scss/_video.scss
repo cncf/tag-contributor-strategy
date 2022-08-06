@@ -22,6 +22,10 @@
 	top: unset;
 	right: unset;
 	z-index: unset;
+	&:hover {
+		background-color: $primary-300;
+		color: $white;
+	}
 }
 
 // Highlights a set of videos at /videos

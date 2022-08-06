@@ -10,22 +10,23 @@
 */
 
 $primary: #fff;
-$primary-300: #c53490;
-$link-color: #d62293;
-$link-hover-color: #d62293;
+$pink: #d62293;
 $black: #000;
+$primary-300: #c53490;
+$link-color: $pink;
+$link-hover-color: $pink;
 $gray-700: #747474;
 $gray-900: #464646;
-$link-hover-decoration: underline;
 $body-color: #000;
-$td-enable-google-fonts: false;
 $td-sidebar-tree-root-color: $primary;
 $td-sidebar-bg-color: #f4f4f4;
 $navbar-dark-color: $black;
-$navbar-dark-hover-color: $gray-900;
 $navbar-dark-active-color: $black;
 $navbar-dark-disabled-color: $black;
+$navbar-dark-hover-color: $gray-900;
 $headings-font-weight: 700;
+$link-hover-decoration: underline;
+$td-enable-google-fonts: false;
 
 // font-stack.
 $font-family-base: 'Clarity City', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, Roboto,
