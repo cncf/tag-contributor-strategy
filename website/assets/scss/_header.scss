@@ -7,7 +7,7 @@
 	padding-bottom: 15px;
 	@media (min-width: 768px) {
 		min-height: 5rem;
-		padding: 0;
+		padding: 0 2rem 0 0;
 	}
 	&:after {
 		background: linear-gradient(180deg, rgba(0, 0, 0, 0.1), transparent);
@@ -37,7 +37,6 @@
 	// Main nav bar.
 	.td-navbar-nav-scroll {
 		margin-top: 0;
-		margin-left: -0.5rem;
 		.navbar-nav {
 			padding-bottom: 0;
 			display: flex;

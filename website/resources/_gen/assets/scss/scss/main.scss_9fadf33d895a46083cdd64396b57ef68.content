@@ -14201,7 +14201,7 @@ footer {
   @media (min-width: 768px) {
     .td-navbar {
       min-height: 5rem;
-      padding: 0; } }
+      padding: 0 2rem 0 0; } }
   .td-navbar:after {
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.1), transparent);
     content: '';
@@ -14220,8 +14220,7 @@ footer {
     .td-navbar .navbar-brand .navbar-logo svg {
       height: 40px; }
   .td-navbar .td-navbar-nav-scroll {
-    margin-top: 0;
-    margin-left: -0.5rem; }
+    margin-top: 0; }
     .td-navbar .td-navbar-nav-scroll .navbar-nav {
       padding-bottom: 0;
       display: flex;
