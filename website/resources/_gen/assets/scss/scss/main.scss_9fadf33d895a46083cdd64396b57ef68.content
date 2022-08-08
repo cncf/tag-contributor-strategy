@@ -14640,6 +14640,16 @@ h3 a:hover {
     margin-top: 0;
     height: 0; } }
 
+.td-content > table th {
+  text-transform: uppercase;
+  border-top: none; }
+
+.td-content > table tbody tr:nth-of-type(odd) {
+  background-color: unset; }
+
+.td-content > table td {
+  padding: 1rem; }
+
 .video {
   position: relative;
   width: 100%;
@@ -14679,7 +14689,7 @@ ul.project-links {
   max-width: 100% !important; }
   @media (min-width: 1000px) {
     ul.project-links {
-      margin-bottom: 6rem; } }
+      margin-bottom: 4rem; } }
   ul.project-links li {
     margin-bottom: 1em; }
     ul.project-links li:not(:last-child) {

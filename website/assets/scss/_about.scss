@@ -40,3 +40,16 @@
 		height: 0;
 	}
 }
+
+.td-content > table {
+	th {
+		text-transform: uppercase;
+		border-top: none;
+	}
+	tbody tr:nth-of-type(odd) {
+		background-color: unset;
+	}
+	td {
+		padding: 1rem;
+	}
+}

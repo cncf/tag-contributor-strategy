@@ -1,19 +1,19 @@
 <table>
     <thead>
     <tr>
-    <th style="text-align:center">Project Name</th>
-    <th style="text-align:center">Focus</th>
-    <th style="text-align:center">Primary Language</th>
+    <th>Project Name</th>
+    <th>Focus</th>
+    <th>Primary Language</th>
     </tr>
     </thead>
     <tbody>
 {{ range $.Site.Data.projects }}
     {{ if eq .project ($.Get "level") }}
     <tr>
-        <td style="text-align:center">
+        <td>
         <a href="/contributors/projects/#{{ urlize .name }}">{{ .name }}</a></td>
-        <td style="text-align:center">{{ .path }}</td>
-        <td style="text-align:center">{{ .language }}</td>
+        <td>{{ .path }}</td>
+        <td>{{ .language }}</td>
     </tr>
     {{ end }}
 {{ end }}
