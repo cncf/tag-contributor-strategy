@@ -14863,7 +14863,7 @@ img.project-logo {
           @media (min-width: 768px) {
             .slider.slick-slider .slick-dots li button:before {
               width: 85px;
-              height: 8px; } }
+              height: 4px; } }
 .show-over-768 {
   display: none; }
   @media (min-width: 767px) {
