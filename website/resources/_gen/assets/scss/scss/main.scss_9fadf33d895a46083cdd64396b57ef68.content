@@ -14245,8 +14245,11 @@ footer {
         @media (min-width: 768px) {
           .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item .nav-link {
             letter-spacing: 0.02em; } }
-        .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item .nav-link.active {
-          border-bottom: 4px #5c2cff9c solid; }
+        @media (min-width: 992px) {
+          .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item .nav-link.active {
+            border-bottom: 4px #5c2cff9c solid;
+            padding-top: 28px;
+            padding-bottom: 24px; } }
       .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item.dropdown {
         margin-left: 1rem; }
         .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item.dropdown .dropdown-item {

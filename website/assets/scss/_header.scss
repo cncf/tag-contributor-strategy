@@ -66,7 +66,11 @@
 						letter-spacing: 0.02em;
 					}
 					&.active {
-						border-bottom: 4px #5c2cff9c solid;
+						@media (min-width: 992px) {
+							border-bottom: 4px #5c2cff9c solid;
+							padding-top: 28px;
+						    padding-bottom: 24px;
+						}
 					}
 				}
 				// Topnav dropdown.
