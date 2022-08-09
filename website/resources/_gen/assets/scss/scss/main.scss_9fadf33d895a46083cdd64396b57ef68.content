@@ -14596,7 +14596,7 @@ h3 a:hover {
   margin-top: 3rem; }
 
 .td-content > h2:not(:first-child) {
-  margin-top: 3rem; }
+  margin-top: 4rem; }
 
 .td-content > h2 {
   margin-bottom: 2.1rem; }
@@ -14643,15 +14643,16 @@ h3 a:hover {
     margin-top: 0;
     height: 0; } }
 
-.td-content > table th {
-  text-transform: uppercase;
-  border-top: none; }
-
-.td-content > table tbody tr:nth-of-type(odd) {
-  background-color: unset; }
-
-.td-content > table td {
-  padding: 1rem; }
+.td-content > table {
+  margin-bottom: 2rem; }
+  .td-content > table th {
+    text-transform: uppercase;
+    border-top: none; }
+  .td-content > table tbody tr:nth-of-type(odd) {
+    background-color: unset; }
+  .td-content > table td {
+    padding: 1rem;
+    border-bottom: 1px solid #dee2e6; }
 
 .video {
   position: relative;
