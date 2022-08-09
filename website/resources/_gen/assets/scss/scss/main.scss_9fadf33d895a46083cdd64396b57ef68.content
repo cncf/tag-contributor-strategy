@@ -14633,10 +14633,11 @@ h3 a:hover {
 
 .td-box--primary,
 .td-box--white {
-  background-color: #fdfdfd; }
-
-.text-center span.h4 p {
-  text-align: left; }
+  background-color: #fdfdfd;
+  color: #000; }
+  .td-box--primary span.lead p,
+  .td-box--white span.lead p {
+    font-weight: 300; }
 
 @media (min-width: 768px) {
   .td-box--primary h2[id]:before {

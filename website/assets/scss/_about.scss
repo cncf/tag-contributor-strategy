@@ -28,10 +28,11 @@
 .td-box--primary,
 .td-box--white {
 	background-color: #fdfdfd;
-}
+	color: $body-color;
 
-.text-center span.h4 p {
-	text-align: left;
+	span.lead p {
+		font-weight: 300;
+	}
 }
 
 @media (min-width: 768px) {
