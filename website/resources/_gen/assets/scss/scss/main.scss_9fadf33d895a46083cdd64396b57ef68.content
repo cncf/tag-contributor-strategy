@@ -14238,7 +14238,9 @@ footer {
           background-attachment: local, local, scroll, scroll; } }
       .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item .nav-link {
         font-weight: 600;
-        transition: color 0.25s ease-in; }
+        transition: color 0.25s ease-in;
+        padding-right: 0.3rem;
+        padding-left: 0.3rem; }
         @media (max-width: 500px) {
           .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item .nav-link {
             padding: 0 !important; } }
