@@ -1,0 +1,19 @@
+name: Sync Drafts Branch
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync-drafts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Sync Drafts Branch
+        uses: devmasx/merge-branch@v1.3.1
+        with:
+          type: now
+          from_branch: main
+          target_branch: drafts
+          github_token: ${{ github.token }}
