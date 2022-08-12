@@ -30,7 +30,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 ## Non-code Projects
 
 |                          Project Name                          |            Focus            |   Primary Language   |
-| :------------------------------------------------------------: | :-------------------------: | :------------------: |
+| ------------------------------------------------------------ | ------------------------- | ------------------ |
 |    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
 
 ## Archived Projects
