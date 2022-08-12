@@ -17,7 +17,7 @@ different forms, and it’s often not called a charter at all, but instead takes
 the form of a mission statement, scope, values / principles, and similar
 concepts often found within the governance documents or project READMEs.
 
-**Mission Statement**
+## Mission Statement
 
 For CNCF projects, we recommend including a mission statement that helps people
 understand the purpose, advantages, and key features of your project in your
@@ -42,7 +42,7 @@ Examples:
     observability, and reliability features to your Kubernetes stack with no
     code change required.
 
-**Scope**
+## Scope
 
 By clearly documenting what is in and out of scope for your project, you can
 avoid misunderstandings about your project. The scope documentation helps end
@@ -63,7 +63,7 @@ Examples:
 *   The scope of CRI-O is tied to the scope of the CRI
     ([CRI-O scope doc](https://github.com/cri-o/cri-o#what-is-the-scope-of-this-project)).
 
-**Values / Principles**
+## Values / Principles
 
 It is also good practice to include a statement of values or principles within
 your governance documentation. While the scope includes information about

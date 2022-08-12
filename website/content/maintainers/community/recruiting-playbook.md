@@ -6,7 +6,7 @@ description: >
   How to recruit more contributors to your project.
 ---
 
-# Recruiting Contributors
+## Recruiting Contributors
 *Status: Draft; Missing Components*
 
 ## Summary 

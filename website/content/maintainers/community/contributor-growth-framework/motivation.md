@@ -68,7 +68,7 @@ And make sure everything is well documented in your docs and/or video tutorials.
 
 Some examples of tools that minimize the PR submission process would be: linters, IDE plugins for your programming language or tech stack, or using Docker to automate developer environment setup.
   
-# The Human Factor
+## The Human Factor
 
 While interviewing maintainers from different projects, one thing became clear: The human factor is one of the most important aspects. Yes, contributors want to learn, they want to grow professionally, but they also want to be valued and belong.
 The more welcoming your community is, the more contributors you'll attract. Especially with new contributors, reach out, welcome them, start a quick conversation to make the first connection. You can ask them about their project, how long they've been using your project, what they are working on, you name it but connect with them on a human level.

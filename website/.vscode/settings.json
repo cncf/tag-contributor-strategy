@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        ".docker/": true,
+        "**/.vscode": true,
+        "**/node_modules": true,
+        "vendor": true,
+        "/resources": true,
+        "/themes/docsy": true
+    },
+    "files.watcherExclude": {
+        "**/.git": true,
+        "node_modules": true,
+        "vendor": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "/resources": true,
+        "/themes/docsy": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/vendor": true,
+        "/resources": true,
+        "/themes/docsy": true
+    }
+}

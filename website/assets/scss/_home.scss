@@ -1,0 +1,214 @@
+.td-home {
+	.container-fluid {
+		padding-left: 0;
+		padding-right: 0;
+		.row {
+			margin-left: unset;
+			margin-right: unset;
+		}
+		footer.row {
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+	}
+	.frontpage {
+		background-color: rgba(#000000, 0.65);
+
+		// calculate .slider + .cta-box
+		min-height: calc(445px + 100px + 100px);
+		@media (min-width: 768px) {
+			min-height: calc(445px + 100px);
+			// Size of nav is 80px.
+			padding-top: 80px;
+		}
+		@media (min-width: 1000px) {
+			min-height: calc(770px - 80px);
+		}
+		@media (min-width: 1200px) {
+			.slider-container {
+				position: relative;
+			}
+		}
+		.slider {
+			min-height: 445px;
+			height: 100%;
+			// Individual slides.
+			.slide {
+				min-height: 445px;
+			}
+		}
+		.cta-container {
+			@media (min-width: 768px) {
+				display: flex;
+				flex-direction: row;
+			}
+			@media (min-width: 1200px) {
+				flex-direction: column;
+				position: absolute;
+				top: 0;
+				right: 0;
+				min-width: 500px;
+				width: 40%;
+				height: 100%;
+			}
+		}
+		.cta-box {
+			min-height: 100px;
+			padding-left: 25px;
+			padding-right: 25px;
+			display: flex;
+			align-items: center;
+			width: 100%;
+			@media (min-width: 768px) {
+				padding-left: 50px;
+			}
+			@media (min-width: 1200px) {
+				height: 100%;
+				padding: 0;
+				justify-content: center;
+			}
+		}
+		.cta-contributor {
+			background-color: rgba(#d62293, 0.7);
+			@media (min-width: 1200px) {
+				background-color: rgba(#d62293, 0.6);
+			}
+		}
+		.cta-maintainer {
+			background-color: rgba(#62a1ff, 0.7);
+			@media (min-width: 1200px) {
+				background-color: rgba(#62a1ff, 0.6);
+			}
+		}
+		.cta-link {
+			font-size: 20px;
+			@media (min-width: 374px) {
+				font-size: 22px;
+			}
+			@media (min-width: 1200px) {
+				font-size: 40px;
+			}
+			font-weight: 300;
+			line-height: 140%;
+			color: $white;
+			span {
+				font-weight: 700;
+				text-decoration: underline;
+			}
+			&:hover {
+				text-decoration: none;
+				span {
+					opacity: 0.9;
+				}
+			}
+		}
+	}
+}
+
+// Background image object fit.
+.background-image-wrapper {
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+}
+
+.background-image-figure {
+	img {
+		// Basic image stuff
+		margin: 0;
+		max-width: 100%;
+		height: auto;
+		// Stretch.
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		position: absolute;
+		z-index: 1;
+		top: 0;
+		left: 0;
+	}
+}
+
+.background-image-text-overlay {
+	z-index: 2;
+	position: absolute;
+	padding-left: 25px;
+	padding-right: 25px;
+	bottom: calc(45px + 25px + 20px);
+	@media (min-width: 768px) {
+		padding-left: 50px;
+		padding-right: 2rem;
+		bottom: calc(95px + 25px + 60px);
+	}
+	h2 {
+		font-weight: 400;
+		line-height: 140%;
+		color: #ffffff;
+		font-size: 32px;
+		@media (min-width: 374px) {
+			font-size: 36px;
+		}
+		@media (min-width: 768px) {
+			font-size: 60px;
+			font-weight: 500;
+			line-height: 140%;
+		}
+	}
+}
+
+// Slick - Min size hack / fade in.
+.slider.slick-slider {
+	margin: 0;
+	min-height: 1px;
+	min-width: 1px;
+	opacity: 0;
+	&.slick-initialized {
+		opacity: 1;
+		transition: opacity 0.3s ease-out;
+	}
+	&.slick-dotted {
+		margin-bottom: 0px;
+	}
+	.slick-dots {
+		text-align: left;
+		width: calc(100% - 25px - 25px);
+		bottom: 45px;
+		left: 25px;
+		@media (min-width: 768px) {
+			left: 50px;
+			bottom: 95px;
+		}
+		li {
+			margin: 0;
+			width: 50px;
+			margin-right: 6px;
+			@media (min-width: 768px) {
+				margin-right: 20px;
+				width: 85px;
+			}
+			button {
+				width: 50px;
+				@media (min-width: 768px) {
+					width: 85px;
+				}
+				&:before {
+					content: '';
+					background-color: #d9d9d9;
+					width: 50px;
+					height: 2px;
+					@media (min-width: 768px) {
+						width: 85px;
+						height: 4px;
+					}
+				}
+			}
+		}
+	}
+}
+
+.show-over-768 {
+	display: none;
+	@media (min-width: 767px) {
+		display: block;
+	}
+}
