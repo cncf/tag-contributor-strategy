@@ -52,10 +52,6 @@ _Note: CNCF TAGs were previously named Special Interest Groups (SIGs). Renaming 
 
 Working groups (WG's) are the community-driven groups with the goal of continuous collaboration in the specific areas. CNCF WG's are created and curated by the CNCF TOC and driven by the community members. CNCF TOC repo provides more [details](https://github.com/cncf/toc/tree/master/workinggroups#cncf-working-groups) on the purpose and goals of WG's, together with the [list of them](https://github.com/cncf/toc/blob/master/README.md#working-groups).
 
-## TOC Contributors
-
-The recommended way to start contributing to CNCF TOC - acting as a TOC Contributor. Here are more [details](https://github.com/cncf/toc/blob/master/CONTRIBUTORS.md) on goals and purpose of the initiative.
-
 ## Community Engagement
 
 ### Ambassadors
