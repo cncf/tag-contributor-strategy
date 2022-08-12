@@ -14197,9 +14197,10 @@ footer {
   padding-left: 0;
   padding-right: 0;
   padding-top: 15px;
-  padding-bottom: 15px; }
+  padding-bottom: 0; }
   @media (min-width: 768px) {
     .td-navbar {
+      padding-bottom: 15px;
       min-height: 5rem;
       padding: 0 2rem 0 0; } }
   .td-navbar:after {
