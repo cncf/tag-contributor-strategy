@@ -14195,11 +14195,10 @@ footer {
 .td-navbar {
   background: rgba(252, 252, 252, 0.98);
   padding-left: 0;
-  padding-right: 0;
-  padding-top: 15px;
-  padding-bottom: 0; }
+  padding-right: 0; }
   @media (min-width: 768px) {
     .td-navbar {
+      padding-top: 15px;
       padding-bottom: 15px;
       min-height: 5rem;
       padding: 0 2rem 0 0; } }
