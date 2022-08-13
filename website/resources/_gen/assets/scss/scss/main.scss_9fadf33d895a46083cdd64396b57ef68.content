@@ -14280,7 +14280,6 @@ footer {
                 bottom: -23px; } }
             @media (max-width: 500px) {
               .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item .nav-link span:after {
-                height: 2px;
                 bottom: -12px; } }
         .td-navbar .td-navbar-nav-scroll .navbar-nav .nav-item .nav-link.active span:after {
           background-color: #5c2cff9c; }
