@@ -66,6 +66,9 @@ collaborators:
   
   - username: kgamanji
     permission: push
+
+  - username: cathyhongzhang
+    permission: push
   
   # burnout forum and inclusiveness leads
   - username: juliasimon
