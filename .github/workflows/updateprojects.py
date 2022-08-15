@@ -10,7 +10,7 @@ import urllib.request
 import json
 import os
 
-projectsCsvFile = os.path.dirname(os.path.realpath(__file__))+'/../../data/projects.json'
+projectsCsvFile = os.path.dirname(os.path.realpath(__file__))+'/../../website/data/projects.json'
 
 landscapeBaseURL = 'https://landscape.cncf.io'
 landscapeHostedProjects = landscapeBaseURL+'/api/items?project=hosted'

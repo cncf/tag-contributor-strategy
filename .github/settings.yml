@@ -26,6 +26,15 @@ collaborators:
   - username: jberkus
     permission: admin
 
+  - username: amye
+    permission: admin
+
+  - username: caniszczyk
+    permission: admin
+
+  - username: mrbobbytables
+    permission: push
+
   - username: idvoretskyi
     permission: admin
     
