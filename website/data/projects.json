@@ -1804,14 +1804,14 @@
         "language": "Rust"
     },
     {
-        "name": "krustlet",
+        "name": "Krustlet",
         "path": "Installable Platform",
         "description": "Kubernetes Rust Kubelet",
-        "homepage_url": "https://krustlet.dev/",
-        "project": null,
+        "homepage_url": "https://krustlet.dev",
+        "project": "sandbox",
         "repo_url": "https://github.com/krustlet/krustlet",
         "logo": "logos/krustlet.svg",
-        "twitter": "https://twitter.com/CloudNativeFdn",
+        "twitter": "https://twitter.com/krustlet",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
         "accepted": null,
