@@ -94,6 +94,7 @@ channels:
 
 - Matt Farina ([@mattfarina](https://github.com/mattfarina)), SuSE
 - Katie Gamanji ([@kgamanji](https://github.com/kgamanji)), Apple
+- Cathy Zhang ([@cathyhongzhang](https://github.com/cathyhongzhang)), Intel
 
 ### Emeritus Leads
 
