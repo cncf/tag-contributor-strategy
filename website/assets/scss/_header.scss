@@ -22,7 +22,6 @@
 		width: 100%;
 		z-index: 1;
 	}
-
 	// Logo area.
 	.navbar-brand {
 		@media (min-width: 768px) {
@@ -44,7 +43,6 @@
 		@media (min-width: 500px) {
 			overflow: visible;
 		}
-
 		.navbar-nav {
 			padding-bottom: 0;
 			display: flex;
@@ -63,15 +61,14 @@
 				background-size: 20px 100%, 20px 100%, 10px 100%, 10px 100%;
 				background-attachment: local, local, scroll, scroll;
 			}
-	
+
 			@media (min-width: 500px) {
 				overflow: visible;
 			}
-	
+
 			.nav-item {
 				.nav-link {
 					font-weight: 600;
-					transition: color 0.25s ease-in;
 					padding-right: 0.3rem;
 					padding-left: 0.3rem;
 					@media (max-width: 500px) {
@@ -84,7 +81,7 @@
 						position: relative;
 						@media (min-width: 501px) {
 							padding-left: 6px;
-							padding-right: 6px;			
+							padding-right: 6px;
 						}
 						&:after {
 							content: '';
@@ -105,10 +102,10 @@
 							display: block;
 							width: 100%;
 							background-color: transparent;
-						}			
+						}
 					}
 					&.active span:after {
-						background-color: #5c2cff9c;
+						background-color: #967ef8;
 					}
 				}
 				// Topnav dropdown.
@@ -120,6 +117,14 @@
 						&:focus {
 							color: $black;
 							text-decoration: none;
+						}
+					}
+				}
+				// Adds some spacing to the end of the mobile menu when it overflows.
+				@media (max-width: 500px) {
+					&:last-child {
+						.nav-link span {
+							margin-right: 20px;
 						}
 					}
 				}
