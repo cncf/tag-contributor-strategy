@@ -100,21 +100,21 @@ func Hugo() error {
 
 // Build the live website.
 func Deploy() error {
-	mg.Deps(docsy, syncGoMod)
+	mg.Deps(docsy, syncGoMod, netlifySetup)
 
 	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose", "-b", "https://contribute.cncf.io/")
 }
 
 // Deploy branch builds the website, including future dated and draft posts
 func DeployBranch() error {
-	mg.Deps(docsy, syncGoMod)
+	mg.Deps(docsy, syncGoMod, netlifySetup)
 
 	return shx.RunV("hugo", "-s", "website", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl())
 }
 
 // Deploy preview builds the website for a pull request, using the same build settings as the live site.
 func DeployPreview() error {
-	mg.Deps(docsy, syncGoMod)
+	mg.Deps(docsy, syncGoMod, netlifySetup)
 
 	return shx.RunV("hugo", "-s", "website", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl())
 }
@@ -225,7 +225,7 @@ func docsy() error {
 		return errors.Wrap(err, "could not clone the docsy theme")
 	}
 
-	return shx.Command("npm", "install", "postcss", "postcss-cli").In("website").RunE()
+	return nil
 }
 
 func containerExists(name string) bool {
@@ -262,6 +262,10 @@ func awaitContainer(name string, logSearch string) error {
 			time.Sleep(time.Second)
 		}
 	}
+}
+
+func netlifySetup() error {
+	return shx.Command("npm", "install").In("website").RunV()
 }
 
 func clean() error {
