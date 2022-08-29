@@ -1,0 +1,21 @@
+<table>
+    <thead>
+    <tr>
+    <th>Project Name</th>
+    <th>Focus</th>
+    <th>Primary Language</th>
+    </tr>
+    </thead>
+    <tbody>
+{{ range $.Site.Data.projects }}
+    {{ if eq .project ($.Get "level") }}
+    <tr>
+        <td>
+        <a href="/contributors/projects/#{{ urlize .name }}">{{ .name }}</a></td>
+        <td>{{ .path }}</td>
+        <td>{{ .language }}</td>
+    </tr>
+    {{ end }}
+{{ end }}
+</tbody>
+</table>

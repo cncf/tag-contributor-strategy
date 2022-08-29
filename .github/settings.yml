@@ -26,6 +26,15 @@ collaborators:
   - username: jberkus
     permission: admin
 
+  - username: amye
+    permission: admin
+
+  - username: caniszczyk
+    permission: admin
+
+  - username: mrbobbytables
+    permission: push
+
   - username: idvoretskyi
     permission: admin
     
@@ -60,11 +69,44 @@ collaborators:
   - username: iennae
     permission: push
 
-  # burnout forum leads
+  # Current TOC liaisons
+  - username: mattfarina
+    permission: push
+  
+  - username: kgamanji
+    permission: push
+
+  - username: cathyhongzhang
+    permission: push
+  
+  # burnout forum and inclusiveness leads
   - username: juliasimon
     permission: push
 
   - username: mcgonagle
+    permission: push
+    
+  - username: melaniadeangelis
+    permission: push
+    
+  - username: SaraTrap
+    permission: push
+    
+  - username: jadeapplegate
+    permission: push
+    
+    
+# mentoring leads
+
+  - username: nate-double-u
+    permission: push
+    
+  - username: idvoretskyi
+    permission: push
+
+# comminfra leads
+
+  - username: hh
     permission: push
 
 labels:
@@ -87,6 +129,12 @@ labels:
   - name: needs-toc-approval
     description: Requires approval from the TOC before merging to main
     color: b60205
+  - name: inclusiveness
+    color: ffdab9
+  - name: comminfra
+    color: 1e90ff
+  - name: mentoring
+    color: 7f0000
 
 # additional colors in this palette:
-# 7f0000 , 1e90ff, ffdab9, ff69b4
+# ff69b4

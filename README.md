@@ -35,6 +35,7 @@ Go to [the CNCF calendar](https://www.cncf.io/calendar/) and enter "TAG Contribu
 Once you join, you won't automatically have the invite on your calendar. You can
 get it from a [past message here](https://lists.cncf.io/g/cncf-tag-contributor-strategy/message/1)
 - [Meeting minutes and agenda](https://bit.ly/cncf-contribstrat-agenda)
+- All meetings are recorded and can be accessed on the [CNCF TAG Contributor Strategy](https://www.youtube.com/channel/UCCqKWkTM2pkmLwXaj-7AvcA) Youtube channel.
 - Meeting Link: [zoom.us/my/cncftagcontributorstrategy](https://zoom.us/my/cncftagcontributorstrategy)
   - Meeting ID: **574 406 1161**
   - One tap mobile:
@@ -93,6 +94,7 @@ channels:
 
 - Matt Farina ([@mattfarina](https://github.com/mattfarina)), SuSE
 - Katie Gamanji ([@kgamanji](https://github.com/kgamanji)), Apple
+- Cathy Zhang ([@cathyhongzhang](https://github.com/cathyhongzhang)), Intel
 
 ### Emeritus Leads
 

@@ -1,0 +1,28 @@
+name: Update Projects
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Run build
+      run: |
+        python .github/workflows/updateprojects.py
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+         token: ${{ secrets.PAT }}
+         branch-suffix: timestamp
+         path: .
+         title: Update Projects
+         labels: automerge
+         commit-message: Update Projects
+         signoff: true
