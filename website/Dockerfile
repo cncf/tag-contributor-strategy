@@ -7,6 +7,7 @@ RUN go mod download
 
 WORKDIR /src/website
 COPY . /src/
+RUN npm install
 
 # Copy the resolved go modules since hugo doesn't resolve before using
 RUN cp /tmp/website/go.* /src/website/
