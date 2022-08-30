@@ -160,11 +160,6 @@ prism_syntax_highlighting = false
   branch = "main"
   subdir = "website"
 
-  [params.github.contributors]
-    repo = "https://github.com/cncf/contribute"
-    branch = "main"
-
-
 # User interface configuration
 [params.ui]
 # Enable to show the side bar menu in its compact state.
