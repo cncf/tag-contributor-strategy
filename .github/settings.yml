@@ -69,11 +69,17 @@ collaborators:
   - username: iennae
     permission: push
 
+  - username: LFCIBot
+    permission: push
+
   # Current TOC liaisons
   - username: mattfarina
     permission: push
   
   - username: kgamanji
+    permission: push
+
+  - username: cathyhongzhang
     permission: push
   
   # burnout forum and inclusiveness leads
