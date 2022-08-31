@@ -144,14 +144,13 @@ Facilitators
 
 ### Mentoring WG
 
-Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/167)
+[Charter](/mentoring/README.md)
 
 Facilitators
 
 - Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
+- Jay Tihema ([@jaytiaki](https://github.com/jaytiaki)), ii
 - Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-
 
 ### Community Infrastructure Team
 
