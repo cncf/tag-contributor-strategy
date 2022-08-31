@@ -18,7 +18,7 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
   - [TAG Chairs](#tag-chairs)
   - [Tech Leads](#tech-leads)
   - [TOC Liaisons](#toc-liaisons)
-  - [Bootstrap TAG members](#bootstrap-tag-members)
+  - [Original Bootstrap TAG members](#original-bootstrap-tag-members)
   - [Emeritus Leads](#emeritus-leads)
 - [Working Groups and Teams](#working-groups-and-teams)
   - [Governance WG](#governance-wg)
