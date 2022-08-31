@@ -136,7 +136,7 @@ Facilitators:
 
 ### Inclusiveness Team
 
-Facilitators
+Facilitators:
 
 - Melania De Angelis ([@melaniadeangelis](https://github.com/melaniadeangelis)), SIGHUP
 - Sara Trapetti ([@SaraTrap](https://github.com/SaraTrap)), SIGHUP
@@ -146,7 +146,7 @@ Facilitators
 
 [Charter](/mentoring/README.md)
 
-Facilitators
+Facilitators:
 
 - Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
 - Jay Tihema ([@jaytiaki](https://github.com/jaytiaki)), ii
@@ -154,7 +154,7 @@ Facilitators
 
 ### Community Infrastructure Team
 
-Facilitators
+Facilitators:
 
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
 - Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
