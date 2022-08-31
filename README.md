@@ -20,11 +20,13 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
   - [TOC Liaisons](#toc-liaisons)
   - [Bootstrap TAG members](#bootstrap-tag-members)
   - [Emeritus Leads](#emeritus-leads)
-- [Working Groups](#working-groups)
-  - [Governance](#governance)
-  - [Contributor Growth](#contributor-growth)
+- [Working Groups and Teams](#working-groups-and-teams)
+  - [Governance WG](#governance-wg)
+  - [Contributor Growth WG](#contributor-growth-wg)
   - [Maintainer's Circle](#maintainers-circle)
-  - [GitHub Management](#github-management)
+  - [Inclusiveness Team](#inclusiveness-team)
+  - [Mentoring WG](#mentoring-wg)
+  - [Community Infrastructure Team](#community-infrastructure-team)
 
 ## Meetings
 
