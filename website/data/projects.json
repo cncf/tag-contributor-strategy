@@ -154,6 +154,28 @@
         "language": "Go"
     },
     {
+        "name": "Hexa Policy Orchestrator",
+        "path": "Security & Compliance",
+        "description": "Policy Orchestration",
+        "homepage_url": "https://hexaorchestration.org/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/hexa-org/policy-orchestrator",
+        "logo": "logos/hexa.svg",
+        "twitter": "https://twitter.com/HexaPolicy",
+        "crunchbase": null,
+        "chat_channel": null,
+        "accepted": "2022-07-26",
+        "dev_stats_url": "https://hexapolicyorchestrator.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#hexa-policy-orchestrator-logos",
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Jaeger",
         "path": "Tracing",
         "description": "CNCF Jaeger, a Distributed Tracing Platform",
