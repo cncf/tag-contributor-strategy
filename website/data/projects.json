@@ -1650,6 +1650,28 @@
         "language": "Rust"
     },
     {
+        "name": "Hexa",
+        "path": "Security & Compliance",
+        "description": "Hexa Policy Orchestrator enables you to manage all of your access policies consistently across software providers.",
+        "homepage_url": "https://hexaorchestration.org/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/hexa-org/policy-orchestrator",
+        "logo": "logos/hexa.svg",
+        "twitter": "https://twitter.com/HexaPolicy",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2022-07-26",
+        "dev_stats_url": "https://hexapolicyorchestrator.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#hexa-logos",
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Inclavare Containers",
         "path": "Container Runtime",
         "description": "A novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem.",
@@ -2334,7 +2356,7 @@
     {
         "name": "ORAS",
         "path": "Cloud Native Storage",
-        "description": "ORAS CLI",
+        "description": "Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM",
         "homepage_url": "https://oras.land/",
         "project": "sandbox",
         "repo_url": "https://github.com/oras-project/oras",
@@ -2488,7 +2510,7 @@
     {
         "name": "sealer",
         "path": "Application Definition & Image Build",
-        "description": "A tool to seal application's all dependencies and Kubernetes into ClusterImage, distribute this application anywhere via ClusterImage, and run it within any cluster in one command.",
+        "description": "Define and deliver your kube-cluster in a standard and easy way (Project under CNCF)",
         "homepage_url": "https://sealer.cool",
         "project": "sandbox",
         "repo_url": "https://github.com/alibaba/sealer",
