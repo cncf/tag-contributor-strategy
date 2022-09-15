@@ -792,28 +792,6 @@
         "language": "C++"
     },
     {
-        "name": "Hubble",
-        "path": "Monitoring",
-        "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF",
-        "homepage_url": "https://github.com/cilium/hubble",
-        "project": "incubating",
-        "repo_url": "https://github.com/cilium/hubble",
-        "logo": "logos/hubble.svg",
-        "twitter": "https://twitter.com/CloudNativeFdn",
-        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
-        "chat_channel": null,
-        "accepted": null,
-        "dev_stats_url": null,
-        "artwork_url": null,
-        "stack_overflow_url": null,
-        "blog_url": null,
-        "mailing_list_url": null,
-        "slack_url": null,
-        "gitter_url": null,
-        "youtube_url": null,
-        "language": "Go"
-    },
-    {
         "name": "in-toto",
         "path": "Security & Compliance",
         "description": "in-toto is a framework to protect supply chain integrity.",
