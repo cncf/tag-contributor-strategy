@@ -10,7 +10,7 @@ you.
 
 This [TAG] (Technical Advisory Group) is an extension of the [TOC] that works to
 build programs and guidance to help scale and grow open source communities. We
-work in two CNCF GitHub repositories:  
+work in this GitHub repository:  
 
 🆕[cncf/tag-contributor-strategy]  
  contains our meta docs that cover our governance, how we operate, and resources that we
@@ -18,10 +18,7 @@ work in two CNCF GitHub repositories:
  web pages at [contribute.cncf.io/maintainers][maintainers] and is advice for people who
  are running and maintaining CNCF projects.
 
-🔜[cncf/contribute]  
-houses contributing information and guidance for people who are contributors
-or aspire to be contributors to CNCF projects. This content is available on our
-website at [contribute.cncf.io/contributors][contributors].
+Note: Project data listed in [the Contributors section](https://contribute.cncf.io/contributors/) is pulled from the [CNCF landscape](https://landscape.cncf.io/). Submit a PR to [the landscape repo](https://github.com/cncf/landscape) to update any project data.
 
 Our [charter] describes our mission and initial scope of what we’d like to
 accomplish. Each of our members are closely involved with at least one CNCF
