@@ -69,6 +69,9 @@ collaborators:
   - username: iennae
     permission: push
 
+  - username: LFCIBot
+    permission: push
+
   # Current TOC liaisons
   - username: mattfarina
     permission: push
