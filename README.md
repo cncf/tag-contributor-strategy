@@ -87,6 +87,7 @@ channels:
 
 - Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
+- Catherine Paganini ([@CathPag](https://github.com/CathPag)), Buoyant
 
 ### Tech Leads
 
