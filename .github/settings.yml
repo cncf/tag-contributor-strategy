@@ -20,6 +20,9 @@ repository:
 # role. If there are questions, please contact one of the chairs.
 collaborators:
   # Admins
+  - username: cathpag
+    permission: admin
+
   - username: geekygirldawn
     permission: admin
 
