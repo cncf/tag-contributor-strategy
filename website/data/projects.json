@@ -16,7 +16,7 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/containerd",
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": "https://slack.containerd.io/",
+        "slack_url": "https://slack.cncf.io/",
         "gitter_url": null,
         "youtube_url": null,
         "language": "Go"
@@ -2506,6 +2506,28 @@
         "gitter_url": null,
         "youtube_url": null,
         "language": "Go"
+    },
+    {
+        "name": "Serverless Devs",
+        "path": "Tools",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Serverless Devs developer tool ( Serverless Devs \u5f00\u53d1\u8005\u5de5\u5177 )",
+        "homepage_url": "https://www.serverless-devs.com/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/serverless-devs/serverless-devs",
+        "logo": "logos/serverless-devs.svg",
+        "twitter": "https://twitter.com/alibabagroup",
+        "crunchbase": "https://www.crunchbase.com/organization/alibaba",
+        "chat_channel": null,
+        "accepted": null,
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "TypeScript"
     },
     {
         "name": "Serverless Workflow",
