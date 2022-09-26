@@ -2224,7 +2224,7 @@
     {
         "name": "OpenFGA",
         "path": "Security & Compliance",
-        "description": "OpenFGA is high performance and flexible authorization/permission system built for developers and inspired by Google Zanzibar",
+        "description": "OpenFGA is a high performance and flexible authorization/permission system built for developers and inspired by Google Zanzibar",
         "homepage_url": "https://openfga.dev",
         "project": "sandbox",
         "repo_url": "https://github.com/openfga/openfga",
