@@ -6,10 +6,7 @@ The CNCF participates in and runs several mentorship programs throughout the yea
 
 ## Mission
 
-The Mentoring Working Group
-- Encourages cloud native computing adoption by providing opportunities for a diverse group of new contributors to work on CNCF projects with experienced mentorship.
-- Promotes growth and sustainability of projects through mentoring new and existing contributors.
-- Provides support and advice to CNCF projects around mentorship initiatives.
+Encourage cloud native computing adoption by providing opportunities for a diverse group of new contributors to work on CNCF projects with experienced mentorship.
 
 ## Goals
 
