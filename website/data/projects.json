@@ -569,7 +569,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/cloudevents",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Shell"
+        "language": "Python"
     },
     {
         "name": "Container Network Interface (CNI)",
