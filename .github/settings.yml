@@ -35,24 +35,23 @@ collaborators:
   - username: caniszczyk
     permission: admin
 
-  - username: mrbobbytables
-    permission: push
-
-  - username: idvoretskyi
-    permission: admin
+#  - username: idvoretskyi
+#    permission: admin
     
   - username: carolynvs
     permission: admin
 
-  # Maintainers
-  - username: justaugustus
-    permission: maintain
-
-  - username: parispittman
-    permission: maintain
-
   # Contributors
   # all permissions except admin
+  
+  - username: mrbobbytables
+    permission: push
+  
+  - username: justaugustus
+    permission: push
+
+  - username: parispittman
+    permission: push
 
   - username: gerred
     permission: push
@@ -107,7 +106,7 @@ collaborators:
   - username: nate-double-u
     permission: push
     
-  - username: idvoretskyi
+  - username: jaytiaki
     permission: push
 
 # comminfra leads
@@ -135,6 +134,9 @@ labels:
   - name: needs-toc-approval
     description: Requires approval from the TOC before merging to main
     color: b60205
+  - name: needs-liaison-approval
+    description: Requires approval from TOC liaisons before merging
+    color: 750204
   - name: inclusiveness
     color: ffdab9
   - name: comminfra
