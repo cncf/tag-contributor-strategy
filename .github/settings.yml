@@ -20,6 +20,9 @@ repository:
 # role. If there are questions, please contact one of the chairs.
 collaborators:
   # Admins
+  - username: cathpag
+    permission: admin
+
   - username: geekygirldawn
     permission: admin
 
@@ -69,11 +72,17 @@ collaborators:
   - username: iennae
     permission: push
 
+  - username: LFCIBot
+    permission: push
+
   # Current TOC liaisons
   - username: mattfarina
     permission: push
   
   - username: kgamanji
+    permission: push
+
+  - username: cathyhongzhang
     permission: push
   
   # burnout forum and inclusiveness leads

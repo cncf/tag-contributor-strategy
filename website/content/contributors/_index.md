@@ -10,33 +10,6 @@ Welcome! Are you interested in contributing to one of CNCF hosted projects? This
 
 CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities.
 
-## Projects
-
-The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
-
-## Graduated Projects
-
-{{< projects level="graduated" >}}
-
-## Incubating Projects
-
-{{< projects level="incubating" >}}
-
-## Sandbox Projects
-
-{{< projects level="sandbox" >}}
-
-
-## Non-code Projects
-
-|                          Project Name                          |            Focus            |   Primary Language   |
-| ------------------------------------------------------------ | ------------------------- | ------------------ |
-|    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
-
-## Archived Projects
-
-{{< projects level="archived" >}}
-
 
 ## TOC
 
@@ -78,6 +51,34 @@ The Cloud Native Computing Foundation participates in various mentoring programs
 - [Google Summer of Code](https://github.com/cncf/mentoring/tree/master/summerofcode) (GSoC);
 - [Google Season of Docs](https://github.com/cncf/mentoring/tree/master/seasonofdocs) (GSoD);
 - [Outreachy](https://github.com/cncf/mentoring/tree/master/outreachy)
+
+## Projects
+
+The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
+
+## Graduated Projects
+
+{{< projects level="graduated" >}}
+
+## Incubating Projects
+
+{{< projects level="incubating" >}}
+
+## Sandbox Projects
+
+{{< projects level="sandbox" >}}
+
+
+## Non-code Projects
+
+|                          Project Name                          |            Focus            |   Primary Language   |
+| ------------------------------------------------------------ | ------------------------- | ------------------ |
+|    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
+
+## Archived Projects
+
+{{< projects level="archived" >}}
+
 
 CNCF is a great place to spend a time learning, coding, participating and contributing. We are an exciting open source foundation with a vibrant community of projects, and we look forward to your application and your project ideas!
 

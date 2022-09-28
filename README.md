@@ -18,13 +18,15 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
   - [TAG Chairs](#tag-chairs)
   - [Tech Leads](#tech-leads)
   - [TOC Liaisons](#toc-liaisons)
-  - [Bootstrap TAG members](#bootstrap-tag-members)
+  - [Original Bootstrap TAG members](#original-bootstrap-tag-members)
   - [Emeritus Leads](#emeritus-leads)
-- [Working Groups](#working-groups)
-  - [Governance](#governance)
-  - [Contributor Growth](#contributor-growth)
+- [Working Groups and Teams](#working-groups-and-teams)
+  - [Governance WG](#governance-wg)
+  - [Contributor Growth WG](#contributor-growth-wg)
   - [Maintainer's Circle](#maintainers-circle)
-  - [GitHub Management](#github-management)
+  - [Inclusiveness Team](#inclusiveness-team)
+  - [Mentoring WG](#mentoring-wg)
+  - [Community Infrastructure Team](#community-infrastructure-team)
 
 ## Meetings
 
@@ -35,6 +37,7 @@ Go to [the CNCF calendar](https://www.cncf.io/calendar/) and enter "TAG Contribu
 Once you join, you won't automatically have the invite on your calendar. You can
 get it from a [past message here](https://lists.cncf.io/g/cncf-tag-contributor-strategy/message/1)
 - [Meeting minutes and agenda](https://bit.ly/cncf-contribstrat-agenda)
+- All meetings are recorded and can be accessed on the [CNCF TAG Contributor Strategy](https://www.youtube.com/channel/UCCqKWkTM2pkmLwXaj-7AvcA) Youtube channel.
 - Meeting Link: [zoom.us/my/cncftagcontributorstrategy](https://zoom.us/my/cncftagcontributorstrategy)
   - Meeting ID: **574 406 1161**
   - One tap mobile:
@@ -84,6 +87,7 @@ channels:
 
 - Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
+- Catherine Paganini ([@CathPag](https://github.com/CathPag)), Buoyant
 
 ### Tech Leads
 
@@ -93,6 +97,7 @@ channels:
 
 - Matt Farina ([@mattfarina](https://github.com/mattfarina)), SuSE
 - Katie Gamanji ([@kgamanji](https://github.com/kgamanji)), Apple
+- Cathy Zhang ([@cathyhongzhang](https://github.com/cathyhongzhang)), Intel
 
 ### Emeritus Leads
 
@@ -132,7 +137,7 @@ Facilitators:
 
 ### Inclusiveness Team
 
-Facilitators
+Facilitators:
 
 - Melania De Angelis ([@melaniadeangelis](https://github.com/melaniadeangelis)), SIGHUP
 - Sara Trapetti ([@SaraTrap](https://github.com/SaraTrap)), SIGHUP
@@ -140,18 +145,17 @@ Facilitators
 
 ### Mentoring WG
 
-Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/167)
+[Charter](/mentoring/README.md)
 
-Facilitators
+Facilitators:
 
 - Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
+- Jay Tihema ([@jaytiaki](https://github.com/jaytiaki)), ii
 - Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-
 
 ### Community Infrastructure Team
 
-Facilitators
+Facilitators:
 
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
 - Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF

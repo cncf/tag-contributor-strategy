@@ -45,21 +45,13 @@ Targets:
 
 ## Content Organization
 
-The main website and the "Maintainers" section is in the [TAG Contributor Strategy repository]. 
+The website is in the [TAG Contributor Strategy repository]. 
 
 1. Clone the [TAG Contributor Strategy repository].
 1. Follow the steps to [Preview your changes locally](#preview-your-changes-locally).
-1. Optionally clone the [cncf/contribute repository] in a directory
-    next to the TAG Contributor Strategy repository to edit content
-    in the "Contributors" section.
-    
-    For example, if you have cloned the Contributor Strategy repo to 
-    `~/src/tag-contributor-strategy`, clone the CNCF Contribute repo to
-    `~/src/contribute`.
 
-If you need to clone the CNCF Contribute repository elsewhere, set an environment
-variable named `CONTRIBUTE_REPO` to the path where it is cloned. For example, 
-`export CONTRIBUTE_REPO=../cncf-contribute`.
+Note: Project data listed in [the Contributors section](https://contribute.cncf.io/contributors/) is pulled from the [CNCF landscape](https://landscape.cncf.io/). Submit a PR to [the landscape repo](https://github.com/cncf/landscape) to update any project data.
+
 
 ## Quick start with Netlify
 
