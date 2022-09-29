@@ -992,7 +992,7 @@
     {
         "name": "Litmus",
         "path": "Chaos Engineering",
-        "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
+        "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
         "homepage_url": "https://litmuschaos.io/",
         "project": "incubating",
         "repo_url": "https://github.com/litmuschaos/litmus",
