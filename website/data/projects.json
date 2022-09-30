@@ -1958,6 +1958,27 @@
         "language": "Go"
     },
     {
+        "name": "Kubewarden",
+        "path": "Security & Compliance",
+        "description": "A Kubernetes policy engine based on WebAssembly",
+        "homepage_url": "https://www.kubewarden.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kubewarden",
+        "logo": "logos/kubewarden.svg",
+        "twitter": "https://twitter.com/kubewarden",
+        "chat_channel": null,
+        "accepted": "2022-07-15",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": "https://kubewarden.io/blog",
+        "mailing_list_url": null,
+        "slack_url": "https://kubernetes.slack.com/?redir=%2Fmessages%2Fkubewarden",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Rust, Go"
+    },
+    {
         "name": "KUDO",
         "path": "Application Definition & Image Build",
         "description": "Kubernetes Universal Declarative Operator (KUDO)",
