@@ -871,12 +871,12 @@
         "accepted": "2022-09-28",
         "dev_stats_url": "https://istio.devstats.cncf.io/",
         "artwork_url": null,
-        "stack_overflow_url": null,
-        "blog_url": null,
+        "stack_overflow_url": "https://stackoverflow.com/questions/tagged/istio",
+        "blog_url": "https://istio.io/blog/",
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://slack.istio.io/",
         "gitter_url": null,
-        "youtube_url": null,
+        "youtube_url": "https://www.youtube.com/c/Istio",
         "language": "Go"
     },
     {
