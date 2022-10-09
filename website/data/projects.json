@@ -1776,7 +1776,7 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": "https://groups.google.com/forum/#!forum/karmada",
-        "slack_url": "https://karmada-io.slack.com/",
+        "slack_url": "https://cloud-native.slack.com/messages/karmada",
         "gitter_url": null,
         "youtube_url": null,
         "language": "Go"
