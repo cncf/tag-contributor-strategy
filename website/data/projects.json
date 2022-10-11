@@ -2324,11 +2324,11 @@
         "dev_stats_url": "https://openfeature.devstats.cncf.io/",
         "artwork_url": null,
         "stack_overflow_url": null,
-        "blog_url": null,
+        "blog_url": "https://docs.openfeature.dev/blog",
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://cloud-native.slack.com/messages/openfeature",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UCHMn9HyAMeb81bRlaOuZyuQ",
+        "youtube_url": "https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw",
         "language": null
     },
     {
