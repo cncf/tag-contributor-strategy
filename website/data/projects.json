@@ -2114,7 +2114,7 @@
     {
         "name": "Meshery",
         "path": "Service Mesh",
-        "description": "Meshery, the cloud native management plane",
+        "description": "Meshery, the cloud native manager",
         "homepage_url": "https://meshery.io",
         "project": "sandbox",
         "repo_url": "https://github.com/meshery/meshery",
