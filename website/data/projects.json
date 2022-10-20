@@ -2249,7 +2249,7 @@
         "description": "OpenCost provides visibility into current and historical Kubernetes spend and resource allocation.",
         "homepage_url": "https://www.opencost.io/",
         "project": "sandbox",
-        "repo_url": "https://github.com/kubecost/opencost",
+        "repo_url": "https://github.com/opencost/opencost",
         "logo": "logos/open-cost.svg",
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
