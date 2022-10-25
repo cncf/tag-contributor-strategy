@@ -200,7 +200,7 @@
     {
         "name": "Linkerd",
         "path": "Service Mesh",
-        "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+        "description": "Ultra light, ultra simple, ultra powerful. Linkerd adds security, observability, and reliability to Kubernetes, without the complexity.",
         "homepage_url": "https://linkerd.io/",
         "project": "graduated",
         "repo_url": "https://github.com/linkerd/linkerd2",
