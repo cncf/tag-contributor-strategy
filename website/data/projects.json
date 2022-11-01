@@ -2563,7 +2563,7 @@
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
         "accepted": "2021-06-22",
-        "dev_stats_url": null,
+        "dev_stats_url": "https://pixie.devstats.cncf.io/",
         "artwork_url": null,
         "stack_overflow_url": null,
         "blog_url": "https://blog.px.dev/",
