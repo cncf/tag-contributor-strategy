@@ -1828,7 +1828,7 @@
     {
         "name": "Keylime",
         "path": "Security & Compliance",
-        "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+        "description": "Bootstrap & Maintain Trust on the Edge / Cloud and IoT.",
         "homepage_url": "https://keylime.dev/",
         "project": "sandbox",
         "repo_url": "https://github.com/keylime/",
