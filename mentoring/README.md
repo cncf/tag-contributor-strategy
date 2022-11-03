@@ -84,3 +84,4 @@ Initial meetings are biweekly, on the 2nd and 4th Tuesday of each month, at 20:0
 * Kiran Mova (VMware)
 * Natali Vlatko (Wayfair)
 * Joshua Bezaleel Abednego (Shipper)
+* Riaan Kleinhans (ii)
