@@ -22,7 +22,7 @@ Great governance docs will:
 
 ## Fill out the template
 
-The [GOVERNANCE-subprojects.md template](https://github.com/cncf/project-template/blob/main/GOVERNANCE-subproject.md) is located in the CNCF [project-template repository](https://github.com/cncf/project-template).
+The [GOVERNANCE-subprojects.md template](https://github.com/cncf/project-template/blob/main/GOVERNANCE-subprojects.md) is located in the CNCF [project-template repository](https://github.com/cncf/project-template).
 
 Copy the template file into your repository, and rename it `GOVERNANCE.md`.
 
