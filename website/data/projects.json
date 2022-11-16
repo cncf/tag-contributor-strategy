@@ -588,7 +588,7 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/cni",
         "blog_url": null,
         "mailing_list_url": "https://groups.google.com/forum/#!forum/cni-dev",
-        "slack_url": "https://containernetworking.slack.com/",
+        "slack_url": "https://containernetworking.slack.com",
         "gitter_url": null,
         "youtube_url": null,
         "language": "Go"
@@ -1845,7 +1845,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/keylime",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Python"
+        "language": null
     },
     {
         "name": "Konveyor",
