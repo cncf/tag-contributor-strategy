@@ -1845,7 +1845,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/keylime",
         "gitter_url": null,
         "youtube_url": null,
-        "language": null
+        "language": "Python"
     },
     {
         "name": "Konveyor",
