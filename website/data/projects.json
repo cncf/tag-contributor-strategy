@@ -469,7 +469,7 @@
         "project": "incubating",
         "repo_url": "https://github.com/cert-manager/cert-manager",
         "logo": "logos/cert-manager.svg",
-        "twitter": "https://twitter.com/JetstackHQ",
+        "twitter": "https://twitter.com/CertManager",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
         "accepted": "2020-11-10",
