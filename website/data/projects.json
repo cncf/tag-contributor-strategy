@@ -398,7 +398,7 @@
     {
         "name": "Argo",
         "path": "Continuous Integration & Delivery",
-        "description": "Workflow engine for Kubernetes",
+        "description": "Tools for Kubernetes to run workflows, manage clusters, and do GitOps right.",
         "homepage_url": "https://argoproj.github.io/",
         "project": "incubating",
         "repo_url": "https://github.com/argoproj/argo-workflows",
