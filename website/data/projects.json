@@ -401,7 +401,7 @@
         "description": "Tools for Kubernetes to run workflows, manage clusters, and do GitOps right.",
         "homepage_url": "https://argoproj.github.io/",
         "project": "incubating",
-        "repo_url": "https://github.com/argoproj/argo-workflows",
+        "repo_url": "https://github.com/argoproj/",
         "logo": "logos/argo.svg",
         "twitter": "https://twitter.com/argoproj",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -412,7 +412,7 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/argoproj+or+argo",
         "blog_url": "https://blog.argoproj.io/",
         "mailing_list_url": null,
-        "slack_url": "https://argoproj.slack.com/",
+        "slack_url": "https://slack.cncf.io/ ",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA",
         "language": "Go"
