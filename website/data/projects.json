@@ -1515,7 +1515,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "TypeScript"
+        "language": "Rust"
     },
     {
         "name": "Curve",
@@ -2488,7 +2488,7 @@
     {
         "name": "ORAS",
         "path": "Cloud Native Storage",
-        "description": "Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM",
+        "description": "OCI registry client - managing content like artifacts, images, packages",
         "homepage_url": "https://oras.land/",
         "project": "sandbox",
         "repo_url": "https://github.com/oras-project/oras",
@@ -3033,7 +3033,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "C++"
+        "language": "WebAssembly"
     },
     {
         "name": "Brigade",
