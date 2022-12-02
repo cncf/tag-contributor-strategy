@@ -280,7 +280,7 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/prometheus",
         "blog_url": "https://prometheus.io/blog/",
         "mailing_list_url": "https://prometheus.io/community/",
-        "slack_url": "https://freenode.net/",
+        "slack_url": "https://libera.chat/",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC4pLFely0-Odea4B2NL1nWA",
         "language": "Go"
