@@ -635,7 +635,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/contour",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Go"
+        "language": "HTML"
     },
     {
         "name": "Cortex",
@@ -3033,7 +3033,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "WebAssembly"
+        "language": "C++"
     },
     {
         "name": "Brigade",
