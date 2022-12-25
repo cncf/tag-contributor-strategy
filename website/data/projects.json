@@ -574,7 +574,7 @@
     {
         "name": "CloudEvents",
         "path": "Streaming & Messaging",
-        "description": "CloudEvents Specification",
+        "description": "Standardizing common eventing metadata and their location to help with event identification and routing.",
         "homepage_url": "https://cloudevents.io/",
         "project": "incubating",
         "repo_url": "https://github.com/cloudevents/spec",
@@ -591,7 +591,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/cloudevents",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Python"
+        "language": "Go"
     },
     {
         "name": "Container Network Interface (CNI)",
@@ -2575,7 +2575,7 @@
     },
     {
         "name": "Paralus",
-        "path": "Service Mesh",
+        "path": "Security & Compliance",
         "description": "Paralus is a free, open source tool that enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.",
         "homepage_url": "https://www.paralus.io/",
         "project": "sandbox",
