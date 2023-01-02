@@ -1,5 +1,9 @@
-{{ if .Path }}
-{{- $path := ($.Path) -}}
+{{ $path := "" }}
+{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
 {{ $pathFormatted := replace $path "\\" "/" }}
 {{- $prefix := index (split $path "/") 0 -}}
 {{- $github := index ($.Site.Param "github") $prefix -}}
@@ -8,6 +12,5 @@
 {{ $gh_repo := index $github "repo" }}
 {{ if isset .Params "lastmod" }}
 {{ T "post_last_mod"}} {{ .Lastmod.Format .Site.Params.time_format_default }}{{ with .GitInfo }}: <a  href="{{ $gh_repo }}/commit/{{ .Hash }}">{{ .Subject }} ({{ .AbbreviatedHash }})</a>{{end }}
-{{ end }}
 {{ end }}
 {{ end }}
