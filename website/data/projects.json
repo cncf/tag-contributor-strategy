@@ -1892,6 +1892,28 @@
         "language": "Python"
     },
     {
+        "name": "ko",
+        "path": "Application Definition & Image Build",
+        "description": "Build and deploy Go applications on Kubernetes",
+        "homepage_url": "https://ko.build/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/ko-build/ko",
+        "logo": "logos/ko.svg",
+        "twitter": "https://twitter.com/CloudNativeFdn",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": "#ko-build",
+        "accepted": "2022-12-14",
+        "dev_stats_url": "https://ko.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "slack.k8s.io",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Konveyor",
         "path": "Application Definition & Image Build",
         "description": "Documentation for Konveyor Community",
