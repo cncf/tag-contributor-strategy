@@ -2796,7 +2796,7 @@
     {
         "name": "sealer",
         "path": "Application Definition & Image Build",
-        "description": "Define and deliver your kube-cluster in a standard and easy way (Project under CNCF)",
+        "description": "Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)",
         "homepage_url": "https://sealer.cool",
         "project": "sandbox",
         "repo_url": "https://github.com/alibaba/sealer",
