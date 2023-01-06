@@ -33,7 +33,7 @@ When you finish editing the template, remove the Instruction links that explain 
 ## Template Details
 
 This is a simple template where you just need to fill in the name of your
-project followed by a list of who your maintainers are an their details. This
+project followed by a list of maintainers are and their details. This
 list is then the canonical reference for CNCF staff should their [maintainer list]
 get out of date.
 
@@ -42,7 +42,7 @@ any specific project areas led by that maintainer.
 
 For most projects, the list of people in the maintainers file will be identical to
 the list of approvers in the project's primary repository root.  It will sync with
-and OWNERS file.
+an OWNERS file.
 
 However, some projects have multiple key repositories, and as such will use 
 the file to aggregate the maintainers across them. Projects that have a different
