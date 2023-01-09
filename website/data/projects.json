@@ -3168,6 +3168,28 @@
         "language": "Rust"
     },
     {
+        "name": "WasmEdge",
+        "path": "Runtime",
+        "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+        "homepage_url": "https://wasmedge.org/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/WasmEdge/WasmEdge",
+        "logo": "logos/wasm-edge.svg",
+        "twitter": "https://twitter.com/CloudNativeFdn",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": "#WasmEdge",
+        "accepted": "2021-04-28",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "https://cloud-native.slack.com/",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "C++"
+    },
+    {
         "name": "WasmEdge Runtime",
         "path": "Container Runtime",
         "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
