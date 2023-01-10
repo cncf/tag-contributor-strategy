@@ -1,5 +1,9 @@
-{{ if .Path }}
-{{- $path := ($.Path) -}}
+{{ $path := "" }}
+{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
 {{ $pathFormatted := replace $path "\\" "/" }}
 {{- $prefix := index (split $path "/") 0 -}}
 {{- $github := index ($.Site.Param "github") $prefix -}}
@@ -31,6 +35,5 @@
 <a href="{{ $project_issueURL }}" target="_blank"><i class="fas fa-tasks fa-fw"></i> {{ T "post_create_project_issue" }}</a>
 {{ end }}
 </div>
-{{ end }}
 {{ end }}
 {{ end }}
