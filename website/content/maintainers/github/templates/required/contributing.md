@@ -2,6 +2,8 @@
 title: "HowTo: Make a Contributing Guide"
 linkTitle: "Contributing Guide"
 date: 2022-05-01
+draft: false
+weight: 11
 ---
 
 | Audience of this HowTo | Audience of CONTRIBUTING.md | Required by CNCF      |
