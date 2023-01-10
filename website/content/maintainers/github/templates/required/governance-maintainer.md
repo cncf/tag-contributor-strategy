@@ -231,7 +231,7 @@ We also advise reserving 2/3 votes to things that require substantial deliberati
 such as removing a maintainer or changing the charter.  Otherwise, routine project 
 business can get blocked simply by people being on vacation.
 
-[GOVERNANCE-maintainer.md template]: https://github.com/cncf/project-template/blob/main/GOVERNANCE-subproject.md
+[GOVERNANCE-maintainer.md template]: https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md
 [project-template repository]: https://github.com/cncf/project-template
 [Maintainer Council]: https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md
 [Jaeger project]: https://github.com/jaegertracing/jaeger/blob/main/GOVERNANCE.md
