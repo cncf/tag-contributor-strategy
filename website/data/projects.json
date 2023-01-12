@@ -860,7 +860,7 @@
     {
         "name": "Istio",
         "path": "Service Mesh",
-        "description": "Connect, secure, control, and observe services.",
+        "description": "Simplify observability, traffic management, security, and policy with the Istio.",
         "homepage_url": "https://istio.io/",
         "project": "incubating",
         "repo_url": "https://github.com/istio/istio",
@@ -3210,6 +3210,28 @@
         "gitter_url": null,
         "youtube_url": null,
         "language": "C++"
+    },
+    {
+        "name": "werf",
+        "path": "Continuous Integration & Delivery",
+        "description": "werf is a GitOps CLI tool designed to simplify and speed up the delivery of applications in your CI/CD pipelines. It makes your Git repo a single source of truth to build your Docker images and deploy them to Kubernetes. Integrates easily with GitLab CI and other CI systems.",
+        "homepage_url": "https://werf.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/werf/werf",
+        "logo": "logos/werf.svg",
+        "twitter": "https://twitter.com/werf_io",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2022-12-13",
+        "dev_stats_url": "https://werf.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": "https://blog.werf.io",
+        "mailing_list_url": null,
+        "slack_url": "https://cloud-native.slack.com/messages/werf",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
     },
     {
         "name": "Brigade",
