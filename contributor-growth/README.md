@@ -56,7 +56,7 @@ Don't see your name? That was an oversight! Open a PR and add yourself. ❤️
 ## Meetings
 
 We meet once a month.
-Go to [the CNCF calendar](https://www.cncf.io/calendar/) and enter "Contributor Growth WG" in the search box to see when we meet next.
+Go to [the CNCF calendar](https://tockify.com/cncf.public.events/monthly?search=Contributor+Growth+WG) and enter "Contributor Growth WG" in the search box to see when we meet next.
 
 Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Slack].
 
