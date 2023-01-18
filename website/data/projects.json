@@ -1276,6 +1276,28 @@
         "language": "Go"
     },
     {
+        "name": "Armada",
+        "path": "Scheduling & Orchestration",
+        "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
+        "homepage_url": "https://armadaproject.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/armadaproject/armada",
+        "logo": "logos/armada.svg",
+        "twitter": "https://twitter.com/oss_gr",
+        "crunchbase": "https://www.crunchbase.com/organization/g-research",
+        "chat_channel": null,
+        "accepted": "2022-07-25",
+        "dev_stats_url": "https://armada.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "http://slack.cncf.io/",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Artifact Hub",
         "path": "Application Definition & Image Build",
         "description": "Find, install and publish Kubernetes packages",
