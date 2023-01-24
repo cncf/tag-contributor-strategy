@@ -1036,7 +1036,7 @@
     {
         "name": "Longhorn",
         "path": "Cloud Native Storage",
-        "description": "Cloud-Native distributed storage built on and for Kubernetes",
+        "description": "Cloud-native distributed storage for Kubernetes",
         "homepage_url": "https://longhorn.io/",
         "project": "incubating",
         "repo_url": "https://github.com/longhorn/longhorn",
@@ -1053,7 +1053,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Shell"
+        "language": "C"
     },
     {
         "name": "NATS",
@@ -2399,8 +2399,8 @@
     },
     {
         "name": "Open Policy Containers",
-        "path": "Container Registry",
-        "description": "A docker-inspired CLI for building, tagging, pushing, pulling, and signing OPA policies to and from OCI-compliant registries. ",
+        "path": "Security & Compliance",
+        "description": "A docker-inspired CLI for building, tagging, pushing, pulling, and signing OPA policies to and from OCI-compliant registries.",
         "homepage_url": "https://openpolicycontainers.com",
         "project": "sandbox",
         "repo_url": "https://github.com/opcr-io/policy",
@@ -2410,7 +2410,7 @@
         "chat_channel": null,
         "accepted": "2022-12-13",
         "dev_stats_url": "https://opcr.devstats.cncf.io/",
-        "artwork_url": null,
+        "artwork_url": "https://github.com/opcr-io/artwork",
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
@@ -3251,6 +3251,28 @@
         "blog_url": "https://blog.werf.io",
         "mailing_list_url": null,
         "slack_url": "https://cloud-native.slack.com/messages/werf",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
+        "name": "zot",
+        "path": "Container Registry",
+        "description": "Zot is an OCI-native container registry for distributing container images and OCI artifacts.",
+        "homepage_url": "https://zotregistry.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/project-zot/zot",
+        "logo": "logos/zot.svg",
+        "twitter": "https://twitter.com/zothub",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2022-12-13",
+        "dev_stats_url": "https://zot.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#zot-logos",
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "https://cloud-native.slack.com/archives/C03EGRE4QGH",
         "gitter_url": null,
         "youtube_url": null,
         "language": "Go"
