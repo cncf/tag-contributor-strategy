@@ -131,9 +131,8 @@ Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/1)
 
 Facilitators:
 
+- Dave Sudia ([@thedevelopnik](https://github.com/thedevelopnik)), Ambassador Labs
 - Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
-- Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
 
 ### Inclusiveness Team
 

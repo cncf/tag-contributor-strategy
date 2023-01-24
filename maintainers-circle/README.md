@@ -53,12 +53,24 @@ In-person at KubeCon
 Meetings are scheduled ad-hoc when we have a topic and speaker.
 Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing list</a> or our #maintainers-circle channel in the CNCF Slack to be notified of the next event.
 
-## What  
+## What 
 
-### April 8th @ 10:30am PT / 6:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_08_Apr_2021_in_PT)
+### February 13th, 2023 @ 8:00am PT / 4:00pm GMT / [Your timezone here](https://time.is/compare/800AM_13_Feb_2023_in_PT)
 
-TBU
+Non-Code Contributors in the Project Ladder and as Maintainers with Kim McMahon
 
+Bio: Kim McMahon is well-known in the cloud native ecosystem for leading the open source marketing and community activities at organizations such as Dell, Oracle, Kyverno / Nirmata, CNCF, and now Cisco. Community building, breaking down barriers, and uniting are Kim’s drivers. In her free time, Kim enjoys downhill skiing, hiking, cooking, and training her Chocolate Labrador puppy.
+
+**Registration** is an emoji reaction to the invite on the future thread in 
+#maintainer-circle   
+
+**Notes:** https://hackmd.io/MQMFQwnxRZ68Cp7rJLyEvA
+
+**First half**   
+It is not questioned that non-code contributions to an open source project are important. But did you know that the CNCF does not have a clear project ladder for non-code contributors to get to maintainer status and only one CNCF project has a two-pronged approach to reaching maintainer status? In this Maintainer’s Circle talk, we will share with you the project within the TAG Contributor Strategy, the proposed solution, the roll-out plan, and seek your feedback on the gaps and misses you see in the plan.
+
+**Breakout**   
+What challenges have you faced with non-code contributors and growing that community and contributions? How could your project use this ladder to improve your practices? Do you have feedback on the ladder and how it can improve?
 
 ### March 11th @ 10:30am PT / 6:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_11_Mar_2021_in_PT)
 
