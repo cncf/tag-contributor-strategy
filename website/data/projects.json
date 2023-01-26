@@ -1606,6 +1606,28 @@
         "language": "Go"
     },
     {
+        "name": "DevSpace",
+        "path": "Application Definition & Image Build",
+        "description": "DevSpace - The Fastest Developer Tool for Kubernetes \u26a1 Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.",
+        "homepage_url": "https://devspace.sh",
+        "project": "sandbox",
+        "repo_url": "https://github.com/devspace-sh/devspace",
+        "logo": "logos/dev-space.svg",
+        "twitter": "https://twitter.com/DevSpace",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": "#devspace",
+        "accepted": "2022-12-13",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/devspace",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "DevStream",
         "path": "Automation & Configuration",
         "description": "DevStream: the open-source DevOps toolchain manager (DTM).",
@@ -3236,7 +3258,7 @@
     {
         "name": "werf",
         "path": "Continuous Integration & Delivery",
-        "description": "werf is a GitOps CLI tool designed to simplify and speed up the delivery of applications in your CI/CD pipelines. It makes your Git repo a single source of truth to build your Docker images and deploy them to Kubernetes. Integrates easily with GitLab CI and other CI systems.",
+        "description": "werf is a solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire CI/CD lifecycle and all related artifacts, glues commonly used tools (Git, Docker/Buildah, Helm, K8s) and facilitates best practices.",
         "homepage_url": "https://werf.io/",
         "project": "sandbox",
         "repo_url": "https://github.com/werf/werf",
