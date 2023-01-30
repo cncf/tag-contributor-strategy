@@ -14,6 +14,9 @@
 {{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/schema.html" . -}}
 {{- partial "twitter_cards.html" . -}}
+
+<script src="https://cmp.osano.com/16A0DbT9yDNIaQkvZ/c3494b1e-ff3a-436f-978d-842e9a0bed27/osano.js"></script>
+
 {{ if eq (getenv "HUGO_ENV") "production" }}
 {{ template "_internal/google_analytics_async.html" . }}
 <!-- also include GA4 property -->
