@@ -32,10 +32,12 @@ they want to meet.
 ### Calendar and Promotion  
 
 Promotion should start as soon as the speaker and abstract is confirmed with a save the date
-1. Ask Amye or another CNCF staff member to change sig-contributor strategy's
-Thursday meeting to [Maintainers Circle] - [topic] in calendar event name and abstract in the description
-with content both sessions. 
-2. Ask Amye to email maintainers@ cncf list with info about the event. Previous
+1. Find a time with the speaker(s) that
+  1. Fits your and their schedule
+  1. Is ideally early in the morning or late in the evening Pacific Time, so that it is convenient for Europe or Asia/Pacific maintainers.
+  1. Doesn't conflict w/ many other things on the [CNCF Calendar](https://www.cncf.io/calendar/).
+1. Email projects@ cncf.io to request that the event be added to the calendar, with a Zoom meeting assigned to it.
+2. Ask the Projects team to email the maintainers@ cncf list with info about the event. Previous
 emails can be used as a template. Make sure to over emphasize that other core
 decision makers (committee members, etc), reviewers and other maintainer-like
 roles are invited and not just authors and/or solely MAINTAINERS.md. 
