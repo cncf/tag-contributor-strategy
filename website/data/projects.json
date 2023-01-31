@@ -914,7 +914,7 @@
         "chat_channel": null,
         "accepted": "2020-06-25",
         "dev_stats_url": "https://keptn.devstats.cncf.io/",
-        "artwork_url": null,
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/incubating.md#keptn-logos",
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
