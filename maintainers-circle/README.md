@@ -64,7 +64,7 @@ Bio: Kim McMahon is well-known in the cloud native ecosystem for leading the ope
 **Registration** is an emoji reaction to the invite on the future thread in 
 #maintainer-circle   
 
-**Notes:** https://hackmd.io/MQMFQwnxRZ68Cp7rJLyEvA
+**Notes:** https://docs.google.com/document/d/1OlRxoSWXDA4emDK_U1ff6djMgXeR8yJahrWC7RRzD7o/edit?usp=sharing
 
 **First half**   
 It is not questioned that non-code contributions to an open source project are important. But did you know that the CNCF does not have a clear project ladder for non-code contributors to get to maintainer status and only one CNCF project has a two-pronged approach to reaching maintainer status? In this Maintainer’s Circle talk, we will share with you the project within the TAG Contributor Strategy, the proposed solution, the roll-out plan, and seek your feedback on the gaps and misses you see in the plan.
