@@ -1058,7 +1058,7 @@
     {
         "name": "NATS",
         "path": "Streaming & Messaging",
-        "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+        "description": "NATS.io is a connective technology for distributed systems and is a perfect fit to connect devices, edge, cloud or hybrid deployments. True multi-tenancy makes NATS ideal for SaaS and self-healing and scaling technology allows for topology changes anytime with zero downtime.",
         "homepage_url": "https://nats.io/",
         "project": "incubating",
         "repo_url": "https://github.com/nats-io/nats-server",
