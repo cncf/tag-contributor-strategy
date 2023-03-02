@@ -310,7 +310,7 @@
     {
         "name": "Rook",
         "path": "Cloud Native Storage",
-        "description": "Storage Orchestration for Kubernetes",
+        "description": "Open Cloud-Native Storage for Kubernetes",
         "homepage_url": "https://rook.io/",
         "project": "graduated",
         "repo_url": "https://github.com/rook/rook",
@@ -327,7 +327,7 @@
         "slack_url": "https://rook-io.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Go"
+        "language": "C++"
     },
     {
         "name": "SPIFFE",
