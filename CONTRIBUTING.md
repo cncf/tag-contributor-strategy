@@ -44,6 +44,32 @@ that may link to other sources that are not official, including company branded
 information, in the strategy repo, is strictly for our groups planning purposes
 only.
 
+## Sign Your Commits
+
+### DCO
+Licensing is important to open source projects. It provides some assurances that
+the software will continue to be available based under the terms that the
+author(s) desired. We require that contributors sign off on commits submitted to
+our project's repositories. The [Developer Certificate of Origin
+(DCO)](https://probot.github.io/apps/dco/) is a way to certify that you wrote and
+have the right to contribute the code you are submitting to the project.
+
+You sign-off by adding the following to your commit messages. Your sign-off must
+match the git user and email associated with the commit.
+
+    This is my commit message
+
+    Signed-off-by: Your Name <your.name@example.com>
+
+Git has a `-s` command line option to do this automatically:
+
+    git commit -s -m 'This is my commit message'
+
+If you forgot to do this and have not yet pushed your changes to the remote
+repository, you can amend your commit with the sign-off by running 
+
+    git commit --amend -s 
+
 ## How to Help
 
 **Contributors and/or Maintainers of a CNCF incubated or graduated project:**  
