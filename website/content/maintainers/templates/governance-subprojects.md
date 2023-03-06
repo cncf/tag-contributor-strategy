@@ -4,6 +4,8 @@ linkTitle: "Subproject Governance"
 date: 2022-09-15
 draft: false
 weight: 33
+aliases:
+- /maintainers/github/templates/required/governance-subprojects
 ---
 
 | Audience of this HowTo | Audience of CONTRIBUTING.md | Required by CNCF      |

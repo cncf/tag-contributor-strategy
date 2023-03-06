@@ -4,6 +4,8 @@ linkTitle: "Governance Templates"
 date: 2022-05-13
 draft: false
 weight: 30
+aliases:
+- /maintainers/github/templates/required/governance-intro
 ---
 
 | Audience of this HowTo | Audience of CONTRIBUTING.md | Required by CNCF |

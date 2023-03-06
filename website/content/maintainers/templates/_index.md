@@ -5,6 +5,8 @@ layout: single
 date: 2020-11-07
 description: >
   Jump start your CNCF project by using our templates
+aliases:
+- /maintainers/github/templates/_index
 ---
 
 We have a [project template] repository that has templates for everything your project needs

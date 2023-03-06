@@ -4,6 +4,8 @@ linkTitle: "Contributing Guide"
 date: 2022-05-01
 draft: false
 weight: 11
+aliases:
+- /maintainers/github/templates/required/contributing
 ---
 
 | Audience of this HowTo | Audience of CONTRIBUTING.md | Required by CNCF      |
