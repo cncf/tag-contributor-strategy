@@ -750,7 +750,7 @@
     {
         "name": "Dragonfly",
         "path": "Container Registry",
-        "description": "Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.",
+        "description": "Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.",
         "homepage_url": "https://d7y.io/",
         "project": "incubating",
         "repo_url": "https://github.com/dragonflyoss/Dragonfly2",
