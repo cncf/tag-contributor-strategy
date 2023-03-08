@@ -33,14 +33,14 @@ when you view the markdown file in GitHub unless you view the raw text.
 
 ## How-To Guides
 
-* [CONTRIBUTING.md](contributing.md)
-* [Governance Introduction](governance-intro.md)
-* [GOVERNANCE-elections.md](governance-elections.md)
-* [GOVERNANCE-maintainer.md](governance-maintainer.md)
-* [GOVERNANCE-subprojects.md](governance-subprojects.md)
-* [MAINTAINERS.md](maintainers.md)
-* [REVIEWING.md](reviewing.md)
-* [Issue Labels](issue-labels.md)
+* [HowTo: Make a Contributing Guide](contributing.md)
+* [Using the Governance Templates](governance-intro.md)
+  * [The Steering Committee Elections Template](governance-elections.md)
+  * [The Maintainer Council Template](governance-maintainer.md)
+  * [The Governance By Subprojects Template](governance-subprojects.md)
+* [Maintainer List Template](maintainers.md)
+* [HowTo: Make a Reviewing Guide](reviewing.md)
+* [Issue Labels for New Contributors](issue-labels.md)
 
 ## Available Templates
 
