@@ -44,21 +44,23 @@ when you view the markdown file in GitHub unless you view the raw text.
 
 ## Available Templates
 
-* [LICENSE](https://github.com/cncf/project-template/blob/main/LICENSE)
-* [CONTRIBUTING.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTING.md)
-* [README-template.md](https://github.com/cncf/project-template/blob/main/README-template.md)
 * [CODE_OF_CONDUCT.md](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md)
-* [SECURITY.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md)
-* [CONTRIBUTOR_LADDER.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
-* [GOVERNANCE-elections.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE-elections.md)
-* [GOVERNANCE-maintainer.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md)
-* [GOVERNANCE-subprojects.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE-subprojects.md)
-* [MAINTAINERS.md](https://github.com/cncf/project-template/blob/main/MAINTAINERS.md)
-* [SECURITY_CONTACTS.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
-* [ISSUE_TEMPLATE.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md)
-* [embargo-policy.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
-* [embargo.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
-* [incident-response.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
+* [CONTRIBUTING.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTING.md)
+* [LICENSE](https://github.com/cncf/project-template/blob/main/LICENSE)
+* Governance
+  * [CONTRIBUTOR_LADDER.md](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md)
+  * [GOVERNANCE-elections.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE-elections.md)
+  * [GOVERNANCE-maintainer.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md)
+  * [GOVERNANCE-subprojects.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE-subprojects.md)
+  * [MAINTAINERS.md](https://github.com/cncf/project-template/blob/main/MAINTAINERS.md)
+* Security
+  * [ISSUE_TEMPLATE.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md)
+  * [SECURITY.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md)
+  * [SECURITY_CONTACTS.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
+  * [embargo-policy.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
+  * [embargo.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
+  * [incident-response.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
+* [README.md](https://github.com/cncf/project-template/blob/main/README-template.md)
 * [REVIEWING.md](https://github.com/cncf/project-template/blob/main/REVIEWING.md)
 
 [contrib-strat]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
