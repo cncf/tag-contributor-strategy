@@ -4,6 +4,8 @@ linkTitle: "Elections Governance"
 date: 2022-09-15
 draft: false
 weight: 32
+aliases:
+- /maintainers/github/templates/required/governance-elections
 ---
 
 These instructions are still being drafted.  In the meantime, view the

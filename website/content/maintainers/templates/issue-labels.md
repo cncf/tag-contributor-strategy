@@ -4,6 +4,8 @@ linkTitle: "Issue Labels"
 date: 2020-09-29
 description: >
   Curate your issues and apply labels that attract new contributors.
+aliases:
+- /maintainers/github/issue-labels
 ---
 
 A great way to encourage new contributors is to curate issues that are suitable
