@@ -14,7 +14,7 @@ to get started and eventually join the CNCF.
 
 ## Getting Started
 
-The templates are stored in the [project-template] repo,
+The templates are stored in the [project template] repo,
 but we also have how-to guides here on the website that are a better place to
 start if you haven't used a particular template before.
 
