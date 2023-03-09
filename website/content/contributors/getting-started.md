@@ -56,9 +56,9 @@ Remember, the goal is to help the project and maintainers, so ensure that your r
 ### Technical Contributors:
 If you're a technical contributor, there are some specific tools and technologies that you should be familiar with. Here are some of the key skills you'll need to contribute to open source:
 
-Programming Languages: Most open source projects are written in one or more programming languages. You'll need to be proficient in at least one language to contribute to a project. The specific language will depend on the project you choose.
+**Programming Languages**: Most open source projects are written in one or more programming languages. You'll need to be proficient in at least one language to contribute to a project. The specific language will depend on the project you choose.
 
-Testing: Testing is a critical part of software development. You'll need to be familiar with testing frameworks and tools to contribute to open source. This includes both unit testing and integration testing.
+**Testing**: Testing is a critical part of software development. You'll need to be familiar with testing frameworks and tools to contribute to open source. This includes both unit testing and integration testing.
 
 ### Non-Code Contributors
 Even if you're not a technical contributor, there are still many ways you can contribute to open source. Here are some of the key skills you'll need:
