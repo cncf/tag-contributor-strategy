@@ -79,7 +79,7 @@ Here's a brief overview of each:
 Git is a version control system that allows you to track changes in your code, collaborate with others, and manage different versions of your project. You'll need to be familiar with Git and tools like GitHub, GitLab or BitBucket to contribute to open source. There is a lot of online guides available, ie.  [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud), [Git Tutorial](https://www.w3schools.com/git/), [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) and [Contributing to projects - forking](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 
 
-#### Issues: 
+#### Issues
 Issues are used to track bugs, feature requests, and other tasks in a project. When you find a bug or want to propose a new feature, you can create an issue in the project's issue tracker. This allows you to collaborate with other contributors and track the progress of your task. Many open source projects have "Good first issue" or "Help wanted" labels attached to certain issues, which are suitable for new contributors or those looking to make their first contribution. 
 
 These issues are typically well-defined and relatively easy to implement, and can provide a great opportunity for contributors to get started with the project and learn the workflow. Look for these labels in the issue tracker and consider starting with them if you are new to the project or open source contribution in general.
