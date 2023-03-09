@@ -53,7 +53,7 @@ While seeking guidance on pull requests can be helpful, it's essential to keep i
 
 Remember, the goal is to help the project and maintainers, so ensure that your requests contribute to their efforts and do not increase their workload. By following these guidelines, you can build strong relationships with other contributors while improving your coding skills.
 
-### Technical Contributors:
+### Technical Contributors
 If you're a technical contributor, there are some specific tools and technologies that you should be familiar with. Here are some of the key skills you'll need to contribute to open source:
 
 **Programming Languages**: Most open source projects are written in one or more programming languages. You'll need to be proficient in at least one language to contribute to a project. The specific language will depend on the project you choose.
