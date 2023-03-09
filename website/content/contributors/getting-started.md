@@ -93,7 +93,7 @@ There are many online resources available to help you learn about Git, pull requ
 
 ### CNCF Resources
 **[The CNCF Contributor Strategy TAG (Technical Advisory Group)](https://github.com/cncf/tag-contributor-strategy/)**  is a group of experienced technical contributors who are dedicated to providing guidance and support to other contributors within the CNCF ecosystem. The main aim of this TAG is to ensure that all projects within the CNCF adhere to the highest technical standards, and that they are maintained and developed in a consistent and sustainable way. This includes advising on best practices for project governance, technical architecture, security, and interoperability, among other areas.
-The TAG also provides a platform for cross-project collaboration and knowledge-sharing, helping to foster a sense of community and cohesion within the CNCF ecosystem. They work closely with project maintainers, contributors, and other community members to provide guidance and support, and to ensure that all projects within the CNCF are able to thrive and evolve in a collaborative and inclusive manner.
+The TAG also provides a forum for cross-project collaboration and knowledge-sharing, helping to foster a sense of community and cohesion within the CNCF ecosystem. They work closely with project maintainers, contributors, and other community members to provide guidance and support, and to ensure that all projects within the CNCF are able to thrive and evolve in a collaborative and inclusive manner.
 
 For new contributors, the TAG can be a valuable resource, providing guidance on technical issues, as well as offering advice on how to navigate the CNCF ecosystem and get involved in various projects. 
 
