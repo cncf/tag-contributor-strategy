@@ -75,7 +75,8 @@ For both technical and non-technical contributors, it's crucial to understand Gi
 
 Here's a brief overview of each:
 
-**Git:** Git is a version control system that allows you to track changes in your code, collaborate with others, and manage different versions of your project. You'll need to be familiar with Git and tools like GitHub, GitLab or BitBucket to contribute to open source. There is a lot of online guides available, ie.  [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud), [Git Tutorial](https://www.w3schools.com/git/), [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) and [Contributing to projects - forking](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+#### Git
+Git is a version control system that allows you to track changes in your code, collaborate with others, and manage different versions of your project. You'll need to be familiar with Git and tools like GitHub, GitLab or BitBucket to contribute to open source. There is a lot of online guides available, ie.  [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud), [Git Tutorial](https://www.w3schools.com/git/), [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) and [Contributing to projects - forking](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 
 
 #### Issues: 
