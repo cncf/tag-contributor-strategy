@@ -84,7 +84,7 @@ Issues are used to track bugs, feature requests, and other tasks in a project. W
 
 These issues are typically well-defined and relatively easy to implement, and can provide a great opportunity for contributors to get started with the project and learn the workflow. Look for these labels in the issue tracker and consider starting with them if you are new to the project or open source contribution in general.
 
-#### Pull Requests: 
+#### Pull Requests
 Pull requests are a way to propose changes to a project. When you submit a pull request, you're asking the project maintainers to review your code or document changes and consider merging it into the main codebase. To create a pull request, you'll need to fork the project, make your changes, and then submit the pull request through the project's website or Git hosting platform.
 
 Code reviews are an essential part of the software development process as they help catch potential issues before they become problems. It's important to remember that code reviews are not personal and should not be taken as criticism of the contributor. Instead, they provide an opportunity for contributors to learn from each other and improve their skills. Code reviews can be especially beneficial for beginner contributors as they can learn from more experienced contributors about potential issues with their code and how to improve it. Overall, code reviews are a valuable mechanism for learning and improving code quality. Code is about working together to produce the best code or documentation. 
