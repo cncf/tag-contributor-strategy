@@ -6,7 +6,7 @@ linkTitle: Start Contributing to Open Source
 ### Introduction
 Open source is more than just a way of building software - it's a philosophy that promotes collaboration, transparency, and community. By sharing code openly, developers from all over the world can contribute their skills, knowledge, and creativity to projects that are used by millions of people every day. 
 
-The open source movement has changed the way we create, share, and innovate, and it continues to grow and evolve. Whether you're a seasoned programmer or just starting out, open source provides an incredible opportunity to learn new skills, work with like-minded people, and make a difference in the world. 
+The open source movement has changed how we create, share, and innovate, and it continues to grow and evolve. Whether you're a seasoned programmer or just starting out, open source provides an incredible opportunity to learn new skills, work with like-minded people, and make a difference in the world.
 
 In this document, we'll explore the different ways you can get involved in open source, what knowledge you need to contribute, and how you can become part of this amazing community. So, let's dive in and discover the exciting world of open source!
 
