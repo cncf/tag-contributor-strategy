@@ -14,7 +14,7 @@ In this document, we'll explore the different ways you can get involved in open 
 To contribute to open source, it's important to join the community. Most open source projects have a website or a [GitHub](https://github.com/) repository where you can find information on how to contribute. 
 
 Open source projects often have multiple communication channels to facilitate collaboration and support. The most common channels include mailing lists, forums, chat rooms, and issue trackers. These communication channels are generally listed on the websites or the repositories of the projects. These channels allow project members and contributors to communicate effectively and efficiently, ask questions, share ideas, report issues and propose solutions. When contributing to an open source project, it's important to use the appropriate communication channels and follow the community's guidelines for communication etiquette. Being an effective communicator is crucial to successful collaboration and contributing to the project's success.
-It's important to be respectful and courteous when interacting with other members of the community.
+Being respectful and courteous when interacting with other community members is important.
 
 ### Understand “Community” - the context of open source projects
 Open source communities are built on the foundation of collaboration, inclusivity, and diversity. Communities comprise a group of individuals with different backgrounds, experiences, and perspectives, who come together to share their knowledge, skills, and passion for creating something meaningful and impactful. To join an open source community, it's important to understand what the community is and what it expects from its members.
