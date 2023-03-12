@@ -1,5 +1,5 @@
 ---
-title: Do you want to start contributing to open source and do not know where to start?
+title: Do you want to start contributing to open source and need help figuring out where to start?
 linkTitle: Start Contributing to Open Source
 ---
 
