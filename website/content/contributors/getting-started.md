@@ -105,7 +105,7 @@ Additionally, the Mentoring Working Group provides resources such as documentati
 
 **Training material:** The [Linux Foundation](https://training.linuxfoundation.org/) offers a range of free and paid training materials and certifications that can help you upskill and enhance your knowledge in various areas, including cloud computing, DevOps, and open source technologies. 
 These resources include online courses, certifications, and hands-on training programs that are taught by experienced instructors and industry professionals. By taking advantage of these resources, you can gain the skills and knowledge you need to become a valuable contributor to open source projects and communities. 
-### Why open source projects look for new contributors, why should I care to join?
+### Why do open source projects look for new contributors, and why should I care to join?
 Open source projects always need new contributors because they rely on the community to continue growing and improving. By joining an open source project, you can not only enhance your skills and knowledge but also contribute to something that has the potential to make a difference in the world. You can also collaborate with like-minded individuals worldwide, learn from others, and build a network that can benefit you in the future. Additionally, contributing to open source projects is a great way to give back to the community and make a positive impact.
 
 ### In conclusion
