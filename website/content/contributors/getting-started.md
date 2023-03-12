@@ -1,5 +1,6 @@
 ---
 title: Do you want to start contributing to open source and do not know where to start?
+linkTitle: Start Contributing to Open Source
 ---
 
 ### Introduction
