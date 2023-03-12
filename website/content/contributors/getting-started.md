@@ -11,7 +11,7 @@ The open source movement has changed how we create, share, and innovate, and it 
 In this document, we'll explore the different ways you can get involved in open source, what knowledge you need to contribute, and how you can become part of this amazing community. So, let's dive in and discover the exciting world of open source!
 
 ### Join the Community
-To contribute to open source it's important to join the community. Most open source projects have a website or a [GitHub](https://github.com/) repository where you can find information on how to contribute. 
+To contribute to open source, it's important to join the community. Most open source projects have a website or a [GitHub](https://github.com/) repository where you can find information on how to contribute. 
 
 Open source projects often have multiple communication channels to facilitate collaboration and support. The most common channels include mailing lists, forums, chat rooms, and issue trackers. In general, these communication channels are listed on the websites or the repositories of the projects. These channels allow project members and contributors to communicate effectively and efficiently, ask questions, share ideas, report issues, and propose solutions. When contributing to an open source project, it's important to use the appropriate communication channels and follow the community's guidelines for communication etiquette. Being an effective communicator is crucial to successful collaboration and contributing to the project's success.
 It's important to be respectful and courteous when interacting with other members of the community.
