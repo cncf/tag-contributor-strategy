@@ -2571,7 +2571,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/openfeature",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw",
-        "language": null
+        "language": "JavaScript"
     },
     {
         "name": "OpenFGA",
