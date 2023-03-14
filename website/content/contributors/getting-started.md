@@ -44,7 +44,7 @@ The open-source community can sometimes be overwhelming with its acronyms and te
 When you're first getting started with open source, it's important to start small. Look for easy issues to fix or small features to add. This will help you get familiar with the project's codebase and build your confidence as a contributor. As you become more experienced, you can take on more challenging tasks.
 
 ### Collaborate with Others
-Open source is all about collaboration. Don't be afraid to reach out to other contributors for help or feedback. You can also collaborate with other contributors by reviewing their code, providing feedback, and testing their changes. This will help you build relationships with other contributors and improve your coding or other skills you bring to the community. Contributing to an open-source project doesn't require permission. Once you've done sufficient research and have a clear understanding of where your skills can help the community, don't hesitate to dive in and start contributing.
+Open source is all about collaboration. Don't be afraid to reach out to other contributors for help or feedback. You can also collaborate with other contributors by reviewing their code, providing feedback, and testing their changes. This will help you build relationships with other contributors and improve your coding or other skills you bring to the community. Contributing to an open-source project doesn't require permission. Once you've done sufficient research and clearly understand where your skills can help the community, don't hesitate to dive in and start contributing.
 
 ### Asking for help
 
