@@ -48,7 +48,7 @@ Open source is all about collaboration. Don't be afraid to reach out to other co
 
 ### Asking for help
 
-Getting help from other contributors is a critical aspect of contributing to open-source projects, but it's essential to know how much help is appropriate to ask for. It's okay to ask for assistance if you've made a genuine effort to learn the material beforehand, such as reading the documentation or using the software. Try to limit your requests to project-specific issues and avoid seeking help for general mentoring in open source or programming languages. 
+Getting help from other contributors is a critical aspect of contributing to open-source projects. Still it's essential to know how much help is appropriate to ask for. It's okay to ask for assistance if you've made a genuine effort to learn the material beforehand, such as reading the documentation or using the software. Try to limit your requests to project-specific issues and avoid seeking help for general mentoring in open source or programming languages. 
 
 While seeking guidance on pull requests can be helpful, it's essential to keep in mind that simply asking for someone to provide you with the exact code or wording to use may not be the most effective approach. Instead, put in effort to create your own content and seek feedback on how you can improve your contribution. This way, you can work collaboratively with other contributors to achieve the project's objectives and build strong relationships within the community. 
 
