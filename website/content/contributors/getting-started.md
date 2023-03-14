@@ -83,7 +83,7 @@ Git is a version control system that allows you to track changes in your code, c
 #### Issues
 Issues are used to track bugs, feature requests, and other tasks in a project. When you find a bug or want to propose a new feature, you can create an issue in the project's issue tracker. This allows you to collaborate with other contributors and track the progress of your task. Many open-source projects have "Good first issue" or "Help wanted" labels attached to certain issues, which are suitable for new contributors or those looking to make their first contribution. 
 
-These issues are typically well-defined and relatively easy to implement, and can provide a great opportunity for contributors to get started with the project and learn the workflow. Look for these labels in the issue tracker and consider starting with them if you are new to the project or open-source contribution in general.
+These issues are typically well-defined and relatively easy to implement. They can provide a great opportunity for contributors to get started with the project and learn the workflow. Look for these labels in the issue tracker and consider starting with them if you are new to the project or open-source contribution in general.
 
 #### Pull Requests
 Pull requests are a way to propose changes to a project. When you submit a pull request, you're asking the project maintainers to review your code or document changes and consider merging it into the main codebase. To create a pull request, you'll need to fork the project, make your changes, and then submit the pull request through the project's website or Git hosting platform.
