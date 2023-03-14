@@ -70,7 +70,7 @@ Even if you're not a technical contributor, there are still many ways you can co
 
 **Translation:** Many open-source projects are used by people worldwide. You can contribute by translating the project's documentation or user interface if you're fluent in multiple languages.
 
-Regardless of your skills or background, there are many ways to contribute to open source. The key is to find a project that aligns with your interests and skill level, and to start small. Remember to read the documentation carefully and to collaborate with other contributors.
+Regardless of your skills or background, there are many ways to contribute to open source. The key is to find a project that aligns with your interests and skill level and to start small. Remember to read the documentation carefully and to collaborate with other contributors.
 ### Understanding Git, Pull Requests, and Issues
 For both technical and non-technical contributors, it's crucial to understand Git, pull requests, and issues, even if you are not yet familiar with them. These tools are used in most open-source projects to manage contributions and track changes in the code and documents. 
 
