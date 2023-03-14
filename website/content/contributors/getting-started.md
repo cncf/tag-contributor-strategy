@@ -21,7 +21,7 @@ Open-source communities are built on a foundation of collaboration, inclusivity,
 
 The community is not just a group of people working on a project but rather a living and breathing entity that expects respectful and courteous behavior from its members. It's crucial to be aware of cultural differences and to embrace the genuine spirit of community-based consideration for others. This means being patient, empathetic, helpful, and striving to create an environment where everyone feels valued and supported.
 
-At the same time, it's important to maintain a level of professional conduct to ensure that contributors don't inadvertently self-sabotage. This includes following the project's code of conduct, adhering to coding standards, and contributing code that is well-tested and documented. ie. The [CNCF Community Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+At the same time, it's important to maintain a level of professional conduct to ensure that contributors don't inadvertently self-sabotage. This includes following the project's code of conduct, adhering to coding standards, and contributing well-tested and documented code (note the [CNCF Community Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)).
 It's also important to be open to feedback and criticism, and to work collaboratively with other members of the community to improve the project. People of all skill levels work hand-in-hand to improve their projects.
 
 ### Choose a Project
