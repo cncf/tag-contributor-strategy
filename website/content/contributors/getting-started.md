@@ -7,20 +7,20 @@ linkTitle: Start Contributing to Open Source
 
 Open source is more than just a way of building software - it's a philosophy that promotes collaboration, transparency, and community. By sharing code openly, developers from all over the world can contribute their skills, knowledge, and creativity to projects that are used by millions of people every day.
 
-The open-source movement has changed how we create, share, and innovate, and it continues to grow and evolve. Whether you're a seasoned programmer or just starting out, open-source provides an incredible opportunity to learn new skills, work with like-minded people, and make a difference in the world.
+The open source movement has changed how we create, share, and innovate, and it continues to grow and evolve. Whether you're a seasoned programmer or just starting out, open source provides an incredible opportunity to learn new skills, work with like-minded people, and make a difference in the world.
 
 In this document, we'll explore the different ways you can get involved in open source, what knowledge you need to contribute, and how you can become part of this amazing community. So, let's dive in and discover the exciting world of open source!
 
 ### Join the Community
 
-To contribute to open source, it's important to join the community. Most open-source projects have a website or a [GitHub](https://github.com/) repository where you can find information on how to contribute.
+To contribute to open source, it's important to join the community. Most open source projects have a website or a [GitHub](https://github.com/) repository where you can find information on how to contribute.
 
-Open-source projects often have multiple communication channels to facilitate collaboration and support. The most common channels include mailing lists, forums, chat rooms, and issue trackers. These communication channels are generally listed on the websites or the repositories of the projects. These channels allow project members and contributors to communicate effectively and efficiently, ask questions, share ideas, report issues, and propose solutions. When contributing to an open-source project, it's important to use the appropriate communication channels and follow the community's guidelines for communication etiquette. Being an effective communicator is crucial to successful collaboration and contributing to the project's success.
+Open-source projects often have multiple communication channels to facilitate collaboration and support. The most common channels include mailing lists, forums, chat rooms, and issue trackers. These communication channels are generally listed on the websites or the repositories of the projects. These channels allow project members and contributors to communicate effectively and efficiently, ask questions, share ideas, report issues, and propose solutions. When contributing to an open source project, it's important to use the appropriate communication channels and follow the community's guidelines for communication etiquette. Being an effective communicator is crucial to successful collaboration and contributing to the project's success.
 Being respectful and courteous when interacting with other community members is important.
 
-### Understand “Community” - the context of open-source projects
+### Understand “Community” - the context of open source projects
 
-Open-source communities are built on a foundation of collaboration, inclusivity, and diversity. Communities comprise a group of individuals with different backgrounds, experiences, and perspectives, who come together to share their knowledge, skills, and passion for creating something meaningful and impactful. To join an open-source community, it's important to understand what the community is and what it expects from its members.
+Open-source communities are built on a foundation of collaboration, inclusivity, and diversity. Communities comprise a group of individuals with different backgrounds, experiences, and perspectives, who come together to share their knowledge, skills, and passion for creating something meaningful and impactful. To join an open source community, it's important to understand what the community is and what it expects from its members.
 
 The community is not just a group of people working on a project but rather a living and breathing entity that expects respectful and courteous behavior from its members. It's crucial to be aware of cultural differences and to embrace the genuine spirit of community-based consideration for others. This means being patient, empathetic, helpful, and striving to create an environment where everyone feels valued and supported.
 
@@ -29,7 +29,7 @@ It's also important to be open to feedback and criticism, and to work collaborat
 
 ### Choose a Project
 
-When it comes to contributing to open source, choosing the right project is crucial. A good place to start is the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), which hosts dozens of popular open-source projects in the [cloud native ecosystem](https://landscape.cncf.io/). There's a CNCF project for almost every area of technology, from container orchestration to service mesh to storage. For instance, if you're interested in containerization, you might consider contributing to [Kubernetes](https://kubernetes.io/), the de-facto standard for container orchestration. Or, if you're interested in observability and monitoring, you might consider contributing to [Prometheus](https://prometheus.io/), which provides powerful metrics collection and analysis. Other popular CNCF projects include [Envoy](https://www.envoyproxy.io/), [Fluentd](https://www.fluentd.org/), and [Jaeger](https://www.jaegertracing.io/).
+When it comes to contributing to open source, choosing the right project is crucial. A good place to start is the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), which hosts dozens of popular open source projects in the [cloud native ecosystem](https://landscape.cncf.io/). There's a CNCF project for almost every area of technology, from container orchestration to service mesh to storage. For instance, if you're interested in containerization, you might consider contributing to [Kubernetes](https://kubernetes.io/), the de-facto standard for container orchestration. Or, if you're interested in observability and monitoring, you might consider contributing to [Prometheus](https://prometheus.io/), which provides powerful metrics collection and analysis. Other popular CNCF projects include [Envoy](https://www.envoyproxy.io/), [Fluentd](https://www.fluentd.org/), and [Jaeger](https://www.jaegertracing.io/).
 
 When choosing a project to contribute to, it's important to consider your interests and skill level. Look for projects that align with your strengths and that you're passionate about. CNCF projects have a large and supportive community, with many resources available for contributors. It is very important to start by reading the project documentation and exploring the issue tracker. If you're new to the project, look for issues labeled as "good first issue" or "help wanted" - these are often small, well-defined tasks that are a good place to start.
 
@@ -45,7 +45,7 @@ It's also important to invest time in reading the project's mailing list threads
 
 ### A language of their own
 
-The open-source community can sometimes be overwhelming with its acronyms and technical terms. Newcomers might find it difficult to keep up with the jargon. However, there are ways to overcome this, such as taking the time to research and ask questions. Also, the Cloud Native Computing Foundation (CNCF) provides a helpful [glossary of commonly used terms](https://glossary.cncf.io/abstraction/) in the cloud native landscape. By utilizing this resource and proactively in seeking information, newcomers can better understand the community and its practices. Open-source communities aim to be collaborative and inclusive, and their members are generally welcoming to those willing to learn and contribute.
+The open source community can sometimes be overwhelming with its acronyms and technical terms. Newcomers might find it difficult to keep up with the jargon. However, there are ways to overcome this, such as taking the time to research and ask questions. Also, the Cloud Native Computing Foundation (CNCF) provides a helpful [glossary of commonly used terms](https://glossary.cncf.io/abstraction/) in the cloud native landscape. By utilizing this resource and proactively in seeking information, newcomers can better understand the community and its practices. Open-source communities aim to be collaborative and inclusive, and their members are generally welcoming to those willing to learn and contribute.
 
 ### Start Small
 
@@ -53,11 +53,11 @@ When you're first getting started with open source, it's important to start smal
 
 ### Collaborate with Others
 
-Open source is all about collaboration. Don't be afraid to reach out to other contributors for help or feedback. You can also collaborate with other contributors by reviewing their code, providing feedback, and testing their changes. This will help you build relationships with other contributors and improve your coding or other skills you bring to the community. Contributing to an open-source project doesn't require permission. Once you've done sufficient research and clearly understand where your skills can help the community, don't hesitate to dive in and start contributing.
+Open source is all about collaboration. Don't be afraid to reach out to other contributors for help or feedback. You can also collaborate with other contributors by reviewing their code, providing feedback, and testing their changes. This will help you build relationships with other contributors and improve your coding or other skills you bring to the community. Contributing to an open source project doesn't require permission. Once you've done sufficient research and clearly understand where your skills can help the community, don't hesitate to dive in and start contributing.
 
 ### Asking for help
 
-Getting help from other contributors is a critical aspect of contributing to open-source projects. Still, it's essential to know how much help is appropriate to ask for. It's okay to ask for assistance if you've made a genuine effort to learn the material beforehand, such as reading the documentation or using the software. Try to limit your requests to project-specific issues and avoid seeking help for general mentoring in open source or programming languages.
+Getting help from other contributors is a critical aspect of contributing to open source projects. Still, it's essential to know how much help is appropriate to ask for. It's okay to ask for assistance if you've made a genuine effort to learn the material beforehand, such as reading the documentation or using the software. Try to limit your requests to project-specific issues and avoid seeking help for general mentoring in open source or programming languages.
 
 While seeking guidance on pull requests can be helpful, it's essential to remember that there may be more effective approaches than simply asking someone to provide you with the exact code or wording to use. Instead, try to create your own content and seek feedback on improving your contribution. This way, you can work collaboratively with other contributors to achieve the project's objectives and build strong relationships within the community.
 
@@ -67,7 +67,7 @@ Remember, the goal is to help the project and maintainers, so ensure that your r
 
 If you're a technical contributor, there are some specific tools and technologies that you should be familiar with. Here are some of the key skills you'll need to contribute to open source:
 
-**Programming Languages**: Most open-source projects are written in one or more programming languages. You'll need to be proficient in at least one language to contribute to a project. The specific language will depend on the project you choose.
+**Programming Languages**: Most open source projects are written in one or more programming languages. You'll need to be proficient in at least one language to contribute to a project. The specific language will depend on the project you choose.
 
 **Testing**: Testing is a critical part of software development. You'll need to be familiar with testing frameworks and tools to contribute to open source. This includes both unit testing and integration testing.
 
@@ -75,17 +75,17 @@ If you're a technical contributor, there are some specific tools and technologie
 
 Even if you're not a technical contributor, there are still many ways you can contribute to open source. Here are some of the key skills you'll need:
 
-**Documentation:** Most open-source projects have documentation that needs to be written and maintained. If interested in writing, you can contribute by writing documentation, tutorials, or blog posts.
+**Documentation:** Most open source projects have documentation that needs to be written and maintained. If interested in writing, you can contribute by writing documentation, tutorials, or blog posts.
 
 **Design:** If you're a designer, you can contribute to open source by creating graphics, logos, or improving the website
 
-**Translation:** Many open-source projects are used by people worldwide. You can contribute by translating the project's documentation or user interface if you're fluent in multiple languages.
+**Translation:** Many open source projects are used by people worldwide. You can contribute by translating the project's documentation or user interface if you're fluent in multiple languages.
 
 Regardless of your skills or background, there are many ways to contribute to open source. The key is to find a project that aligns with your interests and skill level and to start small. Remember to read the documentation carefully and to collaborate with other contributors.
 
 ### Understanding Git, Pull Requests, and Issues
 
-For both technical and non-technical contributors, it's crucial to understand Git, pull requests, and issues, even if you are not yet familiar with them. These tools are used in most open-source projects to manage contributions and track changes in the code and documents.
+For both technical and non-technical contributors, it's crucial to understand Git, pull requests, and issues, even if you are not yet familiar with them. These tools are used in most open source projects to manage contributions and track changes in the code and documents.
 
 Here's a brief overview of each:
 
@@ -95,9 +95,9 @@ Git is a version control system that allows you to track changes in your code, c
 
 #### Issues
 
-Issues are used to track bugs, feature requests, and other tasks in a project. When you find a bug or want to propose a new feature, you can create an issue in the project's issue tracker. This allows you to collaborate with other contributors and track the progress of your task. Many open-source projects have "Good first issue" or "Help wanted" labels attached to certain issues, which are suitable for new contributors or those looking to make their first contribution.
+Issues are used to track bugs, feature requests, and other tasks in a project. When you find a bug or want to propose a new feature, you can create an issue in the project's issue tracker. This allows you to collaborate with other contributors and track the progress of your task. Many open source projects have "Good first issue" or "Help wanted" labels attached to certain issues, which are suitable for new contributors or those looking to make their first contribution.
 
-These issues are typically well-defined and relatively easy to implement. They can provide a great opportunity for contributors to get started with the project and learn the workflow. Look for these labels in the issue tracker and consider starting with them if you are new to the project or open-source contribution in general.
+These issues are typically well-defined and relatively easy to implement. They can provide a great opportunity for contributors to get started with the project and learn the workflow. Look for these labels in the issue tracker and consider starting with them if you are new to the project or open source contribution in general.
 
 #### Pull Requests
 
