@@ -45,7 +45,7 @@ It's also important to invest time in reading the project's mailing list threads
 
 ### A language of their own
 
-The open source community can sometimes be overwhelming with its acronyms and technical terms. Newcomers might find it difficult to keep up with the jargon. However, there are ways to overcome this, such as taking the time to research and ask questions. Also, the Cloud Native Computing Foundation (CNCF) provides a helpful [glossary of commonly used terms](https://glossary.cncf.io/abstraction/) in the cloud native landscape. By utilizing this resource and proactively in seeking information, newcomers can better understand the community and its practices. Open-source communities aim to be collaborative and inclusive, and their members are generally welcoming to those willing to learn and contribute.
+The open source community can sometimes be overwhelming with its acronyms and technical terms. Newcomers might find it difficult to keep up with the jargon. However, there are ways to overcome this, such as taking the time to research and ask questions. Also, the Cloud Native Computing Foundation (CNCF) provides a helpful [glossary of commonly used terms](https://glossary.cncf.io/) in the cloud native landscape. By utilizing this resource and proactively in seeking information, newcomers can better understand the community and its practices. Open-source communities aim to be collaborative and inclusive, and their members are generally welcoming to those willing to learn and contribute.
 
 ### Start Small
 
