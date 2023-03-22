@@ -26,7 +26,7 @@ Copy the template file into your repository.
 
 There are instructions for filling out the template that look like the example below:
 
-![screenshot of the CONTRIBUTING.md template, there is a link to instructions, and a warning emoji with text explaining how to fill out this section of the template](sample-instructions.png)
+![screenshot of the CONTRIBUTING.md template, there is a link to instructions, and a warning emoji with text explaining how to fill out this section of the template](../sample-instructions.png)
 
 Some links are specific to your project.
 Search for the word TODO in the markdown for links that need to be customized.
