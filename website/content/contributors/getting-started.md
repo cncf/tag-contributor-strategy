@@ -75,7 +75,7 @@ If you're a technical contributor, there are some specific tools and technologie
 
 Even if you're not a technical contributor, there are still many ways you can contribute to open source. Here are some of the key skills you'll need:
 
-**Documentation:** Most open source projects have documentation that needs to be written and maintained. You can contribute by writing documentation, tutorials, or blog posts if you're interested in writing.
+**Documentation:** Most open source projects have documentation that needs to be written and maintained. You can contribute by writing documentation, tutorials, or blog posts.
 
 **Design:** If you're a designer, you can contribute to open source by creating graphics, logos, or improving the website
 
