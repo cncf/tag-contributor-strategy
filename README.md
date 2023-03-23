@@ -123,7 +123,6 @@ Facilitators:
 Facilitators:
 
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Catherine Paganini ([@CathPag](https://github.com/CathPag)), Buoyant
 
 ### Maintainer's Circle
 
