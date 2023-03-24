@@ -635,7 +635,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/contour",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "HTML"
+        "language": "Go"
     },
     {
         "name": "Cortex",
