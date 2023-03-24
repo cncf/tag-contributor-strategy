@@ -1430,28 +1430,6 @@
         "language": "Go"
     },
     {
-        "name": "Carvel",
-        "path": "Application Definition & Image Build",
-        "description": "Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.",
-        "homepage_url": "https://carvel.dev",
-        "project": "sandbox",
-        "repo_url": "https://github.com/vmware-tanzu/carvel-ytt",
-        "logo": "logos/carvel.svg",
-        "twitter": "https://twitter.com/carvel_dev",
-        "crunchbase": "https://www.crunchbase.com/organization/vmware",
-        "chat_channel": null,
-        "accepted": "2022-09-14",
-        "dev_stats_url": null,
-        "artwork_url": null,
-        "stack_overflow_url": null,
-        "blog_url": null,
-        "mailing_list_url": null,
-        "slack_url": null,
-        "gitter_url": null,
-        "youtube_url": null,
-        "language": "Go"
-    },
-    {
         "name": "CDK for Kubernetes (CDK8s)",
         "path": "Automation & Configuration",
         "description": "CDK8s lets you define Kubernetes apps and components using familiar programming languages and object-oriented APIs.",
@@ -2571,7 +2549,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/openfeature",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw",
-        "language": "JavaScript"
+        "language": "Go"
     },
     {
         "name": "OpenFGA",
