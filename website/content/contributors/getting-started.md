@@ -1,5 +1,5 @@
 ---
-title: Do you want to start contributing to open source and need help figuring out where to start?
+title: Do you want to start contributing to open source and need help figuring out where to begin?
 linkTitle: Start Contributing to Open Source
 ---
 
@@ -9,7 +9,7 @@ Open source is more than just a way of building software - it's a philosophy tha
 
 The open source movement has changed how we create, share, and innovate, and it continues to grow and evolve. Whether you're a seasoned programmer or just starting out, open source provides an incredible opportunity to learn new skills, work with like-minded people, and make a difference in the world.
 
-In this document, we'll explore how you can get involved in open source, what knowledge you need to contribute, and how you can become part of this amazing community. So, let's dive in and discover the exciting world of open source!
+In this document, we'll explore how to get involved in open source, what knowledge you need to contribute, and how to become part of this amazing community. So, let's dive in and discover the exciting world of open source!
 
 ### Join the Community
 
@@ -41,7 +41,7 @@ Using an open source project before becoming a contributor is essential to under
 
 Before you start contributing to a project, it's important to read the documentation. Most projects have a README file that provides an overview of the project, how to set it up, and how to contribute. Read the documentation carefully to make sure you understand the project's goals, coding standards, and contribution guidelines.
 
-It's also important to invest time in reading the project's mailing list threads, community forum discussions, and meeting minutes, as well as reviewing open and closed issues and pull requests in the project repository. By doing so, you can better understand the project's context, goals, and challenges, and develop a sense of the community's culture and values. This knowledge can help you ask more informed and relevant questions when reaching out to the community, and increase your chances of getting a helpful and constructive response.
+Investing time in reading the project's mailing list threads, community forum discussions, meeting minutes, and reviewing open and closed issues and pull requests in the project repository is important. By doing so, you can better understand the project's context, goals, and challenges, and develop a sense of the community's culture and values. This knowledge can help you ask more informed and relevant questions when reaching out to the community, and increase your chances of getting a helpful and constructive response.
 
 ### A language of their own
 
@@ -57,7 +57,7 @@ Open source is all about collaboration. Feel free to reach out to other contribu
 
 ### Asking for help
 
-Getting help from other contributors is a critical aspect of contributing to open source projects. Still, it's essential to know how much help is appropriate to ask for. It's okay to ask for assistance if you've made a genuine effort to learn the material beforehand, such as reading the documentation or using the software. Try to limit your requests to project-specific issues and avoid seeking help for general mentoring in open source or programming languages.
+Getting help from other contributors is a critical aspect of contributing to open source projects. Still, it's essential to know how much help is appropriate to ask for. It's okay to ask for assistance if you've genuinely tried to learn the material beforehand, such as reading the documentation or using the software. Try to limit your requests to project-specific issues and avoid seeking help for general mentoring in open source or programming languages.
 
 While seeking guidance on pull requests can be helpful, it's essential to remember that there may be more effective approaches than simply asking someone to provide you with the exact code or wording to use. Instead, try to create your own content and seek feedback on improving your contribution. This way, you can work collaboratively with other contributors to achieve the project's objectives and build strong relationships within the community.
 
@@ -75,11 +75,11 @@ If you're a technical contributor, there are some specific tools and technologie
 
 Even if you're not a technical contributor, there are still many ways you can contribute to open source. Here are some of the key skills you'll need:
 
-**Documentation:** Most open source projects have documentation that needs to be written and maintained. If interested in writing, you can contribute by writing documentation, tutorials, or blog posts.
+**Documentation:** Most open source projects have documentation that needs to be written and maintained. You can contribute by writing documentation, tutorials, or blog posts.
 
 **Design:** If you're a designer, you can contribute to open source by creating graphics, logos, or improving the website
 
-**Translation:** Many open source projects are used by people worldwide. You can contribute by translating the project's documentation or user interface if you're fluent in multiple languages.
+**Translation:** Many open source projects are used by people worldwide. If fluent in multiple languages, you can contribute by translating the project's documentation or user interface.
 
 Regardless of your skills or background, there are many ways to contribute to open source. The key is to find a project that aligns with your interests and skill level and to start small. Remember to read the documentation carefully and to collaborate with other contributors.
 
@@ -101,7 +101,7 @@ These issues are typically well-defined and relatively easy to implement. They c
 
 #### Pull Requests
 
-Pull requests are a way to propose changes to a project. When you submit a pull request, you're asking the project maintainers to review your code or document changes and consider merging it into the main codebase. To create a pull request, you'll need to fork the project, make your changes, and then submit the pull request through the project's website or Git hosting platform.
+Pull requests are a way to propose changes to a project. When you submit a pull request, you ask the project maintainers to review your code or document changes and consider merging it into the main codebase. To create a pull request, you'll need to fork the project, make your changes, and then submit the pull request through the project's website or Git hosting platform.
 
 Code reviews are essential to the software development process as they help catch potential issues before they become problems. It's important to remember that code reviews are not personal and should not be taken as criticism of the contributor. Instead, they allow contributors to learn from each other and improve their skills. Code reviews can be especially beneficial for beginner contributors as they can learn from more experienced contributors about potential issues with their code and how to improve it. Code reviews are a valuable mechanism for learning and improving code quality. Code is about working together to produce the best code or documentation.
 
