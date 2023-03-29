@@ -123,6 +123,7 @@ Facilitators:
 Facilitators:
 
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
+- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
 
 ### Maintainer's Circle
 
