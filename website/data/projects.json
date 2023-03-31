@@ -926,10 +926,10 @@
     {
         "name": "Knative",
         "path": "Installable Platform",
-        "description": "Knative is a developer-focused serverless application layer which is a great complement to the existing Kubernetes application constructs. Knative consists of two components: an HTTP-triggered autoscaling container runtime called \u201cKnative Serving\u201d, and a CloudEvents-over-HTTP asynchronous routing layer called \u201cKnative Eventing\u201d.",
+        "description": "Knative is a developer-focused serverless application layer which is a great complement to the existing Kubernetes application constructs. Knative consists of three components: an HTTP-triggered autoscaling container runtime called \u201cKnative Serving\u201d, a CloudEvents-over-HTTP asynchronous routing layer called \u201cKnative Eventing\u201d, and a developer-focused function framework which leverages the Serving and Eventing components, called \"Knative Functions\".",
         "homepage_url": "https://knative.dev",
         "project": "incubating",
-        "repo_url": "https://github.com/knative/serving",
+        "repo_url": "https://github.com/knative/community",
         "logo": "logos/knative.svg",
         "twitter": "https://twitter.com/KnativeProject",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -940,7 +940,7 @@
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/knative",
         "blog_url": null,
         "mailing_list_url": "https://groups.google.com/d/forum/knative-users",
-        "slack_url": "https://slack.knative.dev",
+        "slack_url": "https://slack.cncf.io",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/c/KnativeProject",
         "language": "Go"
