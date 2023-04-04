@@ -14,7 +14,12 @@ one.
 The only contract of the members of each circle is to abide by the CNCF Code of 
 Conduct, be kind, open as you'd like, and committed to hearing others out. 
 Everyone will have a chance to participate in whatever activity is set forth in 
-that meeting. 
+that meeting.
+
+Facilitators:
+
+- Dave Sudia ([@thedevelopnik](https://github.com/thedevelopnik)), Ambassador Labs
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 
 ## Goals:
 Bring CNCF project maintainer* together to:
