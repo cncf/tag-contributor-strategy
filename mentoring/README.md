@@ -69,6 +69,12 @@ Meetings to occur monthly, with extra meetings to manage special events and high
 
 Initial meetings are biweekly, on the 2nd and 4th Tuesday of each month, at 20:00 UTC.  This meeting time may be updated in the future.
 
+Facilitators:
+
+- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
+- Jay Tihema ([@jaytiaki](https://github.com/jaytiaki)), ii
+- Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
+
 ## Chairs
 
 * Nate Waddington (Linux Foundation/CNCF)
