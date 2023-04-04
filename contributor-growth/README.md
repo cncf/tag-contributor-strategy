@@ -63,6 +63,11 @@ Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Sla
 [mailing list]: https://lists.cncf.io/g/cncf-tag-contributor-strategy
 [Slack]: https://slack.cncf.io/
 
+Facilitators:
+
+- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
+- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
+
 # Documentation
 
 Our documentation is shared in the [cncf/contribute] repository.
