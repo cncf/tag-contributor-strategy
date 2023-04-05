@@ -8,11 +8,11 @@ Security Guidelines for New Projects aims to provide recommendations for new pro
 
 1. Securing code repositories
 2. Self assessment
-3. md
+3. SECURITY.md
 4. Incident management
 5. Badging
 
-![](RackMultipart20230405-1-882auz_html_768fc5d353cf937e.png)
+![](./images/SecurityGuidelines.png)
 
 **Figure 1**. An overview of security guidelines for new projects
 
@@ -103,7 +103,7 @@ Self-assessment dives into the following aspects of the project to understand th
 
 A template to perform the self assessment is available at [tag-security/self-assessment.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md). All the assessments (self-assessment and joint assessment) conducted by TAG Security can be found at TAG Security GitHub repository. As an example, self assessments are available within the dedicated project folders at [tag-security/assessments/projects at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/tree/main/assessments/projects). Further sections (Security.md in particular) in this document provide some of the pointers to address the gaps and create the necessary process & documentation.
 
-## 3. Security.md
+## 3. SECURITY.md
 
 Awareness and processes are a big part of enforcing security in any project. A SECURITY.md file in your repository should talk about the security considerations of the project, and the efforts undertaken to ensure that there are policies and processes in place to report vulnerabilities to the project maintainers, and for project maintainers to notify the community of the status of the vulnerabilities. It should also list the dedicated personnel responsible to address these vulnerabilities in a timely manner. In GitHub, the SECURITY.md file creates a security policy, and when someone creates an issue in your repository, they will see a link to your project's security policy. Further information regarding security policy is available at [Adding a security policy to your repository - GitHub Docs](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
 
