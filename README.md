@@ -111,12 +111,6 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 
 ### Inclusiveness Team
 
-Facilitators:
-
-- Melania De Angelis ([@melaniadeangelis](https://github.com/melaniadeangelis)), SIGHUP
-- Sara Trapetti ([@SaraTrap](https://github.com/SaraTrap)), SIGHUP
-- Jade Applegate ([@jadeapplegate](https://github.com/jadeapplegate)), Indeed
-
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
 ### Community Infrastructure initiative
