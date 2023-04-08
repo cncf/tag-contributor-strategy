@@ -1,9 +1,8 @@
-# CNCF TAG (Technical Advisory Groups) Contributor Strategy
+# CNCF TAG Contributor Strategy
 
 <img src="website/static/images/tag-contributor-strategy-icon-color.png" alt="a line drawing of a busy bee" align=right width="150px">
 
-TAG Contributor Strategy is responsible for contributor experience,
-sustainability, governance, and openness guidance to help CNCF community groups
+Contributor Strategy is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups
 and projects with their own contributor strategies for a healthy project.
 
 If you are looking for how-to resources produced by the TAG, please visit
@@ -109,7 +108,6 @@ The CNCF tag-contributor-strategy has working groups and teams to effectively co
 
 [Charter](/maintainers-circle/README.md)
 
-Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/1)
 
 ### Inclusiveness Team
 
@@ -119,7 +117,9 @@ Facilitators:
 - Sara Trapetti ([@SaraTrap](https://github.com/SaraTrap)), SIGHUP
 - Jade Applegate ([@jadeapplegate](https://github.com/jadeapplegate)), Indeed
 
-### Community Infrastructure Team
+Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
+
+### Community Infrastructure initiative
 
 Status: [Proposed](https://hackmd.io/mmPVK1PCQD2swm1GrzB0NQ)
 
