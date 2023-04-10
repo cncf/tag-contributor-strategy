@@ -1,4 +1,8 @@
-# Security Guidelines for New Projects
+---
+title: Security Guidelines for New Projects
+linkTitle: "Guidelines"
+date: 2023-04-10
+---
 
 ## Introduction
 
@@ -12,11 +16,11 @@ Security Guidelines for New Projects aims to provide recommendations for new pro
 4. Incident management
 5. Badging
 
-![](./images/SecurityGuidelines.png)
+![](../images/SecurityGuidelines.png)
 
 **Figure 1**. An overview of security guidelines for new projects
 
-These guidelines are heavily influenced by the contributions of the CNCF Technical Advisory Group for Security, particularly the Cloud Native Security Whitepaper[1] and Software Supply Chain Security Best Practices Whitepaper,[2] and the tooling for these guidelines can be referred to in the CNCF Cloud Native Security Map[3].
+These guidelines are heavily influenced by the contributions of the CNCF Technical Advisory Group for Security, particularly the Cloud Native Security Whitepaper[[1]] and Software Supply Chain Security Best Practices Whitepaper,[[2]] and the tooling for these guidelines can be referred to in the CNCF Cloud Native Security Map[[3]].
 
 **Note**
 
@@ -74,7 +78,7 @@ As the security maturity increases, it is a recommended security practice to sto
 
 It is critical to ensure no sensitive information is exposed as part of the source code, the documentation or any configuration in the source code repository. It may sometimes accidentally escape even the vigilant eyes of the contributor and reviewers, hence we recommend automating this activity and implementing secret scanning as part of the continuous integration process in the source code repository.
 
-There are several tools and projects aimed at providing secret scanning services, including but not limited to the ones mentioned in the section "Develop" of the Cloud Native Security Map[3]. GitHub also provides its own secret scanning service, you can find more details of this service at [Keeping secrets secure with secret scanning - GitHub Docs](https://docs.github.com/en/code-security/secret-scanning)
+There are several tools and projects aimed at providing secret scanning services, including but not limited to the ones mentioned in the section "Develop" of the Cloud Native Security Map[[3]]. GitHub also provides its own secret scanning service, you can find more details of this service at [Keeping secrets secure with secret scanning - GitHub Docs](https://docs.github.com/en/code-security/secret-scanning)
 
 ### Code scanning (recommended)
 
@@ -189,7 +193,7 @@ In addition to the above, you could also consider adding relevant timelines, inc
 
 ## 5. OpenSSF best practices badging
 
-The[Open Source Security Foundation (OpenSSF](https://openssf.org/)[)](https://openssf.org/)Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices[5]. This initiative allows projects to voluntarily self-certify, at no cost, by using their web application[5] to explain how they follow each best practice. These badges are a great way to showcase the efforts towards securing the project.
+The[Open Source Security Foundation (OpenSSF](https://openssf.org/)[)](https://openssf.org/)Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices[[5]]. This initiative allows projects to voluntarily self-certify, at no cost, by using their web application[[5]] to explain how they follow each best practice. These badges are a great way to showcase the efforts towards securing the project.
 
 The criteria of best practices badging is defined at[Badging Criteria - BadgeApp (coreinfrastructure.org)](https://bestpractices.coreinfrastructure.org/en/criteria/0). We recommend that all projects obtain a best practices badge and that projects determine the desired badging level early in the development cycle and include it in the project milestones, to ensure efforts towards security as accounted for, managed and tracked. As adoption increases and the project becomes more critical, also consider increasing the badging level. As an example of defining this activity, you could consider passing a bronze/silver badging level prior to the "x" release of the project and aim to attain gold badging level within a defined timeframe.
 
@@ -199,13 +203,13 @@ The[OpenSSF Scorecards](https://securityscorecards.dev/) project helps quickly a
 
 ## References
 
-1. CNCF Cloud Native Security Whitepaper ([tag-security/cloud-native-security-whitepaper.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/cloud-native-security-whitepaper.md))
-2. CNCF Software Supply Chain Best Practices Whitepaper ([tag-security/CNCF\_SSCP\_v1.pdf at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf))
-3. CNCF Cloud Native Security Map - [Cloud Native Security Map (cnsmap.github.io)](https://cnsmap.github.io/)
-4. OpenSSF Badge program - [BadgeApp (coreinfrastructure.org)](https://bestpractices.coreinfrastructure.org/en)
-5. CNCF TAG Security Publications [tag-security/PUBLICATIONS.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/PUBLICATIONS.md)
-6. OpenSSF Scorecards - [https://securityscorecards.dev](https://securityscorecards.dev/)
-7. CLOMonitor - [https://clomonitor.io](https://clomonitor.io/)
+1. [CNCF Cloud Native Security Whitepaper][1]
+2. [CNCF Software Supply Chain Best Practices Whitepaper][2]
+3. [CNCF Cloud Native Security Map][3]
+4. [OpenSSF Badge program][4]
+5. [CNCF TAG Security Publications][5]
+6. [OpenSSF Scorecards][6]
+7. [CLOMonitor][7]
 
 ## Contributors
 
@@ -226,4 +230,12 @@ The[OpenSSF Scorecards](https://securityscorecards.dev/) project helps quickly a
 
 ## Acknowledgements
 
-This paper is influenced by the publications of CNCF Technical Advisory Group for Security, particularly the Cloud Native Security Whitepaper[1] and Software Supply Chain Security Best Practices Whitepaper,[2] and CNCF Cloud Native Security Map[3], programs and initiatives by OpenSSF[4][6]. Our sincere gratitude for the contributors of these programs and publications, and to Emily Fox for suggesting the creation of this paper, to the contributors and reviewers of this paper.
+This paper is influenced by the publications of CNCF Technical Advisory Group for Security, particularly the Cloud Native Security Whitepaper[[1]] and Software Supply Chain Security Best Practices Whitepaper,[[2]] and CNCF Cloud Native Security Map[[3]], programs and initiatives by OpenSSF[[4]] [[6]]. Our sincere gratitude for the contributors of these programs and publications, and to Emily Fox for suggesting the creation of this paper, to the contributors and reviewers of this paper.
+
+[1]: https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/cloud-native-security-whitepaper.md
+[2]: https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf
+[3]: https://cnsmap.github.io/
+[4]: https://bestpractices.coreinfrastructure.org/en
+[5]: https://github.com/cncf/tag-security/blob/main/PUBLICATIONS.md
+[6]: https://securityscorecards.dev/
+[7]: https://clomonitor.io/
