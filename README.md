@@ -9,7 +9,7 @@ If you are looking for how-to resources produced by the TAG, please visit
 [contribute.cncf.io](https://contribute.cncf.io/) or have a look at the
 contributor, goverance, and related [templates](https://github.com/cncf/project-template).
 
-For people new to this space, you can learn more about [CNCF TAG's](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) by following the link.
+For people new to this space, you can learn more about the purpose, objectives, and responsibilities of [CNCF TAGs](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md).
 
 The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
