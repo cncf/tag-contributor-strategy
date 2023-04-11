@@ -113,16 +113,6 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
-### Community Infrastructure initiative
-
-Status: [Proposed](https://hackmd.io/mmPVK1PCQD2swm1GrzB0NQ)
-
-Facilitators:
-
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
-- Hippie Hacker ([@hh](https://github.com/hh)), ii
-
 ### Original Bootstrap TAG members
 
 - Amye Scavarda Perrin ([@amye](https://github.com/amye)), CNCF
