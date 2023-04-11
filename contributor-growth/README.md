@@ -68,6 +68,18 @@ Facilitators:
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
 - Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
 
+## Initiatives
+### Community Infrastructure Initiative
+There are a growing number of folks looking to share information across projects about how to handle various common technical community task.
+You can read more about this initiative from the proposal document below.
+
+Status: [Proposed](https://hackmd.io/mmPVK1PCQD2swm1GrzB0NQ)
+
+Interisted parties:
+- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
+- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
+- Hippie Hacker ([@hh](https://github.com/hh)), ii
+
 # Documentation
 
 Our documentation is shared in the [cncf/contribute] repository.
