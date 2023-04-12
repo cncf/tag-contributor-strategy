@@ -20,7 +20,7 @@ Security Guidelines for New Projects aims to provide recommendations for new pro
 
 **Figure 1**. An overview of security guidelines for new projects
 
-These guidelines are heavily influenced by the contributions of the CNCF Technical Advisory Group for Security, particularly the Cloud Native Security Whitepaper[[1]] and Software Supply Chain Security Best Practices Whitepaper,[[2]] and the tooling for these guidelines can be referred to in the CNCF Cloud Native Security Map[[3]].
+These guidelines are heavily influenced by the contributions of the CNCF Technical Advisory Group for Security, particularly the Cloud Native Security Whitepaper[[1]] and Software Supply Chain Security Best Practices Whitepaper[[2]] and the tooling for these guidelines can be referred to in the CNCF Cloud Native Security Map[[3]].
 
 **Note**
 
@@ -48,25 +48,25 @@ Define roles and associated access controls based upon the different personas in
 
 Strong authentication mechanisms are key to ensure accounts are not susceptible to several attacks including but not limited to account takeover. We highly recommend the use of password-protected SSH keys or a personal access token (PAT).
 
-However, for certain non-code intensive projects which specifically require accommodation that cannot be made possible using recommended methods (such as access to Github.com via browser), we recommend the use of unique and complex passwords (complexity in terms of a combination of alphanumeric, special characters as well as length). For details regarding configuring an authentication mechanism for GitHub, please refer to GitHub's documentation - [About authentication to GitHub - GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github).
+However, for certain non-code intensive projects which specifically require accommodation that cannot be made possible using recommended methods (such as access to Github.com via browser), we recommend the use of unique and complex passwords (complexity in terms of a combination of alphanumeric, special characters as well as length). For details regarding configuring an authentication mechanism for GitHub, please refer to GitHub's documentation [GitHub Docs - About authentication to GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github).
 
 ### Two Factor Authentication/Multi-factor Authentication
 
-Introducing an additional factor such as "something you have" or "somewhere you are" in the authentication process proves to be of higher effectiveness than relying on one factor "something you know" such as passwords, hence we urge configuring two factor or multi-factor authentication for your accounts, especially for any privileged accounts. For details regarding configuring a 2FA for GitHub, please refer to GitHub's documentation [Securing your account with two-factor authentication (2FA) - GitHub Docs](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
+Introducing an additional factor such as "something you have" or "somewhere you are" in the authentication process proves to be of higher effectiveness than relying on one factor "something you know" such as passwords, hence we urge configuring two factor or multi-factor authentication for your accounts, especially for any privileged accounts. For details regarding configuring a 2FA for GitHub, please refer to GitHub's documentation [GitHub Docs - Securing your account with two-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
 
 ## 1.2 Branch protection
 
 Branches in a source code repository provide a constrained area to develop features without affecting the other areas of the project. There will be certain branches which ought to be protected from unintended changes which impair code integrity. This is where branch protection helps.
 
-Branch protection provides functionality that allows a policy based approach to protecting particular branches. Policies such as who can make changes to certain branches, whether push/force push are permitted, merges with/without certain checks are permitted, whether delete operations are permitted and so on should be reviewed and configured based on the requirements of the project. For details regarding configuring protected branches for GitHub, please refer to GitHub's documentation [About protected branches - GitHub Docs](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches).
+Branch protection provides functionality that allows a policy based approach to protecting particular branches. Policies such as who can make changes to certain branches, whether push/force push are permitted, merges with/without certain checks are permitted, whether delete operations are permitted and so on should be reviewed and configured based on the requirements of the project. For details regarding configuring protected branches for GitHub, please refer to GitHub's documentation [GitHub Docs - About protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches).
 
-We recommend that any change to the repository should be introduced as part of a pull request and should go through a review process prior to merging. At least two individuals, of which one should have write access to the branch (preferably maintainers), and both of whom are independent of the request must review and approve the request and then the change is to be merged to the project. For projects with small teams where requiring two reviewers is not feasible, it is sufficient to require only a single reviewer. For projects that have a large codebase, the implementation of Code Owners (e.g. via GitHub CODEOWNERS file) is recommended to automatically request reviews to maintainers that are responsible for specific sub-modules or features. For details regarding pull request reviews for GitHub, please refer to GitHub's documentation [About pull request reviews - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)
+We recommend that any change to the repository should be introduced as part of a pull request and should go through a review process prior to merging. At least two individuals, of which one should have write access to the branch (preferably maintainers), and both of whom are independent of the request must review and approve the request and then the change is to be merged to the project. For projects with small teams where requiring two reviewers is not feasible, it is sufficient to require only a single reviewer. For projects that have a large codebase, the implementation of Code Owners (e.g. via GitHub CODEOWNERS file) is recommended to automatically request reviews to maintainers that are responsible for specific sub-modules or features. For details regarding pull request reviews for GitHub, please refer to GitHub's documentation [GitHub Docs - About pull request reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)
 
 ## 1.3 Managing Contributions
 
 ### Issue template
 
-Any ideas, bugs or enhancement suggestions reported to the project need to be tracked, and can then be discussed, triaged and prioritized/de-prioritized for implementation. GitHub Issues are one such avenue that allows tracking and managing ideas until they are brought to fruition. We recommend the following template for proposing changes to the project [https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE\_TEMPLATE.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md).
+Any ideas, bugs or enhancement suggestions reported to the project need to be tracked, and can then be discussed, triaged and prioritized/de-prioritized for implementation. GitHub Issues are one such avenue that allows tracking and managing ideas until they are brought to fruition. We recommend the following template for proposing changes to the project [CNCF TAG Security Project Resouces - Issue Template](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md).
 
 ### Commit signing
 
@@ -78,15 +78,15 @@ As the security maturity increases, it is a recommended security practice to sto
 
 It is critical to ensure no sensitive information is exposed as part of the source code, the documentation or any configuration in the source code repository. It may sometimes accidentally escape even the vigilant eyes of the contributor and reviewers, hence we recommend automating this activity and implementing secret scanning as part of the continuous integration process in the source code repository.
 
-There are several tools and projects aimed at providing secret scanning services, including but not limited to the ones mentioned in the section "Develop" of the Cloud Native Security Map[[3]]. GitHub also provides its own secret scanning service, you can find more details of this service at [Keeping secrets secure with secret scanning - GitHub Docs](https://docs.github.com/en/code-security/secret-scanning)
+There are several tools and projects aimed at providing secret scanning services, including but not limited to the ones mentioned in the section "Develop" of the Cloud Native Security Map[[3]]. GitHub also provides its own secret scanning service, you can find more details of this service at [GitHub Docs - Keeping secrets secure with secret scanning](https://docs.github.com/en/code-security/secret-scanning)
 
 ### Code scanning (recommended)
 
-Code scanning is an automated security test to identify vulnerabilities and errors in the source code without actually compiling or executing the code. This is a key testing strategy to shift security testing left and we recommend configuring code scanning and utilizing its insights in your projects. There are several tools (both commercial and open source) available to perform the code scanning or an array of languages and technologies. GitHub also provides code scanning functionalities, which can be seen in their documentation - [Automatically scanning your code for vulnerabilities and errors - GitHub Docs](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors).
+Code scanning is an automated security test to identify vulnerabilities and errors in the source code without actually compiling or executing the code. This is a key testing strategy to shift security testing left and we recommend configuring code scanning and utilizing its insights in your projects. There are several tools (both commercial and open source) available to perform the code scanning or an array of languages and technologies. GitHub also provides code scanning functionalities, which can be seen in their documentation - [GitHub Docs - Automatically scanning your code for vulnerabilities and errors](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors).
 
-In addition to scanning your code for identifying vulnerabilities and errors, managing the vulnerabilities dependencies is also important. [Dependabot](https://github.com/dependabot) is one tool that helps in managing vulnerabilities in dependencies by automatically raising a pull request to update vulnerable versions to secure versions of that dependency. These pull requests can be then analyzed, and further action can be taken. Further details of Dependabot and configuring it in your project code repository can be found at [Automatically updating dependencies with known vulnerabilities with Dependabot security updates - GitHub Docs](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates).
+In addition to scanning your code for identifying vulnerabilities and errors, managing the vulnerabilities dependencies is also important. [Dependabot](https://github.com/dependabot) is one tool that helps in managing vulnerabilities in dependencies by automatically raising a pull request to update vulnerable versions to secure versions of that dependency. These pull requests can be then analyzed, and further action can be taken. Further details of Dependabot and configuring it in your project code repository can be found at [GitHub Docs - Automatically updating dependencies with known vulnerabilities with Dependabot security updates](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates).
 
-For further information on securing the code repository, we recommend reviewing the **GitOps section** of the CNCF Cloud Native Security Whitepaper - [tag-security/cloud-native-security-whitepaper.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/cloud-native-security-whitepaper.md#gitopsnew-in-v2) and the **Control Environments** sections of the Software Supply Chain Best Practices paper [tag-security/CNCF\_SSCP\_v1.pdf at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
+For further information on securing the code repository, we recommend reviewing the **GitOps section** of the [CNCF Cloud Native Security Whitepaper](https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/cloud-native-security-whitepaper.md#gitopsnew-in-v2) and the **Control Environments** sections of the [CNCF Software Supply Chain Best Practices paper](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
 
 ## 2. Self-assessment
 
@@ -105,13 +105,13 @@ Self-assessment dives into the following aspects of the project to understand th
 7. Secure development practices
 8. Resolving security issues
 
-A template to perform the self assessment is available at [tag-security/self-assessment.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md). All the assessments (self-assessment and joint assessment) conducted by TAG Security can be found at TAG Security GitHub repository. As an example, self assessments are available within the dedicated project folders at [tag-security/assessments/projects at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/tree/main/assessments/projects). Further sections (Security.md in particular) in this document provide some of the pointers to address the gaps and create the necessary process & documentation.
+A template to perform the self assessment is available at [CNCF TAG Security Project Resouces - Self-assessment](https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md). All the assessments (self-assessment and joint assessment) conducted by TAG Security can be found at TAG Security GitHub repository. As an example, self assessments are available within the dedicated project folders at [Assessments folder of the CNCF TAG Security GitHub repository](https://github.com/cncf/tag-security/tree/main/assessments/projects). Further sections (Security.md in particular) in this document provide some of the pointers to address the gaps and create the necessary process & documentation.
 
 ## 3. SECURITY.md
 
-Awareness and processes are a big part of enforcing security in any project. A SECURITY.md file in your repository should talk about the security considerations of the project, and the efforts undertaken to ensure that there are policies and processes in place to report vulnerabilities to the project maintainers, and for project maintainers to notify the community of the status of the vulnerabilities. It should also list the dedicated personnel responsible to address these vulnerabilities in a timely manner. In GitHub, the SECURITY.md file creates a security policy, and when someone creates an issue in your repository, they will see a link to your project's security policy. Further information regarding security policy is available at [Adding a security policy to your repository - GitHub Docs](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
+Awareness and processes are a big part of enforcing security in any project. A SECURITY.md file in your repository should talk about the security considerations of the project, and the efforts undertaken to ensure that there are policies and processes in place to report vulnerabilities to the project maintainers, and for project maintainers to notify the community of the status of the vulnerabilities. It should also list the dedicated personnel responsible to address these vulnerabilities in a timely manner. In GitHub, the SECURITY.md file creates a security policy, and when someone creates an issue in your repository, they will see a link to your project's security policy. Further information regarding security policy is available at [GitHub Docs - Adding a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
 
-CNCF Technical Advisory Group for Security maintains a number of templates to assist projects in addressing these sections, which can be found at [https://github.com/cncf/tag-security/tree/main/project-resources](https://github.com/cncf/tag-security/tree/main/project-resources). A special thank you to Google's OSS vulnerability guide folks for making the Security TAG aware of this collection of resources upon which much of this content was built on.
+CNCF Technical Advisory Group for Security maintains a number of templates to assist projects in addressing these sections, which can be found at [CNCF TAG Security GitHub repository, under Project Resouces folder](https://github.com/cncf/tag-security/tree/main/project-resources). A special thank you to Google's OSS vulnerability guide folks for making the Security TAG aware of this collection of resources upon which much of this content was built on.
 
 Disclaimer: These resources are designed to be helpful to projects and organizations, they require customization and configuration by the project intending to use them. It does not prevent security issues from being found in a project, will not automatically resolve them, and does not place CNCF Security TAG as the responsible party. If changes are made to these templates, projects are not required to pull in a new update.
 
@@ -121,7 +121,7 @@ This document is an outcome of the self-assessment which articulates all the mea
 
 ## 3.2 Security contacts
 
-This document states who are the personnel to reach out to in case of any security questions regarding the project, including but not limited to the triaging and handling of incoming security issues or security reports. Security contacts could be external participants and are not limited to being the maintainers of the projects. A template for this document is available at [tag-security/SECURITY\_CONTACTS.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
+This document states who are the personnel to reach out to in case of any security questions regarding the project, including but not limited to the triaging and handling of incoming security issues or security reports. Security contacts could be external participants and are not limited to being the maintainers of the projects. A template for this document is available at [CNCF TAG Security Project Resouces - Security Contacts](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
 
 **NOTE**
 
@@ -131,7 +131,7 @@ CNCF could help create a mailing address (through service desk ticket) should pr
 
 Vulnerabilities are sensitive information and exposure of information regarding vulnerabilities without the availability of a patch generates unintended risk for all the consumers of this project, hence it should be handled with caution.
 
-At a minimum, the vulnerability reporting policy projects should include is as follows, A template for this document is available at [Reporting a vulnerability - tag-security/SECURITY.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md#reporting-a-vulnerability):
+At a minimum, the vulnerability reporting policy projects should include is as follows, A template for this document is available at [CNCF TAG Security Project Resouces - Reporting a Vulnerability](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md#reporting-a-vulnerability):
 
 1. The medium to report vulnerabilities - Email, Web form etc.
 2. Disclosure timeline
@@ -140,7 +140,7 @@ At a minimum, the vulnerability reporting policy projects should include is as f
 
 In addition to the vulnerability reporting policy, the defined process or co-ordinate the disclosure in a secure manner is highly recommended. There are several methods to accomplish this including encrypting vulnerability reports with GPG keys among others, and projects could leverage them based on their need.
 
-GitHub provides an easy to use, established platform to coordinate the vulnerability disclosure between the maintainers and the reporter in a private manner. Further information on the coordinated disclosure of security vulnerabilities in Github is available at [About coordinated disclosure of security vulnerabilities - GitHub Docs](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/about-coordinated-disclosure-of-security-vulnerabilities).
+GitHub provides an easy to use, established platform to coordinate the vulnerability disclosure between the maintainers and the reporter in a private manner. Further information on the coordinated disclosure of security vulnerabilities in Github is available at [GitHub Docs - About coordinated disclosure of security vulnerabilities](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/about-coordinated-disclosure-of-security-vulnerabilities).
 
 ## 3.4 Embargo Policy
 
@@ -153,7 +153,7 @@ The vulnerabilities reported to the project are then handled by the security poi
 5. The consequences of any violations
 6. Disclosure timeline
 
-A template for this document is available at [tag-security/embargo-policy.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
+A template for this document is available at [CNCF TAG Security Project Resouces - Embargo Policy](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
 
 ## 3.5 Security notifications
 
@@ -169,7 +169,7 @@ The vulnerabilities may need to be reported to certain stakeholders, and for thi
 8. Timeline of events associated with this notification
 9. Any additional information relevant for this notification
 
-A template for this notification is available at [tag-security/embargo.md at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
+A template for this notification is available at [CNCF TAG Security Project Resouces - Embargo](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
 
 ## 4. Incident Response
 
@@ -189,17 +189,17 @@ Incidence response primarily states how the vulnerability is triaged, replicated
   1. If a CVE is already present, request the CVE
 4. Patch publication and Notification
 
-In addition to the above, you could also consider adding relevant timelines, including but not limited to third party disclosure timelines. A template for the incident management process is available at [https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
+In addition to the above, you could also consider adding relevant timelines, including but not limited to third party disclosure timelines. A template for the incident management process is available at [CNCF TAG Security Project Resouces - Incident Response](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
 
 ## 5. OpenSSF best practices badging
 
-The[Open Source Security Foundation (OpenSSF](https://openssf.org/)[)](https://openssf.org/)Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices[[5]]. This initiative allows projects to voluntarily self-certify, at no cost, by using their web application[[5]] to explain how they follow each best practice. These badges are a great way to showcase the efforts towards securing the project.
+The [Open Source Security Foundation (OpenSSF)](https://openssf.org/) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices[[5]]. This initiative allows projects to voluntarily self-certify, at no cost, by using their web application[[5]] to explain how they follow each best practice. These badges are a great way to showcase the efforts towards securing the project.
 
-The criteria of best practices badging is defined at[Badging Criteria - BadgeApp (coreinfrastructure.org)](https://bestpractices.coreinfrastructure.org/en/criteria/0). We recommend that all projects obtain a best practices badge and that projects determine the desired badging level early in the development cycle and include it in the project milestones, to ensure efforts towards security as accounted for, managed and tracked. As adoption increases and the project becomes more critical, also consider increasing the badging level. As an example of defining this activity, you could consider passing a bronze/silver badging level prior to the "x" release of the project and aim to attain gold badging level within a defined timeframe.
+The criteria of best practices badging is defined at [Badging Criteria - BadgeApp](https://bestpractices.coreinfrastructure.org/en/criteria/0). We recommend that all projects obtain a best practices badge and that projects determine the desired badging level early in the development cycle and include it in the project milestones, to ensure efforts towards security as accounted for, managed and tracked. As adoption increases and the project becomes more critical, also consider increasing the badging level. As an example of defining this activity, you could consider passing a bronze/silver badging level prior to the "x" release of the project and aim to attain gold badging level within a defined timeframe.
 
 ## 6. OpenSSF Security Scorecards
 
-The[OpenSSF Scorecards](https://securityscorecards.dev/) project helps quickly assess your project for risky practices. You can run the tool via the CLI manually or integrate it into your build [via a GitHub Action](https://securityscorecards.dev/#using-the-github-action). There are a variety of checks that are executed by default and the tool is even extensible to allow you to add your own checks. The CNCF highly recommends that projects enable this tool by default and it is integrated into CNCF onboarding tools such as [CLOMonitor](https://clomonitor.io/) or external tools such as deps.dev and more.
+The [OpenSSF Scorecards](https://securityscorecards.dev/) project helps quickly assess your project for risky practices. You can run the tool via the CLI manually or integrate it into your build [via a GitHub Action](https://securityscorecards.dev/#using-the-github-action). There are a variety of checks that are executed by default and the tool is even extensible to allow you to add your own checks. The CNCF highly recommends that projects enable this tool by default and it is integrated into CNCF onboarding tools such as [CLOMonitor](https://clomonitor.io/) or external tools such as deps.dev and more.
 
 ## References
 
