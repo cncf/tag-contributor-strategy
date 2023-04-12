@@ -168,15 +168,18 @@ based on who is currently making project decisions. This group will be
 responsible for running the project, but with a set deadline for how they will
 be replaced by an elected steering committee.
 
-**Question: do we have a good example of this that I can link to? I'm failing to
-find the original one from k8s**
+For example, Kubernetes started with a [Bootstrap Governance Committee](https://www.cncf.io/blog/2017/10/16/kubernetes-community-steering-committee-election-results/)
 
 ### Decision Process
 
-We recommend using consensus as the primary decision-making method, but you will
+We recommend using [Lazy Consensus] as the primary decision-making method, but you will
 also need to determine the list of things that requires a vote, such as issuing
 or amending policies, spending, etc. This section will also specify how you
 determine quorum for voting with recommended language found in the template.
+
+You will need to also come up with a process for documenting these decisions
+and have a consistent place where the community can get more information about
+past decisions that were made.
 
 ### Getting in touch
 
@@ -200,8 +203,8 @@ transition period, but plan to have staggered 2-year terms, we recommend that fo
 the first year of the Steering Committee half of the seats should be elected for a
 1-year term, and the other half should be elected for a 2-year term.
 
-While not recommended you can elect-everyone-at-once and have all of the members
-elected at the same time to serve for a specified term.
+While not recommended, an alternative to staggered terms is that you can 
+have all of the members elected at the same time to serve for a specified term.
 
 ### Election Procedure
 
@@ -225,9 +228,10 @@ approver in one or more OWNERS files, or similar.
 **Voting Procedure**
 
 For most elections, we recommend using 
-[Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) ranking on
-[CIVS](http://civs.cs.cornell.edu/) using the IRV method as specified in the
-template.
+[Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) ranking 
+using the IRV method as specified in the template. [Elekto](https://elekto.dev/),
+[OpaVote](https://www.opavote.com/), and [Helios](https://vote.heliosvoting.org/)
+are all options for running an election.
 
 **Limitations on Company Representation**
 
@@ -262,10 +266,10 @@ needs. Recommended text can be found in the template.
 [project-template repository]: https://github.com/cncf/project-template
 [Kubernetes governance]: https://github.com/kubernetes/community/blob/master/governance.md
 [Knative governance]: https://github.com/knative/community/blob/main/GOVERNANCE.md
-[Maintainer Council]: https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md
+[Maintainer Council]: https://contribute.cncf.io/maintainers/templates/governance-maintainer/
 [TAG Contributor Strategy]: https://github.com/cncf/tag-contributor-strategy
 [Contributor Ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
 [Code of Conduct]: https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md
 [security practices]: https://github.com/cncf/tag-security/tree/main/project-resources
 [Lazy Consensus]: https://community.apache.org/committers/lazyConsensus.html
-[Charter]: [/maintainers/governance/charter/]
+[Charters]: [/maintainers/governance/charter/]
