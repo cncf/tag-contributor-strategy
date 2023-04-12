@@ -924,6 +924,28 @@
         "language": "Go"
     },
     {
+        "name": "Keycloak",
+        "path": "Key Management",
+        "description": "Open Source Identity and Access Management For Modern Applications and Services",
+        "homepage_url": "https://www.keycloak.org",
+        "project": "incubating",
+        "repo_url": "https://github.com/keycloak/keycloak",
+        "logo": "logos/keycloak.svg",
+        "twitter": "https://twitter.com/keycloak",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2023-04-10",
+        "dev_stats_url": "https://keycloak.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/tree/master/projects/keycloak",
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Java"
+    },
+    {
         "name": "Knative",
         "path": "Installable Platform",
         "description": "Knative is a developer-focused serverless application layer which is a great complement to the existing Kubernetes application constructs. Knative consists of three components: an HTTP-triggered autoscaling container runtime called \u201cKnative Serving\u201d, a CloudEvents-over-HTTP asynchronous routing layer called \u201cKnative Eventing\u201d, and a developer-focused function framework which leverages the Serving and Eventing components, called \"Knative Functions\".",
@@ -2376,13 +2398,13 @@
         "language": "Go"
     },
     {
-        "name": "Metal3-io",
+        "name": "Metal\u00b3",
         "path": "Automation & Configuration",
-        "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+        "description": "Bare metal host provisioning integration for Kubernetes",
         "homepage_url": "https://metal3.io/",
         "project": "sandbox",
-        "repo_url": null,
-        "logo": "logos/metal3-io.svg",
+        "repo_url": "https://github.com/metal3-io/baremetal-operator",
+        "logo": "logos/metal.svg",
         "twitter": "https://twitter.com/metal3_io",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
@@ -2395,7 +2417,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/CHD49TLE7",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC_xneeYbo-Dl4g-U78xW15g/videos",
-        "language": null
+        "language": "Go"
     },
     {
         "name": "Network Service Mesh",
