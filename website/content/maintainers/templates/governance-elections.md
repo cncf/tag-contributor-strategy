@@ -183,7 +183,7 @@ posting in a Steering Committee Slack channel.
 
 ### Composition
 
-This section requires some extra work and addition thought put into how you plan
+This section requires some extra work and additional thought put into how you plan
 to handle election terms and replacing Steering Committee members whose terms
 are up for election.
 
