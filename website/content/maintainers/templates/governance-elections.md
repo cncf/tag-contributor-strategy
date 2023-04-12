@@ -58,7 +58,7 @@ An election-based steering committee governance model is for you if your project
 1) Is organized into distinct groups, like SIGs / WGs, that might have competing 
 priorities
 2) Wants to enforce employer representation limits for leadership
-3) Has a large number of maintainers (20+) who cannot easily govern themselves
+3) Has a large number of maintainers (20+) who cannot easily attend the same meetings or make rapid decisions
 
 If you don’t yet meet these conditions, we recommend that you start with a
 simpler governance template, like the [Maintainer Council] template, and move
@@ -109,7 +109,11 @@ guidance about eligibility requirements. It is possible to implement this withou
 
 **Project**: Your entire CNCF project, rather than individual repositories or subprojects.
 
-**Steering Committee**: The overall governing body for your project.
+**Steering Committee**: The overall governing body for your project, and the list of maintainers by CNCF definition.
+
+**Maintainers**:  the actual approvers/technical leadership of the project, which might be different from the membership of the Steering Committee. 
+
+**CNCF Maintainers**: the list of "maintainers" per CNCF rules, as in people who are allowed to make decisions for the project that the CNCF will carry out.  In a Steering Committee project, this is the Steering Committee instead of the list of approvers.
 
 ## Template Details
 
@@ -201,7 +205,7 @@ elected at the same time to serve for a specified term.
 
 ### Election Procedure
 
-Note: CNCF will soon have a better, GitOps-driven, online election tool
+Note: CNCF may soon have a better, GitOps-driven, online election tool
 available.  At that time, projects will want to revise portions of this
 procedure.
 
