@@ -105,7 +105,7 @@ Self-assessment dives into the following aspects of the project to understand th
 7. Secure development practices
 8. Resolving security issues
 
-A template to perform the self assessment is available at [CNCF TAG Security Project Resouces - Self-assessment](https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md). All the assessments (self-assessment and joint assessment) conducted by TAG Security can be found at TAG Security GitHub repository. As an example, self assessments are available within the dedicated project folders at [Assessments folder of the CNCF TAG Security GitHub repository](https://github.com/cncf/tag-security/tree/main/assessments/projects). Further sections (Security.md in particular) in this document provide some of the pointers to address the gaps and create the necessary process & documentation.
+A template to perform the self assessment is available at [CNCF TAG Security Project Resouces - Self-assessment](https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md). All the assessments (self-assessment and joint assessment) conducted by TAG Security can be found at TAG Security GitHub repository. As an example, self assessments are available within the dedicated project folders at [Assessments folder of the CNCF TAG Security GitHub repository](https://github.com/cncf/tag-security/tree/main/assessments/projects). Further sections (SECURITY.md in particular) in this document provide some of the pointers to address the gaps and create the necessary process & documentation.
 
 ## 3. SECURITY.md
 
