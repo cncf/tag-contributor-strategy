@@ -14,7 +14,12 @@ one.
 The only contract of the members of each circle is to abide by the CNCF Code of 
 Conduct, be kind, open as you'd like, and committed to hearing others out. 
 Everyone will have a chance to participate in whatever activity is set forth in 
-that meeting. 
+that meeting.
+
+Facilitators:
+
+- Dave Sudia ([@thedevelopnik](https://github.com/thedevelopnik)), Ambassador Labs
+- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 
 ## Goals:
 Bring CNCF project maintainer* together to:
@@ -53,24 +58,44 @@ In-person at KubeCon
 Meetings are scheduled ad-hoc when we have a topic and speaker.
 Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing list</a> or our #maintainers-circle channel in the CNCF Slack to be notified of the next event.
 
-## What 
+## What
 
-### February 13th, 2023 @ 8:00am PT / 4:00pm GMT / [Your timezone here](https://time.is/compare/800AM_13_Feb_2023_in_PT)
+### End User Relationship
 
-Non-Code Contributors in the Project Ladder and as Maintainers with Kim McMahon
+**Live session at KubeCon EU 2023 Amsterdam**
 
-Bio: Kim McMahon is well-known in the cloud native ecosystem for leading the open source marketing and community activities at organizations such as Dell, Oracle, Kyverno / Nirmata, CNCF, and now Cisco. Community building, breaking down barriers, and uniting are Kim’s drivers. In her free time, Kim enjoys downhill skiing, hiking, cooking, and training her Chocolate Labrador puppy.
+* Wednesday April 19th, 2023
+* 11:00am CEST
+* Room D203
 
-**Registration** is an emoji reaction to the invite on the future thread in 
-#maintainer-circle   
+How can OSS maintainers and end users achieve a healthy, symbiotic relationship? with OpenTelemetry Maintainers
 
-**Notes:** https://docs.google.com/document/d/1OlRxoSWXDA4emDK_U1ff6djMgXeR8yJahrWC7RRzD7o/edit?usp=sharing
+Bio: The maintainers of OpenTelemetry’s End User Working Group (soon to be SIG) are Reese Lee (New Relic), Rynn Mancuso (Honeycomb), and
+Adriana Villela (Lightstep).  Austin Parker (Lightstep) is the OpenTelemetry community manager.  Together these four have spent a year
+building a vibrant end user community that currently has five events a month and regularly gives feedback to the contributor community.
 
-**First half**   
-It is not questioned that non-code contributions to an open source project are important. But did you know that the CNCF does not have a clear project ladder for non-code contributors to get to maintainer status and only one CNCF project has a two-pronged approach to reaching maintainer status? In this Maintainer’s Circle talk, we will share with you the project within the TAG Contributor Strategy, the proposed solution, the roll-out plan, and seek your feedback on the gaps and misses you see in the plan.
+**Registration** is an emoji reaction to the invite on the thread in #maintainers-circle or email to [Dave Sudia](mailto:dsudia@datawire.io)
 
-**Breakout**   
-What challenges have you faced with non-code contributors and growing that community and contributions? How could your project use this ladder to improve your practices? Do you have feedback on the ladder and how it can improve?
+**First half**
+Maintainers of open source software projects often face a wide range of challenges, some of which can be solved–-and are also created–-by its end users. For instance,
+maintainers need to balance user needs with technical debt, overcome communication barriers, and deal with limited resources while working on a project that they may
+or may not be compensated for. Ultimately, the biggest challenge is increasing and maintaining adoption and usage -- after all, what is the point of software that isn’t
+being used?
+
+While some end users are excited about new technologies, others have a long journey to implementation, and being in community with maintainers can help them develop the
+confidence and curiosity about the tool that many maintainers have. Being in community with end users helps maintainers design better for the experience of folks who are
+learning the software, as well as gain an understanding from more advanced users of how tools perform in the context of complex systems.
+
+In this Maintainer’s Circle, let’s talk about the challenges you are facing in working with end users as an OSS project maintainer, how you’ve dealt with them, and how we
+can build a sustainable framework for cultivating end user engagement that can be used across projects.  We’ll do a brief presentation on the challenges OpenTelemetry was
+experiencing, how we addressed them, and how we built community for end users.
+
+**Breakout**
+
+* Where do your current contributors come from?
+* What incentives keep them contributing?
+* Who might be interested in your product who doesn’t have any reason to contribute?
+* What would it take to get them involved?
 
 ### March 11th @ 10:30am PT / 6:30pm GMT / [Your timezone here](https://time.is/compare/1030AM_11_Mar_2021_in_PT)
 

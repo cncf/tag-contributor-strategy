@@ -45,6 +45,11 @@ Go to [the CNCF calendar](https://tockify.com/cncf.public.events/monthly?search=
 
 Discussion happens on the [contributor strategy mailing list](https://lists.cncf.io/g/cncf-tag-contributor-strategy) or on #tag-contributor-strategy on [CNCF slack](https://slack.cncf.io/).
 
+Facilitators:
+
+- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
+- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
+
 ## Directory
 
 Currently we have the following content in this working group:
