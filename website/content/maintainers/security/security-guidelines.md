@@ -52,7 +52,7 @@ However, for certain non-code intensive projects which specifically require acco
 
 ### Two Factor Authentication/Multi-factor Authentication
 
-Introducing an additional factor such as "something you have" or "somewhere you are" in the authentication process proves to be of higher effectiveness than relying on one factor "something you know" such as passwords, hence we urge configuring two factor or multi-factor authentication for your accounts, especially for any privileged accounts. For details regarding configuring a 2FA for GitHub, please refer to GitHub's documentation [GitHub Docs - Securing your account with two-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
+Introducing an additional factor such as "something you have" or "somewhere you are" in the authentication process proves to be of higher effectiveness than relying on one factor "something you know" such as passwords. It is required to configure two factor or multi-factor authentication for your accounts, especially for any privileged accounts. For details regarding configuring a 2FA for GitHub, please refer to GitHub's documentation [GitHub Docs - Securing your account with two-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
 
 ## 1.2 Branch protection
 
