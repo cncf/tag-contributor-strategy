@@ -2,13 +2,14 @@
 
 <img src="website/static/images/tag-contributor-strategy-icon-color.png" alt="a line drawing of a busy bee" align=right width="150px">
 
-TAG Contributor Strategy is responsible for contributor experience,
-sustainability, governance, and openness guidance to help CNCF community groups
+Contributor Strategy is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups
 and projects with their own contributor strategies for a healthy project.
 
 If you are looking for how-to resources produced by the TAG, please visit
 [contribute.cncf.io](https://contribute.cncf.io/) or have a look at the
 contributor, goverance, and related [templates](https://github.com/cncf/project-template).
+
+For people new to this space, you can learn more about the purpose, objectives, and responsibilities of [CNCF TAGs](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md).
 
 The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
@@ -23,9 +24,9 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
 - [Working Groups and Teams](#working-groups-and-teams)
   - [Governance WG](#governance-wg)
   - [Contributor Growth WG](#contributor-growth-wg)
+  - [Mentoring WG](#mentoring-wg)
   - [Maintainer's Circle](#maintainers-circle)
   - [Inclusiveness Team](#inclusiveness-team)
-  - [Mentoring WG](#mentoring-wg)
   - [Community Infrastructure Team](#community-infrastructure-team)
 
 ## Meetings
@@ -40,25 +41,7 @@ get it from a [past message here](https://lists.cncf.io/g/cncf-tag-contributor-s
 - All meetings are recorded and can be accessed on the [CNCF TAG Contributor Strategy](https://www.youtube.com/channel/UCCqKWkTM2pkmLwXaj-7AvcA) Youtube channel.
 - Meeting Link: [zoom.us/my/cncftagcontributorstrategy](https://zoom.us/my/cncftagcontributorstrategy)
   - Meeting ID: **574 406 1161**
-  - One tap mobile:
-    - +16465588656,,5744061161# US (New York)
-    - +13126266799,,5744061161# US (Chicago)
-  - Dial by your location ([find your local number](https://zoom.us/u/adDLtxsAN9)):
-    - +1 646 558 8656 US (New York)
-    - +1 312 626 6799 US (Chicago)
-    - +1 669 900 6833 US (San Jose)
-    - +1 253 215 8782 US
-    - +1 301 715 8592 US
-    - +1 346 248 7799 US (Houston)
-    - 877 369 0926 US Toll-free
-    - 855 880 1246 US Toll-free
-    - +1 778 907 2071 Canada
-    - +1 438 809 7799 Canada
-    - +1 587 328 1099 Canada
-    - +1 647 374 4685 Canada
-    - +1 647 558 0588 Canada
-    - 855 703 8985 Canada Toll-free
-
+ 
 ## Communicating with Us
 
 Anyone is welcome to join our open discussions of TAG Contributor Strategy
@@ -107,58 +90,28 @@ channels:
 
 ## Working Groups And Teams
 
+TAG Contributor Strategy has working groups and teams to effectively collaborate and coordinate efforts towards achieving common goals and objectives, as well as to distribute tasks and responsibilities among its members for efficient execution. This approach allows for a more streamlined and organized approach to managing complex projects within the CNCF ecosystem.
+
 ### Governance WG
 
 [Charter](/governance/README.md)
-
-Facilitators:
-
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
 
 ### Contributor Growth WG
 
 [Charter](/contributor-growth/README.md)
 
-Facilitators:
-
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
-
-### Maintainer's Circle
-
-Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/1)
-
-Facilitators:
-
-- Dave Sudia ([@thedevelopnik](https://github.com/thedevelopnik)), Ambassador Labs
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-
-### Inclusiveness Team
-
-Facilitators:
-
-- Melania De Angelis ([@melaniadeangelis](https://github.com/melaniadeangelis)), SIGHUP
-- Sara Trapetti ([@SaraTrap](https://github.com/SaraTrap)), SIGHUP
-- Jade Applegate ([@jadeapplegate](https://github.com/jadeapplegate)), Indeed
-
 ### Mentoring WG
 
 [Charter](/mentoring/README.md)
 
-Facilitators:
+### Maintainer's Circle
 
-- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
-- Jay Tihema ([@jaytiaki](https://github.com/jaytiaki)), ii
-- Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
+[Charter](/maintainers-circle/README.md)
 
-### Community Infrastructure Team
 
-Facilitators:
+### Inclusiveness Team
 
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
-- Hippie Hacker ([@hh](https://github.com/hh)), ii
+Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
 ### Original Bootstrap TAG members
 
