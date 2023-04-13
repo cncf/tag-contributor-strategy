@@ -60,9 +60,13 @@ Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing
 
 ## What
 
-### Wednesday April 19th, 2023 @ 11:00am CEST / 9:00am GMT / [Your timezone here](https://time.is/compare/1100AM_19_Apr_2023_in_CEST)
+### End User Relationship
 
 **Live session at KubeCon EU 2023 Amsterdam**
+
+* Wednesday April 19th, 2023
+* 11:00am CEST
+* Room D203
 
 How can OSS maintainers and end users achieve a healthy, symbiotic relationship? with OpenTelemetry Maintainers
 
@@ -70,8 +74,7 @@ Bio: The maintainers of OpenTelemetry’s End User Working Group (soon to be SIG
 Adriana Villela (Lightstep).  Austin Parker (Lightstep) is the OpenTelemetry community manager.  Together these four have spent a year
 building a vibrant end user community that currently has five events a month and regularly gives feedback to the contributor community.
 
-**Registration** is an emoji reaction to the invite on the thread in
-#maintainers-circle
+**Registration** is an emoji reaction to the invite on the thread in #maintainers-circle or email to [Dave Sudia](mailto:dsudia@datawire.io)
 
 **First half**
 Maintainers of open source software projects often face a wide range of challenges, some of which can be solved–-and are also created–-by its end users. For instance,
