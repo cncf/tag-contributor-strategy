@@ -41,12 +41,16 @@ When you finish editing the template, remove the Instruction links that explain 
 # Steering Committee Election Governance
 
 This model of governance is only appropriate for very large open source projects
-with a complex structure often made up of multiple Special Interest Groups (SIGs)
-and / or Working Groups (WGs) where a steering committee or similar elected body
-is required to make project-wide decisions that span across multiple SIGs / WGs
-or to make decisions when multiple groups are in disagreement. It may also be
-used as a way to enforce employer representation limits to ensure that a project
-has leadership representation from a variety or organizations.
+with a complex structure often made up of multiple Special Interest Groups
+(SIGs), Working Groups (WGs), subprojects, or multiple repos where a steering
+committee or similar elected body is required to make project-wide decisions
+that span across multiple groups or to make decisions when multiple groups are
+in disagreement. In particular, some projects may also benefit from a steering
+committee to bring cohesion in the project's direction, structure, and
+governance across all groups, particularly in areas that are
+prone to inconsistencies (e.g., software development practices, testing). It may
+also be used as a way to enforce employer representation limits to ensure that a
+project has leadership representation from a variety or organizations.
 
 This model was based mostly on a simplified verion of the [Kubernetes governance]
 and another example of this model is the [Knative governance].
@@ -55,8 +59,8 @@ and another example of this model is the [Knative governance].
 
 An election-based steering committee governance model is for you if your project:
 
-1) Is organized into distinct groups, like SIGs / WGs, that might have competing 
-priorities
+1) Is organized into distinct groups, like SIGs, WGs, subprojects or multiple repos
+that might have competing priorities
 2) Wants to enforce employer representation limits for leadership
 3) Has a large number of maintainers (20+) who cannot easily attend the same meetings or make rapid decisions
 
@@ -67,9 +71,8 @@ complicated governance structure before you need it creates overhead and extra
 work for project members and maintainers whose time is often better spent on
 project development, rather than governance.
 
-Before deciding to implement this governance model for a CNCF project, please 
-reach out to [TAG Contributor Strategy] so that we can discuss how you might
-implement this for your CNCF project.
+We strongly recommend that you reach out to [TAG Contributor Strategy] with questions,
+assistance, or reviews before you implement this governance structure.
 
 ## Requirements
 
@@ -95,8 +98,8 @@ on exactly how your project plans to operate:
 ### What Do I Need to Customize?
 
 All sections of this template will likely need to be customized, so we recommend 
-that you reach out to [TAG Contributor Strategy] with questions about how to 
-customize it for your CNCF project.
+that you review the [Knative Steering Committee](https://github.com/knative/community/blob/main/STEERING-COMMITTEE.md)
+as an example of how to customize this template.
 
 ### What Else Is Required?
 
@@ -241,9 +244,10 @@ We recommend placing limits on company representation, which ensures a more fair
 and neutral decision-making body that isn't over-represented by a single vendor.
 Exactly where you set those limits depends on your current community
 composition, the number of seats on your Steering Committee, overall employer
-representation within your community, and other factors. We strongly recommend
-discussing this with [TAG Contributor Strategy] before deciding how you plan to
-limit company representation.
+representation within your community, and other factors. A reasonable guideline
+is that no company should have representation of more than 1/3 of the committee
+for steering committees with 7+ members or no more than 2 members for smaller
+committees.
 
 ## Vacancies
 
