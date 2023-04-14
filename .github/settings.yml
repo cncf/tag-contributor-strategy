@@ -75,15 +75,12 @@ collaborators:
     permission: push
 
   # Current TOC liaisons
-  - username: mattfarina
+  - username: TheFoxAtWork
     permission: push
   
-  - username: kgamanji
+  - username: dzolotusky
     permission: push
 
-  - username: cathyhongzhang
-    permission: push
-  
   # burnout forum and inclusiveness leads
   - username: juliasimon
     permission: push
