@@ -1197,7 +1197,7 @@
         "logo": "logos/open-telemetry.svg",
         "twitter": "https://twitter.com/opentelemetry",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
-        "chat_channel": null,
+        "chat_channel": "#opentelemetry",
         "accepted": "2019-05-07",
         "dev_stats_url": "https://opentelemetry.devstats.cncf.io/",
         "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#opentelemetry-logos",
