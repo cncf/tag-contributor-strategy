@@ -111,9 +111,9 @@ guidance about eligibility requirements. It is possible to implement this withou
 
 **Steering Committee**: The overall governing body for your project, and the list of maintainers by CNCF definition.
 
-**Maintainers**:  the actual approvers/technical leadership of the project, which might be different from the membership of the Steering Committee. 
+**Maintainers**:  The actual approvers/technical leadership of the project, which might be different from the membership of the Steering Committee. 
 
-**CNCF Maintainers**: the list of "maintainers" per CNCF rules, as in people who are allowed to make decisions for the project that the CNCF will carry out.  In a Steering Committee project, this is the Steering Committee instead of the list of approvers.
+**CNCF Maintainers**: The list of "maintainers" per CNCF rules, as in people who are allowed to make decisions for the project that the CNCF will carry out.  In a Steering Committee project, this is the Steering Committee instead of the list of approvers.
 
 ## Template Details
 
@@ -204,7 +204,9 @@ the first year of the Steering Committee half of the seats should be elected for
 1-year term, and the other half should be elected for a 2-year term.
 
 While not recommended, an alternative to staggered terms is that you can 
-have all of the members elected at the same time to serve for a specified term.
+have all of the members elected at the same time to serve for a specified term. 
+This can introduce hardship on the newly elected members attempting to pick-up
+where the previous Committee left off if there is no formal overlap or handoff.
 
 ### Election Procedure
 
