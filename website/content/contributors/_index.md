@@ -87,6 +87,3 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 | ------------------------------------------------------------ | ------------------------- | ------------------ |
 |    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
 
-## Archived Projects
-
-{{< projects level="archived" >}}
