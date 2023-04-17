@@ -48,13 +48,11 @@ If you're interested in contributing to a TAG or a WG, be sure to check out thei
 
 Remember, group meetings are open to everyone, with no strings attached. You're welcome to join in on the discussions or simply observe the group activities.
 
-### Meetups
+### Community Groups
 
-The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups. They are listed on [meetup.com](https://www.meetup.com/pro/cncf/) website.
+The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native Community Groups (CNCGs). They are listed on [community.cncf.io](https://community.cncf.io/) website. CNCF is currently working on expanding the Cloud Native community worldwide, and we are happy to accept any new local communities to join our network.
 
-CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new meetup communities to join our network, and become one of the official CNCF meetups.
-
-Are you passionate about Cloud Native technologies and interested in starting a meetup in your area? Look no further than the CNCF Meetups program! Check out the [Meetups repository](https://github.com/cncf/meetups) for more information about the program, including best practices for running successful CNCF Meetups.
+Are you passionate about Cloud Native technologies and interested in starting a community group in your area? Look no further than the CNCF Meetups program! Check out the [CNCF Community Groups repository](https://github.com/cncf/communitygroups) for more information about the program, including best practices for running successful CNCF Community Groups.
 
 ### Ambassadors
 
