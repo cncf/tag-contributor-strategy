@@ -40,6 +40,16 @@ Mentoring Working Group is a group of people who focus on mentorship initiatives
 
 {{% blocks/section color="white" %}}
 
+<div>
+
+You may read our charter [here](https://github.com/cncf/tag-contributor-strategy/blob/main/mentoring/README.md).
+
+</div>
+
+{{% /blocks/section %}}
+
+{{% blocks/section color="white" %}}
+
 ## Mentoring Programs
 
 <div>
