@@ -27,6 +27,8 @@ Mentoring Working Group is a group of people who focus on mentorship initiatives
 
 ## Goals
 
+<div class="text-left">
+
 * Increase CNCF project participation in mentoring programs external to the Linux Foundation
 * Increase the number of CNCF projects and mentee participation in the LFX Mentorship program
 * Increase the quality of mentorship that CNCF projects provide across all mentorship initiatives
@@ -34,6 +36,8 @@ Mentoring Working Group is a group of people who focus on mentorship initiatives
 * Diversity in participants, both mentees and mentors
 * Increase both code and non-code projects
 * Develop mentorship by providing a path for mentees to become mentors and providing education for mentors
+
+</div>
 
 {{% /blocks/section %}}
 
@@ -44,7 +48,7 @@ Mentoring Working Group is a group of people who focus on mentorship initiatives
 
 ## Mentoring Programs
 
-<div>
+<div class="text-left">
 Mentoring WG manages the following mentorship initiatives:
 
 * [LFX Mentorship (ex-CommunityBridge)](https://mentorship.lfx.linuxfoundation.org): mentoring initiative by the Linux Foundation - [details](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship#readme)
@@ -62,6 +66,8 @@ Mentoring WG manages the following mentorship initiatives:
 
 ## How your community can benefit
 
+<div class="text-left">
+
 Here are some benefits that the Mentoring working group can provide to communities:
 
 * Do the necessary paper work and applications to mentoring programs on behalf of CNCF projects
@@ -71,6 +77,8 @@ Here are some benefits that the Mentoring working group can provide to communiti
 
 You may find links to resources in our [repository](https://github.com/cncf/tag-contributor-strategy/blob/main/mentoring/README.md).
 
+</div>
+
 {{% /blocks/section %}}
 </div>
 
@@ -79,12 +87,16 @@ You may find links to resources in our [repository](https://github.com/cncf/tag-
 
 ## How you can contribute
 
+<div class="text-left">
+
 We are happy to see that you are interested in helping with this working group. We would love to:
 
 * see you as mentors in the mentoring programs we participate in and organize.
 * get feedback about out guides and documentation.
 * see your introduction email on our mailing list / message on our Slack channel.
 * see you attend our meetings where you can contribute ideas and take responsibilities.
+
+</div>
 
 {{% /blocks/section %}}
 </div>
