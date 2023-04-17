@@ -1,5 +1,5 @@
 ---
-title: Contribution Guides to the CNCF Ecosystem
+title: Contribute to the CNCF Ecosystem
 linkTitle: "Contributors"
 menu:
   main:
@@ -10,22 +10,51 @@ Welcome! Are you interested in contributing to one of CNCF hosted projects? This
 
 CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities.
 
+Though, contributing to the CNCF ecosystem is not just about coding. There are many other ways to contribute to the CNCF ecosystem, including writing documentation, creating tutorials, bringing ideas to meetings, organizing meetups, and more.
 
-## TOC
+## Open Source Beginners
 
-The CNCF TOC is the technical governing body of the CNCF Foundation. The detailed information on CNCF TOC, including its duties and responsibilities, together with the information on collaboration is listed on [CNCF TOC repo](https://github.com/cncf/toc/).
+Are you new to open source? If so, we recommend checking out our comprehensive guide, ["Start Contributing to Open Source"](getting-started.md). This guide is filled with helpful tips and tricks to help you get started with contributing to open source projects. You'll learn about communities and projects, how to find them, how to conform to community standards, and much more.
 
-## Technical Advisory Groups
+## Contribution Opportunities
 
-CNCF TAGs oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
+### Mentorship Programs
 
-_Note: CNCF TAGs were previously named Special Interest Groups (SIGs). Renaming SIGs was discussed in [this GitHub Issue](https://github.com/cncf/toc/issues/549)._
+The Cloud Native Computing Foundation participates in various mentoring programs, including:
 
-## Working Groups
+- [LFX Mentorship](https://github.com/cncf/mentoring/tree/master/lfx-mentorship) (previously known as Community Bridge) by the Linux Foundation
+- [Google Summer of Code](https://github.com/cncf/mentoring/tree/master/summerofcode) (GSoC)
+- [Google Season of Docs](https://github.com/cncf/mentoring/tree/master/seasonofdocs) (GSoD)
+- [Outreachy](https://github.com/cncf/mentoring/tree/master/outreachy)
+
+If you are interested in participating in one of the programs, please check out the [CNCF mentoring repository](https://github.com/cncf/mentoring) for more details.
+
+### Project Opportunities
+
+The CNCF projects are always looking for new contributors. If you're interested in contributing to a CNCF project, check out the following:
+
+- [CNCF Landscape](https://landscape.cncf.io/) - a map of all CNCF projects, along with their maturity level and their category
+- [CLOTributor](https://clotributor.dev/) - a tool that helps you find beginner-friendly tasks in CNCF projects
+- [Projects section below](#projects) - a list of all CNCF projects, with their primary language and brief information on contributing to them
+
+
+### Groups
+
+CNCF Technical Advisory Groups (TAG's) oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
 
 Working groups (WG's) are the community-driven groups with the goal of continuous collaboration in the specific areas. CNCF WG's are created and curated by the CNCF TOC and driven by the community members. CNCF TOC repo provides more [details](https://github.com/cncf/toc/tree/master/workinggroups#cncf-working-groups) on the purpose and goals of WG's, together with the [list of them](https://github.com/cncf/toc/blob/master/README.md#working-groups).
 
-## Community Engagement
+If you're interested in contributing to a TAG or a WG, be sure to check out their respective repositories for more information.
+
+Remember, group meetings are open to everyone, with no strings attached. You're welcome to join in on the discussions or simply observe the group activities.
+
+### Meetups
+
+The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups. They are listed on [meetup.com](https://www.meetup.com/pro/cncf/) website.
+
+CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new meetup communities to join our network, and become one of the official CNCF meetups.
+
+Are you passionate about Cloud Native technologies and interested in starting a meetup in your area? Look no further than the CNCF Meetups program! Check out the [Meetups repository](https://github.com/cncf/meetups) for more information about the program, including best practices for running successful CNCF Meetups.
 
 ### Ambassadors
 
@@ -34,23 +63,6 @@ Working groups (WG's) are the community-driven groups with the goal of continuou
 Successful ambassadors are people such as bloggers, influencers, evangelists who are already engaged with a CNCF project in some way including contributing to forums, online groups, community events, etc.
 
 Details on the Ambassadors program, and information on how to join CNCF as an Ambassador is available [here](https://github.com/cncf/ambassadors).
-
-### Meetups
-
-The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups. They are listed on [meetup.com](https://www.meetup.com/pro/cncf/) website.
-
-CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new meetup communities to join our network, and become one of the official CNCF meetups.
-
-Details on the Meetups program, together with the best practices on running CNCF Meetups is available [here](https://github.com/cncf/meetups).
-
-### Mentorship Programs
-
-The Cloud Native Computing Foundation participates in various mentoring programs, including:
-
-- [LFX Mentorship](https://github.com/cncf/mentoring/tree/master/lfx-mentorship) (previously known as Community Bridge) by the Linux Foundation;
-- [Google Summer of Code](https://github.com/cncf/mentoring/tree/master/summerofcode) (GSoC);
-- [Google Season of Docs](https://github.com/cncf/mentoring/tree/master/seasonofdocs) (GSoD);
-- [Outreachy](https://github.com/cncf/mentoring/tree/master/outreachy)
 
 ## Projects
 
@@ -78,8 +90,3 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 ## Archived Projects
 
 {{< projects level="archived" >}}
-
-
-CNCF is a great place to spend a time learning, coding, participating and contributing. We are an exciting open source foundation with a vibrant community of projects, and we look forward to your application and your project ideas!
-
-CNCF and SoC information is available [here](https://github.com/cncf/soc/blob/master/README.md).
