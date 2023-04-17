@@ -29,9 +29,13 @@ We aim to provide best practices and resources for managing and interacting with
 
 ## Goals
 
+<div class="text-left">
+
 * Create, share, and maintain documentation on implementing good open source governance for CNCF projects.
 * Coach and advise CNCF projects, and prospective projects, leaders in implementing and improving governance.
 * Advise the CNCF TOC on updating governance criteria for acceptance and graduation.
+
+</div>
 
 {{% /blocks/section %}}
 
@@ -42,9 +46,13 @@ We aim to provide best practices and resources for managing and interacting with
 
 ## How your community can benefit
 
+<div class="text-left">
+
 * Have a look at our [Governance Guide](/maintainers/governance/) to see best practices, get advice and have inspiration while setting up or improving your project and community governance
 * Copy and modify one of our codified [Governance Templates](http://localhost:1313/maintainers/templates/governance-intro/) depending on your community and project
 * Get assistance by reach out to us to any governance related issues
+
+</div>
 
 {{% /blocks/section %}}
 </div>
@@ -54,11 +62,15 @@ We aim to provide best practices and resources for managing and interacting with
 
 ## How you can contribute
 
+<div class="text-left">
+
 We are happy to see that you are interested in helping with this working group. We would love to:
 
 * get feedback about out guides and templates.
 * see your introduction email on our mailing list / message on our Slack channel.
 * see you attend our meetings where you can contribute ideas and take responsibilities.
+
+</div>
 
 {{% /blocks/section %}}
 </div>
@@ -96,10 +108,8 @@ Reach out for any immediate matters at [#tag-contributor-strategy](https://cloud
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-info" title="Find out more"
-url="https://github.com/cncf/tag-contributor-strategy/blob/main/governance/README.md" url_text="Charter Document"
-%}}
-More resources are available on our Charter document, [Governance Guide](/maintainers/governance/) and [Governance Templates](/maintainers/templates/governance-intro/).
+{{% blocks/feature icon="fas fa-info" title="Find out more" %}}
+More resources are available on our [Charter Document](https://github.com/cncf/tag-contributor-strategy/blob/main/governance/README.md), [Governance Guide](/maintainers/governance/) and [Governance Templates](/maintainers/templates/governance-intro/).
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
