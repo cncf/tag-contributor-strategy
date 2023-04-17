@@ -38,7 +38,7 @@ The CNCF projects are always looking for new contributors. If you're interested 
 - [Projects section below](#projects) - a list of all CNCF projects, with their primary language and brief information on contributing to them
 
 
-### Groups
+### TAGs and WG's
 
 CNCF Technical Advisory Groups (TAG's) oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
 
