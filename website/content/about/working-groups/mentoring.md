@@ -55,8 +55,41 @@ Mentoring WG manages the following mentorship initiatives:
 </div>
 
 {{% /blocks/section %}}
-
 </div>
+
+<div class="section-group">
+{{< blocks/section color="primary" >}}
+
+## How your community can benefit
+
+Here are some benefits that the Mentoring working group can provide to communities:
+
+* Do the necessary paper work and applications to mentoring programs on behalf of CNCF projects
+* Provide mentors the best practices and resources for managing and interacting with mentees 
+* Guidance and support for an efficient mentorship execution
+* Promote your project's mentoring activities and help you find more mentees and thus more contributors
+
+You may find links to resources in our [repository](https://github.com/cncf/tag-contributor-strategy/blob/main/mentoring/README.md).
+
+{{% /blocks/section %}}
+</div>
+
+<div class="section-group">
+{{< blocks/section color="primary" >}}
+
+## How you can contribute
+
+We are happy to see that you are interested in helping with this working group. We would love to:
+
+* see you as mentors in the mentoring programs we participate in and organize.
+* get feedback about out guides and documentation.
+* see your introduction email on our mailing list / message on our Slack channel.
+* see you attend our meetings where you can contribute ideas and take responsibilities.
+
+{{% /blocks/section %}}
+</div>
+
+
 <div class="section-group">
 
 ## Get involved
