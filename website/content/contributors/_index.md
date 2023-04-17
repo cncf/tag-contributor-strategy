@@ -35,14 +35,14 @@ The CNCF projects are always looking for new contributors. If you're interested 
 
 - [CNCF Landscape](https://landscape.cncf.io/) - a map of all CNCF projects, along with their maturity level and their category
 - [CLOTributor](https://clotributor.dev/) - a tool that helps you find beginner-friendly tasks in CNCF projects
-- [Projects section below](#projects) - a list of all CNCF projects, with their primary language and brief information on contributing to them
+- [Projects section below](#projects) lists all CNCF projects, with their primary language and brief information on contributing to them
 
 
-### TAGs and WG's
+### TAGs and WGs
 
-CNCF Technical Advisory Groups (TAG's) oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
+CNCF Technical Advisory Groups (TAGs) oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
 
-Working groups (WG's) are the community-driven groups with the goal of continuous collaboration in the specific areas. CNCF WG's are created and curated by the CNCF TOC and driven by the community members. CNCF TOC repo provides more [details](https://github.com/cncf/toc/tree/master/workinggroups#cncf-working-groups) on the purpose and goals of WG's, together with the [list of them](https://github.com/cncf/toc/blob/master/README.md#working-groups).
+Working groups (WGs) are the community-driven groups with the goal of continuous collaboration in the specific areas. CNCF WGs are created and curated by the CNCF TOC and driven by the community members. CNCF TOC repo provides more [details](https://github.com/cncf/toc/tree/master/workinggroups#cncf-working-groups) on the purpose and goals of WGs, together with the [list of them](https://github.com/cncf/toc/blob/master/README.md#working-groups).
 
 If you're interested in contributing to a TAG or a WG, be sure to check out their respective repositories for more information.
 
@@ -64,7 +64,7 @@ Details on the Ambassadors program, and information on how to join CNCF as an Am
 
 ## Projects
 
-The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
+The Cloud Native Computing Foundation projects are listed below, together with the brief information on contributing to them.
 
 ## Graduated Projects
 
