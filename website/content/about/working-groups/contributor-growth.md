@@ -29,11 +29,15 @@ We aim to provide best practices and resources for managing and interacting with
 
 ## Goals
 
+<div class="text-left">
+
 * Provide best practices and resources for managing and interacting with contributors to CNCF projects.
 * Provide guidance on a sustainable contributor lifecycle for CNCF Projects to:
     * Develop a pipeline that brings in new contributors.
     * Define a contribution ladder with activities that promote contributors to higher levels of responsibility.
     * Support their maintainers with advice and resources that improve sustainability and plan for transitions from the project.
+
+</div>
 
 {{% /blocks/section %}}
 
@@ -44,8 +48,9 @@ We aim to provide best practices and resources for managing and interacting with
 
 ## How your community can benefit
 
-Here are some benefits that the Contributor Growth working group can provide to communities:
+<div class="text-left">
 
+Here are some benefits that the Contributor Growth working group can provide to communities:
 * Best practices and resources for managing and interacting with contributors to CNCF projects
 * Guidance and support for a sustainable contributor lifecycle for CNCF projects
 * Templates for common documents like a contributing guide, reviewing guide, TOC due diligence guidelines, and more
@@ -53,6 +58,7 @@ Here are some benefits that the Contributor Growth working group can provide to 
 * Non-code areas such as project management, work prioritization and similar, which may not be the maintainers' primary skillset
 
 You may find some tips in our [Community Guide](/maintainers/community/) and [Available Templates](/maintainers/templates/).
+</div>
 
 {{% /blocks/section %}}
 </div>
@@ -62,12 +68,16 @@ You may find some tips in our [Community Guide](/maintainers/community/) and [Av
 
 ## How you can contribute
 
+<div class="text-left">
+
 We are happy to see that you are interested in helping with this working group. We would love to:
 * get your feedback about out guides and templates.
 * see your introduction email on our mailing list / message on our Slack channel.
 * see you attend our meetings where you can contribute ideas and take responsibilities.
 
 {{% /blocks/section %}}
+</div>
+
 </div>
 
 <div class="section-group">
@@ -103,10 +113,8 @@ Reach out for any immediate matters at [#tag-contributor-strategy](https://cloud
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-info" title="Find out more"
-url="https://github.com/cncf/tag-contributor-strategy/blob/main/contributor-growth/README.md" url_text="Charter Document"
-%}}
-More resources are available on our Charter document, [Community Guide](/maintainers/community/) and [Available Templates](/maintainers/templates/).
+{{% blocks/feature icon="fas fa-info" title="Find out more" %}}
+More resources are available on our [Charter Document](https://github.com/cncf/tag-contributor-strategy/blob/main/contributor-growth/README.md), [Community Guide](/maintainers/community/) and [Available Templates](/maintainers/templates/).
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
