@@ -76,8 +76,9 @@ channels:
 
 ### TOC Liaisons
 
-- Emily Fox ([@TheFoxAtWork](https://github.com/TheFoxAtWork)), Apple
-- Dave Zolotusky ([@dzolotusky](https://github.com/dzolotusky)), Spotify
+- Matt Farina ([@mattfarina](https://github.com/mattfarina)), SUSE
+- Katie Gamanji ([@kgamanji](https://github.com/kgamanji)), Apple
+- Cathy Zhang ([@cathyhongzhang](https://github.com/cathyhongzhang)), Intel 
 
 ### Emeritus Leads
 
