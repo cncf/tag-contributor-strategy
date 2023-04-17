@@ -58,6 +58,19 @@ You may find some tips in our [Community Guide](/maintainers/community/) and [Av
 </div>
 
 <div class="section-group">
+{{< blocks/section color="primary" >}}
+
+## How you can contribute
+
+We are happy to see that you are interested in helping with this working group. We would love to:
+* get your feedback about out guides and templates.
+* see your introduction email on our mailing list / message on our Slack channel.
+* see you attend our meetings where you can contribute ideas and take responsibilities.
+
+{{% /blocks/section %}}
+</div>
+
+<div class="section-group">
 
 ## Get involved
 
