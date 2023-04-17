@@ -52,6 +52,8 @@ Here are some benefits that the Contributor Growth working group can provide to 
 * Case studies and talks for insights and inspiration
 * Non-code areas such as project management, work prioritization and similar, which may not be the maintainers' primary skillset
 
+You may find some tips in our [Community Guide](/maintainers/community/) and [Available Templates](/maintainers/templates/).
+
 {{% /blocks/section %}}
 </div>
 
@@ -89,9 +91,9 @@ Reach out for any immediate matters at [#tag-contributor-strategy](https://cloud
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fas fa-info" title="Find out more"
-url="https://github.com/cncf/tag-contributor-strategy/blob/main/contributor-growth/README.md" url_text="More information"
+url="https://github.com/cncf/tag-contributor-strategy/blob/main/contributor-growth/README.md" url_text="Charter Document"
 %}}
-More resources are available on our Charter document.
+More resources are available on our Charter document, [Community Guide](/maintainers/community/) and [Available Templates](/maintainers/templates/).
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
