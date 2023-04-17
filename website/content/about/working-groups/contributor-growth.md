@@ -75,9 +75,9 @@ We are happy to see that you are interested in helping with this working group. 
 * see your introduction email on our mailing list / message on our Slack channel.
 * see you attend our meetings where you can contribute ideas and take responsibilities.
 
-{{% /blocks/section %}}
 </div>
 
+{{% /blocks/section %}}
 </div>
 
 <div class="section-group">
