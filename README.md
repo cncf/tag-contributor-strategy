@@ -81,11 +81,6 @@ channels:
 - Emily Fox ([@TheFoxAtWork](https://github.com/TheFoxAtWork)), Apple
 - Dave Zolotusky ([@dzolotusky](https://github.com/dzolotusky)), Spotify
 
-### Emeritus Leads
-
-- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 
 ## Working Groups And Teams
 
@@ -112,18 +107,6 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
-### Original Bootstrap TAG members
+## Valued TAG Members
 
-- Amye Scavarda Perrin ([@amye](https://github.com/amye)), CNCF
-- April Kyle Nassi ([@thisisnotapril](https://github.com/thisisnotapril)), Google
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Cheryl Hung ([@oicheryl](https://github.com/oicheryl)), CNCF
-- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
-- Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Karen Chu ([@karenhchu](https://github.com/karenhchu)), Microsoft
-- Matt Klein ([@mattklein123](https://github.com/mattklein123)), Lyft
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-- Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
-- Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
+A big thank you to all the [previous contributors](/valued-members.md) of this TAG! Your hard work and dedication have helped to make this project a success. Your valuable contributions have enabled us to develop a strong contributor strategy and build a thriving open-source community. Thank you for all that you have done!
