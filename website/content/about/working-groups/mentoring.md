@@ -45,10 +45,10 @@ Mentoring Working Group is a group of people who focus on mentorship initiatives
 <div>
 Mentoring WG manages the following mentorship initiatives:
 
-* [LFX Mentorship (ex-CommunityBridge)](https://mentorship.lfx.linuxfoundation.org): mentoring initiative by the Linux Foundation - [details](https://github.com/cncf/mentoring/tree/main/programs/programs/lfx-mentorship#readme)
-* [Google Summer of Code](https://summerofcode.withgoogle.com/): mentoring program for the open source beginners - [details](https://github.com/cncf/mentoring/tree/main/programs/programs/summerofcode#readme)
-* [Google Season of Docs](https://developers.google.com/season-of-docs): mentoring initiative for the technical writers - [details](https://github.com/cncf/mentoring/tree/main/programs/programs/seasonofdocs#readme)
-* [Outreachy](https://www.outreachy.org): mentoring initiative for the communities traditionally underrepresented in tech - [details](https://github.com/cncf/mentoring/tree/main/programs/programs/outreachy#readme)
+* [LFX Mentorship (ex-CommunityBridge)](https://mentorship.lfx.linuxfoundation.org): mentoring initiative by the Linux Foundation - [details](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship#readme)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/): mentoring program for the open source beginners - [details](https://github.com/cncf/mentoring/tree/main/programs/summerofcode#readme)
+* [Google Season of Docs](https://developers.google.com/season-of-docs): mentoring initiative for the technical writers - [details](https://github.com/cncf/mentoring/tree/main/programs/seasonofdocs#readme)
+* [Outreachy](https://www.outreachy.org): mentoring initiative for the communities traditionally underrepresented in tech - [details](https://github.com/cncf/mentoring/tree/main/programs/outreachy#readme)
 
 </div>
 
