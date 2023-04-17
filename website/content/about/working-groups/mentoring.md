@@ -8,6 +8,8 @@ url: /about/mentoring
 
 Want to help new contributors get started? We participate in and run several mentorship programs!
 
+Read our [Charter](https://github.com/cncf/tag-contributor-strategy/blob/main/mentoring/README.md)
+
 {{% /blocks/lead %}}
 
 <div class="section-group">
@@ -37,16 +39,6 @@ Mentoring Working Group is a group of people who focus on mentorship initiatives
 
 </div>
 <div class="section-group">
-
-{{% blocks/section color="white" %}}
-
-<div>
-
-You may read our charter [here](https://github.com/cncf/tag-contributor-strategy/blob/main/mentoring/README.md).
-
-</div>
-
-{{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
 
