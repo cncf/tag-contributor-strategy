@@ -50,6 +50,20 @@ We aim to provide best practices and resources for managing and interacting with
 </div>
 
 <div class="section-group">
+{{< blocks/section color="primary" >}}
+
+## How you can contribute
+
+We are happy to see that you are interested in helping with this working group. We would love to:
+
+* get feedback about out guides and templates.
+* see your introduction email on our mailing list / message on our Slack channel.
+* see you attend our meetings where you can contribute ideas and take responsibilities.
+
+{{% /blocks/section %}}
+</div>
+
+<div class="section-group">
 
 ## Get involved
 
