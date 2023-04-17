@@ -67,6 +67,8 @@ Mentoring WG manages the following mentorship initiatives:
 </div>
 <div class="section-group">
 
+## Get involved
+
 {{< blocks/section color="primary" >}}
 
 {{% blocks/feature title="Meetings" icon="fas fa-video" %}}
