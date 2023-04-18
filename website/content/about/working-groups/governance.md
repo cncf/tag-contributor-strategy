@@ -16,7 +16,7 @@ Read our [Charter](https://github.com/cncf/tag-contributor-strategy/blob/main/go
 
 {{% blocks/section color="dark" %}}
 
-The Governance Growth Working Group aim to assist all CNCF projects with implementing good open source governance practices.
+The Governance Working Group assists CNCF projects with implementing good open source governance practices.
 
 We aim to provide best practices and resources for managing and interacting with contributors to CNCF projects.
 {{% /blocks/section %}}
