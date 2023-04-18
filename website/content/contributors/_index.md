@@ -38,15 +38,14 @@ The CNCF projects are always looking for new contributors. If you're interested 
 - [Projects section below](#projects) lists all CNCF projects, with their primary language and brief information on contributing to them
 
 
-### TAGs and WGs
+### Technical Advisory Groups (TAGs)
 
-CNCF Technical Advisory Groups (TAGs) oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
+CNCF Technical Advisory Groups (TAGs) are responsible for overseeing and coordinating the interests of end users and/or projects within a specific area of focus. These groups hold open meetings that are accessible to anyone without any obligations. You are welcome to participate in discussions or simply observe the group's activities. If you are interested in contributing to a TAG, you can find more information in their respective repositories.
 
-Working groups (WGs) are the community-driven groups with the goal of continuous collaboration in the specific areas. CNCF WGs are created and curated by the CNCF TOC and driven by the community members. CNCF TOC repo provides more [details](https://github.com/cncf/toc/tree/master/workinggroups#cncf-working-groups) on the purpose and goals of WGs, together with the [list of them](https://github.com/cncf/toc/blob/master/README.md#working-groups).
+Although TAGs are designed to focus on specific areas, you can begin contributing through working groups (WGs) that operate under the TAGs with even more narrow scopes. WGs are community-driven groups that encourage ongoing collaboration in specific areas of interest.
 
-If you're interested in contributing to a TAG or a WG, be sure to check out their respective repositories for more information.
+More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
 
-Remember, group meetings are open to everyone, with no strings attached. You're welcome to join in on the discussions or simply observe the group activities.
 
 ### Community Groups
 
