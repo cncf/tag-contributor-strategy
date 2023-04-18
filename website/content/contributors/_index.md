@@ -59,7 +59,7 @@ Are you passionate about Cloud Native technologies and interested in starting a 
 
 Successful ambassadors are people such as bloggers, influencers, evangelists who are already engaged with a CNCF project in some way including contributing to forums, online groups, community events, etc.
 
-Details on the Ambassadors program, and information on how to join CNCF as an Ambassador is available [here](https://github.com/cncf/ambassadors).
+Details on the Ambassadors program, and information on how to join CNCF as an Ambassador is available at the [Cloud Native Ambassadors repository](https://github.com/cncf/ambassadors).
 
 ## Projects
 
