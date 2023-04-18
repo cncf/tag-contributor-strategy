@@ -2,7 +2,6 @@
 title: "TAG Contributor Strategy Livesteam"
 description: TAG Contributor Strategy is looking for volunteers in mentoring, contributor growth, and advising CNCF projects
 date: "2022-08-09"
-conference: KubeCon Europe
 speakers:
   - name: Catherine Paganini
     url: https://github.com/CathPag
