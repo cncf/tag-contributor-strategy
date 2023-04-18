@@ -22,10 +22,10 @@ Are you new to open source? If so, we recommend checking out our comprehensive g
 
 The Cloud Native Computing Foundation participates in various mentoring programs, including:
 
-- [LFX Mentorship](https://github.com/cncf/mentoring/tree/master/lfx-mentorship) (previously known as Community Bridge) by the Linux Foundation
-- [Google Summer of Code](https://github.com/cncf/mentoring/tree/master/summerofcode) (GSoC)
-- [Google Season of Docs](https://github.com/cncf/mentoring/tree/master/seasonofdocs) (GSoD)
-- [Outreachy](https://github.com/cncf/mentoring/tree/master/outreachy)
+* [LFX Mentorship (ex-CommunityBridge)](https://mentorship.lfx.linuxfoundation.org): mentoring initiative by the Linux Foundation - [details](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship#readme)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/): mentoring program for the open source beginners - [details](https://github.com/cncf/mentoring/tree/main/programs/summerofcode#readme)
+* [Google Season of Docs](https://developers.google.com/season-of-docs): mentoring initiative for the technical writers - [details](https://github.com/cncf/mentoring/tree/main/programs/seasonofdocs#readme)
+* [Outreachy](https://www.outreachy.org): mentoring initiative for the communities traditionally underrepresented in tech - [details](https://github.com/cncf/mentoring/tree/main/programs/outreachy#readme)
 
 If you are interested in participating in one of the programs, please check out the [CNCF mentoring repository](https://github.com/cncf/mentoring) for more details.
 
