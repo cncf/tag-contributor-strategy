@@ -63,7 +63,7 @@ Details on the Ambassadors program, and information on how to join CNCF as an Am
 
 ## Projects
 
-The Cloud Native Computing Foundation projects are listed below, together with the brief information on contributing to them.
+The Cloud Native Computing Foundation projects are listed below with information on how to contribute.
 
 ## Graduated Projects
 
