@@ -34,9 +34,6 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
 We have one general meeting a month, along with meetings for our working groups.
 Go to [the CNCF calendar](https://tockify.com/cncf.public.events/monthly?search=Contributor+Strategy) to see when we meet next.
 
-- Calendar invites are sent to the mailing list(see: [Communicating with us](#communicating-with-us)).
-Once you join, you won't automatically have the invite on your calendar. You can
-get it from a [past message here](https://lists.cncf.io/g/cncf-tag-contributor-strategy/message/1)
 - [Meeting minutes and agenda](https://bit.ly/cncf-contribstrat-agenda)
 - All meetings are recorded and can be accessed on the [CNCF TAG Contributor Strategy](https://www.youtube.com/channel/UCCqKWkTM2pkmLwXaj-7AvcA) Youtube channel.
 - Meeting Link: [zoom.us/my/cncftagcontributorstrategy](https://zoom.us/my/cncftagcontributorstrategy)
@@ -53,8 +50,6 @@ channels:
 - [Mailing list](https://lists.cncf.io/g/cncf-tag-contributor-strategy)
   - The mailing list is used for decisions, announcements, and broad communications
   on record for the entire TAG.
-  - Calendar invites will be sent to this address. You can get the calendar
-  invite from a [past message here](https://lists.cncf.io/g/cncf-tag-contributor-strategy/message/2)
 
 - [#tag-contributor-strategy](https://cloud-native.slack.com/archives/CT6CWS1JN) on [CNCF Slack](https://slack.cncf.io/)
   - Real time communication is great! Chat with us here but we might ask you to
@@ -63,6 +58,9 @@ channels:
 - [File an Issue](https://github.com/cncf/tag-contributor-strategy)
   - Working on a project? Have an idea for something we/you should work on? Talk
   about a change you'd like to propose?
+
+- [Attend our meetings](https://tockify.com/cncf.public.events/monthly?search=Contributor+Strategy)
+  - We meet once a month, and we'd love to have you join us!
 
 ## Members
 
@@ -81,11 +79,6 @@ channels:
 - Emily Fox ([@TheFoxAtWork](https://github.com/TheFoxAtWork)), Apple
 - Dave Zolotusky ([@dzolotusky](https://github.com/dzolotusky)), Spotify
 
-### Emeritus Leads
-
-- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
 
 ## Working Groups And Teams
 
@@ -112,18 +105,6 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
-### Original Bootstrap TAG members
+## Valued TAG Members
 
-- Amye Scavarda Perrin ([@amye](https://github.com/amye)), CNCF
-- April Kyle Nassi ([@thisisnotapril](https://github.com/thisisnotapril)), Google
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Cheryl Hung ([@oicheryl](https://github.com/oicheryl)), CNCF
-- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
-- Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Karen Chu ([@karenhchu](https://github.com/karenhchu)), Microsoft
-- Matt Klein ([@mattklein123](https://github.com/mattklein123)), Lyft
-- Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
-- Saad Ali ([@saad-ali](https://github.com/saad-ali)), Google
-- Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
-- Zach Corleissen ([@zacharysarah](https://github.com/zacharysarah)), Linux Foundation
+A big thank you to all the [previous contributors](/valued-members.md) of this TAG! Your hard work and dedication have helped to make this project a success. Your valuable contributions have enabled us to develop a strong contributor strategy and build a thriving open-source community. Thank you for all that you have done!
