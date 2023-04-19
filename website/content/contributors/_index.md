@@ -10,7 +10,7 @@ Welcome! Are you interested in contributing to one of CNCF hosted projects? This
 
 CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities.
 
-Though, contributing to the CNCF ecosystem is not just about coding. There are many other ways to contribute to the CNCF ecosystem, including writing documentation, creating tutorials, bringing ideas to meetings, organizing meetups, and more.
+However, contributing to the CNCF ecosystem is not just about coding. There are many other ways to contribute to the CNCF ecosystem, including writing documentation, creating tutorials, bringing ideas to meetings, organizing meetups, and more.
 
 ## Open Source Beginners
 
@@ -59,7 +59,7 @@ Are you passionate about Cloud Native technologies and interested in starting a 
 
 Successful ambassadors are people such as bloggers, influencers, evangelists who are already engaged with a CNCF project in some way including contributing to forums, online groups, community events, etc.
 
-Details on the Ambassadors program, and information on how to join CNCF as an Ambassador is available at the [Cloud Native Ambassadors repository](https://github.com/cncf/ambassadors).
+Details on the Ambassadors program, as well as information on how to join CNCF as an Ambassador, are available at the [Cloud Native Ambassadors repository](https://github.com/cncf/ambassadors).
 
 ## Projects
 
