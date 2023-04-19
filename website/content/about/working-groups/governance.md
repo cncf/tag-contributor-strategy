@@ -49,7 +49,7 @@ We provide best practices and resources for managing and interacting with contri
 <div class="text-left">
 
 * Have a look at our [Governance Guide](/maintainers/governance/) to see best practices, get advice and have inspiration while setting up or improving your project and community governance
-* Copy and modify one of our codified [Governance Templates](http://localhost:1313/maintainers/templates/governance-intro/) depending on your community and project
+* Copy and modify one of our codified [Governance Templates](/maintainers/templates/governance-intro/) depending on your community and project
 * Get assistance on governance related issues
 
 </div>
