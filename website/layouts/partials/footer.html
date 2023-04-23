@@ -5,7 +5,13 @@
 			<div class="logo-and-hub">
 				<a href="https://www.cncf.io/" class="logo"><img width="210" height="40"
 						src="/images/CNCF_logo_white.svg" alt="Cloud Native Computing Foundation logo" /></a>
-				<div class="horizontal-rule d-lg-none"></div>
+				<div class="row justify-content-center d-lg-none">
+					{{ if (gt (len .Site.Home.Translations) 0) }}
+					{{ partial "navbar-lang-selector.html" . }}
+					{{ end }}
+				</div>
+
+				<div class="horizontal-rule d-lg-none mt-4 mb-4"></div>
 				<a href="https://www.cncf.io/all-cncf/" class="hub-button">All
 					CNCF Sites</a>
 			</div>
