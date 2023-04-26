@@ -2048,10 +2048,10 @@
     {
         "name": "Konveyor",
         "path": "Application Definition & Image Build",
-        "description": "Documentation for Konveyor Community",
+        "description": "Konveyor Operator fully manages the deployment and life cycle of Konveyor (formerly Tackle) on Kubernetes and OpenShift.",
         "homepage_url": "https://www.konveyor.io/",
         "project": "sandbox",
-        "repo_url": "https://github.com/konveyor/community",
+        "repo_url": "https://github.com/konveyor/tackle2-operator",
         "logo": "logos/konveyor.svg",
         "twitter": "https://twitter.com/Konveyor_io",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -2065,7 +2065,7 @@
         "slack_url": "slack.k8s.io",
         "gitter_url": null,
         "youtube_url": null,
-        "language": null
+        "language": "Jinja"
     },
     {
         "name": "Krator",
