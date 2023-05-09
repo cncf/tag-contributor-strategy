@@ -82,6 +82,6 @@ Interisted parties:
 
 # Documentation
 
-Our documentation is shared in the [cncf/contribute] repository.
+Our documentation is shared in the [contribute.cncf.io] website.
 
-[cncf/contribute]: https://github.com/cncf/contribute
+[contribute.cncf.io]: https://contribute.cncf.io/

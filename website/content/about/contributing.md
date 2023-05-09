@@ -158,4 +158,3 @@ Issue** button in the top right hand corner of the page.
   basic introduction to GitHub concepts and workflow.
 
 [TAG Contributor Strategy repository]: https://github.com/cncf/tag-contributor-strategy
-[cncf/contribute repository]: https://github.com/cncf/contribute
