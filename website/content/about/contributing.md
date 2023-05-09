@@ -140,6 +140,27 @@ image: "https://i.ytimg.com/vi/YOUTUBE_ID/maxresdefault.jpg" # Grab the unique v
 Copy the talk description from the schedule and paste it here. The formatting is probably wrong so spend a bit of time to fix it so that it's not a giant wall of text.
 ```
 
+## Comparing the before and after of your big changes
+
+```shell
+# build the website on your branch
+$> mage build
+
+# create a temporary directory
+$> TMP=$(mktemp -d)
+
+# clone the repo into the temp directory using main branch
+$> git clone --depth 1 https://github.com/cncf/tag-contributor-strategy.git $TMP
+
+# build the main branch of the website using the temp directory
+$> pushd $TMP
+$> mage build
+$> popd
+
+# compare the two builds
+$> diff -r website/public $TMP/website/public
+```
+
 ## Creating an issue
 
 If you've found a problem in the docs, but you're not sure how to fix it
