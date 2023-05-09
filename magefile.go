@@ -10,7 +10,6 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"path/filepath"
 	"runtime"
 	"strings"
 	"time"
@@ -42,31 +41,19 @@ func EnsureMage() error {
 func Build() error {
 	mg.Deps(clean, buildImage)
 
-	// Build the volume mount for a local go.mod file
-	goModMount, err := useLocalGoModFile()
-	if err != nil {
-		return err
-	}
-
 	pwd, _ := os.Getwd()
 	return shx.Command("docker", "run", "--rm", "-v", pwd+":/src",
-		goModMount, containerName, "--debug", "--verbose").CollapseArgs().RunV()
+		containerName, "--debug", "--verbose").CollapseArgs().RunV()
 }
 
 // Run a local server to preview the website and watch for changes.
 func Preview() error {
 	mg.Deps(clean, buildImage)
 
-	// Build the volume mount for a local go.mod file
-	goModMount, err := useLocalGoModFile()
-	if err != nil {
-		return err
-	}
-
 	port := getPort()
 	pwd, _ := os.Getwd()
-	err = shx.Command("docker", "run", "-d", "-v", pwd+":/src",
-		goModMount, "-p", port+":1313",
+	err := shx.Command("docker", "run", "-d", "-v", pwd+":/src",
+		"-p", port+":1313",
 		"--name", containerName, img, "server", "--debug", "--verbose",
 		"--buildDrafts", "--buildFuture", "--noHTTPCache", "--watch", "--bind=0.0.0.0").CollapseArgs().RunV()
 	if err != nil {
@@ -127,27 +114,6 @@ func getBaseUrl() string {
 		return host + "/"
 	}
 	return "https://contribute.cncf.io/"
-}
-
-// Create go.local.mod with any appropriate replace statements
-func useLocalGoModFile() (goModMount string, err error) {
-	// Edit a copy of website/go.mod so that it doesn't always show up as modified in git
-	pwd, _ := os.Getwd()
-	localGoMod := filepath.Join(pwd, "website/go.local.mod")
-	err = copyFile("website/go.mod", localGoMod)
-	if err != nil {
-		return "", err
-	}
-	goModMount = fmt.Sprintf("-v=%s:/src/website/go.mod", localGoMod)
-
-	err = shx.RunV("docker", "run", "--rm", "--entrypoint", "go",
-		"-v", pwd+":/src", goModMount, "-w", "/src/website", img,
-		"mod", "download")
-	if err != nil {
-		return "", errors.Wrap(err, "could not modify resolve go.mod")
-	}
-
-	return goModMount, nil
 }
 
 func copyFile(src string, dest string) error {
