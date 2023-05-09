@@ -9,7 +9,6 @@ import (
 	"context"
 	"fmt"
 	"io"
-	"log"
 	"os"
 	"path/filepath"
 	"runtime"
@@ -25,9 +24,8 @@ import (
 
 var (
 	// Default target to run when none is specified
-	Default        = Preview
-	contributeRepo = "../contribute"
-	must           = shx.CommandBuilder{StopOnError: true}
+	Default = Preview
+	must    = shx.CommandBuilder{StopOnError: true}
 )
 
 const (
@@ -44,23 +42,23 @@ func EnsureMage() error {
 func Build() error {
 	mg.Deps(clean, buildImage)
 
-	// Build the volume mount for a local contribute repo, if present
-	contribMount, goModMount, err := useLocalContributeModule()
+	// Build the volume mount for a local go.mod file
+	goModMount, err := useLocalGoModFile()
 	if err != nil {
 		return err
 	}
 
 	pwd, _ := os.Getwd()
 	return shx.Command("docker", "run", "--rm", "-v", pwd+":/src",
-		contribMount, goModMount, containerName, "--debug", "--verbose").CollapseArgs().RunV()
+		goModMount, containerName, "--debug", "--verbose").CollapseArgs().RunV()
 }
 
 // Run a local server to preview the website and watch for changes.
 func Preview() error {
 	mg.Deps(clean, buildImage)
 
-	// Build the volume mount for a local contribute repo, if present
-	contribMount, goModMount, err := useLocalContributeModule()
+	// Build the volume mount for a local go.mod file
+	goModMount, err := useLocalGoModFile()
 	if err != nil {
 		return err
 	}
@@ -68,7 +66,7 @@ func Preview() error {
 	port := getPort()
 	pwd, _ := os.Getwd()
 	err = shx.Command("docker", "run", "-d", "-v", pwd+":/src",
-		contribMount, goModMount, "-p", port+":1313",
+		goModMount, "-p", port+":1313",
 		"--name", containerName, img, "server", "--debug", "--verbose",
 		"--buildDrafts", "--buildFuture", "--noHTTPCache", "--watch", "--bind=0.0.0.0").CollapseArgs().RunV()
 	if err != nil {
@@ -131,15 +129,14 @@ func getBaseUrl() string {
 	return "https://contribute.cncf.io/"
 }
 
-// Create go.local.mod with any appropriate replace statements, and
-// returns the local contribute mount flag if present.
-func useLocalContributeModule() (contribMount string, goModMount string, err error) {
+// Create go.local.mod with any appropriate replace statements
+func useLocalGoModFile() (goModMount string, err error) {
 	// Edit a copy of website/go.mod so that it doesn't always show up as modified in git
 	pwd, _ := os.Getwd()
 	localGoMod := filepath.Join(pwd, "website/go.local.mod")
 	err = copyFile("website/go.mod", localGoMod)
 	if err != nil {
-		return "", "", err
+		return "", err
 	}
 	goModMount = fmt.Sprintf("-v=%s:/src/website/go.mod", localGoMod)
 
@@ -147,32 +144,10 @@ func useLocalContributeModule() (contribMount string, goModMount string, err err
 		"-v", pwd+":/src", goModMount, "-w", "/src/website", img,
 		"mod", "download")
 	if err != nil {
-		return "", "", errors.Wrap(err, "could not modify resolve go.mod")
+		return "", errors.Wrap(err, "could not modify resolve go.mod")
 	}
 
-	// Only mount the local repo if it exists, otherwise use the one on github
-	if mg.Verbose() {
-		fmt.Println("Checking for a local copy of github.com/cncf/contribute at", contributeRepo)
-	}
-	if repo, ok := os.LookupEnv("CONTRIBUTE_REPO"); ok {
-		contributeRepo = repo
-	}
-	contributeRepo, _ := filepath.Abs(contributeRepo)
-	_, err = os.Stat(contributeRepo)
-	if err != nil {
-		return "", goModMount, nil
-	}
-
-	log.Println("Using your local copy of github.com/cncf/contribute ->", contributeRepo)
-	err = shx.RunV("docker", "run", "--rm", "--entrypoint", "go",
-		"-v", pwd+":/src", goModMount, "-w", "/src/website", img,
-		"mod", "edit", "-replace", "github.com/cncf/contribute=/src/contribute")
-	if err != nil {
-		return "", "", errors.Wrap(err, "could not modify go.mod to use your local copy of github.com/cncf/contribute")
-	}
-
-	contribMount = fmt.Sprintf("-v=%s:/src/contribute", contributeRepo)
-	return contribMount, goModMount, nil
+	return goModMount, nil
 }
 
 func copyFile(src string, dest string) error {
