@@ -5,7 +5,7 @@ description: TAG Contributor Strategy members discuss what being part of the TAG
 date: "2023-04-20"
 conference: KubeCon Europe
 speakers:
-  - name: Dawn Foster Nate Waddington
+  - name: Dawn Foster
     url: https://github.com/geekygirldawn
   - name: Nate Waddington
     url: https://github.com/nate-double-u
