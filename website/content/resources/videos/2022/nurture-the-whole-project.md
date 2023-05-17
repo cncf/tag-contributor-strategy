@@ -9,9 +9,6 @@ speakers:
   - name: Catherine Paganini
     url: https://github.com/CathPag
 youtubeID: WnOKjfe3TUM
-featured: true
-featuredDescription: |
-    Meet TAG Contributor Strategy. We advise the Technical Oversight Committee, guide projects on topics such as project governance and community building, and provide direct support through maintainers circle, mentoring programs and more!
 ---
 
 Your code is reviewed, docs are being written, and the CNCF is hosting an event for you. What else does an open source project need?
