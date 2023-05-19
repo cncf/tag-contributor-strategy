@@ -70,8 +70,7 @@ mentorship programs and the people who bring them to life.
 In this session, join Nate W., co-chair of the CNCF
 mentoring working group, as he shares the power and impact of these programs in shaping open-source projects.
 Then hear Lee, a seasoned CNCF mentor, share his insights, experiences, and highlights from his mentorship
-journey within the CNCF. Whether you’re a seasoned maintainer, a new contributor, or just interested in open
-source, this session promises to help you understand how mentoring can help your project grow contributors.
+journey within the CNCF. This session promises to help you understand how mentoring can help your project grow contributors.
 
 Time will be set aside for discussion and experience sharing. Don’t miss this opportunity to learn,
 connect, and grow with your peers. We look forward to seeing you there!
