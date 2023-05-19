@@ -60,6 +60,26 @@ Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing
 
 ## What
 
+### CNCF Mentoring
+
+May 30th, 2023 @ 9:00am PT / 4:00pm GMT / [Your timezone here](https://time.is/compare/0900AM_30_May_2023_in_PT)
+
+Join us in the upcoming Maintainer’s Circle as we delve into the Cloud Native Computing Foundation’s vibrant
+mentorship programs and the people who bring them to life.
+
+In this session, join Nate W., co-chair of the CNCF
+mentoring working group, as he shares the power and impact of these programs in shaping open-source projects.
+Then hear Lee, a seasoned CNCF mentor, share his insights, experiences, and highlights from his mentorship
+journey within the CNCF. Whether you’re a seasoned maintainer, a new contributor, or just interested in open
+source, this session promises to help you understand how mentoring can help your project grow contributors.
+
+Time will be set aside for discussion and experience sharing. Don’t miss this opportunity to learn,
+connect, and grow with your peers. We look forward to seeing you there!
+
+**Registration** is an emoji reaction to the invite on the thread in #maintainers-circle or email to [Dave Sudia](mailto:dsudia@datawire.io)
+
+**Notes:** https://docs.google.com/document/d/1OlRxoSWXDA4emDK_U1ff6djMgXeR8yJahrWC7RRzD7o/edit?usp=sharing
+
 ### End User Relationship
 
 **Live session at KubeCon EU 2023 Amsterdam**
