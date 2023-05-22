@@ -103,8 +103,10 @@ as an example of how to customize this template.
 
 ### What Else Is Required?
 
-This template assumes that you have already adopted the [Code of Conduct] and
-assumes that you are using the [Contributor Ladder], since it is a good way to provide
+This template assumes that you have already adopted the [Code of Conduct], 
+added the CNCF-required [security practices], and added a [Scope section](../governance/charter/) to your README. 
+
+It assumes that you are using the [Contributor Ladder], since it is a good way to provide
 guidance about eligibility requirements. It is possible to implement this without a
 [Contributor Ladder], but it is not recommended.
 

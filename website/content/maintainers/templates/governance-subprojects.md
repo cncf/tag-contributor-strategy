@@ -117,6 +117,9 @@ it.
 
 ### What Else Is Required?
 
+This template assumes that you have already adopted the [Code of Conduct], 
+added the CNCF-required [security practices], and added a [Scope section](../governance/charter/) to your README. 
+
 The template also expects you to have a documented [Contributor Ladder], either
 based on our template or otherwise. If you do not, you will need to adopt that
 as well.
