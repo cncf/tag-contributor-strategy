@@ -115,7 +115,7 @@ The Values are listed in your governance template because all project leaders
 are expected to follow these values.  Deciding your values is a good topic
 for a general community meeting.
 
-See our documentation on [Charters] for some examples.
+See our documentation on [Charters](../governance/charter/) for some examples.
 
 ### Maintainers
 
