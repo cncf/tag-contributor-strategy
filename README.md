@@ -3,7 +3,7 @@
 <img src="website/static/images/tag-contributor-strategy-icon-color.png" alt="a line drawing of a busy bee" align=right width="150px">
 
 Contributor Strategy is a [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md) (TAG) responsible for contributor experience, sustainability, governance, and openness guidance to help CNCF community groups
-and projects with their own contributor strategies for a healthy project.
+and projects with their own contributor strategies for a healthy project. 
 
 If you are looking for how-to resources produced by the TAG, please visit
 [contribute.cncf.io](https://contribute.cncf.io/) or have a look at the
