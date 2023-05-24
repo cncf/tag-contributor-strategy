@@ -2,7 +2,7 @@
 {{/* If `image` param exists, use that in the card. */}}
 {{/* If it doesn't, use the video's HQ thumbnail if `youtubeID` parameter exists. */}}
 {{ with $.Params.youtubeID }}
-{{ $img = cond (isset $.Params "image") $.Params.image ($.Params.youtubeID | printf "https://i.ytimg.com/vi/%s/mqdefault.jpg") }}
+{{ $img = cond (isset $.Params "image") $.Params.image ($.Params.youtubeID | printf "https://i.ytimg.com/vi/%s/maxresdefault.jpg") }}
 {{ end }}
 
 <!-- Twitter -->
