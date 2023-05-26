@@ -152,7 +152,6 @@ https://www.firsttimersonly.com/
 [README]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md
 [charter]: https://github.com/cncf/tag-contributor-strategy/blob/main/CHARTER.md
 [working groups]: https://github.com/cncf/tag-contributor-strategy/blob/main/README.md#working-groups
-[cncf/contribute]: https://github.com/cncf/contribute
 [cncf/tag-contributor-strategy]: https://github.com/cncf/tag-contributor-strategy
 [maintainers circle]: https://github.com/cncf/tag-contributor-strategy/issues/1
 [website/content]: website/content/
