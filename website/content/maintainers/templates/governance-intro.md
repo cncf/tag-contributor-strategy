@@ -40,4 +40,5 @@ Before starting to customize the templates, your project will need to discuss an
 * Who are our project leaders, and what qualifications do they have?
 * Is there more than one type of leader, or any division of responsibilities?
 * How do we generally make decisions, particularly disputed decisions?
+* What is your [charter](../governance/charter/), including what is in / out of scope and project values.
 * Do we already have meetings, online votes, a project board, or other tools of governance?

@@ -54,6 +54,7 @@ Some useful questions to ask when developing P&P for your project include:
 * What rules govern communication in the project?
 * When do contributors get promoted, and how?
 * How do various decisions, such as technical strategy or project resources, get made?
+* What is your [charter](charter/), including what is in / out of scope and project values.
 * If your project has elections, how are they conducted?
 
 There is a short list of P&P that every CNCF project is expected to have, and a slightly longer list that every project will want to have.  See the [section on Policies & Procedures]() for more detail.

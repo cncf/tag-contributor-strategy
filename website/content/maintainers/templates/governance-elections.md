@@ -103,8 +103,10 @@ as an example of how to customize this template.
 
 ### What Else Is Required?
 
-This template assumes that you have already adopted the [Code of Conduct] and
-assumes that you are using the [Contributor Ladder], since it is a good way to provide
+This template assumes that you have already adopted the [Code of Conduct], 
+added the CNCF-required [security practices], and added a [Scope section](../governance/charter/) to your README. 
+
+It assumes that you are using the [Contributor Ladder], since it is a good way to provide
 guidance about eligibility requirements. It is possible to implement this without a
 [Contributor Ladder], but it is not recommended.
 
@@ -134,7 +136,7 @@ The Values are listed in your governance template because all project leaders
 are expected to follow these values.  Deciding your values is a good topic
 for a general community meeting.
 
-See our documentation on [Charters] for some examples.
+See our documentation on [Charters](../governance/charter/) for some examples.
 
 ### Charter
 
