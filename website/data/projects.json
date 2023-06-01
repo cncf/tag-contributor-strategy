@@ -454,9 +454,9 @@
         "dev_stats_url": "https://backstage.devstats.cncf.io/",
         "artwork_url": "https://github.com/cncf/artwork/tree/master/projects/backstage",
         "stack_overflow_url": null,
-        "blog_url": null,
+        "blog_url": "https://backstage.io/blog",
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://discord.gg/backstage-687207715902193673",
         "gitter_url": null,
         "youtube_url": null,
         "language": "TypeScript"
