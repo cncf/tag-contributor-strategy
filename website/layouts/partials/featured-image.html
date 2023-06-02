@@ -12,8 +12,11 @@
 {{ end }}
 </figure>
 {{ else }}
+{{/* If this is a video page, show a preview image */}}
 {{ if $p.Params.youtubeID }}
-{{ $image := printf "https://i.ytimg.com/vi/%s/mqdefault.jpg" $p.Params.youtubeID }} 
+{{/* If `image` param exists, use that in the card. */}}
+{{/* If it doesn't, use the video's medium quality thumbnail if `youtubeID` parameter exists. */}}
+{{ $image = cond (isset $p.Params "image") $p.Params.image ($p.Params.youtubeID | printf "https://i.ytimg.com/vi/%s/mqdefault.jpg") }}
 <figure class="{{ $class }}" style="width: {{ $w }}px">
     <img src="{{ $image }}" alt="Featured Image for {{ $p.Title }}" width="{{ $w }}" height="{{ $h }}">
     {{ with $p.Params.byline }}
