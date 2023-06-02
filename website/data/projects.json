@@ -2399,7 +2399,7 @@
     },
     {
         "name": "Meshery",
-        "path": "Service Mesh",
+        "path": "Orchestration and Automation",
         "description": "Meshery, the cloud native manager",
         "homepage_url": "https://meshery.io",
         "project": "sandbox",
