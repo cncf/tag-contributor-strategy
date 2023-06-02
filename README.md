@@ -72,7 +72,8 @@ channels:
 
 ### Tech Leads
 
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
+- Ali OK ([@aliok](https://github.com/aliok)), Red Hat
+- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), II
 
 ### TOC Liaisons
 
