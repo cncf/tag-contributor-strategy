@@ -8,6 +8,7 @@ speakers:
   - name: Dawn Foster
     url: https://github.com/geekygirldawn
 youtubeID: rOsrfxjhev0
+image: /images/video-thumbnails/keynote-building-a-sustainable-cncf-project-contributor-base.png
 featured: true
 featuredDescription: |
   Dawn Foster, TAG Contributor Strategy co-chair, makes a case for the importance of building a sustainable contributor base on the keynote stage at KubeCon Amsterdam, 2023.

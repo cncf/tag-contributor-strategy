@@ -87,25 +87,25 @@ func Hugo() error {
 func Deploy() error {
 	mg.Deps(docsy, syncGoMod, netlifySetup)
 
-	return shx.RunV("hugo", "-s", "website", "--debug", "--verbose", "-b", "https://contribute.cncf.io/")
+	return shx.Command("hugo", "--debug", "--verbose", "-b", "https://contribute.cncf.io/").In("website").RunV()
 }
 
 // Deploy branch builds the website, including future dated and draft posts
 func DeployBranch() error {
 	mg.Deps(docsy, syncGoMod, netlifySetup)
 
-	return shx.RunV("hugo", "-s", "website", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl())
+	return shx.Command("hugo", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl()).In("website").RunV()
 }
 
 // Deploy preview builds the website for a pull request, using the same build settings as the live site.
 func DeployPreview() error {
 	mg.Deps(docsy, syncGoMod, netlifySetup)
 
-	return shx.RunV("hugo", "-s", "website", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl())
+	return shx.Command("hugo", "--debug", "--buildDrafts", "--buildFuture", "--verbose", "-b", getBaseUrl()).In("website").RunV()
 }
 
 func syncGoMod() error {
-	return shx.RunV("go", "mod", "download")
+	return shx.Command("go", "mod", "download").In("website").RunV()
 }
 
 func getBaseUrl() string {
