@@ -62,7 +62,7 @@ Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing
 
 ### Community Management
 
-June 28th, 2023 @ 10:00am PT / 5:00pm GMT / [Your timezone here](https://time.is/compare/1000AM_28_June_2023_in_PT)
+June 28th, 2023 @ 10:00am PT / 17:00 UTC / [Your timezone here](https://time.is/compare/1000AM_28_June_2023_in_PT)
 
 [Add it to your Calendar](https://calendar.google.com/calendar/u/0/r?cid=linuxfoundation.org_o5avjlvt2cae9bq7a95emc4740@group.calendar.google.com)
 
