@@ -60,6 +60,45 @@ Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing
 
 ## What
 
+### Community Management
+
+June 28th, 2023 @ 10:00am PT / 17:00 UTC / [Your timezone here](https://time.is/compare/1000AM_28_June_2023_in_PT)
+
+[Add it to your Calendar](https://calendar.google.com/calendar/u/0/r?cid=linuxfoundation.org_o5avjlvt2cae9bq7a95emc4740@group.calendar.google.com)
+
+Managing a project is hard work. Maintainers are expected to wear many hats. Defining those hats early on can help a
+project grow and ultimately be sustainable enough to not rely on a few maintainers to do it all. Let’s deep dive in
+one role around - community and contributor management.
+
+In this session, we will discuss strategies on how to build out strategy around intentional community roles, groups,
+and more so you aren’t doing everything. What’s everything?
+* Creating, maintaining, and moderating mailing lists, slacks, forums, and more
+* Recruiting and onboarding new contributors: outreach, their documentation, workflows, and processes
+* Maintaining current contributors: swag, recognition programs, events, and more
+* Social media
+* User adoption strategies and operations
+* Governance operations
+* Website updates
+* Documentation
+
+The lack of a strategy in this area can lead to burnout, no new contributors, slow decline of adopters and users, and limited time working on the codebase.
+
+Sample discussion topics for breakout sessions:
+* What’s difficult about community and/or contributor management?
+* What are areas you wished you had help with? What are areas you wished you would have known about before you launched the project?
+* How could one of the referenced strategies help your group? What do you need to get up and running?
+
+Bio: Paris Pittman has spent the last 20 years helping communities grow and flourish — from building hometown Baltimore tech communities to driving belonging
+and sustainability in massive open source ecosystems like Kubernetes. Paris has contributed to Kubernetes for 7 years and served in leadership roles in the
+project as well as the CNCF ecosystem at large. These roles included: Kubernetes Rep on CNCF Governing Board, two term Kubernetes Steering Committee Member,
+emeritus Kubernetes sig-contributor-experience Chair, bootstrap member of the first Kubernetes Code of Conduct Committee, and bootstrap emeritus
+CNCF TAG Contributor Strategy and creator of the Maintainer Circle. Paris remains committed to advocating for all contributors and maintainers. She works
+at Apple in the Open Source Programs Office. 
+
+**Registration** is an emoji reaction to the invite on the thread in #maintainers-circle or email to [Dave Sudia](mailto:dsudia@datawire.io)
+
+**Notes:** https://docs.google.com/document/d/1OlRxoSWXDA4emDK_U1ff6djMgXeR8yJahrWC7RRzD7o/edit?usp=sharing
+
 ### CNCF Mentoring
 
 May 30th, 2023 @ 9:00am PT / 4:00pm GMT / [Your timezone here](https://time.is/compare/0900AM_30_May_2023_in_PT)
