@@ -107,7 +107,7 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
 ### Contributor Strategy Overview Diagram
-<img src="website/static/images/TAG-CS_roadmap_visual.png" alt="an image describing TAG Contributor strategy roadmap" align=middle width="800px">
+<img src="website/static/images/TAG-CS_roadmap_visual.png" alt="an image describing TAG Contributor strategy roadmap" align="middle" width="800px">
 
 ## Valued TAG Members
 
