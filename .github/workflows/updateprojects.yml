@@ -26,3 +26,7 @@ jobs:
          labels: automerge
          commit-message: Update Projects
          signoff: true
+         committer: LFCIBot <55727728+LFCIBot@users.noreply.github.com>
+         author: LFCIBot <55727728+LFCIBot@users.noreply.github.com>
+         body: |
+           Update projects
