@@ -20,7 +20,7 @@ jobs:
       uses: peter-evans/create-pull-request@v5
       with:
          token: ${{ secrets.PAT }}
-         branch-suffix: timestamp
+         branch: auto-update-projects
          path: .
          title: Update Projects
          labels: automerge
