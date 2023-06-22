@@ -15,6 +15,8 @@ speakers:
     url: https://github.com/jbkerkus
   - name: Catherine Paganini
     url: https://github.com/CathPag
+  - name: Jay Tihema
+    url: https://github.com/jaytiaki
 youtubeID: t8c_CYSrqaY
 image: /images/video-thumbnails/tag-contributor-strategy-what-we-get-out-of-it.png
 ---
