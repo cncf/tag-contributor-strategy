@@ -1027,10 +1027,10 @@
         "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#kubevirt-logos",
         "stack_overflow_url": null,
         "blog_url": null,
-        "mailing_list_url": null,
-        "slack_url": null,
+        "mailing_list_url": "https://groups.google.com/g/kubevirt-dev/",
+        "slack_url": "https://kubernetes.slack.com/archives/C8ED7RKFE",
         "gitter_url": null,
-        "youtube_url": "https://www.youtube.com/channel/UC2FH36TbZizw25pVT1P3C3g",
+        "youtube_url": "https://www.youtube.com/@KubeVirt",
         "language": "Go"
     },
     {
