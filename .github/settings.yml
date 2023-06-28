@@ -128,7 +128,7 @@ labels:
     color: 00ff00
   - name: wg/governance
     color: 2f4f4f
-  - name: wg/maintainer
+  - name: wg/maintainers-circle
     color: 00ffff
   - name: wg/contribgrowth
     color: ff00ff
