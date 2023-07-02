@@ -3039,7 +3039,7 @@
         "name": "Serverless Workflow",
         "path": "Application Definition & Image Build",
         "description": "Serverless Workflow Specification",
-        "homepage_url": "https://serverlessworkflow.github.io",
+        "homepage_url": "https://serverlessworkflow.io",
         "project": "sandbox",
         "repo_url": "https://github.com/serverlessworkflow/specification",
         "logo": "logos/serverless-workflow.svg",
