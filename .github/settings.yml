@@ -120,7 +120,7 @@ labels:
     color: 228b22
   - name: infra
     color: 000080
-  - name: help-wanted
+  - name: help wanted
     color: ffff54
   - name: good first issue
     color: ff8c00
