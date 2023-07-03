@@ -66,7 +66,7 @@ channels:
 
 ### TAG Chairs
 
-- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
+- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), CHAOSS Project
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
 - Catherine Paganini ([@CathPag](https://github.com/CathPag)), Buoyant
 
