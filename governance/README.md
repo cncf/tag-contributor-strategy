@@ -48,7 +48,7 @@ Discussion happens on the [contributor strategy mailing list](https://lists.cncf
 Facilitators:
 
 - Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), VMware
+- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), CHAOSS Project
 
 ## Directory
 
