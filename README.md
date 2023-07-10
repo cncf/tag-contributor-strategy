@@ -106,6 +106,10 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
+## Project Board
+
+All the activities of TAG Contributor Strategy as well as our Working Groups and Initiatives are tracked on our [Project Board](https://github.com/orgs/cncf/projects/25). We invite you to explore the board to stay updated on our ongoing endeavors. If you have a particular Issue or PR you'd like to contribute to, please feel free to join us in our efforts.
+
 ### Contributor Strategy Overview Diagram
 <img src="website/static/images/TAG-CS_roadmap_visual.png" alt="an image describing TAG Contributor strategy roadmap">
 
