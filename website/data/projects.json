@@ -2465,7 +2465,7 @@
     },
     {
         "name": "Meshery",
-        "path": "Service Mesh",
+        "path": "Automation & Configuration",
         "description": "Meshery, the cloud native manager",
         "homepage_url": "https://meshery.io",
         "project": "sandbox",
