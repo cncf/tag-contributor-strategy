@@ -64,10 +64,10 @@ Draft documents can be written up using the HackMD team space:[ https://hackmd.i
 
 Meetings to occur monthly, with extra meetings to manage special events and high effort parts of the mentoring schedule as needed. Calendar to be published on the CNCF public events calendar, and invites sent out upon joining the email list.
 
-* [Monthly meeting minutes](https://hackmd.io/@tag-cs-mentoring-wg/monthly-meeting)
+* [Monthly meeting minutes](https://hackmd.io/@tag-cs-mentoring-wg/monthly-meeting-2023)
 * [Calendar](https://tockify.com/cncf.public.events/monthly?search=Mentoring+WG)
 
-Initial meetings are biweekly, on the 2nd and 4th Tuesday of each month, at 20:00 UTC.  This meeting time may be updated in the future.
+Meetings are monthly, on the 2nd Tuesday of each month, at 9:00PM UTC. This meeting time may be updated in the future.
 
 Facilitators:
 
@@ -79,6 +79,10 @@ Facilitators:
 
 * Nate Waddington (Linux Foundation/CNCF)
 * Jay Tihema (ii)
+
+## Tech leads
+
+* Diane Mueller (Bitergia) — Statistics & Reporting lead ([@dmueller2001](https://github.com/dmueller2001))
 
 ## Interested parties
 
