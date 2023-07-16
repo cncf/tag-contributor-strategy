@@ -25,7 +25,8 @@ By fostering an environment where every voice is valued and respected, open sour
 ## Meeting formalities
 To ensure effective communication and a welcoming atmosphere during CNCF meetings, it is important to follow a few guidelines. Firstly, announce upcoming meetings on both the Slack channel and the mailing list to ensure maximum visibility and participation. Additionally, it is crucial to inform all attendees that CNCF meetings are recorded, promoting transparency and accountability. 
 Furthermore, make it a point to reference the CNCF code of conduct, emphasizing the importance of respectful and inclusive behavior throughout the meetings. Lastly, provide an opportunity for new participants to introduce themselves, allowing the rest of the attendees to also introduce themselves to the newcomers. This will foster a sense of community and facilitate networking among all participants.
-Facilitating Participation
+
+### Facilitating Participation
 Implementing "Raise Your Hand" and speaker queuing techniques is crucial for effective open source meeting moderation. By providing clear guidelines to participants on how to express their desire to speak, such as utilizing hand-raising features or using specific keywords in the chat, moderators can ensure a structured and organized discussion. Moderators should be managing speaker queues by actively acknowledging raised hands and maintaining a fair order of speakers. This involves keeping track of the order in which participants indicate their intent to speak and providing opportunities for each person to contribute. 
 
 By implementing these practices, moderators can create an inclusive and participatory environment where everyone has a chance to share their thoughts and ideas, fostering a sense of engagement and equal participation within the open source community.
@@ -44,10 +45,14 @@ Maintaining a respectful and productive meeting environment involves effectively
 
 If necessary, moderators can utilize muting options or engage in private discussions with the individuals involved to address their concerns or manage their behavior. The goal is to create a positive and inclusive space where everyone feels comfortable expressing their ideas and opinions without disruptions interfering with the overall meeting experience.
 
+Disruptive behavior in a meeting can vary, and it can be helpful to understand how to handle them effectively. For instance, if someone accidentally leaves their microphone on and generates background noise, the moderator can promptly mute their microphone to eliminate the disturbance. Another example is when a particular topic or discussion keeps recurring and deviates from the immediate or planned agenda. In such cases, the moderator can tactfully identify the issue and redirect the conversation, suggesting that the topic be added to the bottom the current agenda for a dedicated discussion that would ensure a thorough exploration without derailing the current topic or it could be saved for a future agenda. These examples demonstrate practical strategies for managing disruptive behavior while maintaining a respectful and productive meeting environment.
+
 ## Handling Conflict
 Handling conflicts is a critical aspect of effective moderation. Moderators play a crucial role in facilitating discussions when diverse viewpoints arise or potential conflicts emerge. Moderators should encourage active listening, promote understanding and empathy among participants. Emphasizing the importance of respectful dialogue fosters an environment where individuals can express their opinions without fear of judgment or hostility. 
 
 Encouraging the search for common ground helps bridge gaps and build consensus. Moderators should allow for healthy debates, providing space for constructive challenges and exploration of ideas. By promoting open and respectful exchanges, moderators create an atmosphere where conflicts can be navigated effectively, fostering a culture of collaboration and productive outcomes.
+
+There are practical tactics that moderators can employ when handling conflicts in meetings. One effective approach is restating opposing views within the context of the discussion at hand. By saying phrases like, "What I hear you saying is..." or "I want to ensure we're capturing the problem correctly, this is how I understand it...", moderators can help clarify differing perspectives and ensure that all participants have a shared understanding of the issues at stake. This tactic encourages participants to actively engage in the dialogue, express their viewpoints, and actively work towards finding common ground. By incorporating this approach, moderators can navigate conflicts with clarity and promote productive outcomes that emerge from respectful and open exchanges.
 
 ## Cheat Sheet
 - Announce upcoming meetings on both the Slack channel and the mailing list to ensure maximum visibility and participation.
