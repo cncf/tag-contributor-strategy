@@ -144,6 +144,10 @@ labels:
     color: 1e90ff
   - name: mentoring
     color: 7f0000
+  - name: administration
+    color: b059ec
+  - name: website
+    color: f18d0f
 
 # additional colors in this palette:
 # ff69b4
