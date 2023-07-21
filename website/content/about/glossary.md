@@ -20,13 +20,13 @@ A [Technical Advisory Group](https://github.com/cncf/toc/blob/main/tags/cncf-tag
 A Working Group is a team or committee within the CNCF focused on a specific area or topic. Working Groups collaborate to address specific challenges, develop standards, and produce documentation or artifacts related to their respective focus areas. List of WGs can be found in the [cncf/toc repository](https://github.com/cncf/toc#working-groups).
 
 ## TAG Working Group
-A [TAG](#technical-advisory-group--tag-) Working Group is a specific working group within the CNCF that operates under the [Technical Advisory Group](#technical-advisory-group--tag-) (TAG). It is a community-driven subgroup dedicated to addressing specific technical topics or challenges within the CNCF ecosystem. TAGs list their WGs in their [charter](#charter).
+A [TAG](#technical-advisory-group-tag) Working Group is a specific working group within the CNCF that operates under the [Technical Advisory Group](#technical-advisory-group-tag) (TAG). It is a community-driven subgroup dedicated to addressing specific technical topics or challenges within the CNCF ecosystem. TAGs list their WGs in their [charter](#charter).
 
 ## Technical Oversight Committee (TOC)
 [The Technical Oversight Committee](https://github.com/cncf/toc) is a governing body within the CNCF responsible for overseeing the [technical direction](#project-roadmap), [project lifecycle](#project-lifecycle), and overall [technical health of projects](#project-health) hosted under the CNCF. The TOC ensures that projects align with the CNCF's goals and standards.
 
 ## Charter
-A Charter is a formal document that outlines the purpose, goals, scope, responsibilities, and structure of a particular group or organization. In the context of the CNCF, a Charter may refer to the guiding principles and objectives of a project, [TAG](#technical-advisory-group--tag-), [working group](#working-group), or committee. More information about charter can be found in the [Charter guide](https://contribute.cncf.io/maintainers/governance/charter/).
+A Charter is a formal document that outlines the purpose, goals, scope, responsibilities, and structure of a particular group or organization. In the context of the CNCF, a Charter may refer to the guiding principles and objectives of a project, [TAG](#technical-advisory-group-tag), [working group](#working-group), or committee. More information about charter can be found in the [Charter guide](https://contribute.cncf.io/maintainers/governance/charter/).
 
 ## Code of Conduct
 A Code of Conduct is a set of guidelines and rules that define the expected behaviour and interactions within a community or organization. [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md) promotes inclusivity, respectful communication, and creates a safe environment for collaboration among community members. CNCF Community Code of Conduct has translations in various languages.
@@ -50,7 +50,7 @@ An end user is an individual or organization that utilizes or benefits from the 
 A [Cloud Native Ambassador](https://www.cncf.io/people/ambassadors/) is an individual who acts as a representative and advocate for cloud-native technologies and the CNCF ecosystem. Ambassadors promote awareness, knowledge sharing, and adoption of cloud-native computing concepts.
 
 ## TOC Liaison
-A TOC Liaison is an individual who serves as a point of contact and facilitates communication between the [Technical Oversight Committee](#technical-oversight-committee--toc-) (TOC) and other teams, [TAG](#technical-advisory-group--tag-)s, [working group](#working-group)s, or projects within the CNCF. The liaison helps ensure effective coordination and collaboration.
+A TOC Liaison is an individual who serves as a point of contact and facilitates communication between the [Technical Oversight Committee](#technical-oversight-committee-toc) (TOC) and other teams, [TAG](#technical-advisory-group-tag)s, [working group](#working-group)s, or projects within the CNCF. The liaison helps ensure effective coordination and collaboration.
 
 ## Governance
 Governance refers to the set of processes, policies, and structures that guide decision-making, accountability, and overall management of an organization or community. It establishes rules and principles for maintaining order, transparency, and fairness.
@@ -65,7 +65,7 @@ A contributor ladder is a structured framework or progression path that defines 
 Lazy consensus is a decision-making principle commonly used in open source communities. It means that if no objections or concerns are raised within a specified timeframe, a decision or proposal is considered accepted. Lazy consensus empowers individuals to contribute and make decisions effectively.
 
 ## Quorum
-Quorum refers to the minimum number of members required for a meeting or decision-making process to be valid. In the context of the CNCF, quorum may be necessary for voting or making significant decisions within committees, [TAG](#technical-advisory-group--tag-)s, [working group](#working-group)s, or [governance](#governance) bodies.
+Quorum refers to the minimum number of members required for a meeting or decision-making process to be valid. In the context of the CNCF, quorum may be necessary for voting or making significant decisions within committees, [TAG](#technical-advisory-group-tag)s, [working group](#working-group)s, or [governance](#governance) bodies.
 
 ## Open Source License
 An Open Source license is a legal instrument that grants permissions and defines the terms under which others can use, modify, and distribute an open source project or its source code. Licenses ensure that open source projects remain free and accessible while protecting the rights of contributors. CNCF's approved licenses can be found [here](https://github.com/cncf/foundation/blob/main/allowed-third-party-license-policy.md#approved-licenses-for-allowlist).
