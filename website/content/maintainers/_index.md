@@ -16,4 +16,7 @@ TAG Contributor Strategy provides guidance for project maintainers on how to bui
 
 {{% /blocks/lead %}}
 
-TODO: text about that there might be terms that are not clear and that we have a glossary for that at [glossary](/about/glossary)
+## Unknown Terms?
+
+If you encounter any unfamiliar terms in this document or on our website, we have a [glossary](/resources/glossary)
+available.
