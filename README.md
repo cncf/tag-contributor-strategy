@@ -26,7 +26,12 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
   - [Mentoring WG](#mentoring-wg)
   - [Maintainer's Circle](#maintainers-circle)
   - [Inclusiveness Team](#inclusiveness-team)
-  - [Community Infrastructure Team](#community-infrastructure-team)
+    
+- [Project Board](#project-board)
+      
+- [Contributor Strategy Overview Diagram](#contributor-strategy-overview-diagram)
+  
+- [Valued TAG Members](#valued-tag-members)
 
 ## Meetings
 
@@ -109,7 +114,7 @@ Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
 All the activities of TAG Contributor Strategy as well as our Working Groups and Initiatives are tracked on our [Project Board](https://github.com/orgs/cncf/projects/25). We invite you to explore the board to stay updated on our ongoing endeavors. If you have a particular Issue or PR you'd like to contribute to, please feel free to join us in our efforts.
 
-### Contributor Strategy Overview Diagram
+## Contributor Strategy Overview Diagram
 <img src="website/static/images/TAG-CS_roadmap_visual.png" alt="an image describing TAG Contributor strategy roadmap">
 
 ## Valued TAG Members
