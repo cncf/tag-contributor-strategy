@@ -16,6 +16,11 @@ However, contributing to the CNCF ecosystem is not just about coding. There are 
 
 Are you new to open source? If so, we recommend checking out our comprehensive guide, ["Start Contributing to Open Source"](getting-started.md). This guide is filled with helpful tips and tricks to help you get started with contributing to open source projects. You'll learn about communities and projects, how to find them, how to conform to community standards, and much more.
 
+## Unknown Terms?
+
+If you encounter any unfamiliar terms in this document or on our website, we have a [glossary](/resources/glossary)
+available.
+
 ## Contribution Opportunities
 
 ### Mentorship Programs
