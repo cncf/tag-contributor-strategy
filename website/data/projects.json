@@ -2203,7 +2203,7 @@
         "name": "kpt",
         "path": "Automation & Configuration",
         "description": "Automate Kubernetes Configuration Editing",
-        "homepage_url": "https://kpt.io",
+        "homepage_url": "https://kpt.dev",
         "project": "sandbox",
         "repo_url": "https://github.com/GoogleContainerTools/kpt",
         "logo": "logos/kpt.svg",
