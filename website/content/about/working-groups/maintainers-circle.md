@@ -103,30 +103,8 @@ roles than this and the Circle welcomes all decision makers.
 ## Schedule
 
 <div class="text-left">
-
-December 17, 2020
-Thursday, 10:30am PT / 06:30pm GMT [Your timezone here](https://time.is/compare/1030AM_17_Dec_2020_in_PT)
-
-**Registration** is an emoji reaction to the invite on the announcement thread in
-#maintainer-circle
-
-**First half + breakouts:**
-In 2017, Dorothy Howard spoke at SciPy on the research and effects of burnout on
-FOSS maintainers. She follows up with us on what’s happened since conducting
-new and ongoing qualitative research and interviews with maintainers on
-burnout, mental health, and software sustainability sponsored by the Ford/Sloan
-Foundations and the NSF. After a 20minute talk, Dorothy will seed the audience
-questions about burnout as you break out into small breakout rooms with your
-fellow maintainers in a 15minute session.
-
-**Second half + breakouts:**
-We'll have a fireside chat with Aaron Crickenberger, Emeritus Kubernetes
-Steering Committee Member, co-chair of SIG-Testing, and subproject owner in
-multiple SIGs, about his experiences with burnout. It's been a 5 year journey
-with Kubernetes; we'll hear some of the realistic and honest ways Aaron tackles
-time management and self care while steering huge ships. In this 15 minute
-session, you can ask questions live to Aaron as a group, and then breakout
-into final small groups of the session.
+    For the most up-to-date information on upcoming events, and to review past events,
+    visit the <a href="https://github.com/cncf/tag-contributor-strategy/blob/main/maintainers-circle/README.md#what">Maintainer's Circle README</a>.
 
 </div>
 {{% /blocks/section %}}
