@@ -951,7 +951,7 @@
         "description": "Knative is a developer-focused serverless application layer which is a great complement to the existing Kubernetes application constructs. Knative consists of three components: an HTTP-triggered autoscaling container runtime called \u201cKnative Serving\u201d, a CloudEvents-over-HTTP asynchronous routing layer called \u201cKnative Eventing\u201d, and a developer-focused function framework which leverages the Serving and Eventing components, called \"Knative Functions\".",
         "homepage_url": "https://knative.dev",
         "project": "incubating",
-        "repo_url": "https://github.com/knative/community",
+        "repo_url": "https://github.com/knative/serving",
         "logo": "logos/knative.svg",
         "twitter": "https://twitter.com/KnativeProject",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -1146,10 +1146,10 @@
     {
         "name": "Notary",
         "path": "Security & Compliance",
-        "description": "Notary is a project that allows anyone to have trust over arbitrary collections of data",
+        "description": "A CLI tool to sign and verify OCI artifacts and container images",
         "homepage_url": "https://notaryproject.dev/",
         "project": "incubating",
-        "repo_url": "https://github.com/notaryproject/notary",
+        "repo_url": "https://github.com/notaryproject/notation",
         "logo": "logos/notary.svg",
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -1212,10 +1212,10 @@
     {
         "name": "OpenTelemetry",
         "path": "Tracing",
-        "description": "OpenTelemetry community content",
+        "description": "OpenTelemetry Java SDK",
         "homepage_url": "https://opentelemetry.io/",
         "project": "incubating",
-        "repo_url": "https://github.com/open-telemetry/community",
+        "repo_url": "https://github.com/open-telemetry/opentelemetry-java",
         "logo": "logos/open-telemetry.svg",
         "twitter": "https://twitter.com/opentelemetry",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -1229,7 +1229,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/opentelemetry",
         "gitter_url": "https://gitter.im/open-telemetry/community",
         "youtube_url": null,
-        "language": "C#"
+        "language": "Java"
     },
     {
         "name": "Operator Framework",
@@ -1452,6 +1452,28 @@
         "language": "Go"
     },
     {
+        "name": "Capsule",
+        "path": "Scheduling & Orchestration",
+        "description": "Capsule implements a multi-tenant and policy-based environment in your Kubernetes cluster. It is designed as a micro-services-based ecosystem with the minimalist approach, leveraging only on upstream Kubernetes.",
+        "homepage_url": "https://capsule.clastix.io",
+        "project": "sandbox",
+        "repo_url": "https://github.com/clastix/capsule",
+        "logo": "logos/capsule.svg",
+        "twitter": "https://twitter.com/clastixio",
+        "crunchbase": "https://www.crunchbase.com/organization/clastix",
+        "chat_channel": null,
+        "accepted": "2022-12-13",
+        "dev_stats_url": "https://capsule.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Carina",
         "path": "Cloud Native Storage",
         "description": "Carina: an high performance and ops-free local storage for kubernetes",
@@ -1572,7 +1594,7 @@
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
-        "accepted": "2022-6-17",
+        "accepted": "2022-06-17",
         "dev_stats_url": "https://clusterpedia.devstats.cncf.io/",
         "artwork_url": null,
         "stack_overflow_url": null,
@@ -1611,7 +1633,7 @@
         "description": "Confidential Containers is an open source community working to enable cloud native  confidential computing by leveraging Trusted Execution Environments to protect  containers and data.",
         "homepage_url": "https://github.com/confidential-containers",
         "project": "sandbox",
-        "repo_url": "https://github.com/confidential-containers/documentation",
+        "repo_url": "https://github.com/confidential-containers/operator",
         "logo": "logos/confidential-containers.svg",
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -1625,7 +1647,7 @@
         "slack_url": "https://cloud-native.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": null
+        "language": "Go"
     },
     {
         "name": "ContainerSSH",
@@ -1682,7 +1704,7 @@
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
-        "accepted": "2022-09-14",
+        "accepted": "2022-06-17",
         "dev_stats_url": null,
         "artwork_url": null,
         "stack_overflow_url": null,
@@ -1718,10 +1740,10 @@
     {
         "name": "DevSpace",
         "path": "Application Definition & Image Build",
-        "description": "DevSpace - The Fastest Developer Tool for Kubernetes \u26a1 Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.",
+        "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
         "homepage_url": "https://devspace.sh",
         "project": "sandbox",
-        "repo_url": "https://github.com/devspace-sh/devspace",
+        "repo_url": "https://github.com/devspace-sh/devspace-cloud",
         "logo": "logos/dev-space.svg",
         "twitter": "https://twitter.com/DevSpace",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -1735,7 +1757,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/devspace",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Go"
+        "language": null
     },
     {
         "name": "DevStream",
@@ -1924,8 +1946,8 @@
         "twitter": "https://twitter.com/headlamp_ui",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
-        "accepted": null,
-        "dev_stats_url": null,
+        "accepted": "2023-05-17",
+        "dev_stats_url": "https://headlamp.devstats.cncf.io/",
         "artwork_url": null,
         "stack_overflow_url": null,
         "blog_url": null,
@@ -2012,8 +2034,8 @@
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
-        "accepted": null,
-        "dev_stats_url": null,
+        "accepted": "2023-03-07",
+        "dev_stats_url": "https://inspektorgadget.devstats.cncf.io/",
         "artwork_url": null,
         "stack_overflow_url": null,
         "blog_url": null,
@@ -2354,6 +2376,28 @@
         "language": "Go"
     },
     {
+        "name": "KubeClipper",
+        "path": "Certified Kubernetes - Installer",
+        "description": "Manage kubernetes in the most light and convenient way.",
+        "homepage_url": "https://www.kubeclipper.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kubeclipper/kubeclipper",
+        "logo": "logos/kube-clipper.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/99cloud",
+        "chat_channel": null,
+        "accepted": "2023-06-30",
+        "dev_stats_url": "https://kubeclipper.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "KubeDL",
         "path": "Automation & Configuration",
         "description": "Run your deep learning workloads on Kubernetes more easily and efficiently.",
@@ -2364,7 +2408,7 @@
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
-        "accepted": "2020-06-22",
+        "accepted": "2021-06-22",
         "dev_stats_url": "https://kubedl.devstats.cncf.io/",
         "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#kubedl-logos",
         "stack_overflow_url": null,
@@ -2574,6 +2618,28 @@
         "language": "Go"
     },
     {
+        "name": "MetalLB",
+        "path": "Service Proxy",
+        "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+        "homepage_url": "https://metallb.universe.tf",
+        "project": "sandbox",
+        "repo_url": "https://github.com/metallb/metallb",
+        "logo": "logos/metal-lb.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/metallb",
+        "chat_channel": "#metallb",
+        "accepted": "2021-09-14",
+        "dev_stats_url": "https://metallb.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "https://slack.k8s.io/",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Metal\u00b3",
         "path": "Automation & Configuration",
         "description": "Bare metal host provisioning integration for Kubernetes",
@@ -2620,10 +2686,10 @@
     {
         "name": "Network Service Mesh",
         "path": "Cloud Native Network",
-        "description": "The Hybrid/Multi-cloud IP Service Mesh",
+        "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
         "homepage_url": "https://networkservicemesh.io/",
         "project": "sandbox",
-        "repo_url": "https://github.com/networkservicemesh/networkservicemesh",
+        "repo_url": "https://github.com/networkservicemesh/api",
         "logo": "logos/network-service-mesh.svg",
         "twitter": "https://twitter.com/nservicemesh",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -2664,10 +2730,10 @@
     {
         "name": "Open Cluster Management",
         "path": "Scheduling & Orchestration",
-        "description": "Contains useful documentation on the OCM project. Report here if you found any issues in OCM.",
+        "description": "Core APIs for open cluster management",
         "homepage_url": "https://open-cluster-management.io/",
         "project": "sandbox",
-        "repo_url": "https://github.com/open-cluster-management-io/ocm",
+        "repo_url": "https://github.com/open-cluster-management-io/api",
         "logo": "logos/open-cluster-management.svg",
         "twitter": "https://twitter.com/ocm_io",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -2681,7 +2747,7 @@
         "slack_url": "https://kubernetes.slack.com/archives/C01GE7YSUUF",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UC7xxOh2jBM5Jfwt3fsBzOZw",
-        "language": "Shell"
+        "language": "Go"
     },
     {
         "name": "Open Policy Containers",
@@ -2777,7 +2843,7 @@
         "description": "Standardizing Feature Flagging for Everyone",
         "homepage_url": "https://openfeature.dev/",
         "project": "sandbox",
-        "repo_url": "https://github.com/open-feature/community",
+        "repo_url": "https://github.com/open-feature/spec",
         "logo": "logos/open-feature.svg",
         "twitter": "https://twitter.com/openfeature",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -2791,7 +2857,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/openfeature",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw",
-        "language": "JavaScript"
+        "language": "Python"
     },
     {
         "name": "OpenFGA",
@@ -2972,10 +3038,10 @@
     {
         "name": "Piraeus Datastore",
         "path": "Cloud Native Storage",
-        "description": "High Available Datastore for Kubernetes",
+        "description": "The Piraeus Operator manages LINSTOR clusters in Kubernetes.",
         "homepage_url": "https://piraeus.io/",
         "project": "sandbox",
-        "repo_url": "https://github.com/piraeusdatastore/piraeus",
+        "repo_url": "https://github.com/piraeusdatastore/piraeus-operator",
         "logo": "logos/piraeus-datastore.svg",
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -2989,7 +3055,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Shell"
+        "language": "Go"
     },
     {
         "name": "Pixie",
@@ -3584,6 +3650,28 @@
         "gitter_url": null,
         "youtube_url": null,
         "language": "Go"
+    },
+    {
+        "name": "Xline",
+        "path": "Coordination & Service Discovery",
+        "description": "Xline is a high-performance geo-distributed metadata management system, which is compatible with the ETCD interface.",
+        "homepage_url": "https://www.xline.cloud",
+        "project": "sandbox",
+        "repo_url": "https://github.com/xline-kv/Xline",
+        "logo": "logos/xline.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/beijing-datenlord-technology",
+        "chat_channel": null,
+        "accepted": "2023-06-30",
+        "dev_stats_url": "https://xline.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Rust"
     },
     {
         "name": "zot",
