@@ -1740,10 +1740,10 @@
     {
         "name": "DevSpace",
         "path": "Application Definition & Image Build",
-        "description": "CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.",
+        "description": "DevSpace Cloud \u26a1 Turn Kubernetes into a  Powerful Developer Platform (new on-premise edition)",
         "homepage_url": "https://devspace.sh",
         "project": "sandbox",
-        "repo_url": "https://github.com/devspace-sh/devspace-cloud",
+        "repo_url": "https://github.com/devspace-cloud/devspace-cloud",
         "logo": "logos/dev-space.svg",
         "twitter": "https://twitter.com/DevSpace",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -1757,7 +1757,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/devspace",
         "gitter_url": null,
         "youtube_url": null,
-        "language": null
+        "language": "Open Policy Agent"
     },
     {
         "name": "DevStream",
@@ -1828,10 +1828,10 @@
     {
         "name": "Eraser",
         "path": "Scheduling & Orchestration",
-        "description": "Eraser helps Kubernetes admins remove a list of non-running images from all Kubernetes nodes in a cluster.",
-        "homepage_url": "https://azure.github.io/eraser/",
+        "description": "Eraser uses vulnerability data to remove non-running images from all Kubernetes nodes in a cluster.",
+        "homepage_url": "https://eraser-dev.github.io/eraser/",
         "project": "sandbox",
-        "repo_url": "https://github.com/Azure/eraser",
+        "repo_url": "https://github.com/eraser-dev/eraser",
         "logo": "logos/eraser.svg",
         "twitter": "https://twitter.com/CloudNativeFdn",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
