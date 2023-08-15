@@ -26,6 +26,7 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
   - [Mentoring WG](#mentoring-wg)
   - [Maintainer's Circle](#maintainers-circle)
   - [Inclusiveness Team](#inclusiveness-team)
+  - [Deaf and Hard Of Hearing Initiative](#deaf-and-hard-of-hearing-initiative)
     
 - [Project Board](#project-board)
       
@@ -105,10 +106,13 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 
 [Charter](/maintainers-circle/README.md)
 
-
 ### Inclusiveness Team
 
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
+
+### Deaf and Hard Of Hearing Initiative
+
+Status: [New Initiative Under Development](/deaf-and-hard-of-hearing/README.md)
 
 ## Project Board
 
