@@ -146,18 +146,18 @@ Communication and Meetings:
 
 --->
 
-| Governance Area | Coverage | Finding Notes |
-|:----------------|:--------:|:--------------|
-| Project Purpose | Complete/Partial/Missing/Unknown | |
-| Maintainer List | Complete/Partial/Missing/Unknown | |
-| Code of Conduct | Complete/Partial/Missing/Unknown | |
-| Contributor Guide | Complete/Partial/Missing/Unknown | |
-| Contributor Ladder | Complete/Partial/Missing/Unknown | |
-| Maintainer Lifecycle | Complete/Partial/Missing/Unknown | |
-| Decision-making | Complete/Partial/Missing/Unknown | |
-| Code and Docs Ownership | Complete/Partial/Missing/Unknown | |
-| Security Reporting and response | Complete/Partial/Missing/Unknown | |
-| Communication and Meetings | Complete/Partial/Missing/Unknown | |
+| Governance Area | Coverage | Documents | Finding Notes |
+|:----------------|:--------:|:------:|:--------------|
+| Project Purpose | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Maintainer List | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Code of Conduct | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Contributor Guide | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Contributor Ladder | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Maintainer Lifecycle | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Decision-making | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Code and Docs Ownership | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Security Reporting and response | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Communication and Meetings | Complete/Partial/Missing/Unknown | *LINKS* | |
 
 
 
