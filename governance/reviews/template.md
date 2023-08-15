@@ -43,7 +43,7 @@ Make sure you use a snapshot of the governance documents for your assessment and
 The following issues have been identified that need to be resolved before [project milestone or other requirement]:
 <!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered blockers to project advancement. For each item in this list, a corresponding detailed description should be placed in the Findings table. Note that which items are required depends on the project's maturity level.
 
-Items in the "Governance Findings Table" at the bottom with "Blocker" importance should be reported here as must-fix items.
+Items in the "Governance Findings Table" at the bottom with "Critical" importance should be reported here as must-fix items.
 
 If there are no must-fix items, do not delete the section but write that there are no must-fix items.
 --->
@@ -59,7 +59,7 @@ The following aspects of governance are exemplary, and can be referenced as exam
 ### Areas for Improvement
 
 Over the next year, the project should work on the following issues to improve its governance, these are considered non-blocking:
-<!--- This is a summarized listing of longer term improvement areas for the project. These items are strongly encouraged but not required for the project's maturity level. Fully detailed descriptions are found in the Finding Table. Items listed here should be in priority ordering. Items in the "Governance Findings Table" at the bottom except the "Blocker" importance should be reported here. -->
+<!--- This is a summarized listing of longer term improvement areas for the project. These items are strongly encouraged but not required for the project's maturity level. Fully detailed descriptions are found in the Finding Table. Items listed here should be in priority ordering. Items in the "Governance Findings Table" at the bottom except the "Critical" importance should be reported here. -->
 
 *
 
@@ -237,18 +237,17 @@ Areas of potential future development include:
 ### Governance Findings Table
 <!--- Add additional rows as necessary. For each finding described above, it should also be included here with further detail. 
 
-Should be reported as Must fix:
-- Blocker: blocker
+Should be reported as must-fix:
+- Critical
 
 Should be reported as "Areas for Improvement"
-- High: not blocker, but important
 - Medium/low: needs improvement
 
 --->
 
 | Finding Title | Importance | Description |
 |:------------- |:----------:|:------------|
-| *Title* | Blocker/High/Medium/Low | *detailed description* |
+| *Title* | Critical/Medium/Low | *detailed description* |
 
 
 ### Previous Reviews
