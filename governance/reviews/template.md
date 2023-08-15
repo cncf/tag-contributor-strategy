@@ -200,7 +200,7 @@ Governance Drift can occur when the executed and observable governance of a proj
 
 The project [does/does] not experience governance drift as indicated by...
 
-### Ownership
+#### Ownership
 
 <!--- Request that CNCF staff carry out an audit (via Sheriff) that the explicit governance of the project matches GitHub permissions. Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership that they are supposed to. Also check that there aren't individuals who have broad permissions that aren't explained by any official project role.  Not applicable for projects joining the CNCF. --->
 
