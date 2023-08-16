@@ -56,4 +56,6 @@ If your project requires governance templates, please explore the [CNCF project 
 
 Additionally, we encourage projects to explore the ["Templates"](https://contribute.cncf.io/maintainers/templates/) section on our website. This section contains "How To" guides that explain the template's usage through examples, comprehensive instructions, and links to other projects that have inspired aspects of this initiative.
 
+Please also visit our [website](https://contribute.cncf.io/about/governance/) to learn more about the work of the Governance Working Group.
+
 We regularly update and improve these resources, and your active participation and contributions to this working group's efforts are encouraged.
