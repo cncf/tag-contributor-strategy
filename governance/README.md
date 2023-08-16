@@ -1,4 +1,4 @@
-# Governance
+# Governance Working Group
 
 The Governance working group of Contributor Strategy aims to assist all CNCF projects with implementing good open source governance practices.  If you are looking for the governance documents of TAG-Contributor-Strategy itself, please refer to our [Contributing Guide](/CONTRIBUTING.md), which provides more details.
 
