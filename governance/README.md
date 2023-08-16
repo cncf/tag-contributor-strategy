@@ -1,6 +1,6 @@
 # Governance
 
-The Governance working group of Contributor Strategy aims to assist all CNCF projects with implementing good open source governance practices.  If you are looking for the governance documents of TAG-Contributor-Strategy itself, please read our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
+The Governance working group of Contributor Strategy aims to assist all CNCF projects with implementing good open source governance practices.  If you are looking for the governance documents of TAG-Contributor-Strategy itself, please refer to our [Contributing Guide](/CONTRIBUTING.md), which provides more details.
 
 If you are interested in helping with this project, please speak up on #tag-contributor-strategy in [CNCF Slack](https://cloud-native.slack.com/archives/CT6CWS1JN), or on the [mailing list](https://lists.cncf.io/g/cncf-tag-contributor-strategy).
 
