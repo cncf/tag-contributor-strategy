@@ -1,8 +1,8 @@
 # Governance
 
-The Governance working group of Contributor Strategy aims to assist all CNCF projects with implementing good open source governance practices.  If you are looking for the governance documents of TAG-Contributor-Strategy itself, please read CONTRIBUTING.md.
+The Governance working group of Contributor Strategy aims to assist all CNCF projects with implementing good open source governance practices.  If you are looking for the governance documents of TAG-Contributor-Strategy itself, please read our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
-If you are interested in helping with this project, please speak up on #tag-contributor-strategy in CNCF Slack, or on the mailing list.
+If you are interested in helping with this project, please speak up on #tag-contributor-strategy in [CNCF Slack](https://cloud-native.slack.com/archives/CT6CWS1JN), or on the [mailing list](https://lists.cncf.io/g/cncf-tag-contributor-strategy).
 
 ## Goals of the Working Group
 
@@ -33,10 +33,8 @@ The following are examples of things outside of the scope of this working group:
 The following contributors are currently "members" of this working group:
 
 * Josh Berkus
-* April Kyle Nassi
 * Dawn Foster
-* Jennifer Davis
-* Davanum Srinivas
+* Ali Ok
 
 ## Meetings
 
@@ -47,12 +45,15 @@ Discussion happens on the [contributor strategy mailing list](https://lists.cncf
 
 Facilitators:
 
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), CHAOSS Project
+* Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
+* Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), CHAOSS Project
 
-## Directory
+## Resources
 
-Currently we have the following content in this working group:
+We provide resources to CNCF projects that are focused on implementing or enhancing governance processes. Projects can discover more about the available governance options and their impact on their project by visiting the [Governance section](https://contribute.cncf.io/maintainers/governance/) on our website.
 
-* **docs**: documents offering advice, processes, implementation details, and other information for project governance. Documents here are for the benefit of project leaders trying to improve their governance.
-* **draft-requirements**: directory of suggested changes to the CNCF requirements for project governance, with supporting materials.  Documents in this folder will be shared with the TOC when they revise the acceptance and diligence process.
+If your project requires governance templates, please explore the [CNCF project template repository](https://github.com/cncf/project-template). Projects have the option to either replicate the entire template or select specific sections to incorporate into your existing documentation.
+
+Additionally, we encourage projects to explore the ["Templates"](https://contribute.cncf.io/maintainers/templates/) section on our website. This section contains "How To" guides that explain the template's usage through examples, comprehensive instructions, and links to other projects that have inspired aspects of this initiative.
+
+We regularly update and improve these resources, and your active participation and contributions to this working group's efforts are encouraged.
