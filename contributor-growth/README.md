@@ -13,7 +13,6 @@ with sustainably growing their contributor base.
     higher levels of responsibility.
   * Support their maintainers with advice and resources that improve sustainability
     and plan for transitions from the project.
-    
 
 ## Scope
 
@@ -43,45 +42,45 @@ The following are examples of things out-of-scope:
 * Day to day support for improving the contribution experience for CNCF projects. Instead, CNCF projects should take on this support themselves (for
   example, Kubernetes has SIG Contributor Experience).
 
-## Members
-
-* Carolyn Van Slyck - [@carolynvs](https://github.com/carolynvs) (Lead)
-* Karen Chu - [@karenhchu](https://github.com/karenhchu)
-* Paris Pittman - [@parispittman](https://github.com/parispittman)
-* Jennifer Davis - [@iennae](https://github.com/iennae)
-* Catherine Paganini - [@cathpag](https://github.com/CathPag)
-
-Don't see your name? That was an oversight! Open a PR and add yourself. ❤️
-
 ## Meetings
 
 We meet once a month.
-Go to [the CNCF calendar](https://tockify.com/cncf.public.events/monthly?search=Contributor+Growth+WG) to see when we meet next.
+Go to the [CNCF calendar] to see when we meet next.
 
 Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Slack].
 
 [mailing list]: https://lists.cncf.io/g/cncf-tag-contributor-strategy
 [Slack]: https://slack.cncf.io/
+[CNCF calendar]:(https://tockify.com/cncf.public.events/monthly?search=Contributor+Growth+WG)
 
-Facilitators:
+### Facilitators
 
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
+* Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
 
 ## Initiatives
+
 ### Community Infrastructure Initiative
+
 There are a growing number of folks looking to share information across projects about how to handle various common technical community task.
 You can read more about this initiative from the proposal document below.
 
 Status: [Proposed](https://hackmd.io/mmPVK1PCQD2swm1GrzB0NQ)
 
 Interisted parties:
-- Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
-- Hippie Hacker ([@hh](https://github.com/hh)), ii
 
-# Documentation
+* Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
+* Hippie Hacker ([@hh](https://github.com/hh)), ii
+
+## Documentation
 
 Our documentation is shared in the [contribute.cncf.io] website.
 
 [contribute.cncf.io]: https://contribute.cncf.io/
+
+## Our Founding Members
+
+* Carolyn Van Slyck - [@carolynvs](https://github.com/carolynvs) (Lead)
+* Karen Chu - [@karenhchu](https://github.com/karenhchu)
+* Paris Pittman - [@parispittman](https://github.com/parispittman)
+* Jennifer Davis - [@iennae](https://github.com/iennae)
+* Catherine Paganini - [@cathpag](https://github.com/CathPag)
