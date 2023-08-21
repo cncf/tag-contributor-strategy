@@ -54,7 +54,7 @@ We provide resources to CNCF projects that are focused on implementing or enhanc
 
 If your project requires governance templates, please explore the [CNCF project template repository](https://github.com/cncf/project-template). Projects have the option to either replicate the entire template or select specific sections to incorporate into your existing documentation.
 
-Additionally, we encourage projects to explore the ["Templates"](https://contribute.cncf.io/maintainers/templates/) section on our website. This section contains "How To" guides that explain the template's usage through examples, comprehensive instructions, and links to other projects that have inspired aspects of this initiative.
+Whether your project is creating your first governance document or looking for ways to improve on existing governance models, we encourage projects to explore the ["Templates"](https://contribute.cncf.io/maintainers/templates/) section on our website. This section contains "How To" guides that explain the governance template's usage through examples, comprehensive instructions, and links to other projects that have inspired aspects of this initiative. The templates themselves live in the [CNCF project template repository](https://github.com/cncf/project-template) repository, but we encourage projects to start with the "How To" guides on the website before diving into the templates directly.
 
 Please also visit our [website](https://contribute.cncf.io/about/governance/) to learn more about the work of the Governance Working Group.
 
