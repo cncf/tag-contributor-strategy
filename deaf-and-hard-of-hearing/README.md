@@ -33,5 +33,5 @@ Create a supportive and inclusive cloud native/open source community that offers
 
 * CNCF Slack: [#deaf-and-hard-of-hearing](https://cloud-native.slack.com/archives/C05BYNK8A3V)
 * Monthly meetings:
-  * Every fourth Tuesday of the month (for details check the [CNCF Calendar](https://www.cncf.io/calendar/))
+  * Every fourth Tuesday of the month (for details check the [CNCF Calendar](https://tockify.com/cncf.public.events/monthly?search=Deaf%20and%20Hard%20of%20Hearing%20WG))
   * [Meeting minutes/agenda](https://docs.google.com/document/d/1VUPJFOx36JqbgydkMRZPufP1dAEHWMnfviqMNI-jBLo/edit)
