@@ -10,7 +10,7 @@ description: >
 A roadmap is a strategic plan that outlines the goals and direction of an open source project. For open source projects, having a well-defined roadmap is crucial.
 
 - A roadmap provides a **clear vision and purpose for the project**, helping contributors understand the project's objectives and direction. This clarity motivates them to work towards common goals.
-- Roadmaps **aid project management** by setting priorities, allocating resources, and coordinating efforts. They ensure that development tasks are well-organized and yield meaningful outcomes.
+- Roadmaps may **aid project management**. They may be leveraged to set priorities, allocate resources, and coordinate efforts. When used effectively, they ensure that development tasks are well-organized and yield meaningful outcomes in a consistent, transparent manner.
 - With many feature requests and contributions, roadmaps **help prioritize tasks** based on their importance and alignment with project goals. This keeps development efforts focused on key areas.
 - Transparently sharing the roadmap **attracts contributors** by showcasing ongoing efforts and how their skills fit into the project's future.
 - Roadmaps foster trust by **offering transparency into development plans and progress**, ensuring contributors feel confident in the project's management and also good to guide the users and downstream adoptions. Users and companies can receive advanced notifications about upcoming developments, enabling them to strategically devise their individualized utilization strategies for the software.
