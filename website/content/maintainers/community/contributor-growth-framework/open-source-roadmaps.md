@@ -14,7 +14,7 @@ A roadmap is a strategic plan that outlines the goals and direction of an open s
 - With many feature requests and contributions, roadmaps **help prioritize tasks** based on their importance and alignment with project goals. This keeps development efforts focused on key areas.
 - Publishing the roadmap to the projects repo could **attract and retain contributors** by highlighting ongoing and planned efforts, enabling contributors to identify areas and times when their skills fit into the project's planned work.
 - Roadmaps foster trust by **offering transparency into development plans and progress**, ensuring contributors feel confident in the project's management and also good to guide the users and downstream adoptions. Users and companies can receive advanced notifications about upcoming developments, enabling them to strategically devise their individualized utilization strategies for the software.
-- Roadmaps **ensure development aligns with user demands**, enhancing the overall user experience.
+- Roadmaps may allow the project to **align its development activities with adopter, user, and contributor feedback**, enhancing the overall experience for everyone.
 - Roadmaps **help projects adapt to changes** in the open source landscape by incorporating feedback and addressing new challenges.
 - Roadmaps facilitate proactive identification and mitigation of potential challenges, **enabling the project to navigate risks effectively**.
 - Roadmaps guide the **efficient distribution of available resources**, preventing overextension of limited resources and ensuring tasks are adequately staffed and funded.
