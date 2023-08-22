@@ -18,7 +18,7 @@ A roadmap is a strategic plan that outlines the goals and direction of an open s
 - Roadmaps **help projects adapt to changes** in the open source landscape by incorporating feedback and addressing new challenges.
 - Roadmaps facilitate proactive identification and mitigation of potential challenges, **enabling the project to navigate risks effectively**.
 - Roadmaps guide the **efficient distribution of available resources**, preventing overextension of limited resources and ensuring tasks are adequately staffed and funded.
-- Roadmaps **ensure long-term sustainability** enabling the project to strategize for continuous growth and relevance, considering factors such as maintenance, community engagement, and evolving technology trends.
+- Roadmaps **enable long-term sustainability** allow the project to strategize for continuous growth and evolution, considering factors such as maintenance, community engagement, and shifting technology trends.
 
 # Understanding Roadmaps in Open Source Projects
 
