@@ -148,6 +148,12 @@ labels:
     color: b059ec
   - name: website
     color: f18d0f
+  - name: accessibility
+    color: 8C0459
+  - name: deaf/hoh
+    color: C61B7A
+  - name: project-level-review
+    color: B60205
 
 # additional colors in this palette:
 # ff69b4
