@@ -19,17 +19,7 @@ A roadmap is a strategic plan that outlines the goals and direction of an open s
 - Roadmaps facilitate proactive identification and mitigation of potential challenges, **enabling the project to navigate risks effectively**.
 - Roadmaps facilitate the **efficient distribution of available resources**, preventing overextension of limited resources and ensuring tasks receive appropriate time and attention.
 - Roadmaps **enable long-term sustainability** allow the project to strategize for continuous growth and evolution, considering factors such as maintenance, community engagement, and shifting technology trends.
-
-# Roadmaps bring a stratigic advantage
-
-Using roadmaps for project planning provides open source projects with an outcome-oriented approach. It empowers projects to:
-
-- Achieve Defined Objectives: By setting clear goals and milestones, projects can systematically work towards their objectives, ensuring that every effort contributes to meaningful outcomes.
-- Optimize Resource Utilization: Projects can make efficient use of their available resources, minimizing waste and maximizing the impact of contributions.
-- Enhance Collaboration: A well-structured plan fosters collaboration and alignment among contributors, making it easier for teams to work together towards common goals.
-- Adapt and Thrive: Strategic planning enables projects to adapt to changing circumstances and challenges, ensuring their relevance and resilience in the ever-evolving open source ecosystem.
-- Increase Community Engagement: An outcome-focused approach can attract and engage a broader and more diverse community, bringing fresh perspectives and expertise to the project.
-- By embracing strategic planning, open source projects can chart a course toward success, fostering growth, innovation, and lasting impact within the open source community.
+- Roadmaps play a crucial role in capturing and communicating **strategic planning** for projects. They provide a clear direction for adopters, contributors, and stakeholders, outlining the project's direction, timeline, and execution strategy, which are essential for project success.
 
 # Understanding Roadmaps in Open Source Projects
 
