@@ -42,7 +42,10 @@ A contributor is an individual who actively participates in an open source proje
 A contributor ladder is a structured framework or progression path that defines different levels or stages of contributions within an open source project or community. It helps recognize and reward contributors based on their skills, experience, and level of involvement. CNCF's contributor ladder template can be found [here](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md).
 
 ## Contributor License Agreement
-A Contributor License Agreement (CLA) is a legal agreement between a contributor and an open source project. It grants the project certain rights to use, modify, and distribute the contributor's contributions while clarifying the ownership and licensing of the contributed code. Anyone who is contributing any code to any CNCF project must have the CLA signed. CNCF's CLA can be found in [cncf/cla repository](https://github.com/cncf/cla).
+A Contributor License Agreement (CLA) is a legal agreement between a contributor and an open source project. It grants the project certain rights to use, modify, and distribute the contributor's contributions while clarifying the ownership and licensing of the contributed code. A project can choose to use either a Contributor License Agreement or the Developer Certificate of Origin. 
+
+## Developer Certificate of Origin 
+The Developer Certificate of Origin (DCO) is a per-commit sign-off made by a contributor stating that they agree to the terms published at https://developercertificate.org/ for that particular contribution. Projects can choose either a CLA or a DCO to clarify ownership and licensing of contributed code.
 
 ## DevStats
 [DevStats](https://devstats.cncf.io/) is a tool or platform used to collect, analyze, and visualize data related to the development and contributions of open source projects. It provides insights into metrics such as code changes, contributions, and [project health](#project-health).
