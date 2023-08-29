@@ -2486,6 +2486,28 @@
         "language": "Go"
     },
     {
+        "name": "Kubewarden (Wasm)",
+        "path": "Embedded Functions",
+        "description": "Manage admission policies in your Kubernetes cluster with ease",
+        "homepage_url": "https://www.kubewarden.io",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kubewarden/kubewarden-controller",
+        "logo": "logos/kubewarden-wasm.svg",
+        "twitter": "https://twitter.com/kubewarden",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": null,
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "KUDO",
         "path": "Application Definition & Image Build",
         "description": "Kubernetes Universal Declarative Operator (KUDO)",
@@ -2905,7 +2927,7 @@
     },
     {
         "name": "OpenFunction (Wasm)",
-        "path": "Application Frameworks",
+        "path": "Embedded Functions",
         "description": "Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)",
         "homepage_url": "https://openfunction.dev",
         "project": "sandbox",
