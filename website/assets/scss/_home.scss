@@ -80,6 +80,18 @@
 				background-color: rgba(#62a1ff, 0.6);
 			}
 		}
+		.cta-mentorship {
+			background-color: rgba(66, 169, 125, 0.7);
+			@media (min-width: 1200px) {
+				background-color: rgba(66, 169, 125, 0.6);
+			}
+		}
+		.cta-accessibility {
+			background-color: rgba(133, 98, 255, 0.7);
+			@media (min-width: 1200px) {
+				background-color: rgba(133, 98, 255, 0.6);
+			}
+		}
 		.cta-link {
 			font-size: 20px;
 			@media (min-width: 374px) {
