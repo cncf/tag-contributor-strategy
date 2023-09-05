@@ -3,7 +3,7 @@ title: Cloud Native Accessibility
 linkTitle: "Accessibility"
 menu:
   main:
-    weight: 20
+    weight: 50
 ---
 
 Info on Accessibility
