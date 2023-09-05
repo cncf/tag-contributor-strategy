@@ -2,5 +2,5 @@
 title: Resources
 menu:
   main:
-    weight: 40
+    weight: 60
 ---
