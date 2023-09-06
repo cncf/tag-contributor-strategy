@@ -29,7 +29,8 @@ function stretchSliderToFitHeight(){
 	let slide     = $( '.td-home .frontpage .slider .slide' );
 	slide.css( 'min-height', '' );
 	let minHeight = $( '.td-main' ).height();
-	if ( minHeight > 689 ) {
+	let viewportWidth = $(window).width();
+	if ( minHeight > 689 && viewportWidth > 768 ) {
 		slide.css( 'min-height', minHeight );
 		$( '.slider' ).slick( 'resize' );
 	}

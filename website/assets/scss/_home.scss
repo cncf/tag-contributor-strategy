@@ -15,7 +15,7 @@
 		background-color: rgba(#000000, 0.65);
 
 		// calculate .slider + .cta-box
-		min-height: calc(445px + 100px + 100px);
+		min-height: calc(445px + 100px + 100px + 100px + 100px);
 		@media (min-width: 768px) {
 			min-height: calc(445px + 100px);
 			// Size of nav is 80px.
@@ -148,7 +148,7 @@
 	@media (min-width: 768px) {
 		padding-left: 50px;
 		padding-right: 2rem;
-		bottom: calc(95px + 25px + 60px);
+		bottom: calc(65px + 25px + 60px);
 	}
 	h2 {
 		font-weight: 400;
