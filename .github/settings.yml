@@ -11,109 +11,12 @@ repository:
   description: CNCF Technical Advisory Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
 
   # A URL with more information about the repository
-  homepage: https://cncf.io/projects
+  homepage: https://contribute.cncf.io/
 
 # Collaborators: give specific users access to this repository.
-# Note that the permissions below may provide wider access than needed for
-# a specific role, and we trust these individuals to act according to their
-# role. If there are questions, please contact one of the chairs.
-collaborators:
-  # Admins
-  - username: cathpag
-    permission: admin
+# Note that the permissions are controlled in the https://github.com/cncf/people/blob/main/config.yaml file
+# Please create a PR in the https://github.com/cncf/people/ repo to change user access
 
-  - username: geekygirldawn
-    permission: admin
-
-  - username: jberkus
-    permission: admin
-
-  - username: amye
-    permission: admin
-
-  - username: caniszczyk
-    permission: admin
-
-#  - username: idvoretskyi
-#    permission: admin
-    
-  - username: carolynvs
-    permission: admin
-
-  # Contributors
-  # all permissions except admin
-  
-  - username: mrbobbytables
-    permission: push
-  
-  - username: justaugustus
-    permission: push
-
-  - username: parispittman
-    permission: push
-
-  - username: gerred
-    permission: push
-
-  - username: mattklein123
-    permission: push
-
-  - username: thisisnotapril
-    permission: push
-
-  - username: karenhchu
-    permission: push
-
-  - username: dims
-    permission: push
-
-  - username: iennae
-    permission: push
-
-  - username: LFCIBot
-    permission: push
-
-  # Current TOC liaisons
-  - username: TheFoxAtWork
-    permission: push
-  
-  - username: dzolotusky
-    permission: push
-
-  # burnout forum and inclusiveness leads
-  - username: juliasimon
-    permission: push
-
-  - username: mcgonagle
-    permission: push
-    
-  - username: melaniadeangelis
-    permission: push
-    
-  - username: SaraTrap
-    permission: push
-    
-  - username: jadeapplegate
-    permission: push
-    
-    
-# mentoring leads
-
-  - username: nate-double-u
-    permission: push
-    
-  - username: jaytiaki
-    permission: push
-
-# comminfra leads
-
-  - username: hh
-    permission: push
-    
-# collaborators. see https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization
-
-  - username: aliok
-    permission: triage
 
 labels:
   - name: new-wg
