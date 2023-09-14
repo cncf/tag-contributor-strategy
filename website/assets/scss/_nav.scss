@@ -36,6 +36,14 @@
         width: 100%;
     }
 
+    .nav-item {
+        margin-left: 16px;
+        margin-right: 16px;
+        @media (min-width: 992px) and (max-width: 1199px) {
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+    }
 
     .navbar-brand {
         text-transform: none;
