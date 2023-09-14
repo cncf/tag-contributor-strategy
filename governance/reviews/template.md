@@ -53,7 +53,8 @@ If there are no must-fix items, do not delete the section but write that there a
 ### Points of Excellence
 
 The following aspects of governance are exemplary, and can be referenced as examples for other projects to copy:
-<!--- List of governance aspects where the project is exceeding expectations, or any novelty in their approach to governance. Remove the entire section if there's nothing to put here. ---> 
+<!--- List of governance aspects where the project is exceeding expectations, or any novelty in their approach to governance. --->
+
 *
 
 ### Areas for Improvement
@@ -93,59 +94,6 @@ The following table details the governance areas expected for a project. Coverag
 * Missing - the documentation is absent, wholly undiscoverable, or woefully inadequate in meeting the objectives of that governance content. The reader cannot act on the content that is available.
 * Unknown - status cannot be assessed at this time
 
-<!--- 
-Provide the links in the table to the documents/pages that are relevant to the governance area. The links should be to the permanent addresses to snapshots (commits) of the file under evaluation as a point-in-time reference to this review. To ensure consistency, use same commits as links for multiple files within a single repository.
---->
-
-<!--- 
-
-Project Purpose: 
-- Is the project explaining its purpose/mission/scope/values/principles properly? 
-- A good example template is https://contribute.cncf.io/maintainers/governance/charter/
-
-Maintainer List:
-- Is there a maintainer list?
-- Does it contain employer affiliations?
-- Does it contain roles and responsibilities? The most basic one should look like the template: https://github.com/cncf/project-template/blob/main/MAINTAINERS.md
-- You do not need to assess things like employer balance here. There is a separate section called "Maintainer List(s)" for that in the document.
-
-Code of Conduct:
-- Is CNCF CoC adopted across the whole project? 
-- Is the process of reporting and handling the violations documented and is it complete?
-
-Contributor Guide:
-- Does the governance mention a contributor guide?
-- Is it fresh? (technical contribution guides shall not be assessed part of the govenrnance review)
-
-Contributor Ladder:
-- Does the governance list the criteria to earn a title in the project? The title may depend on the project (maintainer/lead/approver/contributor/etc.).
-- Are there enough roles, including some intermediate ones?
-- Recommended template: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
-
-Maintainer Lifecycle:
-- Does the governance doc define when and how a maintainer can be removed/demoted because of inactivity, voluntary stepping down, code of conduct violations?
-- How about emeritus status?
-- Does the replacement maintainer selection make sense? Is the process documented?
-- How about lifecycle for the other roles? (committee members, leads, ...)
-
-Decision-making:
-- Does the governance doc define who the decision makers are?
-- Is the decision making process documented?
-- Is the decision making process consistent and logical?
-
-Code and Docs Ownership:
-- Does the governance doc define who has write/admin access to the code and docs?
-- Only assess if the ownership is documented and if it makes sense. Auditing the permissions is not in the scope of this section.
-
-Security Reporting and response:
-- Is security reporting and response processes documented?
-- Is it in alignment with the guidelines here at minimum https://contribute.cncf.io/maintainers/templates/governance-maintainer/#security-response-team ?
-
-Communication and Meetings:
-- Is project communication channels and meetings documented about when and where they happen?
-
---->
-
 | Governance Area | Coverage | Documents | Finding Notes |
 |:----------------|:--------:|:------:|:--------------|
 | Project Purpose | Complete/Partial/Missing/Unknown | *LINKS* | |
@@ -162,17 +110,8 @@ Communication and Meetings:
 
 
 #### Sub-projects, plugins, and related
-<!--- If the project has subprojects, plugins, or other divisions define them here. For each, is ownership and operation of clearly described? Are any standing committees/teams fully described, including listing their members? Does it conform to, align, and is it within scope of the governance expectations of the project?
 
-If not, simply write there are no subprojects.
-
-Assessing if the project has notable divisions as subprojects could be hard. Reach out to the project contact or TOC liaison in that case.
-
---->
-
-The project does not have notable subprojects with separate governance.
-
-OR
+<!--- If the project has subprojects, plugins, or other divisions define them here. For each, is ownership and operation of clearly described? Are any standing committees/teams fully described, including listing their members? Does it conform to, align, and is it within scope of the governance expectations of the project? --->
 
 The project includes the following sub-projects, plugins, and other notable divisions:
 
@@ -250,9 +189,6 @@ Should be reported as "Areas for Improvement"
 | *Title* | Critical/High/Medium/Low | *detailed description* | *relevant links* | *additional notes and explanation of impact if appropriate* |
 
 ### Previous Reviews
-
-<!--- Remove this section if this is the first governance review for the project 
---->
 
 | Date   | Requested By  |                   Reason                   | Link                 |
 |:-------|:--------------|:------------------------------------------:|:---------------------|
