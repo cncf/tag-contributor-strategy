@@ -245,10 +245,9 @@ Should be reported as "Areas for Improvement"
 
 --->
 
-| Finding Title | Importance | Description |
-|:------------- |:----------:|:------------|
-| *Title* | Critical/Medium/Low | *detailed description* |
-
+| Finding Title | Importance | Description | Links | Notes & Impact |
+|:------------- |:----------:|:------------|:------|:---------------|
+| *Title* | Critical/High/Medium/Low | *detailed description* | *relevant links* | *additional notes and explanation of impact if appropriate* |
 
 ### Previous Reviews
 
