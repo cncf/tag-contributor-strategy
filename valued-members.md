@@ -19,6 +19,6 @@
 ### Emeritus Leads
 
 - Carolyn Van Slyck ([@carolynvs](https://github.com/carolynvs)), Microsoft
-- Gerred Dillon ([@gerred](https://github.com/gerred)), Mycelial
+- Gerred Dillon ([@gerred](https://github.com/gerred)), Defense Unicorns
 - Paris Pittman ([@parispittman](https://github.com/parispittman)), Apple
 - Stephen Augustus ([@justaugustus](https://github.com/justaugustus)), Cisco
