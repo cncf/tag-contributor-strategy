@@ -38,7 +38,7 @@ Fill in the blanks in this section.
 
 ##### Executing the Assessment
 
-* Write a brief description that details the timebox the assessment occurred and the individuals involved in the assessment.
+* Write a brief description that details the timeframe when the assessment occurred and the individuals involved in the assessment.
 * The description should contain the reason for the assessment.
 
 > **_NOTE:_** Make sure you use a snapshot of the governance documents for your assessment and note the commit hash of the snapshot here as a link.
