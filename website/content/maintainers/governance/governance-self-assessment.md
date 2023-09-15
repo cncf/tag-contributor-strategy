@@ -65,8 +65,6 @@ Fill in the blanks in this section.
 * If the project has any unusual aspects to its governance, describe them here.
 * Link to the project's existing documents where applicable.
 
-> **_NOTE:_** If the project is already under CNCF, you can use Devstats to check the number of substantial contributors.
-
 ##### Discoverability
 
 ###### Governance Location
