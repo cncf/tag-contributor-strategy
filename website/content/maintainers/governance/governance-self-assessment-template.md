@@ -131,9 +131,7 @@ Areas of potential future development include:
 |:--------------|:-------------------------------:|:----------------------------|:----------------------|:-----------------------------------------------------------------|
 | [TODO: Title] | [TODO:Critical/High/Medium/Low] | [TODO:detailed description] | [TODO:relevant links] | [TODO:additional notes and explanation of impact if appropriate] |
 
-### Points of Excellence
-
-The following aspects of governance are exemplary, and can be referenced as examples for other projects to copy:
+##### Improvements made since assessment start
 
 * [TODO]
 

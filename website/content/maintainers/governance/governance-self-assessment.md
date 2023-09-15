@@ -19,7 +19,17 @@ available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS
 
 TODO: LATER: How to request a TAG CS governance review?
 
-## General Instructions
+## General Information
+
+If your project governance was not already based on one of the 
+[CNCF governance templates](/maintainers/templates/governance-intro/), we recommend that you start 
+by looking at those templates to see if one would be suitable for your project. If so, you can update your governance 
+using one of our templates as pre-work before starting this self-assessment. 
+
+It isn't a requirement to use one of our templates, but the templates do have most of the elements that we expect to 
+see in project governance documents, so incorporating any missing elements into your governance is likely to make 
+the assessment process easier.
+
 Instructions:
 - Copy and paste the template in [Self Assessment Template](governance-self-assessment-template.md) into your favorite editor.
 - Fill in the template with the information about your project. The `TODO` placeholders in the template are there to help you.
@@ -49,7 +59,7 @@ Fill in the blanks in this section.
 
 * Write a narrative describing
     * governance type of the project
-    * number of substantial contributors and their grouped employer affiliations
+    * number of maintainers and their grouped employer affiliations
     * some general information about its leadership
     * the project's general status and maturity
 * If the project has any unusual aspects to its governance, describe them here.
@@ -163,12 +173,10 @@ Answer the following questions in a paragraph:
 
 Not applicable for projects joining the CNCF.
 
-For any CNCF projects:
-* Request that CNCF staff carry out an audit (via Sheriff) that the explicit governance of the
-  project matches GitHub permissions.
-    * Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership
-      that they are supposed to.
-    * Check that there aren't individuals who have broad permissions that aren't explained by any official project role.
+* Check if the explicit governance of the project matches GitHub permissions.
+  * Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership
+  that they are supposed to.
+  * Check that there aren't individuals who have broad permissions that aren't explained by any official project role.
 
 ##### Maintainer List(s)
 
@@ -203,9 +211,10 @@ Answer these questions?
 * Findings here with "Critical" importance should be reported as "must-fix" in the summary.
 * Findings here with "Medium" and "Low" importance should be reported as "Areas for Improvement" in the summary.
 
-##### Points of Excellence
+##### Improvements made since assessment start
 
-* Write a list of governance aspects where the project is exceeding expectations, or any novelty in the approach to governance.
+If you would like to list some improvements you have made to your project governance from the point where you have 
+started looking at doing the assessment, you can list them here.
 
 ##### Previous Reviews
 
