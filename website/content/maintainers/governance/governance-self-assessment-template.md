@@ -8,9 +8,10 @@ weight: 50
 
 Please see the [Governance Self Assessment Guide](/maintainers/governance/governance-self-assessment/) for the instructions.
 
-## Governance Self Assessment Template
+## Template
 
-### Project Information
+```markdown
+# Project Information
 
 Project Name: [TODO]
 
@@ -20,9 +21,17 @@ Executors: [TODO]
 
 # Governance Review Template
 
-Governance reviews contribute to the health and sustainibility of the CNCF projects. By providing guidance on effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently, encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be constructive and supportive, aiming to assist projects in refining their governance models and addressing any challenges they may face.
+Governance reviews contribute to the health and sustainibility of the CNCF projects. By providing guidance on 
+effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently, 
+encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be 
+constructive and supportive, aiming to assist projects in refining their governance models and addressing 
+any challenges they may face.
 
-Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), [email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
+Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is 
+available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), 
+[email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), 
+[GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings 
+(listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
 
 ## Summary and Assessment
 
@@ -72,24 +81,27 @@ Details of these issues can be found in the [Findings Table](#Governance-Finding
 
 ### Documentation Content
 
-The following table details the governance areas expected for a project. Coverage is indicated by Complete, Partial, Missing, and Unknown.
+The following table details the governance areas expected for a project. Coverage is indicated by Complete, Partial, 
+Missing, and Unknown.
 * Complete - the content of the governance documentation is fully detailed and does not leave any question to the reader.
-* Partial - the content of the governance documentation is missing some information and would leave the reader with questions or some level of misunderstanding.
-* Missing - the documentation is absent, wholly undiscoverable, or woefully inadequate in meeting the objectives of that governance content. The reader cannot act on the content that is available.
+* Partial - the content of the governance documentation is missing some information and would leave the reader 
+  with questions or some level of misunderstanding.
+* Missing - the documentation is absent, wholly undiscoverable, or woefully inadequate in meeting the objectives 
+  of that governance content. The reader cannot act on the content that is available.
 * Unknown - status cannot be assessed at this time
 
-| Governance Area |                 Coverage                 | Documents | Finding Notes |
-|:----------------|:----------------------------------------:|:---------:|:--------------|
-| Project Purpose |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]        |
-| Maintainer List |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]        |
-| Code of Conduct |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]              |
-| Contributor Guide |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]              |
-| Contributor Ladder |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]              |
-| Maintainer Lifecycle |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]              |
-| Decision-making |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]              |
-| Code and Docs Ownership |    [TODO: Complete/Partial/Missing/Unknown]    |  [TODO: LINKS]  | [TODO]              |
-| Security Reporting and response | [TODO: Complete/Partial/Missing/Unknown] |  [TODO: LINKS]  | [TODO]              |
-| Communication and Meetings | [TODO: Complete/Partial/Missing/Unknown] |  [TODO: LINKS]  | [TODO]              |
+| Governance Area                 |                 Coverage                 |   Documents   | Finding Notes |
+|:--------------------------------|:----------------------------------------:|:-------------:|:--------------|
+| Project Purpose                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Maintainer List                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Code of Conduct                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Contributor Guide               | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Contributor Ladder              | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Maintainer Lifecycle            | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Decision-making                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Code and Docs Ownership         | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Security Reporting and response | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Communication and Meetings      | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
 
 
 
@@ -97,8 +109,8 @@ The following table details the governance areas expected for a project. Coverag
 
 The project includes the following sub-projects, plugins, and other notable divisions:
 
-| Area          |  Ownership and Operation   |     Standing Bodies      | Project Alignment           | Notes  |
-|:--------------|:--------------------------:|:------------------------:|:----------------------------|:-------|
+| Area                |     Ownership and Operation      |        Standing Bodies         | Project Alignment                 | Notes  |
+|:--------------------|:--------------------------------:|:------------------------------:|:----------------------------------|:-------|
 | [TODO: sub-project] | [TODO: Complete/Partial/Missing] | [TODO: Complete/Partial/Other] | [TODO: Complete/Partial/Conflict] | [TODO] |
 
 ### Operation
@@ -107,13 +119,17 @@ The project includes the following sub-projects, plugins, and other notable divi
 
 #### Transparency and freshness
 
-Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers and contributors to monitor the project's adherence to their stated governance. Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed or updated recently.
+Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers 
+and contributors to monitor the project's adherence to their stated governance.
+Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed 
+or updated recently.
 
 The project's governance documentation and activities are [TODO]
 
 #### Governance Drift
 
-Governance Drift can occur when the executed and observable governance of a project deviates from the documented governance of the project.
+Governance Drift can occur when the executed and observable governance of a project deviates from the documented 
+governance of the project.
 
 The project [TODO: does/does] not experience governance drift as indicated by [TODO]...
 
@@ -121,15 +137,21 @@ The project [TODO: does/does] not experience governance drift as indicated by [T
 
 The project's ownership evaluation [TODO: did/did not] leverage Sheriff, the CNCF GitHub permission auditing tool.
 
-The project's permissions and ownership settings and files [TODO: are/are not] appropriate for the stated governance. Specifically, [TODO]...
+The project's permissions and ownership settings and files [TODO: are/are not] appropriate for the stated governance.
+Specifically, [TODO]...
 
 ### Maintainer List(s)
 
-The project's maintainer list(s) [TODO: are/are not] current. Individuals on the maintainer list [TODO: do/do not] appear to match the requirements of maintainership in accordance with the project's documented requirements. The maintainer affiliations (employers) reflect [TODO: Balanced/Unbalanced] diversity.
+The project's maintainer list(s) [TODO: are/are not] current.
+Individuals on the maintainer list [TODO: do/do not] appear to match the requirements of maintainership in accordance 
+with the project's documented requirements. 
+The maintainer affiliations (employers) reflect [TODO: Balanced/Unbalanced] diversity.
 
 ### Evolution
 
-Governance evolution is the observable changes and improvements the project makes to its governance over the project's lifespan. It is expected that changes will occur over the project's life and that such changes are iterative, tested, and adjusted.
+Governance evolution is the observable changes and improvements the project makes to its governance over the 
+project's lifespan.
+It is expected that changes will occur over the project's life and that such changes are iterative, tested, and adjusted.
 
 Major milestones in the project's governance over time include:
 
@@ -154,3 +176,5 @@ Areas of potential future development include:
 | Date         | Requested By       |                     Reason                      | Link                      |
 |:-------------|:-------------------|:-----------------------------------------------:|:--------------------------|
 | [TODO:Date*] | [TODO:TOC/Project] | [TODO:Maturity change / project request / etc.] | [TODO:link to review doc] |
+
+```
