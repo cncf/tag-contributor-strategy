@@ -36,45 +36,12 @@ Instructions:
 
 Fill in the blanks in this section.
 
-#### Summary and Assessment
-
-> **_NOTE:_** Fill this part as a summary of your review. It is recommended to start from the "Review" section below
-> in the template, and then write a summary here.
-
-* Write a final assessment status of one of the below:
-    * Exemplary: project has an extraordinary level of governance development and implementation, and can be used as an example for other projects
-    * Satisfactory: project has appropriate governance for its maturity level and is following that governance
-    * Mostly Satisfactory: project has mostly appropriate governance, but needs to fix one or two things
-    * Needs Work: project's governance is lacking and inadequate for its current level of maturity, and needs substantial work to overcome that
-* Write a short paragraph summarizing the general state of project governance.
-* In the event the project governance requires attention, notify the TOC liaison for their awareness.
-
 ##### Executing the Assessment
 
 * Write a brief description that details the timebox the assessment occurred and the individuals involved in the assessment.
 * The description should contain the reason for the assessment.
 
 > **_NOTE:_** Make sure you use a snapshot of the governance documents for your assessment and note the commit hash of the snapshot here as a link.
-
-##### Must-Fix Items
-
-* The items in the list should be summarized, have a prioritized ordering and are expected to be considered blockers to project advancement.
-* Items in the "Governance Findings Table" at the bottom with "Critical" importance should be reported here as must-fix items.
-* For each item in this list, a corresponding detailed description should be placed in the Findings table.
-* Note that which items are required depends on the project's maturity level.
-* If there are no must-fix items, do not delete the section but write that there are no must-fix items.
-
-##### Points of Excellence
-
-* Write a list of governance aspects where the project is exceeding expectations, or any novelty in the approach to governance.
-
-##### Areas for Improvement
-
-* Write a summarized listing of longer term improvement areas for the project.
-* Items in the "Governance Findings Table" at the bottom except the "Critical" importance should be reported here.
-* These items are strongly encouraged but not required for the project's maturity level.
-* Make sure fully detailed descriptions are found in the Finding Table later in the template.
-* Items listed here should be in priority ordering.
 
 #### Review
 
@@ -235,6 +202,10 @@ Answer these questions?
 * For each finding described above, it should also be included here with further detail.
 * Findings here with "Critical" importance should be reported as "must-fix" in the summary.
 * Findings here with "Medium" and "Low" importance should be reported as "Areas for Improvement" in the summary.
+
+##### Points of Excellence
+
+* Write a list of governance aspects where the project is exceeding expectations, or any novelty in the approach to governance.
 
 ##### Previous Reviews
 

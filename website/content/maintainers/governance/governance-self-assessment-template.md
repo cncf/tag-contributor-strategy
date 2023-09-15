@@ -19,35 +19,9 @@ Date of the assessment: [TODO]
 
 Executors: [TODO]
 
-## Summary and Assessment
-
-Status: [TODO: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work]
-
 ### Executing the Assessment
 
 [TODO]
-
-### Must-Fix Items
-
-Items in the "Governance Findings Table" at the bottom with "Critical" importance are reported here as must-fix items.
-
-The following issues have been identified that need to be resolved before [TODO: project milestone | other requirement]:
-
-* [TODO]
-
-### Points of Excellence
-
-The following aspects of governance are exemplary, and can be referenced as examples for other projects to copy:
-
-* [TODO]
-
-### Areas for Improvement
-
-Over the next year, the project should work on the following issues to improve its governance, these are considered non-blocking:
-
-* [TODO]
-
-Details of these issues can be found in the [Findings Table](#Governance-Findings-Table) and the related sections below.
 
 ## Review
 
@@ -156,6 +130,12 @@ Areas of potential future development include:
 | Finding Title |           Importance            | Description                 | Links                 | Notes & Impact                                                   |
 |:--------------|:-------------------------------:|:----------------------------|:----------------------|:-----------------------------------------------------------------|
 | [TODO: Title] | [TODO:Critical/High/Medium/Low] | [TODO:detailed description] | [TODO:relevant links] | [TODO:additional notes and explanation of impact if appropriate] |
+
+### Points of Excellence
+
+The following aspects of governance are exemplary, and can be referenced as examples for other projects to copy:
+
+* [TODO]
 
 ### Previous Reviews
 
