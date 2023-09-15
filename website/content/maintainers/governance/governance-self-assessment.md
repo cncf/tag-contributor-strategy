@@ -66,7 +66,7 @@ Fill in the blanks in this section.
 ###### Governance Discovery Completeness
 
 * Describe how easy is it for potential contributors to find and read the governance documentation.
-* Is it findable from the project web page?
+* Is it findable from the project web page and repository README files?
 * Are governance files named clearly, and interlinked across the projects repos to the primary?
 
 ##### Documentation Content
