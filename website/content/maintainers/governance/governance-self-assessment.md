@@ -1,0 +1,242 @@
+---
+title: "Governance Self Assessment"
+date: 2023-09-15
+weight: 40
+---
+
+Governance reviews contribute to the health and sustainibility of the CNCF projects. By providing guidance on
+effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently,
+encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be
+constructive and supportive, aiming to assist projects in refining their governance models and addressing
+any challenges they may face.
+
+Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is
+available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN),
+[email](https://lists.cncf.io/g/cncf-tag-contributor-strategy),
+[GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings
+(listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
+
+
+TODO: LATER: How to request a TAG CS governance review?
+
+## General Instructions
+Instructions:
+- Copy and paste the template in [Self Assessment Template](governance-self-assessment-template.md) into your favorite editor.
+- Fill in the template with the information about your project. The `TODO` placeholders in the template are there to help you.
+- Pick the latest state of the governance document and use the same point-in-time reference (e.g. commit) for your assessment. If governance consists of multiple documents, make sure you use the same commit.
+    - TODO: what about websites?
+- Make sure all links in your report are permanent links (e.g. with commit hashes).
+- To ensure consistency, use the same commits as links for multiple files within a single repository.
+- It is recommended to start filling this template from the "Review" section. Once you fill everything there, go back to "Summary and Assessment" to summarize the content you wrote.
+    - TODO: do we even need a "Summary and Assessment" section for self-assessments?
+
+## Template details
+
+### Project Information
+
+Fill in the blanks in this section.
+
+#### Summary and Assessment
+
+> **_NOTE:_** Fill this part as a summary of your review. It is recommended to start from the "Review" section below
+> in the template, and then write a summary here.
+
+* Write a final assessment status of one of the below:
+    * Exemplary: project has an extraordinary level of governance development and implementation, and can be used as an example for other projects
+    * Satisfactory: project has appropriate governance for its maturity level and is following that governance
+    * Mostly Satisfactory: project has mostly appropriate governance, but needs to fix one or two things
+    * Needs Work: project's governance is lacking and inadequate for its current level of maturity, and needs substantial work to overcome that
+* Write a short paragraph summarizing the general state of project governance.
+* In the event the project governance requires attention, notify the TOC liaison for their awareness.
+
+##### Executing the Assessment
+
+* Write a brief description that details the timebox the assessment occurred and the individuals involved in the assessment.
+* The description should contain the reason for the assessment.
+
+> **_NOTE:_** Make sure you use a snapshot of the governance documents for your assessment and note the commit hash of the snapshot here as a link.
+
+##### Must-Fix Items
+
+* The items in the list should be summarized, have a prioritized ordering and are expected to be considered blockers to project advancement.
+* Items in the "Governance Findings Table" at the bottom with "Critical" importance should be reported here as must-fix items.
+* For each item in this list, a corresponding detailed description should be placed in the Findings table.
+* Note that which items are required depends on the project's maturity level.
+* If there are no must-fix items, do not delete the section but write that there are no must-fix items.
+
+##### Points of Excellence
+
+* Write a list of governance aspects where the project is exceeding expectations, or any novelty in the approach to governance.
+
+##### Areas for Improvement
+
+* Write a summarized listing of longer term improvement areas for the project.
+* Items in the "Governance Findings Table" at the bottom except the "Critical" importance should be reported here.
+* These items are strongly encouraged but not required for the project's maturity level.
+* Make sure fully detailed descriptions are found in the Finding Table later in the template.
+* Items listed here should be in priority ordering.
+
+#### Review
+
+##### Governance Description
+
+* Write a narrative describing
+    * governance type of the project
+    * number of substantial contributors and their grouped employer affiliations
+    * some general information about its leadership
+    * the project's general status and maturity
+* If the project has any unusual aspects to its governance, describe them here.
+* Link to the project's existing documents where applicable.
+
+> **_NOTE:_** If the project is already under CNCF, you can use Devstats to check the number of substantial contributors.
+
+##### Discoverability
+
+###### Governance Location
+
+* Describe where the governance documents are located. Is it in a primary repo, community Repo, somewhere else?
+
+###### Governance Discovery Completeness
+
+* Describe how easy is it for potential contributors to find and read the governance documentation.
+* Is it findable from the project web page?
+* Are governance files named clearly, and interlinked across the projects repos to the primary?
+
+##### Documentation Content
+
+* Fill in the table with the coverage and completeness of the governance area for your project.
+* Fill in the documents column, with the links to the documents relevant to the governance area.
+* Make sure the links are targeting the commit of the file under evaluation as a point-in-time reference to this review.
+* If you have any findings, note them in the "Notes" column.
+
+Project Purpose:
+- Is the project explaining its purpose/mission/scope/values/principles properly?
+- A good example template is https://contribute.cncf.io/maintainers/governance/charter/
+
+Maintainer List:
+- Is there a maintainer list?
+- Does it contain employer affiliations?
+- Does it contain roles and responsibilities? The most basic one should look like the template: https://github.com/cncf/project-template/blob/main/MAINTAINERS.md
+- You do not need to assess things like employer balance here. There is a separate section called "Maintainer List(s)" for that in the document.
+
+Code of Conduct:
+- Is CNCF CoC adopted across the whole project?
+- Is the process of reporting and handling the violations documented and is it complete?
+
+Contributor Guide:
+- Does the governance mention a contributor guide?
+- Is it fresh? (technical contribution guides shall not be assessed part of the govenrnance review)
+
+Contributor Ladder:
+- Does the governance list the criteria to earn a title in the project? The title may depend on the project (maintainer/lead/approver/contributor/etc.).
+- Are there enough roles, including some intermediate ones?
+- Recommended template: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
+
+Maintainer Lifecycle:
+- Does the governance doc define when and how a maintainer can be removed/demoted because of inactivity, voluntary stepping down, code of conduct violations?
+- How about emeritus status?
+- Does the replacement maintainer selection make sense? Is the process documented?
+- How about lifecycle for the other roles? (committee members, leads, ...)
+
+Decision-making:
+- Does the governance doc define who the decision makers are?
+- Is the decision making process documented?
+- Is the decision making process consistent and logical?
+
+Code and Docs Ownership:
+- Does the governance doc define who has write/admin access to the code and docs?
+- Only assess if the ownership is documented and if it makes sense. Auditing the permissions is not in the scope of this section.
+
+Security Reporting and response:
+- Is security reporting and response processes documented?
+- Is it in alignment with the guidelines here at minimum https://contribute.cncf.io/maintainers/templates/governance-maintainer/#security-response-team ?
+
+Communication and Meetings:
+- Is project communication channels and meetings documented about when and where they happen?
+
+###### Sub-projects, plugins, and related
+
+* If the project has subprojects, plugins, or other divisions define them here.
+* For each, write if the ownership and operation are clearly described.
+* Are any standing committees/teams fully described, including listing their members?
+* Does it conform to, align, and is it within scope of the governance expectations of the project?
+
+> **_NOTE:_** Assessing if the project has notable divisions as subprojects could be hard. Reach out to a TAG member or TOC liaison in that case.
+
+##### Operation
+
+Review the project repositories, issues, Pull Requests (PRs), documents, videos, and communications to determine
+answers to the following sub-sections.
+
+###### Transparency and freshness
+
+Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers
+and contributors to monitor the project's adherence to their stated governance.
+
+Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed or updated recently.
+
+Answer the following questions in a paragraph:
+* Are governance activities transparent and monitorable?
+* Are the governance documents up to date?
+* Do they accurately reflect current project participants, code and subproject status, etc?
+
+###### Governance Drift
+
+Governance Drift can occur when the executed and observable governance of a project deviates from the documented governance of the project.
+
+Answer the following questions in a paragraph:
+* Are the governance activities being carried out?
+* Are community meetings (if any) happening?
+* Are required elections and votes taking place?
+* Are official communications channels accessible, staffed and responsive?
+* Are they being used?
+* Are questions and proposed updates/changes to governance (if any) being transparently discussed and addressed?
+
+###### Ownership
+
+Not applicable for projects joining the CNCF.
+
+For any CNCF projects:
+* Request that CNCF staff carry out an audit (via Sheriff) that the explicit governance of the
+  project matches GitHub permissions.
+    * Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership
+      that they are supposed to.
+    * Check that there aren't individuals who have broad permissions that aren't explained by any official project role.
+
+##### Maintainer List(s)
+
+* Check the list of CNCF-level Maintainers for the project.
+* Answer the following question about the project's maintainers:
+    * Are they current?
+    * Are all of the people listed as Maintainers current & frequent contributors to the project, either code or
+      non-code as required by the governance documents?
+    * What's the level of employer diversity in the current list of maintainers?
+    * Are employer affiliations listed in the maintainers list file?
+    * Is there a balance?
+
+> **_NOTE:_** Balance may be achieved through standing bodies, decision making, and other documentation. It should ensure no
+single entity can control the project's direction without informed consensus of other authorized parties.
+
+##### Evolution
+
+Governance evolution is the observable changes and improvements the project makes to its governance over the project's lifespan.
+It is expected that changes will occur over the project's life and that such changes are iterative, tested, and adjusted.
+
+Answer these questions?
+* How has the project's governance evolved over time?
+    * What are the major milestones?
+    * What are the recent changes?
+* Is the project steadily refining/advancing its governance as the project grows and resolves issues?
+* Are there any areas of potential future development?
+
+##### Governance Findings Table
+
+* Add additional rows as necessary.
+* For each finding described above, it should also be included here with further detail.
+* Findings here with "Critical" importance should be reported as "must-fix" in the summary.
+* Findings here with "Medium" and "Low" importance should be reported as "Areas for Improvement" in the summary.
+
+##### Previous Reviews
+
+Fill any previous reviews of the project here, including both the self-assessment and TAG Contributor Strategy reviews.
+If there are none, write that there are no previous reviews.
