@@ -19,20 +19,6 @@ Date of the assessment: [TODO]
 
 Executors: [TODO]
 
-# Governance Review Template
-
-Governance reviews contribute to the health and sustainibility of the CNCF projects. By providing guidance on 
-effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently, 
-encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be 
-constructive and supportive, aiming to assist projects in refining their governance models and addressing 
-any challenges they may face.
-
-Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is 
-available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), 
-[email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), 
-[GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings 
-(listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
-
 ## Summary and Assessment
 
 Status: [TODO: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work]
