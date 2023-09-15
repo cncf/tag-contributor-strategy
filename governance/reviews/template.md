@@ -72,8 +72,6 @@ Details of these issues can be found in the [Findings Table](#Governance-Finding
 
 <!--- Narrative describing the governance type of the project, some general information about its leadership, and the project's general status and maturity. If the project has any unusual aspects to its governance, describe them here.  Link to the project's existing documents where applicable. --->
 
-<!--- You will most likely need the number of substantial contributors in the project and write it down along with their employer affiliations. If project is already under CNCF, use Devstats; if not, manually check the repositories. --->
-
 ### Discoverability
 
 #### Governance Location
