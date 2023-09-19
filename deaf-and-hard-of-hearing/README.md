@@ -1,4 +1,4 @@
-# README
+# Deaf & Hard of Hearing WG Charter
 
 ## Introduction
 
@@ -29,9 +29,20 @@ Create a supportive and inclusive cloud native/open source community that offers
 * Encourage and educate employers on hiring deaf/hoh employees
 * Build a deaf/hoh in tech community to network, learn from, and support each other
 
+## Meetings
+
+Meetings occur every fourth Tuesday of the month, alternating between 5 pm CET / 11 am ET / 8 am PT _and_ 9 pm CET / 3 pm ET / 12 pm PT (check the [CNCF calendar](https://www.cncf.io/calendar/) for details)
+
+* [Monthly meeting minutes](https://docs.google.com/document/d/1VUPJFOx36JqbgydkMRZPufP1dAEHWMnfviqMNI-jBLo/edit#heading=h.d1ot8vdv33ht)
+
+Facilitators:
+* Rob Koch (@robcube), Slalom Build
+* Catherine Paganini (@CathPag), Buoyant
+
+## Chair
+
+* Rob Koch, Slalom Build
+
 ## Contact
 
-* CNCF Slack: [#deaf-and-hard-of-hearing](https://cloud-native.slack.com/archives/C05BYNK8A3V)
-* Monthly meetings:
-  * Every fourth Tuesday of the month (for details check the [CNCF Calendar](https://tockify.com/cncf.public.events/monthly?search=Deaf%20and%20Hard%20of%20Hearing%20WG))
-  * [Meeting minutes/agenda](https://docs.google.com/document/d/1VUPJFOx36JqbgydkMRZPufP1dAEHWMnfviqMNI-jBLo/edit)
+CNCF Slack: [#deaf-and-hard-of-hearing](https://cloud-native.slack.com/archives/C05BYNK8A3V)
