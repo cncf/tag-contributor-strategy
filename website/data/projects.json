@@ -566,9 +566,9 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/cert-manager",
         "gitter_url": null,
-        "youtube_url": null,
+        "youtube_url": "https://www.youtube.com/@cert-manager",
         "language": "Go"
     },
     {
@@ -3610,7 +3610,7 @@
     {
         "name": "wasmCloud",
         "path": "Scheduling & Orchestration",
-        "description": "Project homepage. wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.",
+        "description": "Bringing joy to the act of building distributed applications with low boilerplate, secure by default WebAssembly modules. CNCF sandbox application runtime.",
         "homepage_url": "https://wasmcloud.com",
         "project": "sandbox",
         "repo_url": "https://github.com/wasmCloud/wasmCloud",
@@ -3627,7 +3627,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Rust"
+        "language": "CSS"
     },
     {
         "name": "WasmEdge (Wasm)",
