@@ -18,19 +18,26 @@ Projects manage their own communications channels like websites, blogs, social m
 
 Many adopters may be interested in commercial support for CNCF projects, but may not be aware of all of the commercial offerings from different companies in the ecosystem that leverage the project. They may turn to the project for more information on how to gain commercial support and/or software for their needs. For projects, the key principle is that one company should not be favored over any other companies offering the same services. This means that each vendor should have fair representation and objective information should be provided by the project. Some general guidelines:
 
-1. Websites
-    1. Please refer to the CNCF [website guidelines](https://github.com/cncf/foundation/blob/main/website-guidelines.md)
-2. Blogs
-    2. Blogs may mention a vendor’s name as it relates to specific open source project, project deployments, adoption paths, their hosting of an in-person event or speaking at an event, or other indications of meaningful participation in the community, but it shouldn’t feel like an advertisement for the services or company
-    3. Blogs hosted on project websites should be about the open source project, any references to enterprise offerings should point to the enterprise page of the project that features all vendors equally rather than linking to one specific vendor
-    4. Project blogs should not favor one vendor’s solution over another
-    5. Project blogs should keep other CNCF projects in a positive light
-3. Social media
-    6. Projects can choose whether they want to repost content from vendors, however the rules of engagement should be consistent across vendors and ideally written down so they are clear to everyone
-    7. Post/re-posts from project handles should not have content that disparages different vendors or CNCF projects
-4. Messaging platforms, such as Slack
-    8. It is up to the project whether vendors can post in their messaging channels, however the rules of engagement should be consistent across vendors and ideally written down so they are clear to everyone
-    9. Vendors should avoid channel spamming or solicitation through private messages
+### Websites
+
+*Please refer to the CNCF [website guidelines](https://github.com/cncf/foundation/blob/main/website-guidelines.md)
+
+### Blogs
+
+* Blogs may mention a vendor’s name as it relates to specific open source project, project deployments, adoption paths, their hosting of an in-person event or speaking at an event, or other indications of meaningful participation in the community, but it shouldn’t feel like an advertisement for the services or company
+* Blogs hosted on project websites should be about the open source project, any references to enterprise offerings should point to the enterprise page of the project that features all vendors equally rather than linking to one specific vendor
+* Project blogs should not favor one vendor’s solution over another
+* Project blogs should keep other CNCF projects in a positive light
+
+### Social media
+
+* Projects can choose whether they want to repost content from vendors, however the rules of engagement should be consistent across vendors and ideally written down so they are clear to everyone
+* Post/re-posts from project handles should not have content that disparages different vendors or CNCF projects
+
+### Messaging platforms, such as Slack
+
+* It is up to the project whether vendors can post in their messaging channels, however the rules of engagement should be consistent across vendors and ideally written down so they are clear to everyone
+* Vendors should avoid channel spamming or solicitation through private messages
 
 ## Hosting
 
@@ -75,9 +82,9 @@ Companies are not obligated to contribute any code to a project, but they also s
 
 CNCF projects are [self-governing](https://github.com/cncf/toc/blob/main/PRINCIPLES.md#projects-are-self-governing), adhering to the principles of exercising minimal viable governance to enable community driven success. Minimum viable governance includes:
 
-1. A Code of Conduct with neutral processes for resolving conflicts
-2. A documented governance model that includes a contribution-based process by which contributors can become committers or maintainers
-3. A clear definition of the top-level project leadership
+* A Code of Conduct with neutral processes for resolving conflicts
+* A documented governance model that includes a contribution-based process by which contributors can become committers or maintainers
+* A clear definition of the top-level project leadership
 
 Actual implementation can take on many [forms](https://contribute.cncf.io/maintainers/templates/governance-intro/) including a maintainer’s council, steering committee, or federated subprojects. While the implementation may vary, there should be adequate space in each project for a variety of voices to be heard, and a [path toward leadership](https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md) for any contributor. We especially recommend that open meetings and public discussion between stakeholders help disputes be clarified and resolved. Allowing a flexible implementation gives projects the ability to choose what is best suited to their needs which will encourage ecosystems that resolve their own problems.
 
