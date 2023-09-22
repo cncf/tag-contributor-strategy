@@ -393,7 +393,7 @@
         "slack_url": "https://rook-io.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "C++"
+        "language": "Go"
     },
     {
         "name": "SPIFFE",
@@ -767,7 +767,7 @@
         "slack_url": "https://cubefs.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "C++"
+        "language": "Go"
     },
     {
         "name": "Dapr",
@@ -1097,7 +1097,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/CNXNB0ZTN",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw",
-        "language": "HTML"
+        "language": "Go"
     },
     {
         "name": "Longhorn",
@@ -3649,7 +3649,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "CSS"
+        "language": "Rust"
     },
     {
         "name": "WasmEdge (Wasm)",
