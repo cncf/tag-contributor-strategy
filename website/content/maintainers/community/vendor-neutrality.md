@@ -20,7 +20,7 @@ Many adopters may be interested in commercial support for CNCF projects, but may
 
 ### Websites
 
-*Please refer to the CNCF [website guidelines](https://github.com/cncf/foundation/blob/main/website-guidelines.md)
+* Please refer to the CNCF [website guidelines](https://github.com/cncf/foundation/blob/main/website-guidelines.md)
 
 ### Blogs
 
