@@ -51,7 +51,7 @@ Wherever possible, community meetings, events, resources, and infrastructure sho
 
 Depending on the status of your project, you may not have all resources available to you. In other cases, projects may need a resource that's not normally supported by the CNCF. If project sponsors have to self-host resources, they should try to still separate resources affiliated with the CNCF project from resources attached to their products. For example, if a project uses Trello, there should be a separate Trello account for the projects from any sponsor's product boards. File a [service desk ticket](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1) to see whether unique services needed by the project could be funded by the CNCF.
 
-Public events for the project must also be handled in a vendor-neutral way. Even in cases where the CNCF events staff is not engaged, all potential vendors must have an equal opportunity to sponsor and participate in the event. For this reason, hosting an project-branded event at any specific vendor's own office is discouraged.
+Public events for the project must also be handled in a vendor-neutral way. Even in cases where the CNCF events staff is not engaged, all potential vendors must have an equal opportunity to sponsor and participate in the event. For this reason, hosting an project-branded event at any specific vendor's own office is discouraged.  The KCD program [has an explanation](https://github.com/cncf/kubernetes-community-days/blob/main/committee-resources/content-management.md) of what vendor neutral means for KCDs, which should be considered to apply to all official CNCF community events.
 
 ## Architectural Decisions
 
