@@ -41,7 +41,7 @@ Facilitators:
 
 ## WG Chair
 
-* Chair: Rob Koch, Slalom Build
+* Co-chair: Rob Koch, Slalom Build
 * Co-Chair: Destiny O'Connor, Women Blessing Women
 
 ## Contact
