@@ -3300,28 +3300,6 @@
         "language": "Makefile"
     },
     {
-        "name": "Service Mesh Interface (SMI)",
-        "path": "Service Mesh",
-        "description": "Service Mesh Interface",
-        "homepage_url": "https://smi-spec.io",
-        "project": "sandbox",
-        "repo_url": "https://github.com/servicemeshinterface/smi-spec",
-        "logo": "logos/service-mesh-interface-smi.svg",
-        "twitter": "https://twitter.com/smi_spec",
-        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
-        "chat_channel": null,
-        "accepted": "2020-03-19",
-        "dev_stats_url": null,
-        "artwork_url": null,
-        "stack_overflow_url": null,
-        "blog_url": null,
-        "mailing_list_url": null,
-        "slack_url": null,
-        "gitter_url": null,
-        "youtube_url": null,
-        "language": "Makefile"
-    },
-    {
         "name": "Service Mesh Performance",
         "path": "Service Mesh",
         "description": "Standardizing Service Mesh Value Measurement",
@@ -3870,5 +3848,27 @@
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/watch?v=XV6502odGd0&list=PLlh6TqkU8kg-5_WY2VVoRxnh-dFtB0ssp",
         "language": "Go"
+    },
+    {
+        "name": "Service Mesh Interface (SMI)",
+        "path": "Service Mesh",
+        "description": "Service Mesh Interface",
+        "homepage_url": "https://smi-spec.io",
+        "project": "archived",
+        "repo_url": "https://github.com/servicemeshinterface/smi-spec",
+        "logo": "logos/service-mesh-interface-smi.svg",
+        "twitter": "https://twitter.com/smi_spec",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2020-03-19",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Makefile"
     }
 ]
