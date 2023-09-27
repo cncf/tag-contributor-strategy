@@ -37,6 +37,7 @@ Meetings occur every fourth Tuesday of the month, alternating between 5 pm CET /
 
 Facilitators:
 * Rob Koch (@robcube), Slalom Build
+* Destiny O'Connor (@Deafveloper), Women Blessing Women
 * Catherine Paganini (@CathPag), Buoyant
 
 ## WG Chair
