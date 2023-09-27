@@ -39,9 +39,10 @@ Facilitators:
 * Rob Koch (@robcube), Slalom Build
 * Catherine Paganini (@CathPag), Buoyant
 
-## Chair
+## WG Chair
 
-* Rob Koch, Slalom Build
+* Chair: Rob Koch, Slalom Build
+* Co-Chair: Destiny O'Connor, Women Blessing Women
 
 ## Contact
 
