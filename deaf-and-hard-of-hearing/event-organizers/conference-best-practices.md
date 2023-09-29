@@ -102,7 +102,7 @@ You could also try to incentivize the employer of the deaf attendee to pay for t
 
 ### Captions
 
-There is no need to provide interpreters for every session, but set up captions for all. That will give attendees the flexibility to join a session spontaneously. While there are lots of live captions software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has proven to work for us. 
+There is no need to provide interpreters for every session, but captions should be available for all sessions in order to give attendees the flexibility to join a session spontaneously. While there are lots of live captions software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has proven to work for us (see below).
 
 Keep in mind that, for a deaf person whose preferred form of communication is sign language, captions won't help when they want to ask a question or participate in a conversation with the speaker(s). You will need an interpreter to support interactions. 
 
