@@ -42,7 +42,7 @@ Include a field asking if accommodations are needed (yes/no) and a free-form tex
 
 ### Program Information
 
-On the program page, include session accessibility information, such as whether captioning will be provided and in which language. Also, mention that interpreters will be available upon request if requested in advance, and specify which sign language (e.g., American Sign Language or International Sign Language).  
+On the program page, include session accessibility information, such as whether captioning will be provided and in which language. Also, mention that interpreters will be available upon request if requested in advance, and specify which sign language (e.g., American Sign Language, International Sign Language, etc.).  
 
 ## Pre-conference best practices 
 
