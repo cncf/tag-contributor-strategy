@@ -106,7 +106,7 @@ There is no need to provide interpreters for every session, but captions should 
 
 Keep in mind that, for a deaf person whose preferred form of communication is sign language, captions won't help when they want to ask a question or participate in a conversation with the speaker(s). You will need an interpreter to support interactions. 
 
-Some caption tools work for virtual events only, others for in-person and virtual. We've created a [list with different vendors ](https://docs.google.com/document/d/13rYZIXMlMSpdbu2wYVzgShj7ZwiXEjOX5nwZLp0PV50/edit#heading=h.ngl0kcvzm9ym)for your convenience. 
+Some caption tools work for virtual events only, others for in-person and virtual. We've created a [list with different vendors](https://docs.google.com/document/d/13rYZIXMlMSpdbu2wYVzgShj7ZwiXEjOX5nwZLp0PV50/edit#heading=h.ngl0kcvzm9ym) for your convenience. 
 
 #### Caption use cases beyond deaf/hoh 
 
