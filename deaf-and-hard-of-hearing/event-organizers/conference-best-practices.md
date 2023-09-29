@@ -1,5 +1,7 @@
 # Best practices for an inclusive and welcoming conference
 
+_This is a living document, so please be sure to check regularly for updates._
+
 If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you to ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall experience.  
 
 The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences. It is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
@@ -56,7 +58,7 @@ Needs vary. Interpreters, captions, or both may be necessary for different indiv
 
 ### Reserved seating at the front
 
-Have some reserved seating at the front for deaf and hard of hearing attendees. Many rely on lip-reading, so you want to be sure they can see the speakers well. 
+Have some reserved seating at the front for deaf and hard of hearing attendees. Many rely on lip-reading, so you want to be sure they can see the speakers well. And please ask speakers not to wear masks while presenting and provide social distancing opportunities instead. 
 
 ### Sign language interpreters
 
