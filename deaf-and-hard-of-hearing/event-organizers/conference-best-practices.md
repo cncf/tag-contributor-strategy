@@ -12,7 +12,7 @@ We encourage you to include the A in your DEI efforts: **Diversity + Equity + In
 
 In this document, we'll cover:
 
-- [Website, registration, and CFP form](#website-registration-and-CFP-form)
+- [Website, registration, and CFP form](#website-registration-and-cfp-form)
  [Pre-conference best practices](#pre-conference-best-practices)
  [Day of best practices](#day-of-best-practices)
     - [Reserved seating](#reserved-seating)
