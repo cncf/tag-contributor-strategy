@@ -137,7 +137,6 @@ Having the opportunity to network with hearing peers is not only important for t
 ## Ideas to be tested 
 
 Technology is constantly changing, creating new, potentially more cost-effective, opportunities for inclusion. In this section, we'd like to capture ideas we have not seen in action yet but believe that could work. If you have an idea or have tested any of these at an event, please validate or correct our setup recommendations. You can either submit a pull request, raise an issue, or send an email to 	[cncf-tag-contributor-strategy@lists.cncf.io](mailto:cncf-tag-contributor-strategy@lists.cncf.io) with the requested change — thank you! 
-
 [TODO]
 
 Thank you for taking the time to review our best practices recommendations. We hope this was useful and that you'll be able to implement them at your next event. If your conference is accessible to our community, please be sure to add it to this [accessible tech conference list](https://docs.google.com/spreadsheets/d/1kQmhwQc45S6SC2fYsULue4our72TLH86kVD5KA0EC-4/edit#gid=0) so more people from our community find out about it.
