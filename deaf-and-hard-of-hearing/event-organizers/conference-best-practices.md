@@ -40,6 +40,10 @@ Consider creating a dedicated email address (e.g., accommodations@) to signal yo
 
 Include a field asking if accommodations are needed (yes/no) and a free-form text box to specify. Everyone's needs differ; it's hard to discern from a fixed form/dropdown.
 
+### Program Information
+
+On the program page, include session accessibility information, such as whether captioning will be provided and in which language. Also, mention that interpreters will be available upon request if requested in advance, and specify which sign language (e.g., American Sign Language or International Sign Language).  
+
 ## Pre-conference best practices 
 
 ### Reach out to attendees/speakers before the event
