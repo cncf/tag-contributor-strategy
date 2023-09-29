@@ -80,7 +80,7 @@ Before the conference, ask attendees to sign up for sessions in advance so you k
 
 ##### Accommodation desk
 
-Set up an accommodation desk where attendees can ask questions, request changes, or get an interpreter spontaneously, if available. 
+Set up an accommodation desk and/or communication channel where attendees can ask questions, request changes, or get an interpreter spontaneously, if available. 
 
 ##### Networking events
 
