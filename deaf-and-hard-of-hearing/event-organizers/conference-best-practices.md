@@ -2,9 +2,11 @@
 
 If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you to ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall experience.  
 
-The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences. Please refer to the [understanding the diverse needs of deaf and hard of hearing individuals](https://docs.google.com/document/d/1FQHbPP2asgp7NlCTXpjmhrARaXzCjN-DUogG4Ycf0xM/edit#heading=h.i8sn2yg7swqw) article to learn more about our community. You'll see why it is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community. We want to change that and need your help!
+The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences. It is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
 
 To make the process as straightforward as possible, we've listed everything that would make a conference truly inclusive but also included alternatives if a particular accommodation is not feasible. If you have any questions or concerns, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io. 
+
+We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — all too often is our community an afterthought. We want to change that and need your support!
 
 **Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
 
