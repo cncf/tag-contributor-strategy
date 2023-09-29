@@ -2677,8 +2677,8 @@
         "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#meshery-logos",
         "stack_overflow_url": null,
         "blog_url": "https://meshery.io/blog/",
-        "mailing_list_url": "https://groups.google.com/a/meshery.dev/g/community",
-        "slack_url": "https://cloud-native.slack.com/messages/meshery",
+        "mailing_list_url": "https://meshery.io/subscribe",
+        "slack_url": "https://slack.meshery.io",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/playlist?list=PL3A-A6hPO2INr4oEIorJqC8N0FtxnYj0a",
         "language": "Go"
