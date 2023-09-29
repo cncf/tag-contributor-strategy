@@ -56,7 +56,7 @@ Needs vary. Interpreters, captions, or both may be necessary for different indiv
 
 ### Reserved seating at the front
 
-Have some reserved seating at the front for deaf and hard of hearing attendees. Many rely on lipreading, so you want to be sure they can see the speakers well. 
+Have some reserved seating at the front for deaf and hard of hearing attendees. Many rely on lip-reading, so you want to be sure they can see the speakers well. 
 
 ### Sign language interpreters
 
