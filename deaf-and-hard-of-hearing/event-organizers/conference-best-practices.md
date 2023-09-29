@@ -98,7 +98,7 @@ If your budget is tight, consider offering an **accessibility sponsorship add-on
 
 #### Local and community events
 
-For local and community events where attendance is free or low-cost, we recommend offering an accessibility sponsorship add-on (see prior section) to try to have interpreters on site. If that doesn't work, live captions are certainly the minimum you should offer. Consider bringing a tablet as a backup. [any tech suggestions?]
+For local and community events where attendance is free or low-cost, we recommend offering an accessibility sponsorship add-on (see prior section) to try to have interpreters on site. If that doesn't work, live captions are certainly the minimum you should offer. Be sure to let the deaf attendee know before the event that you couldn't raise funds for interpreters and that only captioning will be provided. Also, offer a refund if desired.
 
 You could also try to incentivize the employer of the deaf attendee to pay for the interpreters and offer to list them as an official event sponsor. 
 
