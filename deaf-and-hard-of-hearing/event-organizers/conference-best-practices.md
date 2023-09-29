@@ -24,7 +24,7 @@ In this document, we'll cover:
 - [Conference networking opportunities](#conference-networking-opportunities)
 - [Ideas to be tested](#ideas-to-be-tested)
 
-## Website, registration, and CFP form {#website-registration-and-CFP-form}
+## Website, registration, and CFP form
 
 ### Event website
 
