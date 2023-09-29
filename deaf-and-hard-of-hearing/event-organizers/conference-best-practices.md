@@ -18,7 +18,7 @@ In this document, we'll cover:
     - [Reserved seating](#reserved-seating-at-the-front)
     - [Sign language interpreters](#sign-language-interpreters)
     - [Captions](#captions) 
-    - [Microphones for speakers and Q&A](#microphones-for-speakers-and-Q&A)
+    - [Microphones for speakers and Q&A](#microphones-for-speakers-and-qa)
     - [Be ADA compliant](#be-ada-compliant)
     - [Meeting point area](#meeting-point-area)
 - [Conference networking opportunities](#conference-networking-opportunities)
