@@ -92,7 +92,7 @@ When it comes to networking events outside of the official program (e.g., sponso
 
 It's easier to share accommodations among speakers and attendees at smaller or single-track conferences. Provide live captions and a pair of sign language interpreters.
 
-If your budget is tied, consider offering an **accessibility sponsorship add-on **and mention throughout the conference that interpreters are made possible thanks to that company. That will motivate them or other companies to participate next time. 
+If your budget is tight, consider offering an **accessibility sponsorship add-on** and mention throughout the conference that interpreters are made possible thanks to that company. That will motivate them or other companies to participate next time. 
 
 #### Local and community events
 
