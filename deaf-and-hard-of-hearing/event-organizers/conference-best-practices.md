@@ -48,7 +48,7 @@ Include a field asking if accommodations are needed (yes/no) and a free-form tex
 
 ### Connect us with our peers
 
-Provide a way for deaf and hard of hearing attendees and speakers or people with other disabilities to connect for peer support and potentially pool resources (e.g., event Slack channel). 
+Provide a way for deaf and hard of hearing attendees and speakers or people with other disabilities to connect for peer support and potentially pool resources (e.g., an event Slack channel). 
 
 ## Day of best practices
 
