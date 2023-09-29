@@ -15,7 +15,7 @@ In this document, we'll cover:
 - [Website, registration, and CFP form](#website-registration-and-cfp-form)
 - [Pre-conference best practices](#pre-conference-best-practices)
 - [Day of best practices](#day-of-best-practices)
-    - [Reserved seating](#reserved-seating)
+    - [Reserved seating](#reserved-seating-at-the-front)
     - [Sign language interpreters](#sign-language-interpreters)
     - [Captions](#captions) 
     - [Microphones for speakers and Q&A](#microphones-for-speakers-and-Q&A)
