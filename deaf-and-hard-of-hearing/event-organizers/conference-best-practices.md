@@ -62,7 +62,7 @@ Have some reserved seating at the front for deaf and hard of hearing attendees. 
 
 Provide interpreters upon request and in advance. We also recommend having two sign language interpreters on-call to accommodate last-minute registrants or miscommunications. Ask interpreter agencies about their cancellation policies — these can vary significantly. A week's notice, 48, or even 24 hours with a fee, are all possible, depending on the agency. 
 
-Obviously, a big conference like KubeCon has more resources than a local community event — we get that. Since we also want to be included in smaller events, we'll offer various options. To be clear, the more cost-effective options aren't truly inclusive, meaning we'll miss out on many opportunities our hearing peers benefit from. Do only go the more cost-effective route if the alternative is no accessibility. We deserve to be included and appreciate your support. 
+Obviously, a big conference like KubeCon has more resources than a local community event — we get that. Since we also want to be included in smaller events, we'll offer various options. To be clear, the more cost-effective options aren't as inclusive, meaning we'll miss out on many opportunities our hearing peers benefit from. Do only go the more cost-effective route if the alternative is no accessibility. We deserve to be included and appreciate your support. 
 
 Sign language interpreters are the most valuable but also the most expensive accommodation. Incorporate the cost into the overall conference cost. It should be no different than including audio/video equipment, swag, food, refreshments, etc. into your budget. 
 
