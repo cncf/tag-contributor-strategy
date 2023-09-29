@@ -30,7 +30,7 @@ In this document, we'll cover:
 
 On the registration and call for papers (CFP) pages, state that accommodations will be made for speakers and attendees with disabilities. Clearly and prominently stating that will make us feel welcome and motivate us to participate. Don't bury that important information in a registration form we might never see. Here's some suggested copy:
 
-    Interested in attending or speaking but require special accommodations? Please inform us through the registration or CFP form about your specific needs, and we will make every effort to provide the necessary support. For accommodation-related questions, please reach out to [accommodations@yourevent.com](mailto:accommodations@yourevent.com).
+> Interested in attending or speaking but require special accommodations? Please inform us through the registration or CFP form about your specific needs, and we will make every effort to provide the necessary support. For accommodation-related questions, please reach out to [accommodations@yourevent.com](mailto:accommodations@yourevent.com).
 
 Consider creating a dedicated email address (e.g., accommodations@) to signal you take this seriously.  
 
