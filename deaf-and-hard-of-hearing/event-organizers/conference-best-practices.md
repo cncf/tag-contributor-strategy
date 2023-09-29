@@ -44,7 +44,7 @@ Include a field asking if accommodations are needed (yes/no) and a free-form tex
 
 * Set up notifications or monitor registration and CFP forms for accommodation needs and ask for clarification if needed.
 * Connect attendees with sign language interpreters to ensure they understand communication needs and style.
-* For dedicated interpreters (see sign language interpreter section), provide both sides with contact information to communicate directly during the event should they run late or if a meeting place changes.  
+* For dedicated interpreters (see the [sign language interpreters](#sign-language-interpreters) section), provide both sides with contact information to communicate directly during the event should they run late or if a meeting place changes.  
 
 ### Connect us with our peers
 
