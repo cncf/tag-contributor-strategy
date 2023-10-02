@@ -4,20 +4,17 @@ _This is a living document, so please be sure to check regularly for updates._
 
 If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you to ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall and complete experience.  
 
-The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences. It is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
+The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences, so it is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
 
-It is important to provide attendees, speakers, and sponsors the opportunity to specify their accessibility needs as soon as possible, so you can plan for it in advance. Use your website, registration and call for papers forms to get that information early. Conference organizers often don't budget for accessibility until a request is made. This can create uncomfortable situations for event planners who don't know how to budget for a sudden request. Accessibility is rarely a static budget line item, and it can be hard, especially when planning it for the first time. One of our aims in documenting best practices is to learn and share cost information to make planning more predictable.
+We also recommend providing attendees, speakers, and sponsors the opportunity to specify their accessibility needs as soon as possible, so you can plan for it in advance. Use your website, registration and call for papers forms to get that information early. Conference organizers often don't budget for accessibility until a request is made. This can create uncomfortable situations for event planners who don't know how to budget for a sudden request. Accessibility is rarely a static budget line item, and it can be hard, especially when planning it for the first time. One of our aims in documenting best practices is to learn and share cost information to make planning more predictable.
 
 To make the process as straightforward as possible, we've listed as much as we could to make a conference truly inclusive to our community but also included alternatives if a particular accommodation is not feasible. If you have any questions or concerns, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io. 
 
-We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — all too often is our community an afterthought. We want to change that and need your support!
-
-**Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
-
 In this document, we'll cover:
 
+- [DEIA: Diversity + Equity + Inclusion + Accessibility](#deia-diversity-equity-inclusion-accessibility)
 - [ADA coordinator/specialist role](#ada-coordinator-specialist-role)
-- [Website, registration, and CFP form](#website-registration-and-cfp-form)
+- [Website, registration and CFP form, and program information](#website-registration-and-CFP-form-and-program-information)
 - [Pre-conference best practices](#pre-conference-best-practices)
 - [Day of best practices](#day-of-best-practices)
     - [Reserved seating](#reserved-seating-at-the-front)
@@ -26,7 +23,13 @@ In this document, we'll cover:
     - [Microphones for speakers and Q&A](#microphones-for-speakers-and-qa)
     - [Meeting point area](#meeting-point-area)
 - [Conference networking opportunities](#conference-networking-opportunities)
-- [Ideas to be tested](#ideas-to-be-tested)
+
+**Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
+
+## DEIA: Diversity + Equity + Inclusion + Accessibility
+
+We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — all too often is our community an afterthought. We want to change that and need your support!
+
 ## ADA coordinator/specialist role
 
 We recommend appointing a designated Americans with Disabilities Act (ADA) coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers.
@@ -34,7 +37,8 @@ We recommend appointing a designated Americans with Disabilities Act (ADA) coord
 ### Be ADA-compliant
 
 While nearly all buildings in the United States are ADA-compliant, we often see a gap at conferences: risers/stages generally don't have ramps, making them inaccessible for people with physical disabilities. Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
-## Website, registration,  CFP form, program information
+
+## Website, registration and CFP form, and program information
 
 ### Event website
 
@@ -116,7 +120,7 @@ You could also try to incentivize the employer of the deaf attendee to pay for t
 
 ### Captions
 
-There is no need to provide interpreters for every session, but captions should be available for all sessions in order to give attendees the flexibility to join a session spontaneously. While there are lots of live captions software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has proven to work for us (see below).
+There is no need to provide interpreters for every session, but captions should be available for all sessions in order to give attendees the flexibility to join a session spontaneously. While there are lots of live captions software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has proven to work for us.
 
 Keep in mind that, for a deaf person whose preferred form of communication is sign language, captions won't help when they want to ask a question or participate in a conversation with the speaker(s). You will need an interpreter to support interactions. 
 
@@ -129,10 +133,6 @@ Some attendees can hear but may be on the autism spectrum and have a hard time p
 ### Microphones for speakers and Q&A
 
 Provide microphones for speakers and audience questions — even in small rooms. Hard of hearing attendees or speakers will struggle to hear the question without a microphone, and the captions tool won't be able to capture it either. If you can't provide a microphone for audience questions, have the speaker or someone else repeat the question in the microphone, "This person was asking …" 
-
-### Be ADA-compliant
-
-While nearly all buildings in the United States are ADA-compliant, we often see a gap at conferences: risers/stages generally don't have ramps, making it inaccessible for people with physical disabilities. Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
 
 ### Meeting point area 
 
