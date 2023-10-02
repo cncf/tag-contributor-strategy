@@ -25,7 +25,13 @@ In this document, we'll cover:
     - [Meeting point area](#meeting-point-area)
 - [Conference networking opportunities](#conference-networking-opportunities)
 - [Ideas to be tested](#ideas-to-be-tested)
+## ADA coordinator/specialist role
 
+We recommend appointing a designated Americans with Disabilities Act (ADA) coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers.
+
+### Be ADA-compliant
+
+While nearly all buildings in the United States are ADA-compliant, we often see a gap at conferences: risers/stages generally don't have ramps, making them inaccessible for people with physical disabilities. Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
 ## Website, registration, and CFP form
 
 ### Event website
