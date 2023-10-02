@@ -35,7 +35,7 @@ We recommend appointing a designated Americans with Disabilities Act (ADA) coord
 ### Be ADA-compliant
 
 While nearly all buildings in the United States are ADA-compliant, we often see a gap at conferences: risers/stages generally don't have ramps, making them inaccessible for people with physical disabilities. Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
-## Website, registration, and CFP form
+## Website, registration,  CFP form, program information
 
 ### Event website
 
