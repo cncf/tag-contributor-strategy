@@ -24,7 +24,6 @@ In this document, we'll cover:
     - [Sign language interpreters](#sign-language-interpreters)
     - [Captions](#captions) 
     - [Microphones for speakers and Q&A](#microphones-for-speakers-and-qa)
-    - [Be ADA compliant](#be-ada-compliant)
     - [Meeting point area](#meeting-point-area)
 - [Conference networking opportunities](#conference-networking-opportunities)
 - [Ideas to be tested](#ideas-to-be-tested)
