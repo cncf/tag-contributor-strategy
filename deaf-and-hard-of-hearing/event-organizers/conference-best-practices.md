@@ -12,9 +12,9 @@ To make the process as straightforward as possible, we've listed as much as we c
 
 In this document, we'll cover:
 
-- [DEIA: Diversity + Equity + Inclusion + Accessibility](#deia-diversity-equity-inclusion-accessibility)
-- [ADA coordinator/specialist role](#ada-coordinator-specialist-role)
-- [Website, registration and CFP form, and program information](#website-registration-and-CFP-form-and-program-information)
+- [DEIA: Diversity + Equity + Inclusion + Accessibility](#deia-diversity--equity--inclusion--accessibility)
+- [ADA coordinator/specialist role](#ada-coordinatorspecialist-role)
+- [Website, registration and CFP form, and program information](#website-registration-and-cfp-form-and-program-information)
 - [Pre-conference best practices](#pre-conference-best-practices)
 - [Day of best practices](#day-of-best-practices)
     - [Reserved seating](#reserved-seating-at-the-front)
