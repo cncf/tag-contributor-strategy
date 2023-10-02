@@ -99,7 +99,7 @@ Before the conference, ask attendees to sign up for sessions in advance so you k
 ##### Accommodation desk
 
 Set up an accommodation desk and/or communication channel where attendees can ask questions, request changes, or get an interpreter spontaneously, if available. 
-
+Be sure to staff it with people familiar with deaf/hoh needs and have assistive technology available to assist with communication when needed.
 ##### Networking events
 
 As mentioned in the [conference networking opportunities section](#conference-networking-opportunities) below, networking is one of the key reasons people attend conferences, so be sure interpreters are also available during networking sessions. 
