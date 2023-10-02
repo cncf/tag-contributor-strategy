@@ -6,6 +6,8 @@ If you're not familiar with the needs and preferences of deaf and hard of hearin
 
 The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences. It is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
 
+It is important to provide attendees, speakers, and sponsors the opportunity to specify their accessibility needs as soon as possible, so you can plan for it in advance. Use your website, registration and call for papers forms to get that information early. Conference organizers often don't budget for accessibility until a request is made. This can create uncomfortable situations for event planners who don't know how to budget for a sudden request. Accessibility is rarely a static budget line item, and it can be hard, especially when planning it for the first time. One of our aims in documenting best practices is to learn and share cost information to make planning more predictable.
+
 To make the process as straightforward as possible, we've listed as much as we could to make a conference truly inclusive to our community but also included alternatives if a particular accommodation is not feasible. If you have any questions or concerns, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io. 
 
 We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — all too often is our community an afterthought. We want to change that and need your support!
