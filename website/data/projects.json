@@ -264,13 +264,35 @@
         "language": "Go"
     },
     {
-        "name": "Keda",
-        "path": "Installable Platform",
+        "name": "KEDA",
+        "path": "Scheduling & Orchestration",
         "description": " KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ",
         "homepage_url": "https://keda.sh/",
         "project": "graduated",
         "repo_url": "https://github.com/kedacore/keda",
         "logo": "logos/keda.svg",
+        "twitter": "https://twitter.com/kedaorg",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2020-03-12",
+        "dev_stats_url": "https://keda.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#keda-logos",
+        "stack_overflow_url": null,
+        "blog_url": "https://keda.sh/blog",
+        "mailing_list_url": null,
+        "slack_url": "https://kubernetes.slack.com/archives/CKZJ36A5D",
+        "gitter_url": null,
+        "youtube_url": "https://www.youtube.com/playlist?list=PLvjRi5R9GQfASIcL4MLTfg2ZOoBdIi5Kq",
+        "language": "Go"
+    },
+    {
+        "name": "KEDA (Serverless)",
+        "path": "Installable Platform",
+        "description": " KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ",
+        "homepage_url": "https://keda.sh/",
+        "project": "graduated",
+        "repo_url": "https://github.com/kedacore/keda",
+        "logo": "logos/keda-serverless.svg",
         "twitter": "https://twitter.com/kedaorg",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
@@ -566,9 +588,9 @@
         "stack_overflow_url": null,
         "blog_url": null,
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://kubernetes.slack.com/messages/cert-manager",
         "gitter_url": null,
-        "youtube_url": null,
+        "youtube_url": "https://www.youtube.com/@cert-manager",
         "language": "Go"
     },
     {
@@ -750,7 +772,7 @@
     {
         "name": "CubeFS",
         "path": "Cloud Native Storage",
-        "description": "CubeFS is a cloud native file storage",
+        "description": "CubeFS is a cloud native unstructured data storage",
         "homepage_url": "https://cubefs.io/",
         "project": "incubating",
         "repo_url": "https://github.com/cubeFS/cubefs",
@@ -767,7 +789,7 @@
         "slack_url": "https://cubefs.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "C++"
+        "language": "Go"
     },
     {
         "name": "Dapr",
@@ -1097,7 +1119,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/CNXNB0ZTN",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw",
-        "language": "HTML"
+        "language": "Go"
     },
     {
         "name": "Longhorn",
@@ -1146,7 +1168,7 @@
     {
         "name": "Notary",
         "path": "Security & Compliance",
-        "description": "A CLI tool to sign and verify OCI artifacts and container images",
+        "description": "A CLI tool to sign and verify artifacts",
         "homepage_url": "https://notaryproject.dev/",
         "project": "incubating",
         "repo_url": "https://github.com/notaryproject/notation",
@@ -1168,7 +1190,7 @@
     {
         "name": "OpenKruise",
         "path": "Continuous Integration & Delivery",
-        "description": "Automated management of large-scale applications on Kubernetes (project under CNCF)",
+        "description": "Automated management of large-scale applications on Kubernetes (incubating project under CNCF)",
         "homepage_url": "https://openkruise.io/en-us/",
         "project": "incubating",
         "repo_url": "https://github.com/openkruise/kruise",
@@ -1537,7 +1559,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Python"
+        "language": "JavaScript"
     },
     {
         "name": "Chaosblade",
@@ -2134,6 +2156,28 @@
         "language": "Go"
     },
     {
+        "name": "KCL",
+        "path": "Automation & Configuration",
+        "description": "A constraint-based record & functional language mainly used in configuration and policy scenarios.",
+        "homepage_url": "https://kcl-lang.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kcl-lang/kcl",
+        "logo": "logos/kcl.svg",
+        "twitter": "https://twitter.com/kcl_language",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2023-09-20",
+        "dev_stats_url": "https://kcl.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Rust"
+    },
+    {
         "name": "Kepler",
         "path": "Monitoring",
         "description": "Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics.",
@@ -2633,8 +2677,8 @@
         "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#meshery-logos",
         "stack_overflow_url": null,
         "blog_url": "https://meshery.io/blog/",
-        "mailing_list_url": "https://groups.google.com/a/meshery.dev/g/community",
-        "slack_url": "https://cloud-native.slack.com/messages/meshery",
+        "mailing_list_url": "https://meshery.io/subscribe",
+        "slack_url": "https://slack.meshery.io",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/playlist?list=PL3A-A6hPO2INr4oEIorJqC8N0FtxnYj0a",
         "language": "Go"
@@ -2686,7 +2730,7 @@
     {
         "name": "Microcks",
         "path": "Application Definition & Image Build",
-        "description": "Kubernetes native tool for mocking and testing API and micro-services",
+        "description": "Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Sandbox project \ud83d\ude80",
         "homepage_url": "https://microcks.io",
         "project": "sandbox",
         "repo_url": "https://github.com/microcks/microcks",
@@ -3256,28 +3300,6 @@
         "language": "Makefile"
     },
     {
-        "name": "Service Mesh Interface (SMI)",
-        "path": "Service Mesh",
-        "description": "Service Mesh Interface",
-        "homepage_url": "https://smi-spec.io",
-        "project": "sandbox",
-        "repo_url": "https://github.com/servicemeshinterface/smi-spec",
-        "logo": "logos/service-mesh-interface-smi.svg",
-        "twitter": "https://twitter.com/smi_spec",
-        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
-        "chat_channel": null,
-        "accepted": "2020-03-19",
-        "dev_stats_url": null,
-        "artwork_url": null,
-        "stack_overflow_url": null,
-        "blog_url": null,
-        "mailing_list_url": null,
-        "slack_url": null,
-        "gitter_url": null,
-        "youtube_url": null,
-        "language": "Makefile"
-    },
-    {
         "name": "Service Mesh Performance",
         "path": "Service Mesh",
         "description": "Standardizing Service Mesh Value Measurement",
@@ -3610,7 +3632,7 @@
     {
         "name": "wasmCloud",
         "path": "Scheduling & Orchestration",
-        "description": "Project homepage. wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.",
+        "description": "Bringing joy to the act of building distributed applications with low boilerplate, secure by default WebAssembly modules. CNCF sandbox application runtime.",
         "homepage_url": "https://wasmcloud.com",
         "project": "sandbox",
         "repo_url": "https://github.com/wasmCloud/wasmCloud",
@@ -3627,7 +3649,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Rust"
+        "language": "CSS"
     },
     {
         "name": "WasmEdge (Wasm)",
@@ -3826,5 +3848,27 @@
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/watch?v=XV6502odGd0&list=PLlh6TqkU8kg-5_WY2VVoRxnh-dFtB0ssp",
         "language": "Go"
+    },
+    {
+        "name": "Service Mesh Interface (SMI)",
+        "path": "Service Mesh",
+        "description": "Service Mesh Interface",
+        "homepage_url": "https://smi-spec.io",
+        "project": "archived",
+        "repo_url": "https://github.com/servicemeshinterface/smi-spec",
+        "logo": "logos/service-mesh-interface-smi.svg",
+        "twitter": "https://twitter.com/smi_spec",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2020-03-19",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Makefile"
     }
 ]
