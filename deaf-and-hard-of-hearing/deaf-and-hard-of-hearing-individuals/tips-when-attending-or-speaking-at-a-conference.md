@@ -11,7 +11,7 @@ But to change that, you need to — not only show up — but also be transparent
 
 ## Tips for speakers
 
-1. **Be transparent and vocal about your needs**: Publicly talk about accommodations on social media or email by replying to all to help initiate conversations. But be mindful of calling out versus calling in.
+1. **Be transparent and vocal about your needs**: Publicly talk about accommodations on social media or email by replying to all to help initiate conversations. Use the public channels as an opportunity to collaborate and foster good relationships, so offer a solution when you can.
 2. **Attend social events and make it clear if you are uncomfortable**: Let them know you are leaving a social event because you can't hear or communicate with other attendees. It's essential to make organizers aware of how this makes you feel. 
 3. **Don't hide your disappointment**: Don't be bitter, but don't hide your disappointment either. Be sure organizers know so they can do better next time. 
 4. **Use Google Slides' captions capability**: If the conference doesn't have captions, you can use Google Slides' captions capabilities. While they are far from great, they are better than no captions. 
