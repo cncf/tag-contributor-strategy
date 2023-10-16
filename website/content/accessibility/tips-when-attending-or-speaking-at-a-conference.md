@@ -1,3 +1,10 @@
+---
+title: "Tips when no proper conference accommodations"
+date: 2023-10-01
+description: >
+  Tips when attending or speaking at a conference that doesn't provide proper accommodations
+---
+
 # Tips when attending or speaking at a conference that doesn't provide proper accommodations
 
 Conference organizers don't always fully understand the needs of deaf and hard of hearing attendees or speakers. As a result, conferences tend to have little to no appropriate accommodations, creating a vicious cycle of fewer deaf and hard of hearing individuals attending and speaking at events.

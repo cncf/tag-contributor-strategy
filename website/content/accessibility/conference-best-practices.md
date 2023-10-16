@@ -1,3 +1,10 @@
+---
+title: "Inclusive conference best practices"
+date: 2023-10-01
+description: >
+  Best practices for an inclusive and welcoming conference
+---
+
 # Best practices for an inclusive and welcoming conference
 
 _This is a living document, so please be sure to check regularly for updates._
