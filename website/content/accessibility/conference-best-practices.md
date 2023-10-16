@@ -17,20 +17,6 @@ We also recommend providing attendees, speakers, and sponsors the opportunity to
 
 To make the process as straightforward as possible, we've listed as much as we could to make a conference truly inclusive to our community but also included alternatives if a particular accommodation is not feasible. If you have any questions or concerns, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io. 
 
-In this document, we'll cover:
-
-- [DEIA: Diversity + Equity + Inclusion + Accessibility](#deia-diversity--equity--inclusion--accessibility)
-- [ADA coordinator/specialist role](#ada-coordinatorspecialist-role)
-- [Website, registration and CFP form, and program information](#website-registration-and-cfp-form-and-program-information)
-- [Pre-conference best practices](#pre-conference-best-practices)
-- [Day of best practices](#day-of-best-practices)
-    - [Reserved seating](#reserved-seating-at-the-front)
-    - [Sign language interpreters](#sign-language-interpreters)
-    - [Captions](#captions) 
-    - [Microphones for speakers and Q&A](#microphones-for-speakers-and-qa)
-    - [Meeting point area](#meeting-point-area)
-- [Conference networking opportunities](#conference-networking-opportunities)
-
 **Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
 
 ## DEIA: Diversity + Equity + Inclusion + Accessibility
