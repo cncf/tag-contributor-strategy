@@ -1,5 +1,5 @@
 ---
-title: "Tips when no proper conference accommodations"
+title: "Tips for deaf/hoh conference attendees"
 date: 2023-10-01
 description: >
   Tips when attending or speaking at a conference that doesn't provide proper accommodations
