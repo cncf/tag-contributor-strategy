@@ -1,9 +1,7 @@
 ---
-title: Deaf & Hard of Hearing
+title: Deaf & Hard of Hearing Initiative
 linkTitle: "Deaf & Hard of Hearing"
 ---
-
-# Deaf & Hard of Hearing initiative
 
 The CNCF Deaf and Hard of Hearing (deaf/hoh) initiative aims to empower and include individuals who are deaf or hard of hearing in the cloud native and open source communities. Our group’s mission is to create a supportive and inclusive environment within the cloud native and open source community.
 

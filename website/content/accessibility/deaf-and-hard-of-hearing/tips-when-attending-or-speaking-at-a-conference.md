@@ -5,8 +5,6 @@ description: >
   Tips when attending or speaking at a conference that doesn't provide proper accommodations
 ---
 
-# Tips when attending or speaking at a conference that doesn't provide proper accommodations
-
 Conference organizers don't always fully understand the needs of deaf and hard of hearing attendees or speakers. As a result, conferences tend to have little to no appropriate accommodations, creating a vicious cycle of fewer deaf and hard of hearing individuals attending and speaking at events.
 
 But to change that, you need to — not only show up — but also be transparent about your needs. As you will see, the lack of accommodations isn't ill-intended. It's just due to a lack of knowledge and, other times, a lack of funds to provide required accommodations. If we don't educate them, who will? To bring change, we all need to embrace **self-advocacy** and show up and speak up. 

@@ -1,13 +1,10 @@
 ---
-title: "Inclusive conference best practices"
+title: "Best practices for an inclusive and welcoming conference"
+linkTitle: "Inclusive conference best practices"
 date: 2023-10-01
 description: >
-  Best practices for an inclusive and welcoming conference
+  This is a living document, so please be sure to check regularly for updates.
 ---
-
-# Best practices for an inclusive and welcoming conference
-
-_This is a living document, so please be sure to check regularly for updates._
 
 If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you to ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall and complete experience.  
 

@@ -6,7 +6,7 @@ menu:
     weight: 50
 ---
 
-# Welcome to the Cloud Native Accessibility Initiative
+## Welcome to the Cloud Native Accessibility Initiative
 
 Our goal is to foster awareness and understanding within the community about the unique needs of individuals with disabilities. We develop recommendations for project owners, conference organizers, and community members who want to be more inclusive. All recommendations come directly from the communities with these disabilities.
 
