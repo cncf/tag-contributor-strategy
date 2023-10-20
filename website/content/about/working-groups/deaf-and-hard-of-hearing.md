@@ -65,7 +65,7 @@ Furthermore, communities can benefit from these:
 * Education: Enhanced awareness and understanding of deaf/hoh issues and accommodations.
 * Role Models: Deaf/hoh role models can inspire and motivate others in the community.
 * Networking: Building connections and collaboration with the deaf/hoh in tech community.
-* Greater Representation: Increased representation benefits the overall community's visibility and reputation.
+* **Greater Representation**: Increased representation benefits the overall community's visibility and reputation.
 
 You may find resources of our working group [here](/accessibility/).
 
