@@ -52,7 +52,7 @@ Benefits for deaf/hoh individuals:
 
 * **Inclusion**: Become an active cloud native and open sourcecommunity member.
 * Career Growth: Access to jobs in the tech industry.
-* Networking: Connect with a supportive deaf/hoh in tech community.
+* **Networking**: Connect with a supportive deaf/hoh tech community.
 * Inspiration: Become inspired by deaf/hoh role models.
 * Educational Resources: Access tools to enhance skills.
 * Visibility: Increase recognition within tech communities.
