@@ -64,7 +64,7 @@ Benefits for the hearing community:
 * **Innovation**: Diverse participation fosters innovation and creativity.
 * **Education**: Enhanced awareness and understanding of deaf/hoh needs and accommodations.
 * **Role Models**: Deaf/hoh role models can inspire and motivate others in the community.
-* Networking: Building connections and collaboration with the deaf/hoh in tech community.
+* **Networking**: Building connections and collaboration with the deaf/hoh in tech community.
 * **Greater Representation**: Increased representation benefits the overall community's visibility and reputation.
 
 You may find resources of our working group [here](/accessibility/).
