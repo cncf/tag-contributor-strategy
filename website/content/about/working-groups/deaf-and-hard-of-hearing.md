@@ -59,7 +59,7 @@ Benefits for deaf/hoh individuals:
 
 Benefits for the hearing community:
 
-* Diversity and Inclusion: Greater diversity and inclusion, enriching the community with different perspectives and talents.
+* **Diversity and Inclusion**: Learn how to be more diverse and inclusive, enriching the community with different perspectives and talents.
 * Expanded Talent Pool: Access to a broader talent pool, including skilled deaf/hoh individuals.
 * Innovation: Diverse participation fosters innovation and creativity.
 * Education: Enhanced awareness and understanding of deaf/hoh issues and accommodations.
