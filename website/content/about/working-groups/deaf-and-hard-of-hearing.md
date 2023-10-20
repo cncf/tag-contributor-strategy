@@ -54,7 +54,7 @@ Benefits for deaf/hoh individuals:
 * **Career Growth**: Grow your network of hearing and deaf/hoh peers an learn about professional opportunities. 
 * **Networking**: Connect with a supportive deaf/hoh tech community.
 * **Inspiration**: Meet deaf/hoh role models.
-* Educational Resources: Access tools to enhance skills.
+* **Educational Resources**: Learn about tools to enhance your tech skills.
 * Visibility: Increase recognition within tech communities.
 
 Furthermore, communities can benefit from these:
