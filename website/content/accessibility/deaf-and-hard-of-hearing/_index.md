@@ -1,5 +1,5 @@
 ---
-title: Deaf & Hard of Hearing Initiative
+title: Deaf & Hard of Hearing Working Group
 linkTitle: "Deaf & Hard of Hearing"
 ---
 
