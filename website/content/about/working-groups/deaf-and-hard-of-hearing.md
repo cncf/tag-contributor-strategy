@@ -6,7 +6,7 @@ url: /about/deaf-and-hard-of-hearing
 
 {{% blocks/lead color="primary" align="left" %}}
 
-Want to participate in empowering deaf or hard of hearing individuals? We are here to help!
+Want to help empower deaf and hard of hearing individuals? Join our effort!
 
 Read our [Charter](https://github.com/cncf/tag-contributor-strategy/tree/main/deaf-and-hard-of-hearing)
 
