@@ -32,7 +32,7 @@ Our group's mission is to create a supportive and inclusive environment within t
 
 * Create pathways for deaf/hoh individuals into cloud native and open source.
 * Empower deaf/hoh to become more visible members within the cloud native community.
-* Encourage and educate employers on hiring deaf/hoh employees.
+* Encourage and educate employers to hire deaf/hoh employees.
 * Build a deaf/hoh in tech community to network, learn from, and support each other.
 
 </div>
