@@ -48,7 +48,7 @@ Our group's mission is to create a supportive and inclusive environment within t
 
 <div class="text-left">
 
-Here are some benefits that the deaf/hoh working group can provide to individuals:
+Benefits for deaf/hoh individuals:
 
 * Inclusion: Deaf/hoh individuals can actively participate in tech communities.
 * Career Growth: Access to jobs in the tech industry.
