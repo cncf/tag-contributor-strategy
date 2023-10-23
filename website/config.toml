@@ -54,6 +54,10 @@ pygmentsStyle = "tango"
 
   [[module.mounts]]
     source = "layouts/docs"
+    target = "layouts/accessibility"
+
+  [[module.mounts]]
+    source = "layouts/docs"
     target = "layouts/contributors"
 
   [[module.mounts]]
