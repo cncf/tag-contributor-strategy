@@ -64,7 +64,7 @@ Needs vary. Interpreters, captions, or both may be necessary for different indiv
 
 ### Reserved seating at the front
 
-Have some reserved seating at the front for deaf and hard of hearing attendees. Many rely on lip-reading, so you want to be sure they can see the speakers well. And please ask speakers not to wear masks while presenting and provide social distancing opportunities instead. 
+Have some reserved seating at the front for deaf and hard of hearing attendees. Many rely on lip-reading, so you want to be sure they can see the speakers well. If speakers are wearing masks, it inhibits many deaf/hoh attendees from reading lips. Opt to provide speakers with clear masks if they prefer to wear a mask when speaking, or provide social distancing opportunities instead so they may speak maskless. 
 
 ### Sign language interpreters
 
