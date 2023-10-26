@@ -1,4 +1,3 @@
-
 ---
 title: "Project Guidance"
 linkTitle: "Maintainers"

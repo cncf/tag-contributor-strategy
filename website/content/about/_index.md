@@ -3,7 +3,7 @@ title: About TAG Contributor Strategy
 linkTitle: About
 menu:
   main:
-    weight: 10
+    weight: 70
 ---
 
 {{% blocks/lead color="primary" align="left" %}}

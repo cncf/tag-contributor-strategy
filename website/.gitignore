@@ -1,3 +1,4 @@
 public/
 go.local.mod
 go.sum
+.hugo_build.lock
