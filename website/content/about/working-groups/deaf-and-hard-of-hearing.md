@@ -51,7 +51,7 @@ Our group's mission is to create a supportive and inclusive environment within t
 Benefits for deaf/hoh individuals:
 
 * **Inclusion**: Become an active cloud native and open source community member.
-* **Career Growth**: Grow your network of hearing and deaf/hoh peers an learn about professional opportunities. 
+* **Career Growth**: Grow your network of hearing and deaf/hoh peers and learn about professional opportunities. 
 * **Networking**: Connect with a supportive deaf/hoh tech community.
 * **Inspiration**: Meet deaf/hoh role models.
 * **Educational Resources**: Learn about tools to enhance your tech skills.
