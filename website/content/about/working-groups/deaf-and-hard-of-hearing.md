@@ -85,7 +85,7 @@ We are happy to see that you are interested in helping with this working group. 
 
 * have you introduce yourself on our mailing list or in our [Slack channel](https://cloud-native.slack.com/archives/C05BYNK8A3V).
 * see you participate in our meetings where you can contribute ideas and take on responsibilities.
-* get feedback about out guides and documentation.
+* gather your feedback about our guides and documentation.
 
 </div>
 
