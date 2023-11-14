@@ -57,6 +57,8 @@ labels:
     color: C61B7A
   - name: project-level-review
     color: B60205
+  - name: non-code
+    color: c0ffee
 
 # additional colors in this palette:
 # ff69b4
