@@ -78,6 +78,10 @@ Facilitators:
 ## Chairs
 
 * Nate Waddington (Linux Foundation/CNCF)
+* Ali Ok (Red Hat)
+
+### Emeritus chairs
+
 * Jay Tihema (ii)
 
 ## Tech leads
