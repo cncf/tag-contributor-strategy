@@ -51,11 +51,11 @@ Discussion happens on the [mailing list] or on #tag-contributor-strategy on [Sla
 
 [mailing list]: https://lists.cncf.io/g/cncf-tag-contributor-strategy
 [Slack]: https://slack.cncf.io/
-[CNCF calendar]:(https://tockify.com/cncf.public.events/monthly?search=Contributor+Growth+WG)
+[CNCF calendar]: https://tockify.com/cncf.public.events/monthly?search=Contributor+Growth+WG
 
 ### Facilitators
 
-* Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
+* Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), Linux Foundation
 
 ## Initiatives
 
