@@ -2993,7 +2993,7 @@
     },
     {
         "name": "OpenFeature",
-        "path": "Continuous Integration & Delivery",
+        "path": "Feature Flagging",
         "description": "Standardizing Feature Flagging for Everyone",
         "homepage_url": "https://openfeature.dev/",
         "project": "sandbox",
