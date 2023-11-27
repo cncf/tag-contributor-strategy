@@ -78,7 +78,7 @@ channels:
 ### Tech Leads
 
 - Ali Ok ([@aliok](https://github.com/aliok)), Red Hat
-- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
+- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), Linux Foundation
 
 ### TOC Liaisons
 
