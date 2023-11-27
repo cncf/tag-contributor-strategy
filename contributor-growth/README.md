@@ -77,7 +77,7 @@ Since we want to advocate for acknowledge non-code roles within our projects, we
 
 * [Mailing list](https://groups.google.com/u/0/g/cncf-non-code/)
 * [Meetings](https://tockify.com/cncf.public.events/monthly?search=non-code)
-* We're on the [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) as #non-code-initiative.
+* We're on the [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) as [#non-code-initiative](https://cloud-native.slack.com/archives/C066CMV2P6C).
 
 ## Documentation
 
