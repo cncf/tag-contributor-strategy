@@ -71,6 +71,14 @@ Interisted parties:
 * Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
 * Hippie Hacker ([@hh](https://github.com/hh)), ii
 
+### Non-Code Initiative
+
+Since we want to advocate for acknowledge non-code roles within our projects, we should have a guide that discusses the value of the roles, types, and how to ensure they are on equal footing with other roles. The outcome of this initiative would be an advisory document that would identify, make actionable, and socialize these roles.
+
+* [Mailing list](https://groups.google.com/u/0/g/cncf-non-code/)
+* [Meetings](https://tockify.com/cncf.public.events/monthly?search=non-code)
+* We're on the [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) as [#non-code-initiative](https://cloud-native.slack.com/archives/C066CMV2P6C).
+
 ## Documentation
 
 Our documentation is shared in the [contribute.cncf.io] website.
