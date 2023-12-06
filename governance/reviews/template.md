@@ -38,14 +38,14 @@ Status: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work
 Make sure you use a snapshot of the governance documents for your assessment and note the commit hash of the snapshot here as a link.
 --->
 
-### Must-Fix Items
+### Critical Items
 
 The following issues have been identified that need to be resolved before [project milestone or other requirement]:
 <!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered blockers to project advancement. For each item in this list, a corresponding detailed description should be placed in the Findings table. Note that which items are required depends on the project's maturity level.
 
-Items in the "Governance Findings Table" at the bottom with "Critical" importance should be reported here as must-fix items.
+Items in the "Governance Findings Table" at the bottom with "Critical" importance should be reported here.
 
-If there are no must-fix items, do not delete the section but write that there are no must-fix items.
+If there are no critical items, do not delete the section but write that there are no critical items.
 --->
 
 *
@@ -174,7 +174,7 @@ Areas of potential future development include:
 ### Governance Findings Table
 <!--- Add additional rows as necessary. For each finding described above, it should also be included here with further detail. 
 
-Should be reported as must-fix:
+Should be reported in the "Critical Items" section:
 - Critical
 
 Should be reported as "Areas for Improvement"
@@ -184,7 +184,7 @@ Should be reported as "Areas for Improvement"
 
 | Finding Title | Importance | Description | Links | Notes & Impact |
 |:------------- |:----------:|:------------|:------|:---------------|
-| *Title* | Critical/High/Medium/Low | *detailed description* | *relevant links* | *additional notes and explanation of impact if appropriate* |
+| *Title* | Critical/Medium/Low | *detailed description* | *relevant links* | *additional notes and explanation of impact if appropriate* |
 
 ### Previous Reviews
 
