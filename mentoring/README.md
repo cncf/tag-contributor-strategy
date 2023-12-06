@@ -35,9 +35,9 @@ The TAG Contributor Strategy Mentoring Working Group manages the following mento
 
 The Mentoring WG owns and maintains the following resources:
 
-* The Mentoring documentation directory in `cncf/tag-contributor-strategy`
-* The `cncf/mentoring` repository
-* Any pages in contribute.cncf.io about mentoring
+* The Mentoring documentation directory in [cncf/tag-contributor-strategy](https://github.com/cncf/tag-contributor-strategy/tree/main/mentoring)
+* The [cncf/mentoring](https://github.com/cncf/mentoring) repository
+* Any pages in [contribute.cncf.io](https://contribute.cncf.io) about mentoring
 * CNCF accounts for for the above Mentoring initiatives
 
 ### Contact
@@ -49,8 +49,8 @@ The Mentoring WG owns and maintains the following resources:
 * CNCF email list for private administrative issues
     * [tag-cs-mentoring-wg-admin@cncf.io](mailto:tag-cs-mentoring-wg-admin@cncf.io) 
 * CNCF Slack
-    * #tag-contributor-strategy
-    * #mentoring
+    * [#tag-contributor-strategy](https://cloud-native.slack.com/archives/CT6CWS1JN)
+    * [#mentoring](https://cloud-native.slack.com/archives/CGPK98JNQ)  
 * Website
     * [https://mentoring.cncf.io](https://mentoring.cncf.io) (Currently redirects to [https://github.com/cncf/mentoring](https://github.com/cncf/mentoring))
 
@@ -78,6 +78,10 @@ Facilitators:
 ## Chairs
 
 * Nate Waddington (Linux Foundation/CNCF)
+* Ali Ok (Red Hat)
+
+### Emeritus chairs
+
 * Jay Tihema (ii)
 
 ## Tech leads

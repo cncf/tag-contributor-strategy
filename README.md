@@ -26,7 +26,7 @@ The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our gr
   - [Mentoring WG](#mentoring-wg)
   - [Maintainer's Circle](#maintainers-circle)
   - [Inclusiveness Team](#inclusiveness-team)
-  - [Deaf and Hard Of Hearing Initiative](#deaf-and-hard-of-hearing-initiative)
+  - [Deaf and Hard Of Hearing WG](#deaf-and-hard-of-hearing-wg)
     
 - [Project Board](#project-board)
       
@@ -78,7 +78,7 @@ channels:
 ### Tech Leads
 
 - Ali Ok ([@aliok](https://github.com/aliok)), Red Hat
-- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), ii
+- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), Linux Foundation
 
 ### TOC Liaisons
 
@@ -110,9 +110,9 @@ TAG Contributor Strategy has working groups and teams to effectively collaborate
 
 Status: [Proposed](https://github.com/cncf/tag-contributor-strategy/issues/365)
 
-### Deaf and Hard Of Hearing Initiative
+### Deaf and Hard Of Hearing WG
 
-Status: [New Initiative Under Development](/deaf-and-hard-of-hearing/README.md)
+[Charter](/deaf-and-hard-of-hearing/README.md)
 
 ## Project Board
 
