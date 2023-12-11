@@ -1,6 +1,18 @@
 # Governance Review Template
 
+<!---
+Instructions for governance reviewers:
+- Pick the latest state of the governance document and use the same point-in-time reference (e.g. commit) for your assessment. If governance consists of multiple documents, make sure you use the same commit.
+- Make sure all links in your report are permanent links (e.g. with commit hashes).
+- To ensure consistency, use the same commits as links for multiple files within a single repository.
+- You might need to have a project contact person or the TOC liaison for finding out some information about the project.
+- It is recommended to start filling this template from the "Review" section. Once you fill everything there, go back to "Summary and Assessment" to summarize the content you wrote. 
+
+--->
+
 What follows is a governance review and assessment for the ______ project. This review is carried out by members of the Governance Working Group of TAG Contributor Strategy. The review may have been done because of a change in maturity level for the project, at the request of the TOC, or as a request by the project itself. If requested by the project, the review will be provided to the project maintainers. Otherwise, the review will be submitted to the TOC for their follow-up.
+
+Governance reviews contribute to the health and sustainibility of the CNCF projects. By providing guidance on effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently, encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be constructive and supportive, aiming to assist projects in refining their governance models and addressing any challenges they may face.
 
 Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), [email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
 
@@ -11,6 +23,8 @@ Exemplary: project has an extraordinary level of governance development and impl
 Satisfactory: project has appropriate governance for its maturity level and is following that governance
 Mostly Satisfactory: project has mostly appropriate governance, but needs to fix one or two things
 Needs Work: project's governance is lacking and inadequate for its current level of maturity, and needs substantial work to overcome that
+
+NOTE: Fill this part as a summary of your review. It is recommended to start from the "Review" section below in the template.
 --->
 
 Status: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work
@@ -19,12 +33,20 @@ Status: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work
 
 ### Executing the Assessment
 
-<!--- A brief description that details the timebox the assessment occurred and the individuals involved in the assessment. --->
+<!--- A brief description that details the timebox the assessment occurred and the individuals involved in the assessment. 
 
-### Must-Fix Items
+Make sure you use a snapshot of the governance documents for your assessment and note the commit hash of the snapshot here as a link.
+--->
+
+### Critical Items
 
 The following issues have been identified that need to be resolved before [project milestone or other requirement]:
-<!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered Critical or High, they are usually blockers to project advancement. For each item in this list, a corresponding detailed description should be placed in the Findings table. Note that which items are required depends on the project's maturity level. --->
+<!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered blockers to project advancement. For each item in this list, a corresponding detailed description should be placed in the Findings table. Note that which items are required depends on the project's maturity level.
+
+Items in the "Governance Findings Table" at the bottom with "Critical" importance should be reported here.
+
+If there are no critical items, do not delete the section but write that there are no critical items.
+--->
 
 *
 
@@ -38,9 +60,11 @@ The following aspects of governance are exemplary, and can be referenced as exam
 ### Areas for Improvement
 
 Over the next year, the project should work on the following issues to improve its governance, these are considered non-blocking:
-<!--- This is a summarized listing of longer term improvement areas for the project. These items are strongly encouraged but not required for the project's maturity level. Fully detailed descriptions are found in the Finding Table. Items listed here should be in priority ordering and would be considered Medium and Low. --->
+<!--- This is a summarized listing of longer term improvement areas for the project. These items are strongly encouraged but not required for the project's maturity level. Fully detailed descriptions are found in the Finding Table. Items listed here should be in priority ordering. Items in the "Governance Findings Table" at the bottom except the "Critical" importance should be reported here. -->
 
 *
+
+Details of these issues can be found in the [Findings Table](#Governance-Findings-Table) and the related sections below.
 
 ## Review
 
@@ -62,7 +86,7 @@ Over the next year, the project should work on the following issues to improve i
 
 <!--- Provide the commit of the file under evaluation as a point-in-time reference to this review. --->
 
-The following table details the governance areas expected for a project. Coverage is indicated by Complete, Partial, and Missing.
+The following table details the governance areas expected for a project. Coverage is indicated by Complete, Partial, Missing, and Unknown.
 * Complete - the content of the governance documentation is fully detailed and does not leave any question to the reader.
 * Partial - the content of the governance documentation is missing some information and would leave the reader with questions or some level of misunderstanding.
 * Missing - the documentation is absent, wholly undiscoverable, or woefully inadequate in meeting the objectives of that governance content. The reader cannot act on the content that is available.
@@ -70,16 +94,18 @@ The following table details the governance areas expected for a project. Coverag
 
 | Governance Area | Coverage | Documents | Finding Notes |
 |:----------------|:--------:|:------:|:--------------|
-| Project Purpose | Complete/Partial/Missing | *LINKS* | |
-| Maintainer List | Complete/Partial/Missing | *LINKS* | |
-| Code of Conduct | Complete/Partial/Missing | *LINKS* | |
-| Contributor Guide | Complete/Partial/Missing | *LINKS* | |
-| Contributor Ladder | Complete/Partial/Missing | *LINKS* | |
-| Maintainer Lifecycle | Complete/Partial/Missing | *LINKS* | |
-| Decision-making | Complete/Partial/Missing | *LINKS* | |
-| Code and Docs Ownership | Complete/Partial/Missing | *LINKS* | |
-| Security Reporting and response | Complete/Partial/Missing | *LINKS* | |
-| Communication and Meetings | Complete/Partial/Missing | *LINKS* | |
+| Project Purpose | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Maintainer List | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Code of Conduct | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Contributor Guide | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Contributor Ladder | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Maintainer Lifecycle | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Decision-making | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Code and Docs Ownership | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Security Reporting and response | Complete/Partial/Missing/Unknown | *LINKS* | |
+| Communication and Meetings | Complete/Partial/Missing/Unknown | *LINKS* | |
+
+
 
 #### Sub-projects, plugins, and related
 
@@ -113,7 +139,7 @@ The project [does/does] not experience governance drift as indicated by...
 
 #### Ownership
 
-<!--- Request that CNCF staff carry out an audit (via Sheriff) that the explicit governance of the project matches github permissions. Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership that they are supposed to. Also check that there aren't individuals who have broad permissions that aren't explained by any official project role.  Not applicable for projects joining the CNCF. --->
+<!--- Request that CNCF staff carry out an audit (via Sheriff) that the explicit governance of the project matches GitHub permissions. Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership that they are supposed to. Also check that there aren't individuals who have broad permissions that aren't explained by any official project role.  Not applicable for projects joining the CNCF. --->
 
 The project's ownership evaluation [did/did not] leverage Sheriff, the CNCF GitHub permission auditing tool.
 
@@ -121,7 +147,7 @@ The project's permissions and ownership settings and files [are/are not] appropr
 
 ### Maintainer List(s)
 
-<!--- Check the list of CNCF-level Maintainers for the project. Answer the following question about the project's maintainers; Are they current? Are all of the people listed as Maintainers current & frequent contributors to the project, either code or non-code as required by the governance documents? What's the level of employer diversity in the current list of maintainers? --->
+<!--- Check the list of CNCF-level Maintainers for the project. Answer the following question about the project's maintainers; Are they current? Are all of the people listed as Maintainers current & frequent contributors to the project, either code or non-code as required by the governance documents? What's the level of employer diversity in the current list of maintainers? Are employer affiliations listed in the maintainers list file? --->
 
 The project's maintainer list(s) [are/are not] current. Individuals on the maintainer list [do/do not] appear to match the requirements of maintainership in accordance with the project's documented requirements. The maintainer affiliations (employers) reflect [Balanced/Unbalanced] diversity.
 
@@ -146,11 +172,19 @@ Areas of potential future development include:
 *
 
 ### Governance Findings Table
-<!--- Add additional rows as necessary. For each finding described above, it should also be included here with further detail. --->
+<!--- Add additional rows as necessary. For each finding described above, it should also be included here with further detail. 
+
+Should be reported in the "Critical Items" section:
+- Critical
+
+Should be reported as "Areas for Improvement"
+- Medium/low: needs improvement
+
+--->
 
 | Finding Title | Importance | Description | Links | Notes & Impact |
 |:------------- |:----------:|:------------|:------|:---------------|
-| *Title* | Critical/High/Medium/Low | *detailed description* | *relevant links* | *additional notes and explanation of impact if appropriate* |
+| *Title* | Critical/Medium/Low | *detailed description* | *relevant links* | *additional notes and explanation of impact if appropriate* |
 
 ### Previous Reviews
 
