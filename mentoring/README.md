@@ -92,6 +92,7 @@ Facilitators:
 
 * Ihor Dvoretsky (CNCF)
 * Hippie Hacker (ii)
+* Ankit Kumar (CNCF)
 * Josh Berkus (Red Hat)
 * Aishwarya Palekar (tentative)
 * Ella Dunlop (ii)
