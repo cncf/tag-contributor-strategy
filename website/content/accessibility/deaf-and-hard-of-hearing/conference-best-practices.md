@@ -6,7 +6,7 @@ description: >
   This is a living document, so please be sure to check regularly for updates.
 ---
 
-If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you to ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall and complete experience.  
+If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you in ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall and complete experience.  
 
 The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences, so it is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
 
@@ -16,17 +16,66 @@ To make the process as straightforward as possible, we've listed as much as we c
 
 **Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
 
-## DEIA: Diversity + Equity + Inclusion + Accessibility
+## General information
+
+### DEIA: Diversity + Equity + Inclusion + Accessibility
 
 We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — all too often is our community an afterthought. We want to change that and need your support!
 
-## ADA coordinator/specialist role
+### Disabilities coordinator
 
-We recommend appointing a designated Americans with Disabilities Act (ADA) coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers.
+We recommend appointing a designated Disabilities coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers. For signing attendees specifically, the coordinator typically:
+- Facilitates communications between interpreters, assigns them to deaf person(s) and location, solicits feedback, and determines fit (e.g., some deaf people may not like the interpreter).
+- Ensures proper lighting and interpreter staging.
+- Provide extra equipment in case of failures, such as lights, stands, chairs, etc.
+- Takes in feedback on interpreters from a deaf person
 
-### Be ADA-compliant
+#### Be ADA-compliant (whether US-based or not)
 
-While nearly all buildings in the United States are ADA-compliant, we often see a gap at conferences: risers/stages generally don't have ramps, making them inaccessible for people with physical disabilities. Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
+People with disabilities in the US fought long and hard to get the [Americans with Disabilities Act (ADA)](https://www.ada.gov/) passed. If your country doesn't have a counterpart law, we encourage you to use ADA as a reference point. But even in the US, while nearly all buildings are ADA-compliant, we often see a gap at conferences: risers/stages generally don’t have ramps, making them inaccessible for people with physical disabilities (the law does not yet apply to events, unfortunately). Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
+
+### Sign Language
+
+Sign language is not universal — there are 24 country-specific sign languages in the EU alone. 
+
+While English serves as a primary business language, there is no established primary business sign language. English-speaking countries, for instance, have different sign languages, including American Sign Language (ASL), British Sign Language (BSL), New Zealand Sign Language (NZSL), or Auslan (used in Australia). 
+
+However, there is International Sign (Language), or IS, an "artificial" sign language developed to communicate across borders. While it is used by international organizations such as the World Deaf Federation, Deaflympics, and EU and UN events, it's not widely known among deaf individuals not involved with these organizations. 
+
+#### Which sign language should you use?
+
+While the sign language choice for North American conferences is clear (ASL), it's complicated for European international conferences. 
+The World Deaf Federation uses IS and the host country-specific sign language at their events. If you expect to have a majority of host country-specific signing attendees at your conference, we recommend that same approach. For KubeCon Europe, we recommend two main sign languages: International Sign (IS) as the primary language and American Sign Language (ASL) as secondary.
+
+Keynotes should be signed in IS (interpreters on screen), while interpreters for attendees would sign in whichever language they chose. 
+
+If you need to fly interpreters in (from other countries), consider hiring the attendee's preferred interpreters. Note that hourly rates might vary significantly depending on where interpreters are based. In some cases, flying in an interpreter might be more cost-effective than hiring one from the host country. So keep those options in mind as you plan for the event.
+
+#### Working with interpreter agencies and freelancers 
+
+Interpreters are often told by their agency that to behave professionally, they shouldn't wear comfortable/casual clothes or eat in front of their clients, etc. We disagree. In fact, it often creates an unnatural and stiff environment. We want our interpreters to feel comfortable.
+
+A more relaxed and natural environment is especially important when interpreters are facilitating networking. We want interpreters to have a great experience as well! 
+
+We recommend providing the agency or freelancers with the following guidelines:
+- Feel free to wear comfortable walking shoes — there is a lot of standing. It's a tech conference, and most people dress casually, so you can, too.
+- Help yourself with food and drinks provided by the conference as needed — you'll need the energy.
+
+#### Sign language interpreters
+
+Why do you need sign language interpreters if you have captions? First, captions are only available for talks. But what if the attendee wants to ask a question? Besides, most people go to conferences to network not purely to hear talks they can watch on YouTube later. But even during sessions, interpreters are important. Here's one account from one of our members:
+
+> "ASL is my first (natural) language, and if I have the choice, I will always choose interpreters over captions. Relying only on captions often leads to a cognitive overload for me. Words are conveyed, but I'm trying to process the information while looking at the speaker, which can be draining and hard. Good interpreters capture the spirit of the speaker and help me feel more engaged. I have been in meetings where only captions were available, meetings where there were interpreters present without captions, and both. Personally, I like having both because I can catch some technical words while feeling more engaged with the speaker."
+
+Provide interpreters upon request and in advance. We also recommend having two sign language interpreters on-call to accommodate last-minute registrants or miscommunications. Ask interpreter agencies about their cancellation policies — these can vary significantly. A week’s notice, 48, or even 24 hours with a fee, are all possible, depending on the agency.
+
+Obviously, a big conference like KubeCon has more resources than a local community event — we get that. Since we also want to be included in smaller events, we’ll offer various options. To be clear, the more cost-effective options aren’t as inclusive, meaning we’ll miss out on many opportunities our hearing peers benefit from. Do only go the more cost-effective route if the alternative is no accessibility. We deserve to be included and appreciate your support.
+Sign language interpreters are the most valuable but also the most expensive accommodation. Incorporate the cost into the overall conference cost. It should be no different than including audio/video equipment, swag, food, refreshments, etc. into your budget.
+
+Visibility
+Ensure adequate lighting for interpreters. In particular, keynote rooms tend to be darker, with bright spotlights on the stage. Consider adding frontal or overhead lighting in the interpreter seating area. Here's an anecdote from one attendee:
+
+> "At one point during the keynote, one interpreter sat directly below another interpreter, shining a phone flashlight from below to improve visibility." 
 
 ## Website, registration and CFP form, and program information
 
