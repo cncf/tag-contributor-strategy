@@ -6,11 +6,11 @@ description: >
   This is a living document, so please be sure to check regularly for updates.
 ---
 
-If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you in ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall and complete experience.  
+If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you in ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall experience.  
 
 The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences, so it is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
 
-We also recommend providing attendees, speakers, and sponsors the opportunity to specify their accessibility needs as soon as possible, so you can plan for it in advance. Use your website, registration and call for papers forms to get that information early. Conference organizers often don't budget for accessibility until a request is made. This can create uncomfortable situations for event planners who don't know how to budget for a sudden request. Accessibility is rarely a static budget line item, and it can be hard, especially when planning it for the first time. One of our aims in documenting best practices is to learn and share cost information to make planning more predictable.
+We also recommend providing attendees, speakers, and sponsors the opportunity to specify their accessibility needs as soon as possible, so you can plan for it in advance. Use your website, registration and call for papers forms to get that information early. Conference organizers often don't budget for accessibility until a request is made. This can create uncomfortable situations for event planners who don't know how to budget for a sudden request. Accessibility is rarely a static budget line item, and it can be hard, especially when planning it for the first time.  
 
 To make the process as straightforward as possible, we've listed as much as we could to make a conference truly inclusive to our community but also included alternatives if a particular accommodation is not feasible. If you have any questions or concerns, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io. 
 
@@ -24,15 +24,15 @@ We encourage you to include the A in your DEI efforts: **Diversity + Equity + In
 
 #### Disabilities coordinator
 
-We recommend appointing a designated Disabilities coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers. For signing attendees specifically, the coordinator typically:
-- Facilitates communications between interpreters, assigns them to deaf person(s) and location, solicits feedback, and determines fit (e.g., some deaf people may not like the interpreter).
+We recommend appointing a designated disabilities coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers. For signing attendees specifically, the coordinator typically:
+- Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines fit (e.g., some deaf people may not like the interpreter).
 - Ensures proper lighting and interpreter staging.
 - Provide extra equipment in case of failures, such as lights, stands, chairs, etc.
-- Takes in feedback on interpreters from a deaf person
+- Takes attendee feedback on interpreters
 
 #### Be ADA-compliant (whether US-based or not)
 
-People with disabilities in the US fought long and hard to get the [Americans with Disabilities Act (ADA)](https://www.ada.gov/) passed. If your country doesn't have a counterpart law, we encourage you to use ADA as a reference point. But even in the US, while nearly all buildings are ADA-compliant, we often see a gap at conferences: risers/stages generally don’t have ramps, making them inaccessible for people with physical disabilities (the law does not yet apply to events, unfortunately). Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
+People with disabilities in the US fought long and hard to get the [Americans with Disabilities Act (ADA)](https://www.ada.gov/) passed. If your country doesn't have a counterpart law, we encourage you to use ADA as a reference point. But even in the US, although nearly all buildings are ADA-compliant, we often see a gap at conferences: risers/stages generally don’t have ramps, making them inaccessible for people with physical disabilities (the law does not yet apply to events, unfortunately). Carpets make it harder for wheelchair users, physically and battery draining. Provide assistance when asked and have charging stations available.
 
 ### Sign Language
 
@@ -70,6 +70,7 @@ Why do you need sign language interpreters if you have captions? First, captions
 Provide interpreters upon request and in advance. We also recommend having two sign language interpreters on-call to accommodate last-minute registrants or miscommunications. Ask interpreter agencies about their cancellation policies — these can vary significantly. A week’s notice, 48, or even 24 hours with a fee, are all possible, depending on the agency.
 
 Obviously, a big conference like KubeCon has more resources than a local community event — we get that. Since we also want to be included in smaller events, we’ll offer various options. To be clear, the more cost-effective options aren’t as inclusive, meaning we’ll miss out on many opportunities our hearing peers benefit from. Do only go the more cost-effective route if the alternative is no accessibility. We deserve to be included and appreciate your support.
+
 Sign language interpreters are the most valuable but also the most expensive accommodation. Incorporate the cost into the overall conference cost. It should be no different than including audio/video equipment, swag, food, refreshments, etc. into your budget.
 
 #### Include interpreters in recording
@@ -86,7 +87,7 @@ Some caption tools work for virtual events only, others for in-person and virtua
 
 Captions at the bottom of the screen are not visible unless attendees are sitting at the front. Consider adding them at the top. If that isn't feasible,  you might want to place the screen higher to ensure people in the back can also read them. 
 
-Some captions are highly **accurate but lag** significantly. That creates a disconnect between the message received and the speaker/audience (not syncing with body language, laughter, etc.), which can create a feeling of ‘missing out’
+Some captions are highly **accurate but lag** significantly. That creates a disconnect between the message received and the speaker/audience (not syncing with body language, laughter, etc.), which can create a feeling of ‘missing out.’
 
 Unlike hearing people, deaf/hoh individuals can only focus on the captions or look at the speaker/slides (e.g., a technical graphic). So if they do look away, they will miss what's said. Hence, leaving content on the screen longer by **adding more than one line** will help people rely on captions. 
 
@@ -94,7 +95,7 @@ Every session should have captions in the main conference language **on the scre
 
 #### Caption use cases beyond deaf/hoh
 
-Some attendees can hear but may be on the autism spectrum and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent can benefit from having words on the screen.
+Some attendees can hear but may be on the autism spectrum and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well. 
 
 ### Global or national conferences
 
