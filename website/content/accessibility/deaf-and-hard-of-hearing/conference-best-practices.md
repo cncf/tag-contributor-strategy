@@ -25,7 +25,7 @@ We encourage you to include the A in your DEI efforts: **Diversity + Equity + In
 #### Disabilities coordinator
 
 We recommend appointing a designated disabilities coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers. For signing attendees specifically, the coordinator typically:
-- Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines fit (e.g., some deaf people may not like the interpreter).
+- Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines fit (e.g., some deaf people may not like the interpreter's signing style, clarity, or quality).
 - Ensures proper lighting and interpreter staging.
 - Provide extra equipment in case of failures, such as lights, stands, chairs, etc.
 - Takes attendee feedback on interpreters
@@ -95,7 +95,7 @@ Every session should have captions in the main conference language **on the scre
 
 #### Caption use cases beyond deaf/hoh
 
-Some attendees can hear but may be on the autism spectrum and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well. 
+Some attendees can hear but may be neurodivergent ( e.g. on the autism spectrum, with ADHD, and more) and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well.
 
 ### Global or national conferences
 
