@@ -6,9 +6,9 @@ description: >
   This is a living document, so please be sure to check regularly for updates.
 ---
 
-If you're not familiar with the needs and preferences of deaf and hard of hearing (deaf/hoh) individuals, hosting a conference that is truly inclusive and accessible can feel overwhelming. This document will guide you in ensuring that deaf and hard of hearing attendees can fully participate in your event and have a great overall experience.  
+Creating an inclusive and accessible conference experience for deaf and hard of hearing (deaf/hoh) individuals may seem like a complex task if you're unfamiliar with their unique needs and preferences. This guide is designed to assist you in ensuring that your event is welcoming and accommodating, enabling deaf and hard of hearing attendees to actively participate and enjoy a fulfilling overall experience.
 
-The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences, so it is important to provide multiple options for deaf/hoh. If we can't participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
+The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences, so it is important to provide multiple options for deaf/hoh. If we can't participate fully, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
 
 We also recommend providing attendees, speakers, and sponsors the opportunity to specify their accessibility needs as soon as possible, so you can plan for it in advance. Use your website, registration and call for papers forms to get that information early. Conference organizers often don't budget for accessibility until a request is made. This can create uncomfortable situations for event planners who don't know how to budget for a sudden request. Accessibility is rarely a static budget line item, and it can be hard, especially when planning it for the first time.  
 
@@ -20,7 +20,7 @@ To make the process as straightforward as possible, we've listed as much as we c
 
 ### DEIA: Diversity + Equity + Inclusion + Accessibility
 
-We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — all too often is our community an afterthought. We want to change that and need your support!
+We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — too often our is community an afterthought. We want to change that and need your support!
 
 #### Disabilities coordinator
 
@@ -69,7 +69,7 @@ Why do you need sign language interpreters if you have captions? First, captions
 
 Provide interpreters upon request and in advance. We also recommend having two sign language interpreters on-call to accommodate last-minute registrants or miscommunications. Ask interpreter agencies about their cancellation policies — these can vary significantly. A week’s notice, 48, or even 24 hours with a fee, are all possible, depending on the agency.
 
-Obviously, a big conference like KubeCon has more resources than a local community event — we get that. Since we also want to be included in smaller events, we’ll offer various options. To be clear, the more cost-effective options aren’t as inclusive, meaning we’ll miss out on many opportunities our hearing peers benefit from. Do only go the more cost-effective route if the alternative is no accessibility. We deserve to be included and appreciate your support.
+Obviously, a big conference like KubeCon has more resources than a local community event — we get that. Since we also want to be included in smaller events, we’ll offer various options. To be clear, the more cost-effective options aren’t as inclusive, meaning we’ll miss out on many opportunities our hearing peers benefit from. Opt for the more cost-effective route only if there is no alternative that provides accessibility. We deserve to be included and appreciate your support.
 
 Sign language interpreters are the most valuable but also the most expensive accommodation. Incorporate the cost into the overall conference cost. It should be no different than including audio/video equipment, swag, food, refreshments, etc. into your budget.
 
