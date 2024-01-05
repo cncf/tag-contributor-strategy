@@ -1782,6 +1782,28 @@
         "language": "Go"
     },
     {
+        "name": "Copa",
+        "path": "Security & Compliance",
+        "description": "\ud83e\uddf5 CLI tool for directly patching container images using reports from vulnerability scanners",
+        "homepage_url": "https://github.com/project-copacetic/copacetic",
+        "project": "sandbox",
+        "repo_url": "https://github.com/project-copacetic/copacetic",
+        "logo": "logos/copa.svg",
+        "twitter": "https://twitter.com/CloudNativeFdn",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": "#copa",
+        "accepted": "2023-09-19",
+        "dev_stats_url": "https://copacetic.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/tree/main/projects/copa",
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "https://cloud-native.slack.com/",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Curiefense",
         "path": "Security & Compliance",
         "description": "Curiefense is a unified, open source platform protecting cloud native applications.",
@@ -1850,10 +1872,10 @@
     {
         "name": "DevSpace",
         "path": "Application Definition & Image Build",
-        "description": "DevSpace Cloud \u26a1 Turn Kubernetes into a  Powerful Developer Platform (new on-premise edition)",
+        "description": "DevSpace - The Fastest Developer Tool for Kubernetes \u26a1 Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.",
         "homepage_url": "https://devspace.sh",
         "project": "sandbox",
-        "repo_url": "https://github.com/devspace-cloud/devspace-cloud",
+        "repo_url": "https://github.com/devspace-sh/devspace",
         "logo": "logos/dev-space.svg",
         "twitter": "https://twitter.com/DevSpace",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -1867,7 +1889,7 @@
         "slack_url": "https://kubernetes.slack.com/messages/devspace",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Open Policy Agent"
+        "language": "Go"
     },
     {
         "name": "DevStream",
