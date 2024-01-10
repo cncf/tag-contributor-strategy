@@ -1279,7 +1279,7 @@
         "name": "OpenKruise",
         "path": "Continuous Integration & Delivery",
         "description": "Automated management of large-scale applications on Kubernetes (incubating project under CNCF)",
-        "homepage_url": "https://openkruise.io/en-us/",
+        "homepage_url": "https://openkruise.io/",
         "project": "incubating",
         "repo_url": "https://github.com/openkruise/kruise",
         "logo": "logos/open-kruise.svg",
