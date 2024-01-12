@@ -2618,28 +2618,6 @@
         "language": "Go"
     },
     {
-        "name": "KubeClipper",
-        "path": "Certified Kubernetes - Installer",
-        "description": "Manage kubernetes in the most light and convenient way.",
-        "homepage_url": "https://www.kubeclipper.io/",
-        "project": "sandbox",
-        "repo_url": "https://github.com/kubeclipper/kubeclipper",
-        "logo": "logos/kube-clipper.svg",
-        "twitter": null,
-        "crunchbase": "https://www.crunchbase.com/organization/99cloud",
-        "chat_channel": null,
-        "accepted": "2023-06-30",
-        "dev_stats_url": "https://kubeclipper.devstats.cncf.io/",
-        "artwork_url": null,
-        "stack_overflow_url": null,
-        "blog_url": null,
-        "mailing_list_url": null,
-        "slack_url": null,
-        "gitter_url": null,
-        "youtube_url": null,
-        "language": "Go"
-    },
-    {
         "name": "KubeDL",
         "path": "Automation & Configuration",
         "description": "Run your deep learning workloads on Kubernetes more easily and efficiently.",
