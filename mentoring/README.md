@@ -87,19 +87,3 @@ Facilitators:
 ## Tech leads
 
 * Diane Mueller (Bitergia) — Statistics & Reporting lead ([@dmueller2001](https://github.com/dmueller2001))
-
-## Interested parties
-
-* Ihor Dvoretsky (CNCF)
-* Hippie Hacker (ii)
-* Josh Berkus (Red Hat)
-* Aishwarya Palekar (tentative)
-* Ella Dunlop (ii)
-* Ben Whatarau (ii)
-* Bill Mulligan (Isovalent)
-* Kunal Kushwaha (Civo)
-* Kiran Mova (VMware)
-* Natali Vlatko (Wayfair)
-* Joshua Bezaleel Abednego (Shipper)
-* Riaan Kleinhans (ii)
-* Ali Ok (Red Hat)
