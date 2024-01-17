@@ -16,3 +16,9 @@
   
 [context.deploy-preview]
   command = "go run mage.go -v DeployPreview"
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+HUGO_ENV = "preview"
