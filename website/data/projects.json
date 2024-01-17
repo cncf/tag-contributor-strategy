@@ -755,7 +755,7 @@
     {
         "name": "Crossplane",
         "path": "Scheduling & Orchestration",
-        "description": "Cloud Native Control Planes",
+        "description": "Crossplane is the cloud native control plane framework that allows you to build control planes without needing to write code. Crossplane has a highly extensible backend that enables you to orchestrate applications and infrastructure no matter where they run and a highly configurable frontend that lets you define the declarative API it offers.",
         "homepage_url": "https://crossplane.io/",
         "project": "incubating",
         "repo_url": "https://github.com/crossplane/crossplane",
