@@ -8,7 +8,6 @@
 
 [build.environment]
   HUGO_VERSION = "0.107.0"
-  HUGO_ENV = "production"
   NODE_VERSION = "12.20.0"
 
 [context.branch-deploy]
@@ -16,3 +15,9 @@
   
 [context.deploy-preview]
   command = "go run mage.go -v DeployPreview"
+
+[context.production.environment]
+HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+HUGO_ENV = "preview"
