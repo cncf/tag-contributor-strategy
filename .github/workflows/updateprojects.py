@@ -12,7 +12,7 @@ import os
 
 projectsCsvFile = os.path.dirname(os.path.realpath(__file__))+'/../../website/data/projects.json'
 
-landscapeBaseURL = 'https://landscape.cncf.io'
+landscapeBaseURL = 'https://landscape.netlify.app'
 landscapeHostedProjects = landscapeBaseURL+'/api/items?project=hosted'
 landscapeSingleItem = landscapeBaseURL+'/data/items/{}.json'
 
