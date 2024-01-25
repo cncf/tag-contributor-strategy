@@ -66,11 +66,6 @@ You can read more about this initiative from the proposal document below.
 
 Status: [Proposed](https://hackmd.io/mmPVK1PCQD2swm1GrzB0NQ)
 
-Interisted parties:
-
-* Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
-* Hippie Hacker ([@hh](https://github.com/hh)), ii
-
 ### Non-Code Initiative
 
 Since we want to advocate for acknowledge non-code roles within our projects, we should have a guide that discusses the value of the roles, types, and how to ensure they are on equal footing with other roles. The outcome of this initiative would be an advisory document that would identify, make actionable, and socialize these roles.
