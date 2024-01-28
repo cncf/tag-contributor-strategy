@@ -1,7 +1,7 @@
 {{ range $.Site.Data.projects }}
     {{ if eq .project ($.Get "level") }}
 
-<img class="project-logo" alt="{{ .name }} logo" src="https://landscape.netlify.app/{{ .logo }}">
+<img class="project-logo" alt="{{ .name }} logo" src="{{ .logo }}">
 <h3 id="{{ urlize .name }}">{{ .name }}</h3>
 <p><em>{{ .description }}</em></p>
 
