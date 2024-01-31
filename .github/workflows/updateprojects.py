@@ -36,6 +36,7 @@ with urllib.request.urlopen(landscapeBaseURL) as hostedProjectsResponse:
                         for key, value in repo['languages'].items():
                             if value == largest_value:
                                 language = key
+                    # only use the information from the first "primary" repository
                     break
 
         csvRows.append({
