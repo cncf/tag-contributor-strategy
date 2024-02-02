@@ -449,7 +449,7 @@
         "path": "Streaming & Messaging",
         "description": "Standardizing common eventing metadata and their location to help with event identification and routing.",
         "homepage_url": "https://cloudevents.io/",
-        "project": "incubating",
+        "project": "graduated",
         "repo_url": "https://github.com/cloudevents/spec",
         "logo": "https://landscape.cncf.io/logos/bf6283eac7e14f6e3a119e9276a5215e47cd79f8971eb6d32e99b8d601f05e23.svg",
         "twitter": "https://twitter.com/cloudeventsio",
