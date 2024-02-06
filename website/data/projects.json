@@ -755,7 +755,7 @@
     {
         "name": "CubeFS",
         "path": "Cloud Native Storage",
-        "description": "CubeFS is a cloud native unstructured data storage",
+        "description": "cloud-native file store",
         "homepage_url": "https://cubefs.io/",
         "project": "incubating",
         "repo_url": "https://github.com/cubeFS/cubefs",
