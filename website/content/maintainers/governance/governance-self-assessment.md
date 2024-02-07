@@ -31,7 +31,7 @@ Instructions:
 - Copy and paste the template in [Self Assessment Template](governance-self-assessment-template.md) into your favorite editor.
 - Fill in the template with the information about your project. The `TODO` placeholders in the template are there to help you.
 - Pick the latest state of the governance document and use the same point-in-time reference (e.g. commit) for your assessment. If governance consists of multiple documents, make sure you use the same commit.
-    - TODO: what about websites?
+- For the links in websites, if possible, give links to their Markdown/Asciidoc source files, if the website is built from them. If not, give the link to the website pages directly.
 - Make sure all links in your report are permanent links (e.g. with commit hashes).
 - To ensure consistency, use the same commits as links for multiple files within a single repository.
 
