@@ -16,9 +16,6 @@ available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS
 [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings
 (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
 
-
-TODO: LATER: How to request a TAG CS governance review?
-
 ## General Information
 
 If your project governance was not already based on one of the 
