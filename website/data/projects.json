@@ -2117,6 +2117,28 @@
         "language": "Go"
     },
     {
+        "name": "KubeClipper",
+        "path": "Certified Kubernetes - Installer",
+        "description": "Manage kubernetes in the most light and convenient way.",
+        "homepage_url": "https://www.kubeclipper.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kubeclipper/kubeclipper",
+        "logo": "https://landscape.cncf.io/logos/773de8297c26e5c1d0e92762b076be894e56dd58d5a50cff50cde111c585fbb9.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2023-06-30",
+        "dev_stats_url": "https://kubeclipper.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "KubeDL",
         "path": "Automation & Configuration",
         "description": "Run your deep learning workloads on Kubernetes more easily and efficiently.",
