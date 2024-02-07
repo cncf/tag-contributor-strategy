@@ -37,8 +37,6 @@ Instructions:
     - TODO: what about websites?
 - Make sure all links in your report are permanent links (e.g. with commit hashes).
 - To ensure consistency, use the same commits as links for multiple files within a single repository.
-- It is recommended to start filling this template from the "Review" section. Once you fill everything there, go back to "Summary and Assessment" to summarize the content you wrote.
-    - TODO: do we even need a "Summary and Assessment" section for self-assessments?
 
 ## Template details
 
