@@ -68,6 +68,10 @@ Fill in the blanks in this section.
 
 ###### Governance Discovery Completeness
 
+Governance Discovery Completeness can be defined as the ease with which potential contributors can find and read 
+the governance documentation. Not having a clear and discoverable governance documentation can lead to confusion
+in the project's community and potential contributors.
+
 * Describe how easy is it for potential contributors to find and read the governance documentation.
 * Is it findable from the project web page and repository README files?
 * Are governance files named clearly, and interlinked across the projects repos to the primary?
@@ -143,7 +147,8 @@ answers to the following sub-sections.
 Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers
 and contributors to monitor the project's adherence to their stated governance.
 
-Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed or updated recently.
+Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed
+or updated recently.
 
 Answer the following questions in a paragraph:
 * Are governance activities transparent and monitorable?
@@ -153,6 +158,12 @@ Answer the following questions in a paragraph:
 ###### Governance Drift
 
 Governance Drift can occur when the executed and observable governance of a project deviates from the documented governance of the project.
+
+<Description of the title, why it matters, what's its impact, etc.>
+
+<Questions to get the executor answer>:
+* <question 1>
+* <question 2>
 
 Answer the following questions in a paragraph:
 * Are the governance activities being carried out?
@@ -164,7 +175,8 @@ Answer the following questions in a paragraph:
 
 ###### Ownership
 
-Not applicable for projects joining the CNCF.
+Ownership is the explicit assignment of responsibility and authority for the project's governance and operation.
+It is expected that the project's governance documents and GitHub permissions are in alignment.
 
 * Check if the explicit governance of the project matches GitHub permissions.
   * Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership
@@ -172,6 +184,8 @@ Not applicable for projects joining the CNCF.
   * Check that there aren't individuals who have broad permissions that aren't explained by any official project role.
 
 ##### Maintainer List(s)
+
+Projects are expected to have a clear list of maintainers, and the list should be current and accurate.
 
 * Check the list of CNCF-level Maintainers for the project.
 * Answer the following question about the project's maintainers:
@@ -190,7 +204,6 @@ single entity can control the project's direction without informed consensus of 
 Governance evolution is the observable changes and improvements the project makes to its governance over the project's lifespan.
 It is expected that changes will occur over the project's life and that such changes are iterative, tested, and adjusted.
 
-Answer these questions?
 * How has the project's governance evolved over time?
     * What are the major milestones?
     * What are the recent changes?

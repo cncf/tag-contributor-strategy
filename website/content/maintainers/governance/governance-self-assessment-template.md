@@ -77,17 +77,9 @@ The project includes the following sub-projects, plugins, and other notable divi
 
 #### Transparency and freshness
 
-Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers 
-and contributors to monitor the project's adherence to their stated governance.
-Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed 
-or updated recently.
-
 The project's governance documentation and activities are [TODO]
 
 #### Governance Drift
-
-Governance Drift can occur when the executed and observable governance of a project deviates from the documented 
-governance of the project.
 
 The project [TODO: does/does] not experience governance drift as indicated by [TODO]...
 
