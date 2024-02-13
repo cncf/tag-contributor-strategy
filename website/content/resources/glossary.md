@@ -1,6 +1,7 @@
 ---
 title: Glossary
 linkTitle: Glossary
+weight: 3
 ---
 # Introduction
 
