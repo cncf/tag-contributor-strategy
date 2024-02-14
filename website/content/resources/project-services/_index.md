@@ -1,6 +1,7 @@
 ---
 title: Project Services
 weight: 1
+description: A collection of services offered to CNCF projects.
 ---
 
 The CNCF offers a strong backbone of services to open source projects, built around the goal of sustaining most project needs outside of just code management and technical decisions. We offer an enhanced set of services via professional [staff] that cultivate the maturity and increased adoption of cloud native, open source projects. We take a data driven approach to working with our project and maintainer community; we actively [survey] to improve our services and community satisfaction.
