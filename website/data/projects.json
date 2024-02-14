@@ -1337,7 +1337,7 @@
         "chat_channel": "#helm-dev",
         "accepted": "2018-06-01",
         "dev_stats_url": "https://helm.devstats.cncf.io/",
-        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/incubating.md#helm-logos",
+        "artwork_url": "https://github.com/cncf/artwork/blob/main/examples/graduated.md",
         "stack_overflow_url": "https://stackoverflow.com/questions/tagged/helm",
         "blog_url": null,
         "mailing_list_url": null,
