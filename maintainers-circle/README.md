@@ -62,7 +62,7 @@ Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing
 
 ### Design Proposal Process
 
-February 20th, 2024 @ 9:00am PT / 17:00 UTC / [Your timezone here](https://time.is/compare/0900AM_20_February_2024_in_PT)
+February 27th, 2024 @ 9:00am PT / 17:00 UTC / [Your timezone here](https://time.is/compare/0900AM_20_February_2024_in_PT)
 
 [Add it to your Calendar](https://calendar.google.com/calendar/u/0/r?cid=linuxfoundation.org_o5avjlvt2cae9bq7a95emc4740@group.calendar.google.com)
 
