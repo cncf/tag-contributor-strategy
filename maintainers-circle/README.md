@@ -60,6 +60,28 @@ Join our <a href="https://lists.cncf.io/g/cncf-tag-contributor-strategy">mailing
 
 ## What
 
+### Design Proposal Process
+
+February 27th, 2024 @ 9:00am PT / 17:00 UTC / [Your timezone here](https://time.is/compare/0900AM_20_February_2024_in_PT)
+
+[Add it to your Calendar](https://calendar.google.com/calendar/u/0/r?cid=linuxfoundation.org_o5avjlvt2cae9bq7a95emc4740@group.calendar.google.com)
+
+Looking to start a Design Proposal Process for your project? Interested in refining your existing Process? Join our session with maintainers from the KubeVirt and Kubernetes Projects for a deep dive into Design Proposal Processes.
+
+**Design proposal process for smaller projects**
+
+The KubeVirt project likes to follow the Kubernetes project in many ways. After all, no one wants to reinvent the wheel. But certain things, both technology-wise and governance-wise, don't really fit for us. 
+
+The Kubernetes Enhancement Proposal process is one of them. So in KubeVirt we use a simpler Design Proposal process. It's relatively light weight, and helps new and veteran contributors to work through, poke, prod, and improve large features before they get too buried in implementation details. 
+
+In this session, we will look at the KubeVirt Design Process and a couple of our living examples. We'll talk about how it works, how it doesn't work, and what it takes to get something like this running in your project. 
+
+**Scaling your proposal process as your project grows**
+
+Is your project starting to outgrow your initial Design Proposal Process? Are you wondering what changes to make and how? The Kubernetes Enhancement Process has evolved to accommodate the demands of a high velocity and volume project. Join us to learn more about our process and we'll share some lessons learned from our journey to give you a jump start on smoothly scaling your design proposal process.
+
+**Registration** is an emoji reaction to the invite on the thread in #maintainers-circle or email to [Dave Sudia](mailto:david.sudia@goteleport.com)
+
 ### Community Management
 
 June 28th, 2023 @ 10:00am PT / 17:00 UTC / [Your timezone here](https://time.is/compare/1000AM_28_June_2023_in_PT)
