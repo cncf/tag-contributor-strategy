@@ -1,11 +1,9 @@
 ---
-title: "Best practices when interviewing a deaf or hard of hearing individual"
+title: "Best practices when interviewing a deaf or hard of hearing individuals (media interviews)"
 date: 2024-02-20
 description: >
-  Tips when interviewing a deaf or hard of hearing individual
+  Tips when doing media interviews a deaf or hard of hearing individuals
 ---
-
-
 
 # Best practices when interviewing a deaf or hard of hearing individual (media interviews)
 
