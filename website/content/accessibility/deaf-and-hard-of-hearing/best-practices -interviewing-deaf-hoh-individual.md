@@ -15,13 +15,13 @@ Accommodation needs will depend on the interviewee. Deaf individuals may use sig
 
 **Allow for 15 to 30 min prep time**: If the interviewee and interpreter have not worked with each other before, provide time for them to connect prior to the interview. The deaf interviewee will need time to communicate their preferences and ask about specific details.
 
-**Accessibility in recorded content**: When creating video content, including social media, be mindful of banner placement so they don't obstruct the signing area or the interpreter. Additionally, including closed captions for videos and podcast transcripts makes valuable information accessible to a broader audience.
+**Accessibility for recorded content**: When creating video content, including social media, be mindful of banner placement so they don't obstruct the signing area or the interpreter. Additionally, including closed captions for videos and podcast transcripts makes valuable information accessible to a broader audience.
 
 ### 1.3. Info for interviewer
 
 **Clarity and repetition**: Don't shy away from repeating questions or asking for clarification if needed. (American) Sign Language and English are distinct languages, each with their own grammar. Additionally, the interpreter is not a subject matter expert, so misunderstandings may occur.  
 
-**Speak directly to the interviewee**: Talk to the interviewee directly ("What are your thoughts on…"), don't ask the interpreter to ask them something ("Can you ask them if….").
+**Speak directly to the interviewee**: Talk to the interviewee directly ("What are *your* thoughts on…"), don't ask the interpreter to ask them something ("Can you *ask them* if….").
 
 **Don't talk to the interpreter directly**: During the interview, the interpreter is voicing the deaf interviewee. They are not part of the conversation, so don't include them unless you mean to interview them as well. You may thank them at the end, but bear in mind that they will be interpreting your "thank you" and may be unable to respond.
 
@@ -33,9 +33,9 @@ Accommodation needs will depend on the interviewee. Deaf individuals may use sig
 
 ### 2.1. Info for production team
 
-**Provide written details in advance**: If possible, send a list of topics to be discussed during the interview ahead of time. This allows the candidate to prepare and reduces anxiety around misunderstanding questions on the spot. It also ensures they can fully engage in the conversation, making the interview more productive for both parties.
+**Provide written details in advance**: If possible, send a list of topics to be discussed during the interview ahead of time. This allows the interviewee to prepare and reduces anxiety around misunderstanding questions on the spot. It also ensures they can fully engage in the conversation.
 
-**Quick "warm-up" meeting prior**: Not only does it help break the ice, it also allows lip reading interviewees to familiarize themselves with the interviewer's lip patterns. And those using speech-to-text apps can test the app's accuracy against the interviewer’s speech.
+**Quick "warm-up" meeting**: Not only does it help break the ice, it also allows lip reading interviewees to familiarize themselves with the interviewer's lip patterns. And those using speech-to-text apps can test the app's accuracy against the interviewer’s speech.
 
 **Audio accessibility**: Before the interview, inquire if the individual uses any personal assistive listening devices (ALDs), such as amplified headphones or personal amplifiers. If so, ensure compatibility with the interview setting, offer assistance with setup, and offer a microphone. 
 
@@ -57,7 +57,7 @@ While some deaf individuals lip-read, not all rely on it. Ensure clear facial vi
 
 **Multiple deaf interviewees**: Adjust interpreter arrangements based on the number of individuals to manage communication demands effectively. 
 
-**Mobility and Signing Space**: Allocate adequate space to move comfortably without the risk of interfering with equipment.
+**Mobility and signing space**: Allocate adequate space to move comfortably without the risk of interfering with equipment.
 
 #### Info for interviewer 
 
