@@ -5,7 +5,7 @@ description: >
   Tips when doing media interviews with a deaf or hard of hearing individuals
 ---
 
-Accommodation needs will depend on the interviewee. Deaf individuals may use sign language or speak and lip-read, while hard of hearing interviewees hear but also rely on additional queues (e.g., lip-reading, captions). In-person or virtual interviews and podcasts provide different opportunities and challenges. 
+Accommodation needs will depend on the interviewee. Deaf individuals may use sign language or speak and lip-read, while hard of hearing interviewees hear but also rely on additional queues (e.g., lip-reading, captions). In-person or virtual interviews and podcasts provide different opportunities and challenges, so please be sure to read through all relevant sections. 
 
 ## 1. Interviewing a deaf individual through an interpreter
 
