@@ -4099,7 +4099,7 @@
     {
         "name": "wasmCloud",
         "path": "Scheduling & Orchestration",
-        "description": "wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.",
+        "description": "wasmCloud allows for simple, secure, distributed application development using WebAssembly actor components and capability providers.",
         "homepage_url": "https://wasmcloud.com",
         "project": "sandbox",
         "repo_url": "https://github.com/wasmCloud/wasmCloud",
