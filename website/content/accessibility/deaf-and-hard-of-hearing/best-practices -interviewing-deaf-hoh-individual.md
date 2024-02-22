@@ -2,14 +2,14 @@
 title: "Best practices when interviewing a deaf or hard of hearing individuals (media interviews)"
 date: 2024-02-20
 description: >
-  Tips when doing media interviews with a deaf or hard of hearing individuals
+  Tips when doing media interviews with deaf or hard of hearing individuals
 ---
 
-Accommodation needs will depend on the interviewee. Deaf individuals may use sign language or speak and lip-read, while hard of hearing interviewees hear but also rely on additional queues (e.g., lip-reading, captions). In-person or virtual interviews and podcasts provide different opportunities and challenges, so please be sure to read through all relevant sections. 
+Accommodation needs will depend on the interviewee. Deaf individuals may use sign language or speak and lip-read, while hard of hearing interviewees hear but also rely on additional cues (e.g., lip-reading, captions). In-person or virtual interviews and podcasts present different opportunities and challenges, so please be sure to read through all relevant sections. 
 
 ## 1. Interviewing a deaf individual through an interpreter
 
-### 1.2. Info for production team 
+### 1.1. Info for production team 
 
 **Extended Interviews (30+ minutes)**: You'll need two interpreters for any interview longer than 30 minutes. Interpreting requires a high degree of concentration, and regular breaks are needed to ensure accuracy and interpreter well-being.
 
@@ -17,7 +17,7 @@ Accommodation needs will depend on the interviewee. Deaf individuals may use sig
 
 **Accessibility for recorded content**: When creating video content, including social media, be mindful of banner placement so they don't obstruct the signing area or the interpreter. Additionally, including closed captions for videos and podcast transcripts makes valuable information accessible to a broader audience.
 
-### 1.3. Info for interviewer
+### 1.2. Info for interviewer
 
 **Clarity and repetition**: Don't shy away from repeating questions or asking for clarification if needed. (American) Sign Language and English are distinct languages, each with their own grammar. Additionally, the interpreter is not a subject matter expert, so misunderstandings may occur.  
 
@@ -65,7 +65,7 @@ While some deaf individuals lip-read, not all rely on it. Ensure clear facial vi
 
 ### 3.2. In-person interview with non-signing/oral deaf or hard of hearing individual 
 
-**Face each other in a bright room**: Deaf non-signing and hard of hearing individuals rely on lip reading, so be sure they can clearly see the interviewer. Select a room with good lighting.
+**Face each other in a bright room**: Deaf non-signing and hard of hearing individuals may rely on lip reading, so be sure they can clearly see the interviewer. Select a room with good lighting.
 
 **Reliable internet connectivity**: Interviewees relying on speech-to-text apps for real-time transcriptions will need a good and reliable internet connection.  
 
