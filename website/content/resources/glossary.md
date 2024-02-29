@@ -1,6 +1,8 @@
 ---
 title: Glossary
 linkTitle: Glossary
+description: A glossary of CNCF-specific terms, including CNCF group acronyms or how projects are organized within our ecosystem.
+weight: 3
 ---
 # Introduction
 
