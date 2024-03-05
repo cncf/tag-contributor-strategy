@@ -16,7 +16,7 @@ Read our [Charter](https://github.com/cncf/tag-contributor-strategy/blob/main/me
 
 {{% blocks/section color="dark" %}}
 
-Mentoring Working Group is a group of people who focus on mentorship initiatives to encourage the adoption of cloud native computing. Our mission is to provide opportunities for new contributors to work on CNCF projects with experienced mentorship, which helps to promote growth and sustainability of projects. We also provide support and advice to CNCF projects around mentorship initiatives.
+Mentoring Working Group is a group of people who focus on mentorship initiatives to encourage the adoption of cloud native computing. Our mission is to provide opportunities for new contributors to work on CNCF projects with experienced mentorship, which helps promote project growth and sustainability. We also offer support and advice to CNCF projects around mentorship initiatives.
 
 {{% /blocks/section %}}
 
@@ -51,9 +51,8 @@ Mentoring Working Group is a group of people who focus on mentorship initiatives
 <div class="text-left">
 Mentoring WG manages the following mentorship initiatives:
 
-* [LFX Mentorship (ex-CommunityBridge)](https://mentorship.lfx.linuxfoundation.org): mentoring initiative by the Linux Foundation - [details](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship#readme)
-* [Google Summer of Code](https://summerofcode.withgoogle.com/): mentoring program for the open source beginners - [details](https://github.com/cncf/mentoring/tree/main/programs/summerofcode#readme)
-* [Google Season of Docs](https://developers.google.com/season-of-docs): mentoring initiative for the technical writers - [details](https://github.com/cncf/mentoring/tree/main/programs/seasonofdocs#readme)
+* [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org): a mentoring initiative by the Linux Foundation - [details](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship#readme)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/): a mentoring program for open source beginners - [details](https://github.com/cncf/mentoring/tree/main/programs/summerofcode#readme)
 * [Outreachy](https://www.outreachy.org): mentoring initiative for the communities traditionally underrepresented in tech - [details](https://github.com/cncf/mentoring/tree/main/programs/outreachy#readme)
 
 </div>
@@ -70,10 +69,10 @@ Mentoring WG manages the following mentorship initiatives:
 
 Here are some benefits that the Mentoring working group can provide to communities:
 
-* Do the necessary paper work and applications to mentoring programs on behalf of CNCF projects
-* Provide mentors the best practices and resources for managing and interacting with mentees 
+* Help projects with proposals and applications to mentoring programs
+* Provide mentors with best practices and resources for managing and interacting with mentees 
 * Guidance and support for an efficient mentorship execution
-* Promote your project's mentoring activities and help you find more mentees and thus more contributors
+* Promote your project's mentoring activities and help you find more mentees and, thus, more contributors
 
 You may find links to resources in our [repository](https://github.com/cncf/tag-contributor-strategy/blob/main/mentoring/README.md).
 
