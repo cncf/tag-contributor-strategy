@@ -1,6 +1,6 @@
 ---
 title: "Governance Self Assessment"
-date: 2023-09-15
+date: 2024-02-07
 weight: 40
 ---
 
@@ -15,9 +15,6 @@ available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS
 [email](https://lists.cncf.io/g/cncf-tag-contributor-strategy),
 [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings
 (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
-
-
-TODO: LATER: How to request a TAG CS governance review?
 
 ## General Information
 
@@ -34,11 +31,9 @@ Instructions:
 - Copy and paste the template in [Self Assessment Template](governance-self-assessment-template.md) into your favorite editor.
 - Fill in the template with the information about your project. The `TODO` placeholders in the template are there to help you.
 - Pick the latest state of the governance document and use the same point-in-time reference (e.g. commit) for your assessment. If governance consists of multiple documents, make sure you use the same commit.
-    - TODO: what about websites?
+- For the links in websites, if possible, give links to their Markdown/Asciidoc source files, if the website is built from them. If not, give the link to the website pages directly.
 - Make sure all links in your report are permanent links (e.g. with commit hashes).
 - To ensure consistency, use the same commits as links for multiple files within a single repository.
-- It is recommended to start filling this template from the "Review" section. Once you fill everything there, go back to "Summary and Assessment" to summarize the content you wrote.
-    - TODO: do we even need a "Summary and Assessment" section for self-assessments?
 
 ## Template details
 
@@ -72,6 +67,10 @@ Fill in the blanks in this section.
 * Describe where the governance documents are located. Is it in a primary repo, community Repo, somewhere else?
 
 ###### Governance Discovery Completeness
+
+Governance Discovery Completeness can be defined as the ease with which potential contributors can find and read 
+the governance documentation. Not having a clear and discoverable governance documentation can lead to confusion
+in the project's community and potential contributors.
 
 * Describe how easy is it for potential contributors to find and read the governance documentation.
 * Is it findable from the project web page and repository README files?
@@ -148,7 +147,8 @@ answers to the following sub-sections.
 Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers
 and contributors to monitor the project's adherence to their stated governance.
 
-Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed or updated recently.
+Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed
+or updated recently.
 
 Answer the following questions in a paragraph:
 * Are governance activities transparent and monitorable?
@@ -158,6 +158,12 @@ Answer the following questions in a paragraph:
 ###### Governance Drift
 
 Governance Drift can occur when the executed and observable governance of a project deviates from the documented governance of the project.
+
+<Description of the title, why it matters, what's its impact, etc.>
+
+<Questions to get the executor answer>:
+* <question 1>
+* <question 2>
 
 Answer the following questions in a paragraph:
 * Are the governance activities being carried out?
@@ -169,7 +175,8 @@ Answer the following questions in a paragraph:
 
 ###### Ownership
 
-Not applicable for projects joining the CNCF.
+Ownership is the explicit assignment of responsibility and authority for the project's governance and operation.
+It is expected that the project's governance documents and GitHub permissions are in alignment.
 
 * Check if the explicit governance of the project matches GitHub permissions.
   * Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership
@@ -177,6 +184,8 @@ Not applicable for projects joining the CNCF.
   * Check that there aren't individuals who have broad permissions that aren't explained by any official project role.
 
 ##### Maintainer List(s)
+
+Projects are expected to have a clear list of maintainers, and the list should be current and accurate.
 
 * Check the list of CNCF-level Maintainers for the project.
 * Answer the following question about the project's maintainers:
@@ -195,7 +204,6 @@ single entity can control the project's direction without informed consensus of 
 Governance evolution is the observable changes and improvements the project makes to its governance over the project's lifespan.
 It is expected that changes will occur over the project's life and that such changes are iterative, tested, and adjusted.
 
-Answer these questions?
 * How has the project's governance evolved over time?
     * What are the major milestones?
     * What are the recent changes?

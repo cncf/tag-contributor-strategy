@@ -1,6 +1,6 @@
 ---
 title: "Self Assessment Template"
-date: 2023-09-15
+date: 2024-02-07
 weight: 50
 ---
 
@@ -41,27 +41,25 @@ Executors: [TODO]
 
 ### Documentation Content
 
-The following table details the governance areas expected for a project. Coverage is indicated by Complete, Partial, 
-Missing, and Unknown.
+The following table details the governance areas expected for a project. Coverage is indicated by Complete, Partial, and Missing.
 * Complete - the content of the governance documentation is fully detailed and does not leave any question to the reader.
 * Partial - the content of the governance documentation is missing some information and would leave the reader 
   with questions or some level of misunderstanding.
 * Missing - the documentation is absent, wholly undiscoverable, or woefully inadequate in meeting the objectives 
   of that governance content. The reader cannot act on the content that is available.
-* Unknown - status cannot be assessed at this time
 
-| Governance Area                 |                 Coverage                 |   Documents   | Finding Notes |
-|:--------------------------------|:----------------------------------------:|:-------------:|:--------------|
-| Project Purpose                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Maintainer List                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Code of Conduct                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Contributor Guide               | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Contributor Ladder              | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Maintainer Lifecycle            | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Decision-making                 | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Code and Docs Ownership         | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Security Reporting and response | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
-| Communication and Meetings      | [TODO: Complete/Partial/Missing/Unknown] | [TODO: LINKS] | [TODO]        |
+| Governance Area                 |             Coverage             |   Documents   | Finding Notes |
+|:--------------------------------|:--------------------------------:|:-------------:|:--------------|
+| Project Purpose                 | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Maintainer List                 | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Code of Conduct                 | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Contributor Guide               | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Contributor Ladder              | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Maintainer Lifecycle            | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Decision-making                 | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Code and Docs Ownership         | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Security Reporting and response | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
+| Communication and Meetings      | [TODO: Complete/Partial/Missing] | [TODO: LINKS] | [TODO]        |
 
 
 
@@ -79,17 +77,9 @@ The project includes the following sub-projects, plugins, and other notable divi
 
 #### Transparency and freshness
 
-Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers 
-and contributors to monitor the project's adherence to their stated governance.
-Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed 
-or updated recently.
-
 The project's governance documentation and activities are [TODO]
 
 #### Governance Drift
-
-Governance Drift can occur when the executed and observable governance of a project deviates from the documented 
-governance of the project.
 
 The project [TODO: does/does] not experience governance drift as indicated by [TODO]...
 
