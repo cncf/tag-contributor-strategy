@@ -1,5 +1,6 @@
 ---
 title: Cloud Native Project Monthly (CNPM) Jan 2023 
+date: 2023-01-24
 ---
 
 Welcome into a new year! 

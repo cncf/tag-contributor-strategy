@@ -1,5 +1,6 @@
 ---
-title: Cloud Native Project Monthly (CNPM) October 2023  
+title: Cloud Native Project Monthly (CNPM) October 2023
+date: 2023-10-26  
 ---
 
 ## October 26, 2023 

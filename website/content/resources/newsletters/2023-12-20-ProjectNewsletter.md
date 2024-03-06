@@ -1,8 +1,7 @@
 ---
-title: Cloud Native Project Monthly (CNPM) December 2023  
+title: Cloud Native Project Monthly (CNPM) December 2023
+date: 2023-12-20
 ---
-
-## December 20, 2023 
 
 In this Edition: 
 ## Project Opportunities at KubeCon + CloudNativeCon EU
