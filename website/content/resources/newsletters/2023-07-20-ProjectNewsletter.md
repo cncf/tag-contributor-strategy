@@ -1,5 +1,8 @@
-Cloud Native Project Monthly (CNPM) July 2023  
-July 20, 2023 
+--- 
+title: Cloud Native Project Monthly (CNPM) July 2023  
+---
+
+## July 20, 2023 
 
 In this Edition
 

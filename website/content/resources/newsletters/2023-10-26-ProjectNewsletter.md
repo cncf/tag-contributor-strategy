@@ -1,5 +1,8 @@
-Cloud Native Project Monthly (CNPM) October 2023  
-October 26, 2023 
+---
+title: Cloud Native Project Monthly (CNPM) October 2023  
+---
+
+## October 26, 2023 
 
 In this Edition: 
 ## A Maintainer’s Guide to KubeCon + CloudNativeCon!

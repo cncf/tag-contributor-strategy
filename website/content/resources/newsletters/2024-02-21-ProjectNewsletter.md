@@ -1,7 +1,8 @@
+---
+title: Cloud Native Project Monthly (CNPM) February 2024 
+---
 
-Cloud Native Project Monthly (CNPM) February 2024 
-
-February 21, 2024 
+## February 21, 2024 
 
 In this Edition: 
 ## Certification Expiration Changes

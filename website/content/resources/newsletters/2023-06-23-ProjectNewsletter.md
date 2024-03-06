@@ -1,5 +1,8 @@
-Cloud Native Project Monthly (CNPM) June 2023  
-June 23, 2023 
+---
+title: Cloud Native Project Monthly (CNPM) June 2023  
+---
+
+## June 23, 2023 
 
 This is our Projects update, this will go out once a month letting CNCF maintainers know of upcoming deadlines, outreach or other useful things going on in the wider community of CNCF.
 

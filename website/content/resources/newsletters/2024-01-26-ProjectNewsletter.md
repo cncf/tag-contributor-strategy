@@ -1,7 +1,8 @@
+---
+title: Cloud Native Project Monthly (CNPM) January 2024 
+---
 
-Cloud Native Project Monthly (CNPM) January 2024 
-
-January 26, 2024 
+## January 26, 2024 
 
 In this Edition: 
 ## KubeCon + CloudNativeCon Schedule

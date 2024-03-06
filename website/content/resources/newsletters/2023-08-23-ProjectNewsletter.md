@@ -1,5 +1,8 @@
-Cloud Native Project Monthly (CNPM) August 2023  
-August 23, 2023 
+---
+title: Cloud Native Project Monthly (CNPM) August 2023  
+---
+
+## August 23, 2023 
 
 In this Edition: 
 ## HashiCorp Licensing Charges
