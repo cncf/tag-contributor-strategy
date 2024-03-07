@@ -3,19 +3,6 @@ title: Cloud Native Project Monthly (CNPM) September 2023
 date: 2023-09-20
 --- 
 
-## September 20, 2023 
-
-In this Edition: 
-## Updates from the Blog
-## Security Slam
-## Project Marketing Feedback Session
-## Exciting News: New Project Event Guidelines!
-## CNCF Annual Survey
-## Upcoming CFP Deadlines
-
-
-#### 
-
 ## 📝Updates from the Blog
 Guest writer Riaan Kleinhans shares a story of a journey that starts with a memorable road trip and leads to valuable insights for the open source community. 
 "Navigating Success: The Power of Roadmaps in Open Source Projects." [Link](https://www.cncf.io/blog/2023/09/14/navigating-success-the-power-of-roadmaps-in-open-source-projects/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--bymN3kW8AUE2ueJ3jU-U2d6HDZKJT1zrnR37Hyz1NyatHC4jXNcYL95fa4ffPL3swNB87)

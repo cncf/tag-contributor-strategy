@@ -3,20 +3,6 @@ title: Cloud Native Project Monthly (CNPM) October 2023
 date: 2023-10-26  
 ---
 
-## October 26, 2023 
-
-In this Edition: 
-## A Maintainer’s Guide to KubeCon + CloudNativeCon!
-## Promoting KubeCon + CloudNativeCon to Your Communities
-## Documentary Film - eBPF: Unlocking the Kernel 
-## Security Slam
-## Recent Job Loss and Travel Freeze Support
-## Fluent Bit V2: New Integrations for OTel, Wasm, Logs to Metrics, and More!
-## Upcoming CFP Deadlines
-
-
-#### 
-
 ## 🗺️A Maintainer’s Guide to KubeCon + CloudNativeCon!
 There will be some maintainer-focused activities at KubeCon + CloudNativeCon; be sure to check them out:
 Architect You Schedule:

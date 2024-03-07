@@ -3,21 +3,6 @@ title: Cloud Native Project Monthly (CNPM) July 2023
 date: 2023-07-20 
 ---
 
-
-In this Edition
-
-In this edition for July 2023: 
-## Mentoring
-## Etcd Usage Survey
-## GitHub Merge Queues
-## Artifact Hub Expands Artifact Support 
-## Boost Your Project with Documentation Advice!
-## Services for CNCF Projects
-## Upcoming Event Info
-
-
-#### 
-
 ## Mentoring
 The LFX Mentorship 2023 Term 03, September - November is open for project ideas:
 https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2023/03-Sep-Nov 

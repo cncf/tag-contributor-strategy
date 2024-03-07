@@ -6,13 +6,6 @@ date: 2023-01-24
 Welcome into a new year! 
 This is our new Projects update, this will go out once a month letting CNCF maintainers know of upcoming deadlines, outreach or other useful things going on in the wider community of CNCF.
 
-In this edition for January 2023 - 
-### Ambassador Applications Open
-### LFX Mentorships - March through May cycle open 
-### New: Request meetings with Projects team 
-
-
-
 ### Ambassador Applications Open
 
 As we approach 2023, the prestigious CNA program has been refreshed and we are now accepting applications for spring 2023. Could you be the newest CNA? If you have a track record of significant and impactful contributions to the cloud native community, check out the responsibilities and requirements to apply. 

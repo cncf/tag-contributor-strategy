@@ -6,23 +6,6 @@ date: 2023-03-22
 Happy March!
 This is our Projects update, this will go out once a month letting CNCF maintainers know of upcoming deadlines, outreach or other useful things going on in the wider community of CNCF.
 
-In this edition for March 2023 - 
-## KubeCon Hotels
-## KubeCon for maintainers!
-## Equinix Resource Audit
-## Equinix Livestream Showcase
-## GitHub 2FA
-## Github Security Advisories
-## GitHub Maintainers Community
-## Heroku OSS Offer
-## TechDocs
-## Mentorship Updates
-## ServiceDesk: Your portal to project support
-## CLOMonitor: A Project Health tracker
-## ArtifactHub: Now with KubeArmor Policies!
-
-#### 
-
 ## KubeCon Hotels
 We encourage you to book your hotel for KubeCon + CloudNativeCon Amsterdam quickly - a few hotels listed still have availability. The room blocks end March 30, 2023. 
 

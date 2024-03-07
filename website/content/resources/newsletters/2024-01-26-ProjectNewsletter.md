@@ -3,16 +3,6 @@ title: Cloud Native Project Monthly (CNPM) January 2024
 date: 2024-01-26
 ---
 
-In this Edition: 
-## KubeCon + CloudNativeCon Schedule
-## Project Video Update at KubeCon + CloudNativeCon EU
-## Mentorship Opportunities
-## TechDocs Open Office Hours
-## Upcoming CFP Deadlines
-
-
-#### 
-
 ## 🏨KubeCon + CloudNativeCon EU Hotels Now Available
 The schedule is LIVE for [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)! 🎁 [If you’re not yet registered to join us in Paris](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/), France from 19-22 March, get a move on. 🏃
  

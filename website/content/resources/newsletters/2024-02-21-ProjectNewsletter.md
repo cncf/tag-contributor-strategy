@@ -3,23 +3,6 @@ title: Cloud Native Project Monthly (CNPM) February 2024
 date: 2024-02-21
 ---
 
-In this Edition: 
-## Certification Expiration Changes
-## Resource Provider Mega Thread
-### OCI Credits - Now Available for Projects
-### Equinix Updates
-### New Policy On Resource Usage
-### GitHub Action Runners
-### Join the LFX Insights v3 Beta Pilot Program
-### Use Scarf to Measure Project Adoption
-## Sustainability Survey
-## TechDocs Open Office Hours
-## Google Summer Of Code 
-## Upcoming CFP Deadlines
-
-
-#### 
-
 ## 📝Certification Expiration Changes
 The Linux Foundation has announced a certification policy change effective 2024. This update includes revisions to exam eligibility requirements and a new retake policy, providing candidates with greater flexibility and support. These changes are part of the Linux Foundation's commitment to maintaining the integrity and relevance of its certification programs within the evolving landscape of technology.
 

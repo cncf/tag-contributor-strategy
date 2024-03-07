@@ -9,18 +9,6 @@ This is our new Projects update, this will go out once a month letting CNCF main
 Happy February! (We made it!) 
 This is our new Projects update, this will go out once a month letting CNCF maintainers know of upcoming deadlines, outreach or other useful things going on in the wider community of CNCF.
 
-In this edition for February 2023 - 
-## Mentorship
-## TechDocs
-## Kubernetes Registry Deprecation: k8s.gcr.io => registry.k8s.io
-## Does your project need mainframe resources?
-## Elekto? GitVote? Project voting tools!
-## CNCF GitHub Org Housekeeping
-## Project-meetings.cncf.io now open
-## KubeCon Hotels
-
----- 
-
 ## Mentorship
 
 Google Season of Docs
