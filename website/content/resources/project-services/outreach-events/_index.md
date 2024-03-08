@@ -44,7 +44,7 @@ We provide:
 Additional ways projects and project maintainers can participate in events:
 
 * Submissions for call-for-proposals at KubeCon + CloudNativeCon are encouraged to discuss their use of CNCF projects.
-* CNCF sponsors industry and (Linux Foundation)[https://events.linuxfoundation.org/] events each year, often with a booth. We encourage project maintainers to join CNCF in our participation to meet with the event attendees and talk about your project.
+* CNCF sponsors industry and [Linux Foundation](https://events.linuxfoundation.org/) events each year, often with a booth. We encourage project maintainers to join CNCF in our participation to meet with the event attendees and talk about your project.
 ** Project contributors are welcome to use our booth as a "home base" for meeting colleagues.
 * Connect to our worldwide network of [Cloud Native Community Groups](https://community.cncf.io/) and [Ambassadors](https://www.cncf.io/people/ambassadors/) to raise awareness of your project.
 * Travel funding is available for your non-corporate-backed developers. Please visit our most recent events' need-based scholarship page to learn about eligibility.
