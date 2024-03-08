@@ -5,17 +5,6 @@ date: 2023-06-23
 
 This is our Projects update, this will go out once a month letting CNCF maintainers know of upcoming deadlines, outreach or other useful things going on in the wider community of CNCF.
 
-In this edition for June 2023: 
-## Upcoming Maintainers' Circle
-## Devstats Affliation
-## TOC Meeting with AdaLogics
-## Boost Your Project with Documentation Advice!
-## Mentoring
-## CNCF Project Summary Table
-## gRPC
-
-#### 
-
 ## Upcoming Maintainers' Circle
 Join us on Wednesday, June 28th at 10 am PT, a new Maintainer's Circle special session with Paris Pittman on defining and managing the roles in your Project. 
 More details here: https://github.com/cncf/tag-contributor-strategy/tree/main/maintainers-circle#community-management 

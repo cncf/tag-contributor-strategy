@@ -6,15 +6,6 @@ date: 2023-04-26
 Welcome back from Kubecon! 
 This is our Projects update, this will go out once a month letting CNCF maintainers know of upcoming deadlines, outreach or other useful things going on in the wider community of CNCF.
 
-In this edition for April 2023: 
-## KubeCon EU 2023 Retro Doc
-## CNCF Project Summary Table
-## LFC Courses - Free to all!
-## Mentoring - LFX
-## TechDocs Open Office Hours
-
-#### 
-
 ## KubeCon EU 2023 Retro Doc
 Were you at KubeCon EU 2023? Do you have any feedback to make the event better OR want to gush at the Events team? 
 

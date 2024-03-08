@@ -5,19 +5,6 @@ date: 2023-05-24
 
 This is our Projects update, this will go out once a month letting CNCF maintainers know of upcoming deadlines, outreach or other useful things going on in the wider community of CNCF.
 
-
-In this edition for May 2023: 
-## Grafana Labs
-## Maintainers' Survey
-## Maintainers' Circle
-## Sheriff + Your Access on the CNCF GitHub
-## ServiceDesk: Your Portal to Project Support
-## Devstats Profile
-## TechDocs
-## Mentoring
-
-#### 
-
 ## Grafana Labs
 Grafana Labs is happy to offer sponsored [Grafana Cloud Pro](https://grafana.com/products/cloud/) 
 for all Linux Foundation and CNCF projects. For all Incubating and Graduated projects who need it, we are also happy to discuss increased sponsorship levels.
