@@ -28,6 +28,6 @@ The following list indicates some common software properties that means your cod
 
 ## Security Audits
 
-CNCF works with many independent third parties to provide [Security audits](https://github.com/cncf/toc/blob/main/docs/projects.md#project-security-audits) to projects (e.g., Kubernetes security audit). To request a such an audit, please file a ticket within ServiceDesk
+CNCF works with many independent third parties to provide security audits to projects (e.g., Kubernetes security audit). To request a such an audit, please file a ticket within ServiceDesk.
 
 We also support distributed systems safety research via independent third parties (e.g. <https://jepsen.io/>)
