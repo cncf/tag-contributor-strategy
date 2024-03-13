@@ -56,7 +56,7 @@ project lifecycle.
 {{% blocks/section color="gray-900" %}}
 
 {{% blocks/feature icon="fas fa-hands" title="Intentional Space" %}}
-Host a maintainers circle omprised of those interested in growing their projects
+Host a maintainers circle comprised of those interested in growing their projects
 and joining fellow maintainers in related cross project discussions.
 {{% /blocks/feature %}}
 
