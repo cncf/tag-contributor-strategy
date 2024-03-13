@@ -688,7 +688,7 @@
     },
     {
         "name": "Cortex",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
         "homepage_url": "https://cortexmetrics.io/",
         "project": "incubating",
@@ -1172,7 +1172,7 @@
     },
     {
         "name": "Fluentd",
-        "path": "Logging",
+        "path": "Observability",
         "description": "Fluentd: Unified Logging Layer (project under CNCF)",
         "homepage_url": "https://www.fluentd.org/",
         "project": "graduated",
@@ -1238,7 +1238,7 @@
     },
     {
         "name": "Fonio",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Data first monitoring agent using (e)BPF, built on RedBPF",
         "homepage_url": "https://ingraind.org/",
         "project": "archived",
@@ -1304,7 +1304,7 @@
     },
     {
         "name": "Headlamp",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Extensible open source multi-cluster Kubernetes user interface",
         "homepage_url": "https://headlamp.dev",
         "project": "sandbox",
@@ -1436,7 +1436,7 @@
     },
     {
         "name": "Inspektor Gadget",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Open source eBPF debugging and data collection tool for Kubernetes and Linux",
         "homepage_url": "https://inspektor-gadget.io/",
         "project": "sandbox",
@@ -1480,7 +1480,7 @@
     },
     {
         "name": "Jaeger",
-        "path": "Tracing",
+        "path": "Observability",
         "description": "CNCF Jaeger, a Distributed Tracing Platform",
         "homepage_url": "https://www.jaegertracing.io/",
         "project": "graduated",
@@ -1546,7 +1546,7 @@
     },
     {
         "name": "K8sGPT",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Giving Kubernetes Superpowers to everyone",
         "homepage_url": "https://www.k8sgpt.ai",
         "project": "sandbox",
@@ -1589,13 +1589,13 @@
         "language": "Go"
     },
     {
-        "name": "kanister",
-        "path": "Container Registry",
+        "name": "Kanister",
+        "path": "Cloud Native Storage",
         "description": "An extensible framework for  application-level data management on Kubernetes",
         "homepage_url": "https://kanister.io",
         "project": "sandbox",
         "repo_url": "https://github.com/kanisterio/kanister",
-        "logo": "https://landscape.cncf.io/logos/f763d6ac6e2316b6bd3eb61986426e15d4a909d1887584a4fc8f32e86d479651.svg",
+        "logo": "https://landscape.cncf.io/logos/def509b7067e8e9c2d3444c00e771373de7f90b205c89b75c3b541cfe6be0dae.svg",
         "twitter": null,
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
@@ -1722,7 +1722,7 @@
     },
     {
         "name": "Kepler",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics.",
         "homepage_url": "https://sustainable-computing.io/",
         "project": "sandbox",
@@ -2228,7 +2228,7 @@
     },
     {
         "name": "Kuberhealthy",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
         "homepage_url": "https://github.com/kuberhealthy/kuberhealthy",
         "project": "sandbox",
@@ -2558,7 +2558,7 @@
     },
     {
         "name": "Logging Operator (Kube Logging)",
-        "path": "Logging",
+        "path": "Observability",
         "description": "Logging operator for Kubernetes",
         "homepage_url": "https://kube-logging.dev/",
         "project": "sandbox",
@@ -3108,7 +3108,7 @@
     },
     {
         "name": "OpenMetrics",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Evolving the Prometheus exposition format into a standard.",
         "homepage_url": "https://openmetrics.io/",
         "project": "incubating",
@@ -3130,11 +3130,11 @@
     },
     {
         "name": "OpenTelemetry",
-        "path": "Tracing",
-        "description": "OpenTelemetry Java SDK",
+        "path": "Observability",
+        "description": "OpenTelemetry community content",
         "homepage_url": "https://opentelemetry.io/",
         "project": "incubating",
-        "repo_url": "https://github.com/open-telemetry/opentelemetry-java",
+        "repo_url": "https://github.com/open-telemetry/community",
         "logo": "https://landscape.cncf.io/logos/52818595352a47637721976b546e0a2a1d0da186a0eb97ec203bd7e5248eb4fc.svg",
         "twitter": "https://twitter.com/opentelemetry",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
@@ -3148,11 +3148,11 @@
         "slack_url": "https://cloud-native.slack.com/messages/opentelemetry",
         "gitter_url": "https://gitter.im/open-telemetry/community",
         "youtube_url": null,
-        "language": "Java"
+        "language": null
     },
     {
         "name": "OpenTracing",
-        "path": "Tracing",
+        "path": "Observability",
         "description": "OpenTracing API for Go. \ud83d\uded1 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163",
         "homepage_url": "https://opentracing.io/",
         "project": "archived",
@@ -3328,7 +3328,7 @@
     },
     {
         "name": "Pixie",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Open source Kubernetes observability for developers",
         "homepage_url": "https://px.dev/",
         "project": "sandbox",
@@ -3394,7 +3394,7 @@
     },
     {
         "name": "Prometheus",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "The Prometheus monitoring system and time series database.",
         "homepage_url": "https://prometheus.io/",
         "project": "graduated",
@@ -3614,7 +3614,7 @@
     },
     {
         "name": "Skooner",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Simple Kubernetes real-time dashboard and management.",
         "homepage_url": "https://skooner.io/",
         "project": "sandbox",
@@ -3856,7 +3856,7 @@
     },
     {
         "name": "Thanos",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
         "homepage_url": "https://thanos.io/",
         "project": "incubating",
@@ -3966,7 +3966,7 @@
     },
     {
         "name": "Trickster",
-        "path": "Monitoring",
+        "path": "Observability",
         "description": "Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator",
         "homepage_url": "https://trickstercache.org",
         "project": "sandbox",
