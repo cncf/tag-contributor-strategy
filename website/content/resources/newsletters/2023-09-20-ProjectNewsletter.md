@@ -5,11 +5,12 @@ date: 2023-09-20
 
 ## 📝Updates from the Blog
 Guest writer Riaan Kleinhans shares a story of a journey that starts with a memorable road trip and leads to valuable insights for the open source community. 
-"Navigating Success: The Power of Roadmaps in Open Source Projects." [Link](https://www.cncf.io/blog/2023/09/14/navigating-success-the-power-of-roadmaps-in-open-source-projects/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--bymN3kW8AUE2ueJ3jU-U2d6HDZKJT1zrnR37Hyz1NyatHC4jXNcYL95fa4ffPL3swNB87)
+"Navigating Success: The Power of Roadmaps in Open Source Projects." [Link](https://www.cncf.io/blog/2023/09/14/navigating-success-the-power-of-roadmaps-in-open-source-projects/)
 
 Congratulations to all the mentees who have completed the second term of the 2023 CNCF LFX mentoring program, and thank you to all the maintainers and mentors who participated! 
-“36 CNCF term 2 LFX mentees have successfully completed the program.” [Link](https://www.cncf.io/blog/2023/09/12/36-cncf-term-2-lfx-mentees-have-successfully-completed-the-program/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--bymN3kW8AUE2ueJ3jU-U2d6HDZKJT1zrnR37Hyz1NyatHC4jXNcYL95fa4ffPL3swNB87)
-Term 3 is underway, and we are planning our next intake early next year [Link](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--bymN3kW8AUE2ueJ3jU-U2d6HDZKJT1zrnR37Hyz1NyatHC4jXNcYL95fa4ffPL3swNB87).
+"36 CNCF term 2 LFX mentees have successfully completed the program." [Link](https://www.cncf.io/blog/2023/09/12/36-cncf-term-2-lfx-mentees-have-successfully-completed-the-program/)
+
+Term 3 is underway, and we are planning our next intake early next year [Link](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May).
 
 
 ## 🔐Security Slam
@@ -50,8 +51,8 @@ Take the Survey: [Link](https://www.research.net/r/S5BY23R)
 
 ## ✍️Upcoming CFP Deadlines:
 Here are the upcoming deadlines for CFPs:
-GitOpsCon EU [Link](https://events.linuxfoundation.org/gitopscon-europe/program/cfp/)- October 4
-KubeCon + CloudNativeCon EU 2024 [Link](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) - November 26
+- GitOpsCon EU [Link](https://events.linuxfoundation.org/gitopscon-europe/program/cfp/) - October 4
+- KubeCon + CloudNativeCon EU 2024 [Link](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/) - November 26
 
 
 Want to contribute to October's newsletter? 

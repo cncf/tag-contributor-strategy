@@ -13,7 +13,7 @@ CNCF hosts [graduated], [incubating], and [sandbox] projects. While we offer a s
 Finally, this list isn’t meant to be an exhaustive list of services offered by the foundation. There may be things your project needs help with that isn’t listed here and it’s completely OK to reach out to [staff] via the [CNCF ServiceDesk] and ask for help. 
 
 [staff]: https://www.cncf.io/people/staff/
-[survey]: https://github.com/cncf/surveys/tree/master/maintainer
+[survey]: https://github.com/cncf/surveys/tree/main/maintainer
 [graduated]: https://www.cncf.io/projects/
 [incubating]: https://www.cncf.io/projects/
 [sandbox]: https://www.cncf.io/sandbox-projects/
