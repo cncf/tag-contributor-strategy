@@ -14,15 +14,15 @@ serve:
 		--gc
 
 production-build:
-	cd website
 	git submodule update --init --recursive
+	cd website
 	hugo \
 		--minify
 	npx -y pagefind --site public
 
 preview-build:
-	cd website
 	git submodule update --init --recursive
+	cd website
 	hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \
