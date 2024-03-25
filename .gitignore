@@ -3,3 +3,4 @@ public/
 website/resources/
 node_modules/
 .hugo_build.lock
+pagefind
