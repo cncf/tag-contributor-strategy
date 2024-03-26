@@ -7,7 +7,7 @@
   command = "go run mage.go -v Deploy"
 
 [build.environment]
-  HUGO_VERSION = "0.107.0"
+  HUGO_VERSION = "0.111.3"
   NODE_VERSION = "12.20.0"
 
 [context.branch-deploy]
