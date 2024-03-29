@@ -19,29 +19,8 @@ information on using pull requests.
 
 ## Prerequisites
 
-* [Go] 1.15+
-* [Mage](https://magefile.org) (optional). You can install it by running 
-  `go run mage.go EnsureMage` from this repository and follow any instructions
-  in the command output.
-
-We use Mage (instead of make) to automate local development tasks. If you 
-do not have mage installed, you can run tasks using Go directly: `go run mage TARGET`.
-With Mage installed, you can run `mage TARGET`.
-
-Run `mage -l` to see the available targets:
-
-```console
-$ mage -l
-This is a magefile, and is a "makefile for go". See https://magefile.org/
-
-Targets:
-  build         Compile the website to website/public.
-  ensureMage    Ensure Mage is installed and on the PATH.
-  hugo          Use hugo in a docker container.
-  preview*      Run a local server to preview the website and watch for changes.
-```
-
-[Go]: https://golang.org/doc/install
+* npm
+* hugo
 
 ## Content Organization
 
@@ -96,19 +75,24 @@ Docsy has a shortcut for you:
 
 ## Preview your changes locally
 
-If you want to run a Docker container to preview your changes as you work:
+If you want to preview your changes as you work:
 
-1. [Install Docker](https://docs.docker.com/get-docker/) and [Go].
 1. Fork the [TAG Contributor Strategy repository] into your own project, then
    create a local copy using `git clone`. 
-1. Run `mage preview` to preview the site. When the site is ready, it will open
+1. Run these commands to pull down submodules and install packages:
+```
+git submodule update --init --recursive
+npm install
+```
+1. Run `npm run serve` to preview the site. When the site is ready, it will open
    your web browser to http://localhost:1313/. Now that you're serving your site
    locally, Hugo will watch for changes to the content and automatically refresh
    your site.
+1. If you want to preview the site with a full built search index, you can run 
+  `npm run serve:with-pagefind`
 1. Continue with the usual GitHub workflow to edit files, commit them, push the
    changes up to your fork, and create a pull request.
 
-If you need to see the Hugo output, run `mage logs`.
 
 ## Add a video
 
@@ -144,7 +128,7 @@ Copy the talk description from the schedule and paste it here. The formatting is
 
 ```shell
 # build the website on your branch
-$> mage build
+$> cd website && hugo && cd ..
 
 # create a temporary directory
 $> TMP=$(mktemp -d)
@@ -154,7 +138,7 @@ $> git clone --depth 1 https://github.com/cncf/tag-contributor-strategy.git $TMP
 
 # build the main branch of the website using the temp directory
 $> pushd $TMP
-$> mage build
+$> cd website && hugo && cd ..
 $> popd
 
 # compare the two builds
