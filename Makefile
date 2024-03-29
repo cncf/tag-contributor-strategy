@@ -1,10 +1,9 @@
 serve:
-	cd website
-	hugo server \
+	cd website; hugo server \
 		--disableFastRender \
 		--buildDrafts \
 		--buildFuture \
-		--ignoreCache
+		--ignoreCache \
 		--printI18nWarnings \
 		--printMemoryUsage \
 		--printPathWarnings \
@@ -15,17 +14,15 @@ serve:
 
 production-build:
 	git submodule update --init --recursive
-	cd website
-	hugo \
+	cd website; hugo \
 		--minify
-	npx -y pagefind --site public
+	npx -y pagefind --site website/public
 
 preview-build:
 	git submodule update --init --recursive
-	cd website
-	hugo \
+	cd website; hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--buildDrafts \
 		--buildFuture \
 		--minify
-	npx -y pagefind --site public
+	npx -y pagefind --site website/public
