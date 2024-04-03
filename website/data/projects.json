@@ -3352,7 +3352,7 @@
         "name": "Porter",
         "path": "Application Definition & Image Build",
         "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
-        "homepage_url": "https://getporter.org/",
+        "homepage_url": "https://porter.sh/",
         "project": "sandbox",
         "repo_url": "https://github.com/getporter/porter",
         "logo": "https://landscape.cncf.io/logos/f8b1c589e03a95257d2d5a1c45e42b1e250fd87dd044453b14667a0be29fadd4.svg",
