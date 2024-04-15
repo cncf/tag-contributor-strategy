@@ -147,7 +147,7 @@ version = "0.0"
 url_latest_version = "https://contribute.cncf.io"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "f9e984a8a6fc21d28"
+# gcs_engine_id = "f9e984a8a6fc21d28"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
