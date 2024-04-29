@@ -1589,6 +1589,28 @@
         "language": "Go"
     },
     {
+        "name": "Kairos",
+        "path": "Edge/Bare metal",
+        "description": ":penguin: The immutable Linux meta-distribution for edge Kubernetes.",
+        "homepage_url": "https://kairos.io",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kairos-io/kairos",
+        "logo": "https://landscape.cncf.io/logos/3d27e1a349b4cfbf20f7b6bcc1117473c2978df5a26ca44f31df9aa9c9d19afe.svg",
+        "twitter": "https://twitter.com/Kairos_OSS",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2024-04-13",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": "https://kairos.io/blog/",
+        "mailing_list_url": null,
+        "slack_url": "https://spectrocloudcommunity.slack.com/join/shared_invite/zt-g8gfzrhf-cKavsGD_myOh30K24pImLA#/shared-invite/email",
+        "gitter_url": null,
+        "youtube_url": "https://www.youtube.com/@kairos_oss",
+        "language": "Go"
+    },
+    {
         "name": "Kanister",
         "path": "Cloud Native Storage",
         "description": "An extensible framework for  application-level data management on Kubernetes",
