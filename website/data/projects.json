@@ -1762,7 +1762,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "C"
+        "language": "Go"
     },
     {
         "name": "Keptn",
