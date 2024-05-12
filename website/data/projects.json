@@ -3459,6 +3459,28 @@
         "language": "Go"
     },
     {
+        "name": "Radius",
+        "path": "Application Definition & Image Build",
+        "description": "Radius is a cloud-native application platform that enables developers and the platform engineers  that support them to collaborate on delivering and managing cloud-native applications that follow  organizational best practices for cost, operations and security, by default. ",
+        "homepage_url": "https://radapp.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/radius-project/radius",
+        "logo": "https://landscape.cncf.io/logos/7b57eafa88dba3fed85862b1fb967a6e0b49c477c07cf13c09af2d2ee94176af.svg",
+        "twitter": "https://twitter.com/radapp_io",
+        "crunchbase": null,
+        "chat_channel": null,
+        "accepted": "2024-04-16",
+        "dev_stats_url": "https://radius.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": "https://blog.radapp.io/posts",
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": "https://www.youtube.com/@radapp_io",
+        "language": "Go"
+    },
+    {
         "name": "rkt",
         "path": "Container Runtime",
         "description": "[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",
