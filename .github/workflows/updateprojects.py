@@ -23,6 +23,11 @@ csvRows = [{
 
 with urllib.request.urlopen(landscapeBaseURL) as hostedProjectsResponse:
     for project in json.load(hostedProjectsResponse):
+
+        # skip sub-landscape projects
+        if project['category'] in ['Wasm', 'Serverless', 'CNAI']:
+            continue
+
         print("Processing {}...".format(project['name']))
 
         repo_url = None
