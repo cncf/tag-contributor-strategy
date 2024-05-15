@@ -2315,6 +2315,28 @@
         "language": "Go"
     },
     {
+        "name": "Kubernetes",
+        "path": "General Orchestration",
+        "description": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications",
+        "homepage_url": "https://kubernetes.io/",
+        "project": "graduated",
+        "repo_url": "https://github.com/kubernetes/kubernetes",
+        "logo": "https://landscape.cncf.io/logos/e0303fdc381c96c1b4461ad1a2437c8f050cfb856fcb8710c9104367ca60f316.svg",
+        "twitter": "https://twitter.com/kubernetesio",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2016-03-10",
+        "dev_stats_url": "https://k8s.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/graduated.md#kubernetes-logos",
+        "stack_overflow_url": "https://stackoverflow.com/questions/tagged/kubernetes",
+        "blog_url": "http://blog.kubernetes.io/",
+        "mailing_list_url": "https://groups.google.com/forum/#!forum/kubernetes-dev",
+        "slack_url": "http://slack.k8s.io/",
+        "gitter_url": null,
+        "youtube_url": "https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg",
+        "language": "Go"
+    },
+    {
         "name": "Kubescape",
         "path": "Security & Compliance",
         "description": "Kubescape is an open source security and compliance platform that scans clusters, Kubernetes manifest files (YAML files, and Helm charts), code repositories, container registries and images. It detects misconfigurations according to frameworks such as the NSA-CISA,  MITRE ATT&CK\u00ae and CIS, as well as software vulnerabilities, and calculates risk scores.",
@@ -3918,7 +3940,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Go"
+        "language": "Rust"
     },
     {
         "name": "Thanos",
