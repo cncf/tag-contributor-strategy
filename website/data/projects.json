@@ -161,7 +161,7 @@
     {
         "name": "Backstage",
         "path": "Application Definition & Image Build",
-        "description": "Backstage is an open platform for building developer portals",
+        "description": "Backstage is an open framework for building developer portals",
         "homepage_url": "https://backstage.io/",
         "project": "incubating",
         "repo_url": "https://github.com/backstage/backstage",
@@ -555,6 +555,28 @@
         "language": null
     },
     {
+        "name": "Connect RPC",
+        "path": "Remote Procedure Call",
+        "description": "Connect is a family of libraries for building browser and gRPC-compatible HTTP APIs.",
+        "homepage_url": "https://connectrpc.com/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/connectrpc/connect-go",
+        "logo": "https://landscape.cncf.io/logos/5f1172e8694f236bc53c0f25b1cf6255941c46d4d079ee480927d00afa731306.svg",
+        "twitter": "https://twitter.com/connectrpc",
+        "crunchbase": "https://www.crunchbase.com/organization/buf-technologies",
+        "chat_channel": null,
+        "accepted": "2024-04-13",
+        "dev_stats_url": "https://connect.devstats.cncf.io",
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#connect-rpc-logos",
+        "stack_overflow_url": null,
+        "blog_url": "https://buf.build/blog",
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Container Network Interface (CNI)",
         "path": "Cloud Native Network",
         "description": "Container Network Interface - networking for Linux containers",
@@ -755,7 +777,7 @@
     {
         "name": "CubeFS",
         "path": "Cloud Native Storage",
-        "description": "cloud-native file store",
+        "description": "cloud-native distributed storage",
         "homepage_url": "https://cubefs.io/",
         "project": "incubating",
         "repo_url": "https://github.com/cubeFS/cubefs",
@@ -1344,7 +1366,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Go"
+        "language": "Shell"
     },
     {
         "name": "HwameiStor",
