@@ -7,32 +7,11 @@ and projects with their own contributor strategies for a healthy project.
 
 If you are looking for how-to resources produced by the TAG, please visit
 [contribute.cncf.io](https://contribute.cncf.io/) or have a look at the
-contributor, goverance, and related [templates](https://github.com/cncf/project-template).
+contributor, governance, and related [templates](https://github.com/cncf/project-template).
 
-For people new to this space, you can learn more about the purpose, objectives, and responsibilities of [CNCF TAGs](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md).
+For people new to this space, you can learn more about the purpose, objectives, and responsibilities of [CNCF TAGs](https://github.com/cncf/toc/blob/main/tags/README.md).
 
-The [TAG Contributor Strategy charter](/CHARTER.md) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
-
-- [Meetings](#meetings)
-- [Communicating with Us](#communicating-with-us)
-- [Members](#members)
-  - [TAG Chairs](#tag-chairs)
-  - [Tech Leads](#tech-leads)
-  - [TOC Liaisons](#toc-liaisons)
-
-- [Working Groups and Teams](#working-groups-and-teams)
-  - [Governance WG](#governance-wg)
-  - [Contributor Growth WG](#contributor-growth-wg)
-  - [Mentoring WG](#mentoring-wg)
-  - [Maintainer's Circle](#maintainers-circle)
-  - [Inclusiveness Team](#inclusiveness-team)
-  - [Deaf and Hard Of Hearing WG](#deaf-and-hard-of-hearing-wg)
-    
-- [Project Board](#project-board)
-      
-- [Contributor Strategy Overview Diagram](#contributor-strategy-overview-diagram)
-  
-- [Valued TAG Members](#valued-tag-members)
+The [TAG Contributor Strategy charter](https://github.com/cncf/toc/blob/main/tags/tag-charters/contributor-strategy.md/) outlines the scope of our group activities. To get involved, our [Contributing Guide](/CONTRIBUTING.md) lays out more details.
 
 ## Meetings
 
@@ -67,24 +46,9 @@ channels:
 - [Attend our meetings](https://tockify.com/cncf.public.events/monthly?search=Contributor+Strategy)
   - We meet once a month, and we'd love to have you join us!
 
-## Members
+## Leadership
 
-### TAG Chairs
-
-- Dawn Foster ([@geekygirldawn](https://github.com/geekygirldawn)), CHAOSS Project
-- Josh Berkus ([@jberkus](https://github.com/jberkus)), Red Hat
-- Catherine Paganini ([@CathPag](https://github.com/CathPag)), Buoyant
-
-### Tech Leads
-
-- Ali Ok ([@aliok](https://github.com/aliok)), Red Hat
-- Riaan Kleinhans ([@Riaankl](https://github.com/Riaankl)), Linux Foundation
-
-### TOC Liaisons
-
-- Emily Fox ([@TheFoxAtWork](https://github.com/TheFoxAtWork)), Apple
-- Dave Zolotusky ([@dzolotusky](https://github.com/dzolotusky)), Spotify
-
+TAG Chairs, Tech Leads and TOC Liaisons are listed on the [CNCF Technical Advisory Groups ("TAGs") information page](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md).
 
 ## Working Groups And Teams
 
