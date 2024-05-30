@@ -2625,7 +2625,7 @@
     {
         "name": "Microcks",
         "path": "Application Definition & Image Build",
-        "description": "Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project \ud83d\ude80",
+        "description": "The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project \ud83d\ude80",
         "homepage_url": "https://microcks.io",
         "project": "sandbox",
         "repo_url": "https://github.com/microcks/microcks",
@@ -3456,7 +3456,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": "TypeScript"
+        "language": "Gherkin"
     },
     {
         "name": "Service Mesh Interface (SMI)",
