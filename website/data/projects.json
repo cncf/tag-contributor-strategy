@@ -2249,6 +2249,28 @@
         "language": "Go"
     },
     {
+        "name": "KubeSlice",
+        "path": "Scheduling & Orchestration",
+        "description": "Applications provided by Avesha Systems, ready to launch on Kubernetes using Kubernetes Helm.",
+        "homepage_url": "https://kubeslice.io",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kubeslice/kubeslice",
+        "logo": "https://landscape.cncf.io/logos/cee9e89a0cb21df1683b29dd68dc0c2c9469e8936a30f1c54b1847bc8b474add.svg",
+        "twitter": "https://twitter.com/kubeslice",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": "#kubeslice",
+        "accepted": "2024-04-16",
+        "dev_stats_url": null,
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#kubeslice-logos",
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": "https://groups.google.com/g/kubeslice-dev",
+        "slack_url": "http://slack.k8s.io/",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Mustache"
+    },
+    {
         "name": "KubeStellar",
         "path": "Scheduling & Orchestration",
         "description": "KubeStellar - a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
