@@ -44,7 +44,7 @@ channels:
   about a change you'd like to propose?
 
 - [Attend our meetings](https://tockify.com/cncf.public.events/monthly?search=Contributor+Strategy)
-  - We meet once a month, and we'd love to have you join us!
+  - We have a general TAG meeting once a month and many of our Working Groups / Teams also have regular meetings. We'd love to have you join us!
 
 ## Leadership
 
