@@ -2,22 +2,21 @@
   ID = "cncf-contribute"
 
 [build]
-  base = "/"
-  publish = "website/public/"
-  command = "go run mage.go -v Deploy"
+publish = "website/public/"
+command = "make production-build"
 
 [build.environment]
-  HUGO_VERSION = "0.107.0"
-  NODE_VERSION = "12.20.0"
-
-[context.branch-deploy]
-  command = "go run mage.go -v DeployBranch"
-  
-[context.deploy-preview]
-  command = "go run mage.go -v DeployPreview"
+NODE_VERSION = "18.16.1"
+HUGO_VERSION = "0.115.2"
 
 [context.production.environment]
 HUGO_ENV = "production"
 
 [context.deploy-preview.environment]
 HUGO_ENV = "preview"
+
+[context.deploy-preview]
+command = "make preview-build"
+
+[context.branch-deploy]
+command = "make preview-build"
