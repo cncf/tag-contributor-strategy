@@ -71,10 +71,10 @@ NOTE: To have your application processed correctly by Docker, please explicitly 
 
 Each CNCF project can decide on its own how to manage GitHub invites and teams. Some are small enough and just do it manually, others use automated systems like these:
 
-<https://github.com/kubernetes/org>
-<https://github.com/cilium/team-manager>
-<https://github.com/apps/settings>
-<https://github.com/github/safe-settings>
+- <https://github.com/kubernetes/org>
+- <https://github.com/cilium/team-manager>
+- <https://github.com/apps/settings>
+- <https://github.com/github/safe-settings>
 
 ### My builds are slow, I would like to have expanded capacity for GitHub Actions, what can I do?
 

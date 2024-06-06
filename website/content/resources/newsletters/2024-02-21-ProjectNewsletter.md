@@ -6,13 +6,13 @@ date: 2024-02-21
 ## 📝Certification Expiration Changes
 The Linux Foundation has announced a certification policy change effective 2024. This update includes revisions to exam eligibility requirements and a new retake policy, providing candidates with greater flexibility and support. These changes are part of the Linux Foundation's commitment to maintaining the integrity and relevance of its certification programs within the evolving landscape of technology.
 
-[Learn More](https://training.linuxfoundation.org/certification-policy-change-2024/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8arVGmTX_JL4lNqa4ikKnLbt8ak4yM9rLY35uelNYkYzJZTgWcBQdcGJxykqUngkHbVN2u)
+[Learn More](https://training.linuxfoundation.org/certification-policy-change-2024/)
 
 ## 🗃️ Resource Provider Mega Thread
 There’s a lot of news this month around resources provided to projects! Please read as your project may be impacted or could benefit from this news:
 
 ### OCI Credits Now Available for Projects
-Oracle has kindly donated $3 million in OCI credits for CNCF projects. These credits are now available for all CNCF projects, and we encourage you to investigate adding OCI to your CI/CD pipelines. Check out this [blog post](https://www.cncf.io/blog/2024/02/02/oracle-oci-credits-are-now-available-to-cncf-projects-here-is-what-you-need-to-know/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8arVGmTX_JL4lNqa4ikKnLbt8ak4yM9rLY35uelNYkYzJZTgWcBQdcGJxykqUngkHbVN2u) for more information!
+Oracle has kindly donated $3 million in OCI credits for CNCF projects. These credits are now available for all CNCF projects, and we encourage you to investigate adding OCI to your CI/CD pipelines. Check out this [blog post](https://www.cncf.io/blog/2024/02/02/oracle-oci-credits-are-now-available-to-cncf-projects-here-is-what-you-need-to-know/) for more information!
 
 ### Equinix Updates
 The folks at Equinix have asked us to remind projects using their resources that they are bare metal! That means that any machines you have that sit idle, or even off, are still taking up resources and burning carbon for no reason. Equinix and CNCF Staff are double-checking that all the usage is valid and that resources are not stale/orphaned.

@@ -13,7 +13,8 @@ We are thrilled to share some fantastic news about our revamped project offering
 - Lightning Talks Exclusively for Projects: In response to your feedback, we're introducing Lightning Talks tailored specifically for projects. This exciting addition replaces our working groups, providing a dedicated platform to effectively spotlight your updates and engage with the community.
 - Ad-hoc Meeting Tables in the Sponsor Showcase: To facilitate more dynamic engagement, we're introducing ad-hoc meeting tables strategically placed in the Sponsor Showcase, adjacent to the Project Pavilion. These tables offer you the perfect space to connect with attendees spontaneously throughout the event, fostering organic discussions and collaborations.
 
-Please submit your interest form by Wednesday, 17 January
+Please submit your interest form by Wednesday, 17 January.
+
 [Learn More Now](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/project-opportunities/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-98E0spAnDIhKO1W2CZIiN-NM1ZaEkFwdDVS8M-4xz_-Pcr8KNd1-3KOAo7RoEW3BliThF0#description-of-opportunities)
 
 ## 📽️ Project Video Update at KubeCon + CloudNativeCon EU
