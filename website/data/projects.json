@@ -2251,7 +2251,7 @@
     {
         "name": "KubeSlice",
         "path": "Scheduling & Orchestration",
-        "description": "Applications provided by Avesha Systems, ready to launch on Kubernetes using Kubernetes Helm.",
+        "description": "Multi-Cloud, Multi-Cluster Service Connectivity with Application Slices.",
         "homepage_url": "https://kubeslice.io",
         "project": "sandbox",
         "repo_url": "https://github.com/kubeslice/kubeslice",
