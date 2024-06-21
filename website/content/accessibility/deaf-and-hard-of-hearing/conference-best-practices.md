@@ -28,7 +28,7 @@ We recommend appointing a designated disabilities coordinator to handle any prom
 - Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines the fit (e.g., some deaf people may not feel comfortable with the interpreter's signing style, clarity, or quality).
 - Ensures proper lighting and interpreter staging.
 - Provides extra equipment in case of failures, such as lights, stands, chairs, etc.
-- Takes attendees feedback on interpreters
+- Takes attendee feedback on interpreters
 
 #### Be ADA-compliant (whether US-based or not)
 
