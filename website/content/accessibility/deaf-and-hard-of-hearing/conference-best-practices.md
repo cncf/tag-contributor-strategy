@@ -25,7 +25,7 @@ We encourage you to include the A in your DEI efforts: **Diversity + Equity + In
 #### Disabilities coordinator
 
 We recommend appointing a designated disabilities coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers. For signing attendees specifically, the coordinator typically:
-- Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines the fit (e.g., some deaf people may not like the interpreter's signing style, clarity, or quality).
+- Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines the fit (e.g., some deaf people may not feel comfortable with the interpreter's signing style, clarity, or quality).
 - Ensures proper lighting and interpreter staging.
 - Provides extra equipment in case of failures, such as lights, stands, chairs, etc.
 - Takes attendees feedback on interpreters
