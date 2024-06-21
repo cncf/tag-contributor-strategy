@@ -20,14 +20,14 @@ To make the process as straightforward as possible, we've listed as much as we c
 
 ### DEIA: Diversity + Equity + Inclusion + Accessibility
 
-We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — too often our is community an afterthought. We want to change that and need your support!
+We encourage you to include the A in your DEI efforts: **Diversity + Equity + Inclusion + Accessibility (DEIA)** — too often our community _is_ an afterthought. We want to change that and need your support!
 
 #### Disabilities coordinator
 
 We recommend appointing a designated disabilities coordinator to handle any prompt communications involving accommodations before and during the conference. This includes communication with attendees, speakers, facilities, and other event organizers. For signing attendees specifically, the coordinator typically:
-- Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines fit (e.g., some deaf people may not like the interpreter's signing style, clarity, or quality).
+- Facilitates communications between interpreters, assigns them to deaf attendees and location, solicits feedback, and determines the fit (e.g., some deaf people may not feel comfortable with the interpreter's signing style, clarity, or quality).
 - Ensures proper lighting and interpreter staging.
-- Provide extra equipment in case of failures, such as lights, stands, chairs, etc.
+- Provides extra equipment in case of failures, such as lights, stands, chairs, etc.
 - Takes attendee feedback on interpreters
 
 #### Be ADA-compliant (whether US-based or not)
@@ -79,7 +79,7 @@ If you record your sessions, be sure the interpreters are on screen so deaf atte
 
 ### Captions
 
-There is no need to provide interpreters for every session, but captions should be available for all sessions. While there are lots of live captions software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has proven to work.
+There is no need to provide interpreters for every session, but captions should be available for all sessions. While there are lots of live captions software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has been proven to work effectively.
 
 Some caption tools work for virtual events only, others for in-person and virtual. 
 
@@ -89,11 +89,11 @@ Captions at the bottom of the screen are not visible unless attendees are sittin
 
 Some captions are highly **accurate but lag** significantly. That creates a disconnect between the message received and the speaker/audience (not syncing with body language, laughter, etc.), which can create a feeling of ‘missing out.’
 
-Unlike hearing people, deaf/hoh individuals can only focus on the captions or look at the speaker/slides (e.g., a technical graphic). So if they do look away, they will miss what's said. Hence, leaving content on the screen longer by **adding more than one line** will help people rely on captions. 
+Unlike hearing people, deaf/hoh individuals can only focus on the captions or look at the speaker/slides (e.g., a technical graphic). So if they do look away, they will miss what's said. Hence, leaving content on the screen longer by **adding more than one line** will help people who rely on captions. 
 
 Every session should have captions in the main conference language **on the screen by default** (vs. captions available on the phone). Reading captions on-screen makes attendees feel more engaged than looking at their phones (speakers might think they aren't interested). With a phone, attendees are constantly required to shift focus between their phones and speaker(s) and will miss parts of the message. This is even more critical when there are live demos because, to understand what is going on, attendees must see what's on-screen and read captions at the same time. Captions on the phone make that impossible. 
 
-#### Caption use cases beyond deaf/hoh
+#### Captions use cases beyond deaf/hoh
 
 Some attendees can hear but may be neurodivergent ( e.g. on the autism spectrum, with ADHD, and more) and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well.
 
