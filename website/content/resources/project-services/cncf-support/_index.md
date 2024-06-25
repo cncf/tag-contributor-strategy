@@ -14,7 +14,7 @@ CNCF staff is available to assist and guide your project. Below are some of the 
 - Facilitating community meetings with support for online participation
 - Administrative support for communication and project processes
 - Biweekly or monthly check in meetings with CNCF Staff as requested
-- Project activity tracking and contribution reporting via [DevStats](https://devstats.cncf.io)
+- Project activity tracking and contribution reporting via [DevStats](https://devstats.cncf.io) and [Insights](https://insights.lfx.linuxfoundation.org/)
 
 ## Design and Aesthetics
 

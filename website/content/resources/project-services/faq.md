@@ -82,7 +82,7 @@ The CNCF has a special partnership with GitHub, please file a [Service Desk](htt
 
 ### I don't have a Service Desk account
 
-Head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) website and try to log in, if you can't find an account, email <info@cncf.io> and one will be created for you.
+If you are a maintainer, head to the [Service Desk](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/user/login) website and try to log in, if you can't find an account, email <info@cncf.io> and one will be created for you.
 
 #### I am a Kubernetes SIG chair and I don't have a Service Desk account
 
