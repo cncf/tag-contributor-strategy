@@ -14,7 +14,7 @@ Early planning is key to accommodating the accessibility needs of attendees, spe
 
 To make the process as straightforward as possible, we've created this **[DHH Accessbile Conference Checklist]**(https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0). Make your copy to use it for your event.
 
-While the checklist has all the action items, this detailed document provides the context to understand *why what* is needed. We also included alternatives if a particular accommodation isn't feasible. If you have any questions, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io — we'd love to help you make your event more accessible! 
+While the checklist provides a meticulous list of action items, this detailed document provides the context to understand the "how" and "why" behind them. We also included alternatives if a particular accommodation isn't feasible. If you have any questions, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io — we'd love to help you make your event more accessible! 
 
 **Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
 
@@ -151,7 +151,7 @@ On the program page, include session accessibility information, such as whether 
 
 ### Connect us with our peers
 
-Provide a way for deaf and hard of hearing attendees, speakers, or people with other disabilities to connect for peer support and potentially pool resources (e.g., an event Slack channel). 
+Provide a way for deaf and hard of hearing attendees, speakers, and people with other disabilities to connect for peer support and potentially pool resources (e.g., an event Slack channel). 
 
 ## Day of best practices
 
