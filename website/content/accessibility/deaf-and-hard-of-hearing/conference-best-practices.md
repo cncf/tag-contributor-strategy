@@ -95,6 +95,8 @@ Some caption tools work only for virtual events, others for in-person and virtua
 
 Captions at the bottom of the screen are not visible unless attendees are sitting at the front. Consider adding them at the top. If that isn't feasible,  you might want to place the screen higher to ensure people in the back can also read them. 
 
+[ADD IMAGE HERE]
+
 Some captions are highly **accurate but lag** significantly. That creates a disconnect between the message received and the speaker/audience (not syncing with body language, laughter, etc.), which can create a feeling of ‘missing out.’
 
 Unlike hearing people, deaf/hoh individuals can only focus on the captions or look at the speaker/slides (e.g., a technical graphic). So if they do look away, they will miss what's said. Hence, leaving content on the screen longer by **adding more than one line** will help people who rely on captions. 
