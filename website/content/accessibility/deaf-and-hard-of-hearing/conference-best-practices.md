@@ -96,6 +96,7 @@ Some caption tools work only for virtual events, others for in-person and virtua
 Captions at the bottom of the screen are not visible unless attendees are sitting at the front. Consider adding them at the top. If that isn't feasible,  you might want to place the screen higher to ensure people in the back can also read them. 
 
 <img width="906" alt="Captions on top vs bottom of screen" src="https://github.com/cncf/tag-contributor-strategy/assets/74001907/b8a08ec0-162b-4465-84d5-a082ed078154">
+*Captions at the top of the screen vs. captions at the bottom are truly accessible.*
 
 Some captions are highly **accurate but lag** significantly. That creates a disconnect between the message received and the speaker/audience (not syncing with body language, laughter, etc.), which can create a feeling of ‘missing out.’
 
@@ -105,7 +106,7 @@ Every session should have captions in the main conference language **on the scre
 
 #### Captions use cases beyond deaf/hoh
 
-Some attendees can hear but may be neurodivergent ( e.g. on the autism spectrum, with ADHD, and more) and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well.
+Some attendees can hear but may be neurodivergent ( e.g., on the autism spectrum, with ADHD, and more) and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well.
 
 ### Global or national conferences
 
