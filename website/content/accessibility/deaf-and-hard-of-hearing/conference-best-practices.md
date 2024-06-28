@@ -96,6 +96,7 @@ Some caption tools work only for virtual events, others for in-person and virtua
 Captions at the bottom of the screen are not visible unless attendees are sitting at the front. Consider adding them at the top. If that isn't feasible,  you might want to place the screen higher to ensure people in the back can also read them. 
 
 <img width="906" alt="Captions on top vs bottom of screen" src="https://github.com/cncf/tag-contributor-strategy/assets/74001907/b8a08ec0-162b-4465-84d5-a082ed078154">
+
 *Captions at the top of the screen vs. captions at the bottom are truly accessible.*
 
 Some captions are highly **accurate but lag** significantly. That creates a disconnect between the message received and the speaker/audience (not syncing with body language, laughter, etc.), which can create a feeling of ‘missing out.’
