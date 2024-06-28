@@ -12,7 +12,7 @@ The first step of being more inclusive is understanding that deaf/hoh are not a 
 
 Early planning is key to accommodating the accessibility needs of attendees, speakers, and sponsors. We recommend providing them the opportunity to specify their needs as early as possible, allowing you to plan for them in advance. Use your website, registration and call for papers forms to gather this information early. Often, conference organizers don't budget for accessibility until a request is made, which can lead to uncomfortable situations. Remember, accessibility is rarely a static budget line item, and it can be challenging, especially when planning it for the first time.  
 
-To make the process as straightforward as possible, we've created this **[DHH Accessbile Conference Checklist]**(https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0). Make your copy to use it for your event.
+To make the process as straightforward as possible, we've created this **[DHH Accessbile Conference Checklist](https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0)**. Make your copy to use it for your event.
 
 While the checklist provides a meticulous list of action items, this detailed document provides the context to understand the "how" and "why" behind them. We also included alternatives if a particular accommodation isn't feasible. If you have any questions, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io — we'd love to help you make your event more accessible! 
 
