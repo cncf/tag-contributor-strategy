@@ -6,13 +6,15 @@ description: >
   This is a living document, so please be sure to check regularly for updates.
 ---
 
-Creating an inclusive and accessible conference experience for deaf and hard of hearing (deaf/hoh) individuals may seem like a complex task if you're unfamiliar with their unique needs and preferences. This guide is designed to assist you in ensuring that your event is welcoming and accommodating, enabling deaf and hard of hearing attendees to actively participate and enjoy a fulfilling overall experience.
+Understanding the unique needs and preferences of deaf and hard of hearing (deaf/hoh) individuals is crucial in creating an inclusive and accessible conference experience. This guide is specifically designed to assist you in this process, ensuring that your event is not only welcoming and accommodating, but also tailored to enable deaf and hard of hearing attendees to actively participate and enjoy a fulfilling experience.
 
-The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group — we have different needs and preferences, so it is important to provide multiple options for deaf/hoh. If we can't participate fully, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not participating in the community.  
+The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group. We have different needs and preferences, so it is important to provide multiple options for deaf/hoh attendees. If we can't fully participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not attending conferences.  
 
-We also recommend providing attendees, speakers, and sponsors the opportunity to specify their accessibility needs as soon as possible, so you can plan for it in advance. Use your website, registration and call for papers forms to get that information early. Conference organizers often don't budget for accessibility until a request is made. This can create uncomfortable situations for event planners who don't know how to budget for a sudden request. Accessibility is rarely a static budget line item, and it can be hard, especially when planning it for the first time.  
+Early planning is key to accommodating the accessibility needs of attendees, speakers, and sponsors. We recommend providing them the opportunity to specify their needs as early as possible, allowing you to plan for them in advance. Use your website, registration and call for papers forms to gather this information early. Often, conference organizers don't budget for accessibility until a request is made, which can lead to uncomfortable situations. Remember, accessibility is rarely a static budget line item, and it can be challenging, especially when planning it for the first time.  
 
-To make the process as straightforward as possible, we've listed as much as we could to make a conference truly inclusive to our community but also included alternatives if a particular accommodation is not feasible. If you have any questions or concerns, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io. 
+To make the process as straightforward as possible, we've created this **[DHH Accessbile Conference Checklist](https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0)**. Make your copy to use it for your event.
+
+While the checklist provides a meticulous list of action items, this detailed document provides the context to understand the "how" and "why" behind them. We also included alternatives if a particular accommodation isn't feasible. If you have any questions, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io — we'd love to help you make your event more accessible! 
 
 **Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
 
@@ -45,9 +47,9 @@ However, there is International Sign (Language), or IS, an "artificial" sign lan
 #### Which sign language should you use?
 
 While the sign language choice for North American conferences is clear (ASL), it's complicated for European international conferences. 
-The World Deaf Federation uses IS and the host country-specific sign language at their events. If you expect to have a majority of host country-specific signing attendees at your conference, we recommend that same approach. For KubeCon Europe, we recommend two main sign languages: International Sign (IS) as the primary language and American Sign Language (ASL) as secondary.
+The World Deaf Federation uses IS and the host country-specific sign language at their events. If you expect to have a majority of host country-specific signing attendees at your conference, we recommend that same approach. 
 
-Keynotes should be signed in IS (interpreters on screen), while interpreters for attendees would sign in whichever language they chose. 
+For KubeCon Europe, we recommend two main sign languages: International Sign (IS) as the primary language and American Sign Language (ASL) as secondary. Keynotes should be signed in IS (interpreters on screen), while interpreters for attendees would sign in whichever language they chose. 
 
 If you need to fly interpreters in (from other countries), consider hiring the attendee's preferred interpreters. Note that hourly rates might vary significantly depending on where interpreters are based. In some cases, flying in an interpreter might be more cost-effective than hiring one from the host country. So keep those options in mind as you plan for the event.
 
@@ -63,7 +65,11 @@ We recommend providing the agency or freelancers with the following guidelines:
 
 #### Sign language interpreters
 
-Why do you need sign language interpreters if you have captions? First, captions are only available for talks. But what if the attendee wants to ask a question? Besides, most people go to conferences to network not purely to hear talks they can watch on YouTube later. But even during sessions, interpreters are important. Here's one account from one of our members:
+Why do you need sign language interpreters if you have captions? First, captions are only available for talks. But what if the attendee wants to ask a question? Besides, most people go to conferences to network, not purely to hear talks they can watch on YouTube later. In fact, networking is where interpreters are most valuable (provided you have captions on screen). Learn more about the importance of networking for deaf/hoh below. 
+
+It will be extremely difficult—if not impossible—to find interpreters who can interpret sessions accurately at highly technical conferences such as KubeCon. We recommend providing an accurate captions tool displayed on the screen while focusing interpreter support on Q&A and networking.  
+
+However, some deaf signing members strongly favor interpreters at sessions. Here's one account from one of our members:
 
 > "ASL is my first (natural) language, and if I have the choice, I will always choose interpreters over captions. Relying only on captions often leads to a cognitive overload for me. Words are conveyed, but I'm trying to process the information while looking at the speaker, which can be draining and hard. Good interpreters capture the spirit of the speaker and help me feel more engaged. I have been in meetings where only captions were available, meetings where there were interpreters present without captions, and both. Personally, I like having both because I can catch some technical words while feeling more engaged with the speaker."
 
@@ -71,7 +77,9 @@ Provide interpreters upon request and in advance. We also recommend having two s
 
 Obviously, a big conference like KubeCon has more resources than a local community event — we get that. Since we also want to be included in smaller events, we’ll offer various options. To be clear, the more cost-effective options aren’t as inclusive, meaning we’ll miss out on many opportunities our hearing peers benefit from. Opt for the more cost-effective route only if there is no alternative that provides accessibility. We deserve to be included and appreciate your support.
 
-Sign language interpreters are the most valuable but also the most expensive accommodation. Incorporate the cost into the overall conference cost. It should be no different than including audio/video equipment, swag, food, refreshments, etc. into your budget.
+For deaf signing members, sign language interpreters are the most valuable but also the most expensive accommodation. Incorporate the cost into the overall conference cost. It should be no different than including audio/video equipment, swag, food, refreshments, etc. into your budget.
+
+**Note:** The Linux Foundation is building its own team of freelance interpreters. If you are looking for interpreters for your tech conferences, let us know, and we can make recommendations. 
 
 #### Include interpreters in recording
 
@@ -79,13 +87,17 @@ If you record your sessions, be sure the interpreters are on screen so deaf atte
 
 ### Captions
 
-There is no need to provide interpreters for every session, but captions should be available for all sessions. While there are lots of live captions software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has been proven to work effectively.
+There is no need to provide interpreters for every session, but captions should be available for all sessions. While there are many live caption software options, not all work well. Using a tool with low accuracy can be very confusing for deaf/hoh individuals, so select one that has been proven to work effectively.
 
-Some caption tools work for virtual events only, others for in-person and virtual. 
+Some caption tools work only for virtual events, others for in-person and virtual events.
 
 #### Some considerations
 
 Captions at the bottom of the screen are not visible unless attendees are sitting at the front. Consider adding them at the top. If that isn't feasible,  you might want to place the screen higher to ensure people in the back can also read them. 
+
+<img width="906" alt="Captions on top vs bottom of screen" src="https://github.com/cncf/tag-contributor-strategy/assets/74001907/b8a08ec0-162b-4465-84d5-a082ed078154">
+
+*Captions at the top of the screen vs. captions at the bottom are truly accessible.*
 
 Some captions are highly **accurate but lag** significantly. That creates a disconnect between the message received and the speaker/audience (not syncing with body language, laughter, etc.), which can create a feeling of ‘missing out.’
 
@@ -95,7 +107,7 @@ Every session should have captions in the main conference language **on the scre
 
 #### Captions use cases beyond deaf/hoh
 
-Some attendees can hear but may be neurodivergent ( e.g. on the autism spectrum, with ADHD, and more) and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well.
+Some attendees can hear but may be neurodivergent ( e.g., on the autism spectrum, with ADHD, and more) and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well.
 
 ### Global or national conferences
 
@@ -103,11 +115,9 @@ If you only have a few deaf individuals attending, provide two interpreters per 
 
 Of course, this approach doesn’t scale well. If you have more deaf attendees, you’ll need to share accommodations among more individuals.
 
-Before the conference, ask attendees to sign up for sessions in advance so you know which sessions must be staffed by interpreters. But allow for last-minute changes and be prepared to inform interpreters about these. While you’ll want to plan ahead, you also want to offer attendees the flexibility to change their minds. Maybe they met someone who’s giving a talk, and they’d like to attend that session. If you have multiple deaf attendees, have interpreters at keynotes by default.
-
 ### Regional/single-track conferences
 
-It’s easier to share accommodations among speakers and attendees at smaller or single-track conferences. Provide live captions and a pair of sign language interpreters.
+At smaller or single-track conferences, sharing accommodations among speakers and attendees is easier. Provide live captions and a pair of sign language interpreters.
 
 If your budget is tight, consider offering an accessibility sponsorship add-on and mention throughout the conference that interpreters are made possible thanks to that company. That will motivate them or other companies to participate next time.
 
@@ -129,7 +139,7 @@ Consider creating a dedicated email address (e.g., accommodations@) to signal yo
 
 ### Registration and CFP form
 
-Include a field asking if accommodations are needed (yes/no) and a free-form text box to specify. Everyone's needs differ; it's hard to discern from a fixed form/dropdown.
+Include a field asking if accommodations are needed (yes/no) and a free-form text box to specify. Everyone's needs differ, and they're hard to discern from a fixed form/dropdown.
 
 ### Program Information
 
@@ -145,13 +155,13 @@ On the program page, include session accessibility information, such as whether 
 
 ### Connect us with our peers
 
-Provide a way for deaf and hard of hearing attendees and speakers or people with other disabilities to connect for peer support and potentially pool resources (e.g., an event Slack channel). 
+Provide a way for deaf and hard of hearing attendees, speakers, and people with other disabilities to connect for peer support and potentially pool resources (e.g., an event Slack channel). 
 
 ## Day of best practices
 
 ### Venue walkthrough 
 
-Offer a venue walkthrough before the event for deaf /hoh, attendees with other disabilities, and sign language interpreters to familiarize themselves with the layout, stage, and any potential obstacles. It's much harder for disabled folks to "glean" information about rooms, directions, and locations. Here are two voices from the community highlighting their personal experience:
+Offer a venue walkthrough before the event for deaf/hoh, attendees with other disabilities, and sign language interpreters to familiarize themselves with the layout, stage, and any potential obstacles. It's much harder for disabled folks to "glean" information about rooms, directions, and locations. Here are two voices from the community highlighting their personal experience:
 
 > "I've missed so many important sessions because I ended up on the opposite side. Hearing folks can easily ask for directions and help each other. They can also talk while walking, which lip-readers like me can't."
 
@@ -162,7 +172,7 @@ Offer a venue walkthrough before the event for deaf /hoh, attendees with other d
 
 Have some reserved seating at the front for deaf and hard of hearing attendees. Many rely on lip-reading, so you want to be sure they can see the speakers well. If speakers are wearing masks, it inhibits many deaf/hoh attendees from reading lips. Opt to provide speakers with clear masks if they prefer to wear a mask when speaking, or provide social distancing opportunities instead so they may speak maskless. 
 
-Provide reserved chairs in the front row for deaf/hoh attendees. Leave two loose chairs at or near the stage area for sign language interpreters, and make sure the chairs are comfortable. Also, keep the front row clear to ensure there is space for them.
+Provide reserved chairs in the front row for deaf/hoh attendees. Leave two loose chairs at or near the stage area for sign language interpreters (even if just for Q&A support), and make sure the chairs are comfortable. Also, keep the front row clear to ensure there is space for them.
 
 In particular, keynote rooms tend to be dark, with a bright spotlight on the stage. Consider adding frontal or overhead lighting in the interpreter seating area. Here's an anecdote from one attendee:
 
@@ -170,7 +180,7 @@ In particular, keynote rooms tend to be dark, with a bright spotlight on the sta
 
 ### Accommodation desk
 
-Set up an accommodation desk and/or communication channel where attendees can ask questions, request changes, or get an interpreter spontaneously, if available. Be sure to staff it with people familiar with deaf/hoh needs and have assistive technology available to assist with communication when needed.
+Set up an accommodation desk and/or communication channel where attendees can ask questions, request changes, or spontaneously get an interpreter, if available. Be sure to staff it with people familiar with deaf/hoh needs and have assistive technology available to assist with communication when needed.
 
 ### Deaf or hard of hearing speakers and panelists  
 
@@ -180,13 +190,13 @@ If speakers need interpreters or caption monitors, consider facilitating dry run
 
 Introduce deaf/hoh speakers to sign language interpreters prior to the event. This will allow them to share materials (slides, speaker notes, etc.) with interpreters. Knowing what the talk is about will help provide much more accurate interpretation services. 
 
-Signs for different technologies are not yet fully established (that is especially true in cloud native). Speakers and interpreters will need to agree on how to sign key terms and concepts.  Agreeing on a shared vocabulary for on-stage communications will enhance communication efficiency.
+Signs for different technologies are not yet fully established (that is especially true in cloud native). Speakers and interpreters will need to agree on how to sign key terms and concepts. Agreeing on a shared vocabulary for on-stage communications will enhance communication efficiency.
 
 If there are non-signing deaf or hard of hearing speakers, place a monitor visible from the stage so they can read the captions from fellow panelists and during Q&A. Note: captions on the screen facing the audience won't work in this case, they will need a monitor facing the speakers.
  
 ### Microphones for speakers and Q&A
 
-Provide microphones for speakers and audience questions — even in small rooms. Hard of hearing attendees or speakers will struggle to hear the question without a microphone, and the captions tool won't be able to capture it either. If you can't provide a microphone for audience questions, have the speaker or someone else repeat the question in the microphone, "This person was asking …" 
+Provide microphones for speakers and audience questions — even in small rooms. Hard of hearing attendees or speakers will struggle to hear the question without a microphone, and the captions tool won't be able to capture it either. If you can't provide a microphone for audience questions, have the speaker or someone else repeat the question in the microphone: "This person was asking …" 
 
 ### Meeting point area 
 
@@ -200,16 +210,13 @@ One of the main reasons people go to conferences is to network. That is no diffe
 
 Networking is key for job opportunities, professional growth, and learning from peers. It is hard enough for people with disabilities to find or change jobs, making these networking events even more important. It is an important channel for professional growth and shouldn't be overlooked in your inclusion efforts. 
 
-Having the opportunity to network with hearing peers is not only important for the individual, it also helps break down prejudices and change attitudes towards us. These one-on-one connections are invaluable for fostering inclusion overall. So please be sure to allow your deaf and hard of hearing attendees and speakers to participate.
-
-When it comes to networking events outside of the official program (e.g., sponsor happy hours), try to find a way to fund interpreters, too. If you can’t use the conference budget, consider creating a sponsorship add-on to fund networking interpreter services. Don’t underestimate the importance of these valuable opportunities.
-
+Having the opportunity to network with hearing peers is important not only for the individual but also helps break down prejudices and change attitudes toward us. These one-on-one connections are invaluable for fostering inclusion overall. So please be sure to allow your deaf and hard of hearing attendees and speakers to participate.
 
 ## Miscellaneous
 
-**Video uploads**: Be sure to manually click ‘Auto Captions’ when uploading videos, as they will not become automatically available once transferred to a channel or platform afterward.
+**Video uploads**: Be sure to manually click ‘Auto Captions’ when uploading videos, as they will not become automatically available once they are transferred to a channel or platform.
 
 **Seating**: Not everyone feels comfortable sitting at the front, but captions are only visible from the front. This goes back to the "please add captions at the top" recommendation. 
 
 
-Thank you for taking the time to review our best practices recommendations. We hope this was useful and that you'll be able to implement them at your next event. If your conference is accessible to our community, please be sure to add it to this [accessible tech conference list](https://docs.google.com/spreadsheets/d/1kQmhwQc45S6SC2fYsULue4our72TLH86kVD5KA0EC-4/edit#gid=0) so more people from our community find out about it.
+Thank you for taking the time to review our best practice recommendations. We hope this was useful and that you'll be able to implement them at your next event. If your conference is accessible to our community, please be sure to add it to this [accessible tech conference list](https://docs.google.com/spreadsheets/d/1kQmhwQc45S6SC2fYsULue4our72TLH86kVD5KA0EC-4/edit#gid=0) so more people from our community find out about it.
