@@ -11,7 +11,8 @@
 	width: unset;
 }
 
-.cncf-button {
+.cncf-button,
+.cncf-button-primary {
 	color: $white;
 	background-color: $black;
 	border: 0;
@@ -34,4 +35,14 @@
 	&:hover {
 		background-color: $gray-700;
 	}
+}
+
+.cncf-button-primary {
+	background-color: $pink;
+	&:hover {
+		background-color: #c53490;
+		color: $white;
+		text-decoration: none;
+	}
+
 }

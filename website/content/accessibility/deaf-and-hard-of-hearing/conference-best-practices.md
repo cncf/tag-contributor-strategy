@@ -18,6 +18,16 @@ While the checklist provides a meticulous list of action items, this detailed do
 
 **Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
 
+<div class="section-group">
+{{% blocks/section color="gray-300" %}}
+  <h3>Get your Accessbile Conference Checklist</h3>
+  <p>To make it really easy, we've captured everything in this document in an event checklist.</p>
+    <a class="cncf-button-primary" href="https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0">
+    Download Checklist
+    </a>
+{{% /blocks/section %}}
+</div>
+
 ## General information
 
 ### DEIA: Diversity + Equity + Inclusion + Accessibility
