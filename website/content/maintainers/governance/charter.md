@@ -77,6 +77,7 @@ Examples:
     and community [values](https://github.com/kubernetes/community/blob/master/values.md)
 *   CoreDNS [principles](https://github.com/coredns/coredns/blob/master/GOVERNANCE.md)
 *   Vitess [guiding principles](https://github.com/vitessio/vitess/blob/master/GUIDING_PRINCIPLES.md)
+*   Cilium [community values](https://github.com/cilium/community/blob/main/VALUES.md)
 
 These are all living documents that should be expected to change over time as
 the project evolves. For sandbox projects, this might be a simple one or two
