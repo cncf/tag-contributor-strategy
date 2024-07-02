@@ -801,7 +801,7 @@
         "path": "Security & Compliance",
         "description": "Curiefense is a unified, open source platform protecting cloud native applications.",
         "homepage_url": "https://www.curiefense.io/",
-        "project": "sandbox",
+        "project": "archived",
         "repo_url": "https://github.com/curiefense/curiefense",
         "logo": "https://landscape.cncf.io/logos/0f6f7217f874928606894d925440e0cebcffda2fcac1f2882d9118c4a910ed0b.svg",
         "twitter": "https://twitter.com/curiefense",
