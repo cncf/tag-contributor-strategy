@@ -1963,6 +1963,28 @@
         "language": "Rust"
     },
     {
+        "name": "Kuadrant",
+        "path": "API Gateway",
+        "description": "Kuadrant combines Gateway API and Istio-based gateway controllers to enhance application connectivity. It enables platform engineers  and application developers to easily connect, secure, and protect their services and infrastructure across multiple clusters  with policies for TLS, DNS, application authentication & authorization, and rate limiting.",
+        "homepage_url": "https://kuadrant.io",
+        "project": "sandbox",
+        "repo_url": "https://github.com/kuadrant/kuadrant-operator",
+        "logo": "https://landscape.cncf.io/logos/4be4dfdc7c156747f9043a33139f7aa08a6c14e0cfa2e35e85d9bd0a43d553f7.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2024-06-19",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Kuasar",
         "path": "Container Runtime",
         "description": "A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.",
