@@ -3459,6 +3459,28 @@
         "language": "Go"
     },
     {
+        "name": "Score",
+        "path": "Application Definition & Image Build",
+        "description": "Score is an open-source workload specification designed to simplify development for cloud-native developers.",
+        "homepage_url": "https://score.dev/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/score-spec/spec",
+        "logo": "https://landscape.cncf.io/logos/d5b2c4a41431c7c27380d566ebd21111333f092d2c7377de98c81fc8cb50e7d6.svg",
+        "twitter": null,
+        "crunchbase": null,
+        "chat_channel": null,
+        "accepted": "2024-07-08",
+        "dev_stats_url": "https://score.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": "https://score.dev/blog",
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": null
+    },
+    {
         "name": "sealer",
         "path": "Application Definition & Image Build",
         "description": "Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)",
