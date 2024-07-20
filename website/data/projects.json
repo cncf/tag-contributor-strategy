@@ -225,6 +225,28 @@
         "language": "Go"
     },
     {
+        "name": "bpfman",
+        "path": "Security & Compliance",
+        "description": "An eBPF Manager for Linux and Kubernetes",
+        "homepage_url": "https://bpfman.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/bpfman/bpfman",
+        "logo": "https://landscape.cncf.io/logos/36cc7c278c13fbec758fb4a37eadf77c23bffac45131103f569678dc38b2eae2.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2024-06-19",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": "https://bpfman.io/main/blog/",
+        "mailing_list_url": null,
+        "slack_url": "https://kubernetes.slack.com/archives/C04UJBW2553",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Rust"
+    },
+    {
         "name": "Brigade",
         "path": "Continuous Integration & Delivery",
         "description": "Event-driven scripting for Kubernetes",
@@ -2471,7 +2493,7 @@
     {
         "name": "Kyverno",
         "path": "Security & Compliance",
-        "description": "Kubernetes Native Policy Management",
+        "description": "Cloud Native Policy Management",
         "homepage_url": "https://kyverno.io/",
         "project": "incubating",
         "repo_url": "https://github.com/kyverno/kyverno",
