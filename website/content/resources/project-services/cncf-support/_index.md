@@ -13,14 +13,20 @@ CNCF staff is available to assist and guide your project. Below are some of the 
 - Project governance creation and advice
 - Facilitating community meetings with support for online participation
 - Administrative support for communication and project processes
-- Biweekly or monthly check in meetings with CNCF Staff as requested
+- [Monthly public office hours](https://tockify.com/cncf.public.events/monthly?search=Monthly%20CNCF%20Project%20Office%20Hours) with CNCF Staff or [private meetings upon request](https://project-meetings.cncf.io/)
 - Project activity tracking and contribution reporting via [DevStats](https://devstats.cncf.io) and [Insights](https://insights.lfx.linuxfoundation.org/)
 
 ## Design and Aesthetics
 
-CNCF offers graphic design resources for all projects, provided primarily by our in-house design team. When new projects enter the foundation, they receive a new logo, a website refresh if they wish, or an enhancement of their existing aesthetic. For example, see the [CloudEvents](https://cloudevents.io) or CNCF [SIG Security](https://github.com/cncf/sig-security) logo. If there is something creative you desire, please don't hesitate to reach out!
+CNCF offers graphic design resources for all projects, provided primarily by our in-house design team. When new projects enter the Foundation, they receive a new logo, a website refresh if they wish, or an enhancement of their existing aesthetic. For example, see the [CloudEvents](https://cloudevents.io) or CNCF [SIG Security](https://github.com/cncf/sig-security) logo. If there is something creative you desire, please don't hesitate to reach out!
 
 All project logos and color schemes are readily available via the [CNCF artwork repo](https://github.com/cncf/artwork).
+
+## Technical Documentation
+
+The tech docs team can assist CNCF projects analyze and improve their documentation. Learn more in the [Technical Writing section](https://contribute.cncf.io/resources/project-services/technical-writing/).
+
+The CNCF tech docs team holds office hours on the [fourth Wednesday of every month at 8am Pacific time](https://tockify.com/cncf.public.events/monthly?search=CNCF%20Tech%20Writers%20Office%20Hours).
 
 ## Legal Services
 
