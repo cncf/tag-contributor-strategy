@@ -58,13 +58,11 @@ The Mentoring WG owns and maintains the following resources:
 
 Official documentation is organized and published in the[ https://github.com/cncf/mentoring/](https://github.com/cncf/mentoring/) repository.
 
-Draft documents can be written up using the HackMD team space:[ https://hackmd.io/team/tag-cs-mentoring-wg](https://hackmd.io/team/tag-cs-mentoring-wg).
-
 ## Meetings
 
 Meetings to occur monthly, with extra meetings to manage special events and high effort parts of the mentoring schedule as needed. Calendar to be published on the CNCF public events calendar, and invites sent out upon joining the email list.
 
-* [Monthly meeting minutes](https://hackmd.io/@tag-cs-mentoring-wg/monthly-meeting-2023)
+* [Monthly meeting minutes](https://docs.google.com/document/d/1sSYRo-5yxJggGg3JVATxMKdxVWbY_ZGD2mhKlPNW7qM/edit?usp=sharing)
 * [Calendar](https://tockify.com/cncf.public.events/monthly?search=Mentoring+WG)
 
 Meetings are monthly, on the 2nd Tuesday of each month, at 9:00PM UTC. This meeting time may be updated in the future.
