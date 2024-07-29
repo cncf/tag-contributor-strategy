@@ -12,7 +12,7 @@ Marketing services for projects are designed to assist with the awareness of the
 
 Events are central to CNCF's strategic approach, fostering community growth through direct interactions and knowledge exchange. CNCF offers various participation avenues for projects:
 
-| Event Type | TAGs	| Graduated	| Incubating | SIGs | Sandbox |
+| Event Type | TAGs	| Graduated	| Incubating | TAGs | Sandbox |
 | :--------: | :--: | :-------: | :--------: | :---: | :-----: |
 | CNCF-hosted, Co-located Events, KubeCon + CloudNativeCon, and Open Source Summit Events |	✅ | ✅ | ✅ | - | - |
 | Stand-Alone Events | - | ✅ | - | - | - |
@@ -22,7 +22,7 @@ Learn more about eligibility and the parameters for [CNCF-Hosted Events here.](h
 
 #### KubeCon + CloudNativeCon Project Opportunities
 
-| Project Opportunity Type | TAGs	| Graduated	| Incubating | SIGs | Sandbox |
+| Project Opportunity Type | TAGs	| Graduated	| Incubating | TAGs | Sandbox |
 | :----------------------: | :---: | :-------: | :--------: | :---: | :-----: |
 | In-Person Kiosk (Project Pavilion) | ✅ | ✅ |	✅ | ✅ | ✅ |
 | In-Person Project Meeting	| ✅ | ✅ | ✅ | - | - |
