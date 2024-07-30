@@ -711,7 +711,7 @@
     {
         "name": "Copa",
         "path": "Security & Compliance",
-        "description": "\ud83e\uddf5 CLI tool for directly patching container images using reports from vulnerability scanners",
+        "description": "\ud83e\uddf5 CLI tool for directly patching container images!",
         "homepage_url": "https://github.com/project-copacetic/copacetic",
         "project": "sandbox",
         "repo_url": "https://github.com/project-copacetic/copacetic",
