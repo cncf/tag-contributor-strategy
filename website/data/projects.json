@@ -2405,7 +2405,7 @@
     {
         "name": "Kubewarden",
         "path": "Security & Compliance",
-        "description": "Manage admission policies in your Kubernetes cluster with ease",
+        "description": "Kubewarden is a Policy Engine powered by WebAssembly policies. Its policies can be written in CEL, Rego (OPA & Gatekeeper flavours), Rust, Go, YAML, and others. Kubewarden simplifies Policy-As-Code by allowing policy authors and consumers to use their preferred tooling and stack, develop and test policies out of cluster. ",
         "homepage_url": "https://www.kubewarden.io",
         "project": "sandbox",
         "repo_url": "https://github.com/kubewarden/kubewarden-controller",
@@ -2418,7 +2418,7 @@
         "artwork_url": null,
         "stack_overflow_url": null,
         "blog_url": "https://kubewarden.io/blog",
-        "mailing_list_url": null,
+        "mailing_list_url": "https://lists.cncf.io/g/cncf-kubewarden-maintainers",
         "slack_url": "https://kubernetes.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
