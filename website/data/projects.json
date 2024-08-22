@@ -3041,6 +3041,28 @@
         "language": "Go"
     },
     {
+        "name": "openGemini",
+        "path": "Database",
+        "description": "openGemini is an open source distributed time series DBMS with high concurrency, high performance, and high scalability, focusing on the storage and analysis of massive observability data.",
+        "homepage_url": "https://www.opengemini.org",
+        "project": "sandbox",
+        "repo_url": "https://github.com/openGemini/openGemini",
+        "logo": "https://landscape.cncf.io/logos/e4c5ddc4904699b26450cf6b472864fb6eaefd4e78b6885cef2372ef1dec7cc6.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2024-07-09",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "https://cloud-native.slack.com/messages/open-gemini",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "OpenGitOps",
         "path": "Continuous Integration & Delivery",
         "description": "Repository for top-level information about the OpenGitOps project",
