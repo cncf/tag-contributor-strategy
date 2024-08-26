@@ -711,7 +711,7 @@
     {
         "name": "Copa",
         "path": "Security & Compliance",
-        "description": "\ud83e\uddf5 CLI tool for directly patching container images using reports from vulnerability scanners",
+        "description": "\ud83e\uddf5 CLI tool for directly patching container images!",
         "homepage_url": "https://github.com/project-copacetic/copacetic",
         "project": "sandbox",
         "repo_url": "https://github.com/project-copacetic/copacetic",
@@ -1662,9 +1662,9 @@
         "project": "incubating",
         "repo_url": "https://github.com/karmada-io/karmada",
         "logo": "https://landscape.cncf.io/logos/57df0a733577a27787ef3a7a8544dc52e4c65a87a10c8d9705083429d599b0a8.svg",
-        "twitter": null,
+        "twitter": "https://x.com/karmada_io",
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
-        "chat_channel": "#general",
+        "chat_channel": "#karmada",
         "accepted": "2021-09-14",
         "dev_stats_url": "https://karmada.devstats.cncf.io/",
         "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#karmada-logos",
@@ -2405,7 +2405,7 @@
     {
         "name": "Kubewarden",
         "path": "Security & Compliance",
-        "description": "Manage admission policies in your Kubernetes cluster with ease",
+        "description": "Kubewarden is a Policy Engine powered by WebAssembly policies. Its policies can be written in CEL, Rego (OPA & Gatekeeper flavours), Rust, Go, YAML, and others. Kubewarden simplifies Policy-As-Code by allowing policy authors and consumers to use their preferred tooling and stack, develop and test policies out of cluster. ",
         "homepage_url": "https://www.kubewarden.io",
         "project": "sandbox",
         "repo_url": "https://github.com/kubewarden/kubewarden-controller",
@@ -2418,7 +2418,7 @@
         "artwork_url": null,
         "stack_overflow_url": null,
         "blog_url": "https://kubewarden.io/blog",
-        "mailing_list_url": null,
+        "mailing_list_url": "https://lists.cncf.io/g/cncf-kubewarden-maintainers",
         "slack_url": "https://kubernetes.slack.com/",
         "gitter_url": null,
         "youtube_url": null,
@@ -3041,6 +3041,28 @@
         "language": "Go"
     },
     {
+        "name": "openGemini",
+        "path": "Database",
+        "description": "openGemini is an open source distributed time series DBMS with high concurrency, high performance, and high scalability, focusing on the storage and analysis of massive observability data.",
+        "homepage_url": "https://www.opengemini.org",
+        "project": "sandbox",
+        "repo_url": "https://github.com/openGemini/openGemini",
+        "logo": "https://landscape.cncf.io/logos/e4c5ddc4904699b26450cf6b472864fb6eaefd4e78b6885cef2372ef1dec7cc6.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2024-07-09",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": "https://cloud-native.slack.com/messages/open-gemini",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "OpenGitOps",
         "path": "Continuous Integration & Delivery",
         "description": "Repository for top-level information about the OpenGitOps project",
@@ -3500,7 +3522,7 @@
         "slack_url": null,
         "gitter_url": null,
         "youtube_url": null,
-        "language": null
+        "language": "Makefile"
     },
     {
         "name": "sealer",
@@ -3549,7 +3571,7 @@
     {
         "name": "Serverless Workflow",
         "path": "Application Definition & Image Build",
-        "description": "Serverless Workflow Specification",
+        "description": "Contains the official specification for the Serverless Workflow Domain Specific Language. It provides detailed guidelines and standards for defining, executing, and managing workflows in serverless environments, ensuring consistency and interoperability across implementations.",
         "homepage_url": "https://serverlessworkflow.io",
         "project": "sandbox",
         "repo_url": "https://github.com/serverlessworkflow/specification",
@@ -4099,7 +4121,7 @@
     {
         "name": "wasmCloud",
         "path": "Scheduling & Orchestration",
-        "description": "wasmCloud allows for simple, secure, distributed application development using WebAssembly components and capability providers.",
+        "description": "wasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.",
         "homepage_url": "https://wasmcloud.com",
         "project": "sandbox",
         "repo_url": "https://github.com/wasmCloud/wasmCloud",

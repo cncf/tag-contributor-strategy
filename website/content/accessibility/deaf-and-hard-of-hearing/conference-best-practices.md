@@ -10,11 +10,13 @@ Understanding the unique needs and preferences of deaf and hard of hearing (deaf
 
 The first step of being more inclusive is understanding that deaf/hoh are not a one-size-fits-all group. We have different needs and preferences, so it is important to provide multiple options for deaf/hoh attendees. If we can't fully participate, we will likely not return, reinforcing the vicious cycle of deaf/hoh individuals not attending conferences.  
 
-Early planning is key to accommodating the accessibility needs of attendees, speakers, and sponsors. We recommend providing them the opportunity to specify their needs as early as possible, allowing you to plan for them in advance. Use your website, registration and call for papers forms to gather this information early. Often, conference organizers don't budget for accessibility until a request is made, which can lead to uncomfortable situations. Remember, accessibility is rarely a static budget line item, and it can be challenging, especially when planning it for the first time.  
+Early planning is key to accommodating the accessibility needs of attendees, speakers, and sponsors. We recommend providing them the opportunity to specify their needs as early as possible, allowing you to plan for them in advance. Use your website, registration, and call for papers forms to gather this information early. Often, conference organizers don't budget for accessibility until a request is made, which can lead to uncomfortable situations. Remember, accessibility is rarely a static budget line item, and it can be challenging, especially when planning it for the first time.  
 
-To make the process as straightforward as possible, we've created this **[DHH Accessbile Conference Checklist](https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0)**. Make your copy to use it for your event.
+To make the process as straightforward as possible, we've created this **[DHH Accessbile Conference Checklist](https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0)**. Make your copy to use it for your event. While the checklist provides a meticulous list of action items, this detailed document provides the context to understand the "how" and "why" behind them. We also included alternatives if a particular accommodation isn't feasible. 
 
-While the checklist provides a meticulous list of action items, this detailed document provides the context to understand the "how" and "why" behind them. We also included alternatives if a particular accommodation isn't feasible. If you have any questions, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io — we'd love to help you make your event more accessible! 
+**Getting started can feel overwhelming**. But consider this: Conferences haven't historically been accessible, so we don't expect deaf and hard to hearing individuals to attend in droves — you'll have time to learn on the go. **Start with the first four items** on the [checklist](https://docs.google.com/spreadsheets/d/1lC1woVTu8YNWykCJ2FwBgy3aJEWbVUP0cZT3-Nw1hj0/edit#gid=0): secure a budget to be prepared and clearly state that you'll provide accommodations per request, and see whos interested. It will probably take some time until the word gets out that your conference is deaf and hard of hearing accessible. Note that on-screen captions should ideally be provided either way, as their usefulness goes far beyond our community. 
+
+If you have any questions, please get in touch with us at cncf-tag-contributor-strategy@lists.cncf.io — we'd love to help you make your event more accessible! 
 
 **Note**: This document is open source. If we missed anything, please submit a pull request or issue so we can update it — thank you! 
 
@@ -105,6 +107,8 @@ Some caption tools work only for virtual events, others for in-person and virtua
 
 Captions at the bottom of the screen are not visible unless attendees are sitting at the front. Consider adding them at the top. If that isn't feasible,  you might want to place the screen higher to ensure people in the back can also read them. 
 
+Not everyone feels comfortable sitting at the front, but captions are only visible from the front. This goes back to the "please add captions at the top" recommendation. 
+
 <img width="906" alt="Captions on top vs bottom of screen" src="https://github.com/cncf/tag-contributor-strategy/assets/74001907/b8a08ec0-162b-4465-84d5-a082ed078154">
 
 *Captions at the top of the screen vs. captions at the bottom are truly accessible.*
@@ -165,7 +169,16 @@ On the program page, include session accessibility information, such as whether 
 
 ### Connect us with our peers
 
-Provide a way for deaf and hard of hearing attendees, speakers, and people with other disabilities to connect for peer support and potentially pool resources (e.g., an event Slack channel). 
+Provide a way for deaf and hard of hearing attendees, speakers, and people with other disabilities to connect for peer support and potentially pool resources (e.g., an event Slack channel).
+
+### Promote accessibility sponsorship opportunities
+
+To help expand accessibility options and cover costs, provide companies with accessibility sponsorship opportunities such as funding:
+* Disabilities coordinator (a company could offer an employee to serve in this role in return for sponsorship benefits)
+* Onsite interpreters (a company may already have interpreters who can attend the event and support accessibility)
+* Captioning services
+* Networking events
+* Accessibility booth/area
 
 ## Day of best practices
 
@@ -222,11 +235,10 @@ Networking is key for job opportunities, professional growth, and learning from 
 
 Having the opportunity to network with hearing peers is important not only for the individual but also helps break down prejudices and change attitudes toward us. These one-on-one connections are invaluable for fostering inclusion overall. So please be sure to allow your deaf and hard of hearing attendees and speakers to participate.
 
-## Miscellaneous
+## Post-Show
 
 **Video uploads**: Be sure to manually click ‘Auto Captions’ when uploading videos, as they will not become automatically available once they are transferred to a channel or platform.
 
-**Seating**: Not everyone feels comfortable sitting at the front, but captions are only visible from the front. This goes back to the "please add captions at the top" recommendation. 
-
+**Post-event survey**: Include accessibility question(s) on any feedback survey.
 
 Thank you for taking the time to review our best practice recommendations. We hope this was useful and that you'll be able to implement them at your next event. If your conference is accessible to our community, please be sure to add it to this [accessible tech conference list](https://docs.google.com/spreadsheets/d/1kQmhwQc45S6SC2fYsULue4our72TLH86kVD5KA0EC-4/edit#gid=0) so more people from our community find out about it.

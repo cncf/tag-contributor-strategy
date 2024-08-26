@@ -12,9 +12,9 @@ Instructions for governance reviewers:
 
 What follows is a governance review and assessment for the ______ project. This review is carried out by members of the Governance Working Group of TAG Contributor Strategy. The review may have been done because of a change in maturity level for the project, at the request of the TOC, or as a request by the project itself. If requested by the project, the review will be provided to the project maintainers. Otherwise, the review will be submitted to the TOC for their follow-up.
 
-Governance reviews contribute to the health and sustainibility of the CNCF projects. By providing guidance on effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently, encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be constructive and supportive, aiming to assist projects in refining their governance models and addressing any challenges they may face.
+Governance reviews contribute to the health and sustainability of the CNCF projects. By providing guidance on effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently, encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be constructive and supportive, aiming to assist projects in refining their governance models and addressing any challenges they may face.
 
-Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), [email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
+Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is available via our [Slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), [email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
 
 ## Summary and Assessment
 

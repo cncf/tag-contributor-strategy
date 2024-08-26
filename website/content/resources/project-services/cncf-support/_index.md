@@ -30,16 +30,20 @@ The CNCF tech docs team holds office hours on the [fourth Wednesday of every mon
 
 ## Legal Services
 
-Legal services keep a project healthy and in compliance with licensing requirements, intellectual property regimes, and industry norms. Specific legal services include:
+Legal services keep a project healthy and in compliance with licensing requirements, intellectual property regimes, and industry norms.
+
+CNCF legal advisors include both in-house (LF employee) and outside (independent law firm) legal counsel. While CNCF's own legal advisors cannot provide legal advice directly to contributors, maintainers or CNCF members, they help to protect CNCF projects and the community; guide contributors towards abiding by CNCF IP policies; and facilitate collaboration among CNCF Legal Committee participants.
+
+Specific legal-related support programs that CNCF counsel and tooling provides for its projects include:
 
 - Providing a [neutral home for project assets and trademarks](https://github.com/cncf/artwork)
 - Registering trademarks for your projects across geographies as needed
-- Support and responses to threatened litigation. For example, we worked with the Kubespray maintainers to change their name back from Kargo after receiving a C&D
-- Contributor License Agreement (CLA) system that integrates with GitHub
-- Developer Certificate of Origin (DCO) system that integrates with GitHub
-- Protect trademarks, such as a Uniform Domain-Name Dispute-Resolution Policy (UDRP) action to take over kubernetes.cn
+- Support and responses to threatened litigation against CNCF projects
+- Contributor License Agreement (CLA) signature and validation system that integrates with GitHub
+- Developer Certificate of Origin (DCO) sign-off verification system that integrates with GitHub
+- Defend trademarks against third-party challenges and inappropriate misuses
 - Assistance with open source licensing review and strategy as needed
-- Access to legal staff should any legal questions arise
+- Managing the license exception request process for CNCF, and coordinating Legal Committee and Governing Board reviews and approvals.
 
 ## End User Community
 
