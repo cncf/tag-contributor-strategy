@@ -12,7 +12,6 @@ Serve as a quick resource for the TAG to grab links that we work with at high fr
 - [Due Diligence Template](https://github.com/cncf/toc/blob/master/process/dd-review-template.md#project)
 - [Graduation Requirements](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#graduation-stage)
 - [Sandbox->Incubation Requirements](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#incubating-stage)
-- [Sandbox Annual Review has related questions](https://github.com/cncf/toc/blob/master/process/sandbox-annual-review.md#annual-review-contents)
 - [CNCF Glossary](https://glossary.cncf.io/)
 
 ### Governance
