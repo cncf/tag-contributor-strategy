@@ -20,7 +20,7 @@ Being respectful and courteous when interacting with other community members is 
 
 ### Understand “Community” - the context of open source projects
 
-Open source communities are built on a foundation of collaboration, inclusivity, and diversity. Communities comprise a group of individuals with different backgrounds, experiences, and perspectives who come together to share their knowledge, skills, and passion for creating something meaningful and impactful. To join an open source community, it's important to understand what the community is and what it expects from its members.
+Open-source communities are built on a foundation of collaboration, inclusivity, and diversity. Communities comprise a group of individuals with different backgrounds, experiences, and perspectives who come together to share their knowledge, skills, and passion for creating something meaningful and impactful. To join an open source community, it's important to understand what the community is and what it expects from its members.
 
 The community is not just a group of people working on a project but rather a living and breathing entity that expects respectful and courteous behavior from its members. It's crucial to be aware of cultural differences and to embrace the genuine spirit of community-based consideration for others. This means being patient, empathetic, helpful, and striving to create an environment where everyone feels valued and supported.
 
