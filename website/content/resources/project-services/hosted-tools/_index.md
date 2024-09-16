@@ -15,7 +15,7 @@ Most services can be requested through a Service Desk ticket, unless otherwise n
 - [Netlify](https://netlify.com) for website hosting, DNS management, and improved workflow/automation around documentation and websites.
 - [Discourse](https://www.discourse.org/) for community discussion (e.g., <https://discuss.kubernetes.io>)
 - [Slack](https://slack.com) for communication for all projects in the Cloud Native Computing Foundation Slack.
-- [FOSSA](https://fossa.io) for license and security scanning.
+- [FOSSA](https://fossa.io) for license and security scanning see [Getting started with CNCF FOSSA](./fossa-getting-started.md)
 - [Snyk](https://snyk.io) for container image scanning.
 - [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for source code security scanning and license compliance (white-labeled Snyk)
 - [Fastly](https://www.fastly.com/) has provided a [commitment to support CNCF and LF projects](https://www.fastly.com/blog/fast-forward-were-here-for-the-maintainers/). Apply for access directly with Fastly through that page.
