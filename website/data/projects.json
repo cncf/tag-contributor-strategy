@@ -3745,6 +3745,28 @@
         "language": "Makefile"
     },
     {
+        "name": "Shipwright",
+        "path": "Application Definition & Image Build",
+        "description": "Shipwright - a framework for building container images on Kubernetes",
+        "homepage_url": "https://shipwright.io",
+        "project": "sandbox",
+        "repo_url": "https://github.com/shipwright-io/build",
+        "logo": "https://landscape.cncf.io/logos/934337f3dfc22110ed0f59267e234dc815e912fc75e18c541ba21961b779b882.svg",
+        "twitter": "https://twitter.com/shipwrightio",
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2024-08-19",
+        "dev_stats_url": null,
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Skooner",
         "path": "Observability",
         "description": "Simple Kubernetes real-time dashboard and management.",
