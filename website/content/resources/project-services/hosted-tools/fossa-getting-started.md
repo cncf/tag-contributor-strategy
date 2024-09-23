@@ -76,14 +76,23 @@ Maintainer emails addresses need to have been submitted to projects@cncf.io
 
 The email addresses used to create CNCF FOSSA user account 
 1. MUST NOT be associated with another FOSSA Organization.
-2. MUST be associated with a GitHub account that has read-write access to the project's code repos.
+2. MUST be associated with a GitHub Account that has read-write access to the project's code repos.
 
 ## Setting up FOSSA to scan a project's code repos
 
-There are two ways a project can add their project, using a Quick Import or using the FOSSA
-CLI
+You can add your code repos to CNCF FOSSA for license scanning in one of two ways. 
+
+1. Use [Quick Import](https://docs.fossa.com/docs/quick-import) a great way to start with FOSSA
+2. Use the [FOSSA CLI](https://docs.fossa.com/docs/importing-a-project) and then use FOSSA GitHub Action, offers more flexibility and language-specific scans 
+
+When adding code repos to the CNCF FOSSA (remember in FOSSA a code repo is a "Project") make sure that you are logged in
+using the email address that you gave to the CNCF and that all actions to add a project refer to the FOSSA Team you were
+added to.
 
 ### Quick Import
 
+Follow the FOSSA instructions for a Quick Import here [Quick Import](https://docs.fossa.com/docs/quick-import)
+
 ### FOSSA CLI
 
+Follow the [FOSSA CLI](https://docs.fossa.com/docs/importing-a-project) on importing a project here.
