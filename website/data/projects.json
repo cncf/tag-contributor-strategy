@@ -2162,8 +2162,8 @@
     },
     {
         "name": "Kubean",
-        "path": "Certified Kubernetes - Installer",
-        "description": "kubean is a cluster lifecycle management tool based on kubespray.",
+        "path": "Automation & Configuration",
+        "description": "Product ready cluster lifecycle management toolchains based on kubespray and other cluster LCM engine.",
         "homepage_url": "https://kubean-io.github.io/kubean/",
         "project": "sandbox",
         "repo_url": "https://github.com/kubean-io/kubean",
@@ -2172,7 +2172,7 @@
         "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
         "chat_channel": null,
         "accepted": "2024-04-16",
-        "dev_stats_url": null,
+        "dev_stats_url": "https://kubean.devstats.cncf.io/",
         "artwork_url": null,
         "stack_overflow_url": null,
         "blog_url": null,
@@ -3725,7 +3725,7 @@
     {
         "name": "Service Mesh Performance",
         "path": "Service Mesh",
-        "description": "Standardizing Service Mesh Value Measurement",
+        "description": "Standardizing Cloud Native Value Measurement",
         "homepage_url": "https://smp-spec.io/",
         "project": "sandbox",
         "repo_url": "https://github.com/service-mesh-performance/service-mesh-performance",
