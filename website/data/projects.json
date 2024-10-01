@@ -3629,10 +3629,10 @@
         "stack_overflow_url": null,
         "blog_url": "https://score.dev/blog",
         "mailing_list_url": null,
-        "slack_url": null,
+        "slack_url": "https://cloud-native.slack.com/archives/C07DN0D1UCW",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Makefile"
+        "language": "Go"
     },
     {
         "name": "sealer",
