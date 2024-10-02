@@ -2011,7 +2011,7 @@
         "path": "Container Runtime",
         "description": "Kubernetes Rust Kubelet",
         "homepage_url": "https://krustlet.dev",
-        "project": "sandbox",
+        "project": "archived",
         "repo_url": "https://github.com/krustlet/krustlet",
         "logo": "https://landscape.cncf.io/logos/0b50e20cf2dfe72c5129f006a8a9ba4d103e58ca9a54af0907f99f043d8bb353.svg",
         "twitter": "https://twitter.com/krustlet",
