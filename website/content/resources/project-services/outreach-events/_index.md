@@ -18,7 +18,7 @@ Events are central to CNCF's strategic approach, fostering community growth thro
 | Stand-Alone Events | - | ✅ | - | - | - |
 | Virtual Only Events |	✅ | ✅ | ✅ |	✅ | ✅ |
 
-Learn more about eligibility and the parameters for [CNCF-Hosted Events here.](https://events.linuxfoundation.org/wp-content/uploads/2023/08/8.29.23_CNCF-Project_Co-located-Event-Guidelines_2024.pdf)
+Learn more about eligibility and the parameters for [CNCF-Hosted Events here.](https://events.linuxfoundation.org/wp-content/uploads/2024/08/2025-CNCF-Project-Co-located-Event-Guidelines-8-22-24.pdf)
 
 #### KubeCon + CloudNativeCon Project Opportunities
 
@@ -37,9 +37,9 @@ We provide:
 * Obtaining sponsors for the event.
 * Media introductions.
 
-[Learn more about the guidelines here.](https://events.linuxfoundation.org/wp-content/uploads/2023/08/8.29.23_CNCF-Project_Co-located-Event-Guidelines_2024.pdf)
+[Learn more about the guidelines here.](https://events.linuxfoundation.org/wp-content/uploads/2024/08/2025-CNCF-Project-Co-located-Event-Guidelines-8-22-24.pdf)
 
-[Submit an Event Request: 2024 CNCF Project + Co-located Event Proposal Form.](https://docs.google.com/forms/d/e/1FAIpQLSfbn0xSSsN4JBRrX80rqnfnAOigmX6yuRyPtLfzfGnLB4z7-g/viewform)
+[Submit an Event Request: 2025 CNCF Project + Co-located Event Proposal Form.](https://docs.google.com/forms/d/e/1FAIpQLSeuHhmKdOynPDCJanswRMNgC-zloP4oFpbR8-F9aIiK_R_Fkg/viewform)
 
 Additional ways projects and project maintainers can participate in events:
 

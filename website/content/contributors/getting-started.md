@@ -9,13 +9,13 @@ Open source is more than just a way of building software - it's a philosophy tha
 
 The open source movement has changed how we create, share, and innovate, and it continues to grow and evolve. Whether you're a seasoned programmer or just starting out, open source provides an incredible opportunity to learn new skills, work with like-minded people, and make a difference in the world.
 
-In this document, we'll explore how to get involved in open source, what knowledge you need to contribute, and how to become part of this amazing community. So, let's dive in and discover the exciting world of open source!
+In this document, we'll explore how to get involved in open source, the knowledge you need to contribute, and how to become part of this amazing community. So, let's dive in and discover the exciting world of open source!
 
 ### Join the Community
 
 To contribute to open source, it's important to join the community. Most open source projects have a website or a [GitHub](https://github.com/) repository where you can find information on how to contribute.
 
-Open-source projects often have multiple communication channels to facilitate collaboration and support. The most common channels include mailing lists, forums, chat rooms, and issue trackers. These communication channels are generally listed on the websites or the projects' repositories. These channels allow project members and contributors to communicate effectively and efficiently, ask questions, share ideas, report issues and propose solutions. When contributing to an open source project, it's important to use the appropriate communication channels and follow the community's guidelines for communication etiquette. Being an effective communicator is crucial to successful collaboration and contributing to the project's success.
+Open-source projects often have multiple communication channels to facilitate collaboration and support. The most common channels include mailing lists, forums, chat rooms, and issue trackers. These communication channels are generally listed on the websites or the projects' repositories. These channels allow project members and contributors to communicate effectively and efficiently, ask questions, share ideas, report issues and propose solutions. When contributing to an open source project, it's important to use the appropriate communication channels and follow the community's guidelines available on the projects' repositories for communication etiquette. Being an effective communicator is crucial to successful collaboration and contributing to the project's success.
 Being respectful and courteous when interacting with other community members is important.
 
 ### Understand “Community” - the context of open source projects
@@ -29,7 +29,7 @@ It's also important to be open to feedback and criticism, and to work collaborat
 
 ### Choose a Project
 
-When it comes to contributing to open source, choosing the right project is crucial. A good place to start is the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), which hosts dozens of popular open source projects in the [cloud native ecosystem](https://landscape.cncf.io/). There's a CNCF project for almost every area of technology, from container orchestration to service mesh to storage. For instance, if you're interested in containerization, you might consider contributing to [Kubernetes](https://kubernetes.io/), the de-facto standard for container orchestration. Or, if you're interested in observability and monitoring, you might consider contributing to [Prometheus](https://prometheus.io/), which provides powerful metrics collection and analysis. Other popular CNCF projects include [Envoy](https://www.envoyproxy.io/), [Fluentd](https://www.fluentd.org/), and [Jaeger](https://www.jaegertracing.io/).
+When it comes to contributing to open source, choosing the right project is crucial. A good place to start is the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), which hosts dozens of popular open source projects in the [cloud native ecosystem](https://landscape.cncf.io/). There's a CNCF project for almost every area of cloud-native technology, from container orchestration to service mesh to storage. For instance, if you're interested in containerization, you might consider contributing to [Kubernetes](https://kubernetes.io/), the de-facto standard for container orchestration. Or, if you're interested in observability and monitoring, you might consider contributing to [Prometheus](https://prometheus.io/), which provides powerful metrics collection and analysis. Other popular CNCF projects include [Envoy](https://www.envoyproxy.io/), [Fluentd](https://www.fluentd.org/), and [Jaeger](https://www.jaegertracing.io/).
 
 When choosing a project to contribute to, it's important to consider your interests and skill level. Look for projects that align with your strengths and that you're passionate about. CNCF projects have a large and supportive community, with many resources available for contributors. It is very important to start by reading the project documentation and exploring the issue tracker. If you're new to the project, look for issues labeled as "good first issue" or "help wanted" - these are often small, well-defined tasks that are a good place to start.
 
@@ -77,7 +77,7 @@ Even if you're not a technical contributor, there are still many ways you can co
 
 **Documentation:** Most open source projects have documentation that needs to be written and maintained. You can contribute by writing documentation, tutorials, or blog posts.
 
-**Design:** If you're a designer, you can contribute to open source by creating graphics, logos, or improving the website
+**Design:** If you're a designer, you can contribute to open source by creating graphics, logos, improving the website, or enhancing the user experience and interface design.
 
 **Translation:** Many open source projects are used by people worldwide. If fluent in multiple languages, you can contribute by translating the project's documentation or user interface.
 

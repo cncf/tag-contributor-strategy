@@ -123,6 +123,10 @@ Every session should have captions in the main conference language **on the scre
 
 Some attendees can hear but may be neurodivergent ( e.g., on the autism spectrum, with ADHD, and more) and have a hard time processing auditory cues — captioning is incredibly beneficial for them, too. Additionally, non-native speakers who aren’t fluent will benefit from captions as well.
 
+#### Considerations for hoh speakers
+
+While automatic captions through slide decks effectively capture the speaker's dialogue, they do not capture audience questions. To ensure that all audio is included in the captions, please ensure a microphone is available for audience questions, or designate someone to repeat the questions into the speaker's microphone setup.
+
 ### Global or national conferences
 
 If you only have a few deaf individuals attending, provide two interpreters per individual (they always come in tandem for engagements longer than one hour). Wherever the deaf person goes, they’ll follow. This will allow deaf individuals not only to attend sessions but also to network with their peers, walk the show floor, and talk with vendors. This is particularly important if they are the only or one of a few deaf people attending, as any interaction is contingent on the availability of an interpreter.
