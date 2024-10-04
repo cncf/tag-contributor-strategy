@@ -1,7 +1,7 @@
 name: Governance review request
 description: Ask for a governance review for your project from TAG Contributor Strategy
 title: "[Governance Review]: PROJECT NAME"
-labels: ["wg/governance"]
+labels: ["wg/governance", "project-governance-review"]
 assignees:
   - jberkus
   - aliok
