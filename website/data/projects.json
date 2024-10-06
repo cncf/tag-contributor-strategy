@@ -1240,7 +1240,7 @@
         "name": "Fluid",
         "path": "Scheduling & Orchestration",
         "description": "Fluid is an orchestration platform for elastic data abstraction and acceleration in cloud native environment.",
-        "homepage_url": "http://pasa-bigdata.nju.edu.cn/fluid/index.html",
+        "homepage_url": "https://fluid-cloudnative.github.io/",
         "project": "sandbox",
         "repo_url": "https://github.com/fluid-cloudnative/fluid",
         "logo": "https://landscape.cncf.io/logos/4153a534fe04862877884ff19ae25134e010ca59ca1eed3cfb0dba83e42be98b.svg",
