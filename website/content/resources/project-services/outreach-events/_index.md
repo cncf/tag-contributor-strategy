@@ -58,3 +58,7 @@ Additional ways projects and project maintainers can participate in events:
 * Connect to our worldwide network of [Cloud Native Community Groups](https://community.cncf.io/) and [Ambassadors](https://www.cncf.io/people/ambassadors/) to raise awareness of your project.
 * Travel funding is available for your non-corporate-backed developers. Please visit our most recent events' need-based scholarship page to learn about eligibility.
 * At events, we promote all CNCF projects and help connect users and developers to our projects.
+
+## Contact
+
+For any other event support, send an email to [ProjectsAtKubeCon@linuxfoundation.org](mailto:ProjectsAtKubeCon@linuxfoundation.org)
