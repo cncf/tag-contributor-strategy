@@ -1,10 +1,10 @@
 ---
-title: Maturity-level services
+title: Marketing Services
 weight: 2
-description: Offerings by the CNCF based on a project's maturity level
+description: Requestable Marketing resources available to Projects
 ---
 
-## Marketing announcements for projects
+## Marketing announcements for Projects
 
 As projects have major or minor releases or move through the [maturity levels](https://www.cncf.io/projects/), CNCF works with the projects on outbound communications. Below are the items we can do with you.
 
