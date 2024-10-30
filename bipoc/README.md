@@ -7,7 +7,7 @@ Inspired by successful diversity and inclusion efforts across the tech industry,
 
 ## Problem Statement
 
-While diversity and inclusion have become focal points in the tech industry, significant gaps remain—especially in the representation and active participation of BIPOC individuals. Despite ongoing efforts to support underrepresented groups, more work is needed to ensure that BIPOC individuals not only have a seat at the table but are also empowered to thrive and lead in cloud native and open source communities.
+While diversity and inclusion have become focal points in the tech industry, significant gaps remain - especially in the representation and active participation of BIPOC individuals. Despite ongoing efforts to support underrepresented groups, more work is needed to ensure that BIPOC individuals not only have a seat at the table but are also empowered to thrive and lead in cloud native and open source communities.
 BIPOC individuals continue to face systemic barriers, unconscious bias, a lack of visible role models, and limited access to opportunities. This initiative recognizes the importance of addressing these challenges head-on through focused, actionable initiatives designed to create a more equitable and supportive environment for BIPOC contributors and leaders.
 
 ## Vision
