@@ -20,7 +20,7 @@ Our mission is to advance diversity, equity, and inclusion in the cloud native a
 - Break down barriers that hinder BIPOC participation and advancement.
 - Create mentorship and networking opportunities to support the growth of BIPOC contributors.
 - Increase the visibility of BIPOC role models and leaders in the tech community.
-Develop resources and initiatives that promote equitable access to opportunities and leadership roles.
+- Develop resources and initiatives that promote equitable access to opportunities and leadership roles.
 Through collaboration, education, and advocacy, we strive to create a more inclusive and equitable open source ecosystem for all.
 
 ## Goals
