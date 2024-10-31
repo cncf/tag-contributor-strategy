@@ -25,7 +25,7 @@ Through collaboration, education, and advocacy, we strive to create a more inclu
 
 ## Goals
 
-Create pathways for BIPOC individuals into cloud native and open source: Develop initiatives that provide education, mentorship, and support to help BIPOC individuals enter and thrive in these communities.
+- **Create pathways for BIPOC individuals into cloud native and open source**: Develop initiatives that provide education, mentorship, and support to help BIPOC individuals enter and thrive in these communities.
 Empower BIPOC to become more visible and influential within the cloud native community: Encourage and facilitate BIPOC representation in leadership roles, speaking opportunities, and other visible positions within the community.
 Educate employers and the broader tech community on how to attract and retain BIPOC employees: Advocate for inclusive hiring practices and the benefits of a diverse workforce in driving innovation and success.
 Build a strong BIPOC community in tech: Create networks and support systems for BIPOC individuals to connect, learn from, and support each other, fostering a sense of belonging and community.
