@@ -55,12 +55,12 @@ when you view the markdown file in GitHub unless you view the raw text.
   * [GOVERNANCE-subprojects.md](https://github.com/cncf/project-template/blob/main/GOVERNANCE-subprojects.md)
   * [MAINTAINERS.md](https://github.com/cncf/project-template/blob/main/MAINTAINERS.md)
 * Security
-  * [ISSUE_TEMPLATE.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md)
-  * [SECURITY.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md)
-  * [SECURITY_CONTACTS.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
-  * [embargo-policy.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
-  * [embargo.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
-  * [incident-response.md](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
+  * [ISSUE_TEMPLATE.md](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/ISSUE_TEMPLATE.md)
+  * [SECURITY.md](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/SECURITY.md)
+  * [SECURITY_CONTACTS.md](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/SECURITY_CONTACTS.md)
+  * [embargo-policy.md](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/embargo-policy.md)
+  * [embargo.md](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/embargo.md)
+  * [incident-response.md](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/incident-response.md)
 * [README.md](https://github.com/cncf/project-template/blob/main/README-template.md)
 * [REVIEWING.md](https://github.com/cncf/project-template/blob/main/REVIEWING.md)
 

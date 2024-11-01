@@ -59,6 +59,9 @@ labels:
     color: B60205
   - name: non-code
     color: c0ffee
+  - name: project-governance-review
+    color: 00ff00
+    
 
 # additional colors in this palette:
 # ff69b4
