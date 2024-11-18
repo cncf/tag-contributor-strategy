@@ -87,4 +87,5 @@ The Cloud Native Computing Foundation projects are listed below with information
 |                          Project Name                          |            Focus            |   Primary Language   |
 | ------------------------------------------------------------ | ------------------------- | ------------------ |
 |    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
-
+|    [Kubernetes Website](https://github.com/kubernetes/website)        |           Kubernetes website and documentation       |        Markdown      |
+|    [OpenTelemetry Website](https://github.com/open-telemetry/opentelemetry.io)        |           OpenTelemetry website and documentation       |        Markdown      |
