@@ -11,7 +11,7 @@ aliases:
 ---
 
 We have a [project template] repository that has templates for everything your project needs
-to get started and eventually join the CNCF. 
+to get started and eventually join the CNCF.
 
 ## Getting Started
 
@@ -20,13 +20,13 @@ but we also have how-to guides here on the website that are a better place to
 start if you haven't used a particular template before.
 
 Please note that the security templates may be found in the
-[Security TAG's project resources folder](https://github.com/cncf/tag-security/tree/main/project-resources).
+[Security TAG's project resources folder](https://github.com/cncf/tag-security/tree/main/community/resources/project-resources).
 
 ### Customize Templates
 
 Each template contains instructions to customize the contents for your project.
 Most files use comments with TODO to call out where you need to make changes. We recommend
-viewing the files in raw or text form so that you can see the comments. 
+viewing the files in raw or text form so that you can see the comments.
 
 For example in markdown files, we use `<!-- TODO: ... -->` to provide additional
 guidance or indicate where action is required but you won't see those comments

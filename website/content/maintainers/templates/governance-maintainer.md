@@ -13,8 +13,8 @@ aliases:
 | Maintainers            | Contributors                | Yes, graduated        |
 
 
-This HowTo is for project maintainers who need Governance documentation for their project. 
-The goal of a GOVERNANCE.md file is to inform contributors about how your 
+This HowTo is for project maintainers who need Governance documentation for their project.
+The goal of a GOVERNANCE.md file is to inform contributors about how your
 project is run, and encourage them to get involved in project leadership.
 
 Great governance docs will:
@@ -41,9 +41,9 @@ When you finish editing the template, remove the Instruction links that explain 
 # Maintainer Council Governance
 
 [Maintainer Council] is the most basic formal governance for projects, and as
-such used by more projects than any other. TAG Contributor Stategy developed it to cover 
-a very common circumstance, where the overlap of repository approvers and 
-people who handle other governance issues is 100%.  It was originally based on 
+such used by more projects than any other. TAG Contributor Stategy developed it to cover
+a very common circumstance, where the overlap of repository approvers and
+people who handle other governance issues is 100%.  It was originally based on
 the governance of the [Jaeger project].
 
 This template defines a simple structure where the project Maintainers perform
@@ -60,14 +60,14 @@ The [Maintainer Council] template is for you if your project:
 
 If you have a relatively uncomplicated project with a small pool of contributors
  -- like the vast majority of Cloud Native projects -- Maintainer Council is
-probably for you. It's even appropriate for a project that will eventually need a more 
+probably for you. It's even appropriate for a project that will eventually need a more
 complex governance, but does not need or want it yet.
 
 ## Requirements
 
 ### What Do I Need To Know?
 
-This simple template really only requires you to know a few things about how 
+This simple template really only requires you to know a few things about how
 your project actually works, today. These are:
 
 * A list of your current maintainers
@@ -90,7 +90,7 @@ See the section details below for notes on how you're likely to customize them.
 
 ### What Else Is Required?
 
-This template assumes that you have already adopted the [Code of Conduct], 
+This template assumes that you have already adopted the [Code of Conduct],
 added the CNCF-required [security practices], and added a [Scope section](../governance/charter/) to your README. If you have not yet, you will need
 to do that as well.  This template does not assume that you are using the
 [Contributor Ladder], although doing so is recommended.
@@ -99,7 +99,7 @@ to do that as well.  This template does not assume that you are using the
 
 **Project**: Your entire CNCF project, rather than individual repositories or subprojects.
 
-**Maintainer**: Someone who is both a Project Maintainer for CNCF purposes, and 
+**Maintainer**: Someone who is both a Project Maintainer for CNCF purposes, and
 is an approver for critical parts of the project.
 
 **Maintainer Council**: the collective group of all project Maintainers.
@@ -119,17 +119,17 @@ See our documentation on [Charters](../governance/charter/) for some examples.
 
 ### Maintainers
 
-This section outlines the definition and responsibilities of a Maintainer, 
+This section outlines the definition and responsibilities of a Maintainer,
 which in this governance is identical to being a merge approver (also known
 as a "committer"). Since your Maintainers are the only authority in the project,
 it is critical to document how that authority is earned.
 
-Your Maintainers should customize the list of requirements to become a Maintainer 
+Your Maintainers should customize the list of requirements to become a Maintainer
 with requirements that match their actual qualifications. It's better if you can define
-a path for substantial non-code contributors, such as documentation leads and 
-community managers, to also become Maintainers. 
+a path for substantial non-code contributors, such as documentation leads and
+community managers, to also become Maintainers.
 
-If you have a separate, full [Contributor Ladder], you will want to cut this 
+If you have a separate, full [Contributor Ladder], you will want to cut this
 list of requirements and refer to that document instead.
 
 This section covers both how new Maintainers are selected, and how existing Maintainers
@@ -139,10 +139,10 @@ when Maintainers move on to other things.
 ### Meetings
 
 You need to explicitly describe the venues at which official project decisions
-get made. This may happen at a public weekly developer meeting, through GitHub 
+get made. This may happen at a public weekly developer meeting, through GitHub
 issues and PRs, on a mailing list, or all of those.  This is both so that contributors
 know where to go with requests, and so that they are reassured that important
-project decisions will not happen in the private meeting rooms of any Maintainers' 
+project decisions will not happen in the private meeting rooms of any Maintainers'
 employer.
 
 As such, you may need to modify this section to cover your actual communications
@@ -151,13 +151,13 @@ channels.
 ### CNCF Resources
 
 This covers one of the powers of Maintainers, which is that they can ask the
-CNCF to do things for the project.  This outlines one possible process for this 
+CNCF to do things for the project.  This outlines one possible process for this
 to happen, based on community meetings.  If you prefer to handle this by GitHub
 instead, the language would be something like this:
 
 ```
 Any Maintainer may suggest a request for CNCF resources, by filing an issue in
-the [community repo](TODO:main or /community repository URL).  A simple majority 
+the [community repo](TODO:main or /community repository URL).  A simple majority
 of Maintainers approves the request.  The Maintainers
 may also choose to delegate working with the CNCF to non-Maintainer community
 members, who will then be added to the [CNCF's Maintainer List](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
@@ -173,7 +173,7 @@ instead:
 
 ```
 [Code of Conduct](./code-of-conduct.md)
-violations by community members will be referred to the CNCF Code of Conduct 
+violations by community members will be referred to the CNCF Code of Conduct
 Committee. Should the CNCF CoC Committee need to work with the project on resolution, the
 Maintainers will appoint a non-involved contributor to work with them.
 ```
@@ -187,12 +187,12 @@ to the Maintainers Council.
 Vulnerability reports can be handled by the Maintainers, or they can delegate that
 responsibility to a smaller team.  The language given here covers both possibilities,
 but your project will need to decide which practice they will follow. You will
-also need to create your security response documents using the 
+also need to create your security response documents using the
 [templates from TAG-Security][security practices].
 
 ### Voting
 
-This clause defines how votes are held and counted, in order not to repeat that 
+This clause defines how votes are held and counted, in order not to repeat that
 information several times in the document.
 
 First, it asserts that most "voting" is informal, using what is called [Lazy Consensus].
@@ -203,34 +203,34 @@ three different reasons why you would take an actual vote:
 1. There is expressed disagreement on the issue
 2. The action is something major and even irreversible for the project, so that
 you want to be extra-sure that every Maintainer is aware of it
-3. The decision is something covered in GOVERNANCE.md as requiring a vote, 
+3. The decision is something covered in GOVERNANCE.md as requiring a vote,
 such as adding or removing a Maintainer
 
 The text assumes that most voting happens on a Maintainer or developer
-mailing list and public meetings.  Some projects prefer to handle votes via GitHub 
+mailing list and public meetings.  Some projects prefer to handle votes via GitHub
 issues.  If this is your project's practice, change the text here to refer to GitHub,
 for example:
- 
+
 ```
 A vote can be taken by filing a GitHub issue labeled with "VOTE". The issue will
-be open until a majority of Maintainers vote for or against it, at which point 
+be open until a majority of Maintainers vote for or against it, at which point
 it will be closed.
 ```
 
 The overall principle employed here is that every vote requires counting against
 the number of Maintainers who exist, rather than which Maintainers are participating
-in the vote.  For example, if your project had 8 maintainers and you were voting on 
-a design proposal, and six maintainers participated in the vote, five of them would 
-need to approve it, rather than four, since five is the majority of all Maintainers.  
+in the vote.  For example, if your project had 8 maintainers and you were voting on
+a design proposal, and six maintainers participated in the vote, five of them would
+need to approve it, rather than four, since five is the majority of all Maintainers.
 
-The advantage of this approach is that your project can be extremely flexible about 
-where and how votes are held since there's little danger of deliberate exclusion.  
-If you instead want to hold votes based on a count of participants, you'll need 
-to be very prescriptive about where votes can be held, what notice is required, 
+The advantage of this approach is that your project can be extremely flexible about
+where and how votes are held since there's little danger of deliberate exclusion.
+If you instead want to hold votes based on a count of participants, you'll need
+to be very prescriptive about where votes can be held, what notice is required,
 and how long they need to be open.
 
-We also advise reserving 2/3 votes to things that require substantial deliberation, 
-such as removing a maintainer or changing the charter.  Otherwise, routine project 
+We also advise reserving 2/3 votes to things that require substantial deliberation,
+such as removing a maintainer or changing the charter.  Otherwise, routine project
 business can get blocked simply by people being on vacation.
 
 [GOVERNANCE-maintainer.md template]: https://github.com/cncf/project-template/blob/main/GOVERNANCE-maintainer.md
@@ -239,6 +239,6 @@ business can get blocked simply by people being on vacation.
 [Jaeger project]: https://github.com/jaegertracing/jaeger/blob/main/GOVERNANCE.md
 [Contributor Ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
 [Code of Conduct]: https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md
-[security practices]: https://github.com/cncf/tag-security/tree/main/project-resources
+[security practices]: https://github.com/cncf/tag-security/tree/main/community/resources/project-resources
 [Lazy Consensus]: https://community.apache.org/committers/lazyConsensus.html
 [Charter]: [/maintainers/governance/charter/]
