@@ -1,20 +1,8 @@
 # Governance Review Template
 
-<!---
-Instructions for governance reviewers:
-- Pick the latest state of the governance document and use the same point-in-time reference (e.g. commit) for your assessment. If governance consists of multiple documents, make sure you use the same commit.
-- Make sure all links in your report are permanent links (e.g. with commit hashes).
-- To ensure consistency, use the same commits as links for multiple files within a single repository.
-- You might need to have a project contact person or the TOC liaison for finding out some information about the project.
-- It is recommended to start filling this template from the "Review" section. Once you fill everything there, go back to "Summary and Assessment" to summarize the content you wrote. 
-
---->
-
 What follows is a governance review and assessment for the ______ project. This review is carried out by members of the Governance Working Group of TAG Contributor Strategy. The review may have been done because of a change in maturity level for the project, at the request of the TOC, or as a request by the project itself. If requested by the project, the review will be provided to the project maintainers. Otherwise, the review will be submitted to the TOC for their follow-up.
 
-Governance reviews contribute to the health and sustainability of the CNCF projects. By providing guidance on effective governance practices, TAG Contributor Strategy aims to ensure that projects operate efficiently, encourage diverse participation, and uphold the values of the CNCF. The governance review process is designed to be constructive and supportive, aiming to assist projects in refining their governance models and addressing any challenges they may face.
-
-Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is available via our [Slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), [email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
+Projects may ask TAG Contributor Strategy for assistance in resolving any issues uncovered by the review. The TAG is available via our [slack channel](https://cloud-native.slack.com/archives/CT6CWS1JN), [email](https://lists.cncf.io/g/cncf-tag-contributor-strategy), [GitHub](https://github.com/cncf/tag-contributor-strategy), or by joining our weekly meetings (listed on the [CNCF public calendar](https://www.cncf.io/calendar/)).
 
 ## Summary and Assessment
 
@@ -23,36 +11,30 @@ Exemplary: project has an extraordinary level of governance development and impl
 Satisfactory: project has appropriate governance for its maturity level and is following that governance
 Mostly Satisfactory: project has mostly appropriate governance, but needs to fix one or two things
 Needs Work: project's governance is lacking and inadequate for its current level of maturity, and needs substantial work to overcome that
-
-NOTE: Fill this part as a summary of your review. It is recommended to start from the "Review" section below in the template.
+In Crisis: project appears to be having a meltdown and needs CNCF intervention to survive
 --->
 
-Status: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work
+Status: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work|In Crisis
 
-<!--- Short paragraph summarizing the general state of project governance. It should provide a final assessment status of one of the following: Satisfactory, Needs improvement, or Requires Attention. In the event the project governance requires attention, notify the TOC liaison for their awareness. --->
+<!--- Short paragraph summarizing the general state of project governance. In the event the project governance requires attention, notify the TOC liaison for their awareness. --->
 
 ### Executing the Assessment
 
-<!--- A brief description that details the timebox the assessment occurred and the individuals involved in the assessment. 
+<!--- A brief description that details the timebox the assessment occurred and the individuals involved in the assessment. --->
 
-Make sure you use a snapshot of the governance documents for your assessment and note the commit hash of the snapshot here as a link.
---->
-
-### Critical Items
+### Must-Fix Items
 
 The following issues have been identified that need to be resolved before [project milestone or other requirement]:
-<!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered blockers to project advancement. For each item in this list, a corresponding detailed description should be placed in the Findings table. Note that which items are required depends on the project's maturity level.
 
-Items in the "Governance Findings Table" at the bottom with "Critical" importance should be reported here.
+<!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered Critical or High, they are usually blockers to project advancement. For each item in this list, a corresponding detailed description should be supplied. Note that which items are required depends on the project's maturity level. 
+File an issue with the project for each item on this list, and link to it. --->
 
-If there are no critical items, do not delete the section but write that there are no critical items.
---->
-
-*
+1. 
 
 ### Points of Excellence
 
 The following aspects of governance are exemplary, and can be referenced as examples for other projects to copy:
+
 <!--- List of governance aspects where the project is exceeding expectations, or any novelty in their approach to governance. --->
 
 *
@@ -60,134 +42,176 @@ The following aspects of governance are exemplary, and can be referenced as exam
 ### Areas for Improvement
 
 Over the next year, the project should work on the following issues to improve its governance, these are considered non-blocking:
-<!--- This is a summarized listing of longer term improvement areas for the project. These items are strongly encouraged but not required for the project's maturity level. Fully detailed descriptions are found in the Finding Table. Items listed here should be in priority ordering. Items in the "Governance Findings Table" at the bottom except the "Critical" importance should be reported here. -->
+
+<!--- This is a summarized listing of longer term improvement areas for the project. These items are strongly encouraged but not required for the project's maturity level. Fully detailed descriptions are found in the Finding Table. Items listed here should be in priority ordering and would be considered Medium and Low. --->
 
 *
-
-Details of these issues can be found in the [Findings Table](#Governance-Findings-Table) and the related sections below.
 
 ## Review
 
-### Governance Description
+The following review primarily consists of an audit on the project's self-assessment in their Graduation application.
 
-<!--- Narrative describing the governance type of the project, some general information about its leadership, and the project's general status and maturity. If the project has any unusual aspects to its governance, describe them here.  Link to the project's existing documents where applicable. --->
+[Project Application with Governance and Community Sections](link to project application here)
 
-### Discoverability
+### Governance Summary
 
-#### Governance Location
+<!--- Short narrative describing the governance type of the project, some general information about its leadership, and the project's general status and maturity. If the project has any unusual aspects to its governance, describe them here.  Link to the project's existing documents where applicable. --->
 
-<!--- Where are governance documents located?  Primary repo, Community Repo, somewhere else? --->
+### Governance Evolution
 
-#### Governance Discovery Completeness
-
-<!--- How easy is it for potential contributors to find and read the governance documentation? Is it findable from the project web page? Are governance files named clearly, and interlinked across the projects repos to the primary? --->
-
-### Documentation Content
-
-<!--- Provide the commit of the file under evaluation as a point-in-time reference to this review. --->
-
-The following table details the governance areas expected for a project. Coverage is indicated by Complete, Partial, Missing, and Unknown.
-* Complete - the content of the governance documentation is fully detailed and does not leave any question to the reader.
-* Partial - the content of the governance documentation is missing some information and would leave the reader with questions or some level of misunderstanding.
-* Missing - the documentation is absent, wholly undiscoverable, or woefully inadequate in meeting the objectives of that governance content. The reader cannot act on the content that is available.
-* Unknown - status cannot be assessed at this time
-
-| Governance Area | Coverage | Documents | Finding Notes |
-|:----------------|:--------:|:------:|:--------------|
-| Project Purpose | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Maintainer List | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Code of Conduct | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Contributor Guide | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Contributor Ladder | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Maintainer Lifecycle | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Decision-making | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Code and Docs Ownership | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Security Reporting and response | Complete/Partial/Missing/Unknown | *LINKS* | |
-| Communication and Meetings | Complete/Partial/Missing/Unknown | *LINKS* | |
-
-
-
-#### Sub-projects, plugins, and related
-
-<!--- If the project has subprojects, plugins, or other divisions define them here. For each, is ownership and operation of clearly described? Are any standing committees/teams fully described, including listing their members? Does it conform to, align, and is it within scope of the governance expectations of the project? --->
-
-The project includes the following sub-projects, plugins, and other notable divisions:
-
-| Area | Ownership and Operation | Standing Bodies | Project Alignment | Notes |
-|:-----|:-----------------------:|:---------------:|:------------------|:---|
-|*sub-project*| Complete/Partial/Missing | Complete/Partial/Other | Complete/Partial/Conflict | |
-
-### Operation
-
-<!--- Review the project repositories, issues, Pull Requests (PRs), documents, videos, and communications to determine answers to the following questions. In some cases, have chats or interviews with project members. --->
-
-#### Transparency and freshness
-
-<!--- Are governance activities transparent and monitorable? Are the governance documents up to date?  Do they accurately reflect current project participants, code and subproject status, etc? --->
-
-Transparency for a project is exemplified in the public documentation, record, and communications, allowing observers and contributors to monitor the project's adherence to their stated governance. Freshness indicates governance activities mirror the documented governance for the project, and have been reviewed or updated recently.
-
-The project's governance documentation and activities are ...
-
-#### Governance Drift
-
-<!---  Are the governance activities being carried out? Are community meetings (if any) happening? Are required elections and votes taking place? Are official communications channels accessible, staffed and responsive? Are they being used? Are questions and proposed updates/changes to governance (if any) being transparently discussed and addressed? -->
-
-Governance Drift can occur when the executed and observable governance of a project deviates from the documented governance of the project.
-
-The project [does/does] not experience governance drift as indicated by...
-
-#### Ownership
-
-<!--- Request that CNCF staff carry out an audit (via Sheriff) that the explicit governance of the project matches GitHub permissions. Check both that all listed maintainers, owners, and other leaders have the level of ownership or approvership that they are supposed to. Also check that there aren't individuals who have broad permissions that aren't explained by any official project role.  Not applicable for projects joining the CNCF. --->
-
-The project's ownership evaluation [did/did not] leverage Sheriff, the CNCF GitHub permission auditing tool.
-
-The project's permissions and ownership settings and files [are/are not] appropriate for the stated governance. Specifically, ...
-
-### Maintainer List(s)
-
-<!--- Check the list of CNCF-level Maintainers for the project. Answer the following question about the project's maintainers; Are they current? Are all of the people listed as Maintainers current & frequent contributors to the project, either code or non-code as required by the governance documents? What's the level of employer diversity in the current list of maintainers? Are employer affiliations listed in the maintainers list file? --->
-
-The project's maintainer list(s) [are/are not] current. Individuals on the maintainer list [do/do not] appear to match the requirements of maintainership in accordance with the project's documented requirements. The maintainer affiliations (employers) reflect [Balanced/Unbalanced] diversity.
-
-<!--- Note balance may be achieved through standing bodies, decision making, and other documentation. It should ensure no single entity can control the project's direction without informed consensus of other authorized parties. --->
-
-### Evolution
+* Governance has continuously been iterated upon by the project as a result of their experience applying it, with the governance history demonstrating evolution of maturity alongside the project's maturity evolution.
 
 <!--- How has the project's governance evolved over time?  Is the project steadily refining/advancing its governance as the project grows and resolves issues? --->
 
-Governance evolution is the observable changes and improvements the project makes to its governance over the project's lifespan. It is expected that changes will occur over the project's life and that such changes are iterative, tested, and adjusted.
+### Discoverability
 
-Major milestones in the project's governance over time include:
+* Clear and discoverable project governance documentation.
 
-*
+<!--- Where are governance documents located?  Primary repo, Community Repo, somewhere else? --->
 
-Recent changes to the governance include:
+<!--- How easy is it for potential contributors to find and read the governance documentation? Is it findable from the project web page? Are governance files named clearly, and interlinked across the projects repos to the primary? --->
 
-*
+### Accuracy and Clarity
 
-Areas of potential future development include:
+* Governance is up to date with actual project activities, including any meetings, elections, leadership, or approval processes.
 
-*
+<!--- Are the governance documents up to date?  Do they accurately reflect current project participants, code and subproject status, etc?  Check for:
+- meetings actually happening
+- elections actually happening
+- leadership being updated
+- PR approval process following documentation --->
 
-### Governance Findings Table
-<!--- Add additional rows as necessary. For each finding described above, it should also be included here with further detail. 
+* Governance clearly documents [vendor-neutrality](https://contribute.cncf.io/maintainers/community/vendor-neutrality/) of project direction.
 
-Should be reported in the "Critical Items" section:
-- Critical
+<!--- Check that governance is documented to be vendor-neutral, or at least not vendor-specific, including:
+- leadership positions are vendor-neutral
+- meetings etc. are community-owned and open
+- blogs and communications channels are community-owned and have guidelines 
+Also check for general openness of the governance.  Are meetings open or closed?  
+are public records of decisions kept? --->
 
-Should be reported as "Areas for Improvement"
-- Medium/low: needs improvement
+### Decisions and Role Assignments
 
+* Document how the project makes decisions on leadership roles, contribution acceptance, requests to the CNCF, and changes to governance or project goals.
+* Document how role, function-based members, or sub-teams are assigned, onboarded, and removed for specific teams (example: Security Response Committee).
+
+<!--- Check that Governance.md and other documents cover all of the above.  This should include:
+- Definitions of leadership roles
+- Qualifications, duties, and selection process
+- Removal process, including removal for inactivity and CoC violations
+- Who has approver rights
+- Process of updating the roadmap
 --->
 
-| Finding Title | Importance | Description | Links | Notes & Impact |
-|:------------- |:----------:|:------------|:------|:---------------|
-| *Title* | Critical/Medium/Low | *detailed description* | *relevant links* | *additional notes and explanation of impact if appropriate* |
+### Maintainers and Maintainer Lifecycle
 
-### Previous Reviews
+* Document complete list of current maintainers, including names, contact information, domain of responsibility, and affiliation.
+* A number of active maintainers which is appropriate to the size and scope of the project.
 
-| Date   | Requested By  |                   Reason                   | Link                 |
-|:-------|:--------------|:------------------------------------------:|:---------------------|
-| *Date* | *TOC/Project* | *Maturity change / project request / etc.* | *link to review doc* |
+<!--- Check maintainers.md, governance.md, contributor ladder and other files.
+Maintainers file should have contact info (not just GH handles), other useful information, and employer
+Do a quick sanity check on the number of maintainers.  A very large critical project applying for graduation which has three maintainers is probably at bus-factor risk.  In contrast, a narrowly-scoped project with 50 maintainers is probably listing people who are not actually maintainers.
+Also check that maintainers on the list are active using Devstats, GitHub and LFX Insights.  Query inactive maintainers. --->
+
+* Document a complete maintainer lifecycle process (including roles, onboarding, offboarding, and emeritus status).
+* Demonstrate usage of the maintainer lifecycle with outcomes, either through the addition or replacement of maintainers as project events have required.
+
+<!--- Look at governance.md/contributor ladder and other documents.  Look at maintainer.md file history.
+Look for evidence that maintainers have turned over, particularly new maintainer recruitment
+and retiring inactive maintainers.  Also look that qualifications for new maintainers are
+clear and that those qualifications are honored. --->
+
+* Project maintainers from at least 2 organizations that demonstrates survivability.
+
+<!--- Look at maintainer employer affiliation. At graduated level, having everyone working for the same
+organization demonstrates some probable problems.  Inactive maintainers do not fix the maintainer
+diversity problem. Combine this review with lifecycle above; projects with strong recruitment stories
+are lower risk even when not very diverse. --->
+
+### Ownership
+
+* Code and Doc ownership in Github and elsewhere matches documented governance roles.
+
+<!--- right now there is very little ability to audit this.  You can record here 
+whether the project is using Prow or Sherriff (both of which are good), but if not
+you can't verify ownership. Parts of the governance documentation that talk about
+assigning permissions is also good, but the absence of those isn't notable. --->
+
+### Code of Conduct
+
+* Document adoption of the CNCF Code of Conduct
+* CNCF Code of Conduct is cross-linked from other governance documents.
+
+<!--- The CNCF CoC should be present in all appropriate places in the project, which 
+includes their Community or main repository, and public website at a minimum.  Other
+community and governance documentation should refer to the CoC; for example, role
+removal process should mention that people can be removed for CoC violations.  
+If the project is handling their own CoC reports rather than just sending them 
+directly to the CNCF CoCC, you need to check if this is adequately documented, including
+who receives the reports and how and where they're evaluated. --->
+
+### Subprojects
+
+* All subprojects, if any, are listed.
+* If the project has subprojects: subproject leadership, contribution, maturity status documented, including add/remove process.
+
+<!--- If the project has subprojects, plugins, or other divisions define them here. For each, is ownership and operation of clearly described? Are any standing committees/teams fully described, including listing their members? Does it conform to, align, and is it within scope of the governance expectations of the project?  Does is list communications channels and standing meetings?
+A subproject audit is often very useful to projects because this part of things tends to 
+bit-rot quite a bit, and you can help them see where they need to update it. --->
+
+The project includes the following sub-projects, plugins, and other notable divisions:
+
+| Area | Ownership and Operation | Communications | Project Alignment | Notes |
+|:-----|:-----------------------:|:---------------:|:------------------|:---|
+|*sub-project*| Complete/Partial/Missing | Complete/Partial/Other | Complete/Partial/Conflict | |
+
+### Contributors and Community
+
+* Contributor ladder with multiple roles for contributors.
+
+<!-- Note that a contributor ladder is NOT required, but it is a good idea.  Check the supplied one;
+does it have most of the project roles that actually exist?  Do those roles form a reasonable set
+of steps from new contributor to maintainer?  Does each role have qualifications, duties, and powers 
+defined?
+If the project does not have one, suggest that TAG-CS could help them create one. --->
+
+* Clearly defined and discoverable process to submit issues or changes.
+
+<!-- Files: contributing.md, reviewing.md, release.md, other files which form a
+howto for contributors.  Check for the presence of these and their completeness;
+as a project grows it should be adding more and more detailed content to its contributor
+docs. 
+If you have time or reason to, spot check issue and PR activity on the project's main repos,
+and the devstats charts related to contributions.  Are contributions by non-maintainers
+handled or ignored?  Is the project accumulating a backlog of unreviewed contributions, or
+concluding them? --> 
+
+* Project must have, and document, at least one public communications channel for users and/or contributors.
+* List and document all project communication channels, including subprojects (mail list/slack/etc.).  List any non-public communications channels and what their special purpose is.
+
+<!-- audit the list of communications channels supplied.  Does it include at least one
+general channel?  Does it include all channels you know of?  Are those channels public/
+owned by the CNCF, or are some of them private channels controlled by someone else? -->
+
+* Up-to-date public meeting schedulers and/or integration with CNCF calendar.
+
+<!-- Does the project have a calendar (ideally integrated with the CNCF calendar)
+that lists all documented meetings?  Are there archival videos and minutes kept
+of these meetings?  Are the meeting agendas findable and useful? --> 
+
+* Documentation of how to contribute, with increasing detail as the project matures.
+
+<!-- Files: contributing.md, reviewing.md, release.md, other files which form a
+howto for contributors.  Check for the presence of these and their completeness;
+as a project grows it should be adding more and more detailed content to its contributor
+docs. Cite missing parts based on the level of maturity of the project. --->
+
+* Demonstrate contributor activity and recruitment.
+
+<!-- Check provided evidence Spot check issue and PR activity on the project's main repos,
+and the devstats charts related to contributions.  Are contributions by non-maintainers
+handled or ignored?  Is the project accumulating a backlog of unreviewed contributions, or
+concluding them? --> 
+
+
+
