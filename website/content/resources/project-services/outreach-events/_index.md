@@ -37,7 +37,6 @@ Learn more about eligibility and the parameters for [CNCF-Hosted Events here.](h
 | In-Person Project Meeting	| ✅ | ✅ | ✅ | - | - |
 | PR Support | ✅ | ✅ |	✅ | ✅ | - |
 | Maintainer session | - | ✅ | ✅ |	- |	- |
-| Project Video Updates (Keynote Stage Highlight) |	✅ | ✅ | ✅ |	- |	- |
 
 We provide:
 

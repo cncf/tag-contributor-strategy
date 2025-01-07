@@ -29,7 +29,6 @@ The Cloud Native Computing Foundation participates in various mentoring programs
 
 * [LFX Mentorship (ex-CommunityBridge)](https://mentorship.lfx.linuxfoundation.org): mentoring initiative by the Linux Foundation - [details](https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship#readme)
 * [Google Summer of Code](https://summerofcode.withgoogle.com/): mentoring program for the open source beginners - [details](https://github.com/cncf/mentoring/tree/main/programs/summerofcode#readme)
-* [Google Season of Docs](https://developers.google.com/season-of-docs): mentoring initiative for the technical writers - [details](https://github.com/cncf/mentoring/tree/main/programs/seasonofdocs#readme)
 * [Outreachy](https://www.outreachy.org): mentoring initiative for the communities traditionally underrepresented in tech - [details](https://github.com/cncf/mentoring/tree/main/programs/outreachy#readme)
 
 If you are interested in participating in one of the programs, please check out the [CNCF mentoring repository](https://github.com/cncf/mentoring) for more details.
@@ -88,4 +87,5 @@ The Cloud Native Computing Foundation projects are listed below with information
 |                          Project Name                          |            Focus            |   Primary Language   |
 | ------------------------------------------------------------ | ------------------------- | ------------------ |
 |    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
-
+|    [Kubernetes Website](https://github.com/kubernetes/website)        |           Kubernetes website and documentation       |        Markdown      |
+|    [OpenTelemetry Website](https://github.com/open-telemetry/opentelemetry.io)        |           OpenTelemetry website and documentation       |        Markdown      |
