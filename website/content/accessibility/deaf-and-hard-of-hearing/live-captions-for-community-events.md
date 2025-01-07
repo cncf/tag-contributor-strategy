@@ -2,10 +2,8 @@
 title: "Live Captions for Community Events"
 date: 2025-01-07
 description: >
-  A free, open-source live captioning tool for small and local events
+  A free, open-source live captioning tool
 ---
-
-# Live Captions for Community Events
 
 Implementing captions for small and local events with limited budgets can feel like an insurmountable challenge—just too expensive. But without captions, your event risks being inaccessible or difficult to follow for some attendees. Captions benefit a wide range of people: while they are essential for deaf and hard-of-hearing individuals, they also provide significant value to neurodiverse people and non-native speakers. Accessibility matters, and we want to offer a cost-effective solution that ensures that any event can be inclusive, no matter the size.
 
