@@ -11,4 +11,8 @@ We recommend using a tool developed by [Andrew Olson](https://www.linkedin.com/i
 
 ## Getting Started
 
-Follow the step-by-step guide on the [live-captioning GitHub repo](https://github.com/MidCamp/live-captioning?tab=readme-ov-file). 
+Follow the step-by-step guide on the live-captioning GitHub repo: 
+
+1. [Getting Started with Live Captioning](https://github.com/MidCamp/live-captioning?tab=readme-ov-file#live-captioning)
+2. [How to Use for Live Events](https://github.com/MidCamp/live-captioning?tab=readme-ov-file#getting-started)
+3. [Browser Requirements](https://github.com/MidCamp/live-captioning?tab=readme-ov-file#requirements)
