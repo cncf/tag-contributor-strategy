@@ -18,6 +18,7 @@ Most services can be requested through a Service Desk ticket, unless otherwise n
 - [FOSSA](https://fossa.io) for license and security scanning.
 - [Snyk](https://snyk.io) for container image scanning.
 - [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for source code security scanning and license compliance (white-labeled Snyk)
+- [Minder](https://github.com/mindersec) is an [OpenSSF](https://openssf.org/) sandbox project that automates and maintains consistent repository security configurations across your project, safeguarding your supply chain assets.
 - [Fastly](https://www.fastly.com/) has provided a [commitment to support CNCF and LF projects](https://www.fastly.com/blog/fast-forward-were-here-for-the-maintainers/). Apply for access directly with Fastly through that page.
 - [Lift](https://www.sonatype.com/products/sonatype-lift/) for cloud-native and collaborative code analysis platform built for developers.
 - [HackerOne](https://www.hackerone.com) for bug bounties.
