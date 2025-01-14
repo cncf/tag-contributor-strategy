@@ -11,7 +11,7 @@ Exemplary: project has an extraordinary level of governance development and impl
 Satisfactory: project has appropriate governance for its maturity level and is following that governance
 Mostly Satisfactory: project has mostly appropriate governance, but needs to fix one or two things
 Needs Work: project's governance is lacking and inadequate for its current level of maturity, and needs substantial work to overcome that
-In Crisis: project appears to be having a meltdown and needs CNCF intervention to survive
+In Crisis: project appears to have several outstanding, critical issues that require attention, clarity, and/or direct guidance from CNCF in order to return to a state of good health and standing.
 --->
 
 Status: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work|In Crisis
@@ -26,7 +26,7 @@ Status: Exemplary|Satisfactory|Mostly Satisfactory|Needs Work|In Crisis
 
 The following issues have been identified that need to be resolved before [project milestone or other requirement]:
 
-<!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered Critical or High, they are usually blockers to project advancement. For each item in this list, a corresponding detailed description should be supplied. Note that which items are required depends on the project's maturity level. 
+<!--- The items in the list should be summarized, have a prioritized ordering and are expected to be considered Critical or High,  these are explicit and implicit blockers to project advancement within the [CNCF Matriculation process](https://github.com/cncf/toc/tree/main/process#how-to-apply-to-move-levels). For each item in this list, a corresponding detailed description should be supplied. Note that which items are required depends on the project's maturity level. 
 File an issue with the project for each item on this list, and link to it. --->
 
 1. 
@@ -157,7 +157,13 @@ who receives the reports and how and where they're evaluated. --->
 
 <!--- If the project has subprojects, plugins, or other divisions define them here. For each, is ownership and operation of clearly described? Are any standing committees/teams fully described, including listing their members? Does it conform to, align, and is it within scope of the governance expectations of the project?  Does is list communications channels and standing meetings?
 A subproject audit is often very useful to projects because this part of things tends to 
-bit-rot quite a bit, and you can help them see where they need to update it. --->
+bit-rot quite a bit, and you can help them see where they need to update it. 
+If the project has a full listing of suboprojects use the text below.  Completeness hinges on whether subproject listings include full ownership, communications, and alignment info. --->
+
+The project maintains a [listing of subprojects](LINK).  This listing appears to be [Very Complete|Mostly Complete|Incomplete].
+
+<!--- if the project does not maintain a listing, or if the listing is incomplete, then
+fill in the audit info below.  Otherwise, delete it.  Ownership and Operation is "who runs this subproject", Communications includes meetings, channels and email, and Project Alignment is "what part of the project is this, and how mature is it".  --->
 
 The project includes the following sub-projects, plugins, and other notable divisions:
 
