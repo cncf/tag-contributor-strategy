@@ -2493,7 +2493,7 @@
     {
         "name": "KubeStellar",
         "path": "Scheduling & Orchestration",
-        "description": "KubeStellar - a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
+        "description": "KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
         "homepage_url": "https://kubestellar.io",
         "project": "sandbox",
         "repo_url": "https://github.com/kubestellar/kubestellar",
