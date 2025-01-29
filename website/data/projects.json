@@ -3459,6 +3459,28 @@
         "language": "Python"
     },
     {
+        "name": "OVN-Kubernetes",
+        "path": "Cloud Native Network",
+        "description": "A robust Kubernetes networking platform",
+        "homepage_url": "https://ovn-kubernetes.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/ovn-kubernetes/ovn-kubernetes",
+        "logo": "https://landscape.cncf.io/",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2024-10-17",
+        "dev_stats_url": "https://ovn-kubernetes.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/blob/master/examples/sandbox.md#ovn-kubernetes-logos",
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": "https://groups.google.com/g/ovn-kubernetes",
+        "slack_url": "https://cloud-native.slack.com/messages/ovn-kubernetes",
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "Paralus",
         "path": "Security & Compliance",
         "description": "Paralus is a free, open source tool that enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.",
