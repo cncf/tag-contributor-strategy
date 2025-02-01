@@ -2862,7 +2862,7 @@
         "slack_url": "https://slack.meshery.io",
         "gitter_url": null,
         "youtube_url": "https://www.youtube.com/playlist?list=PL3A-A6hPO2INr4oEIorJqC8N0FtxnYj0a",
-        "language": "JavaScript"
+        "language": "Go"
     },
     {
         "name": "MetalLB",
