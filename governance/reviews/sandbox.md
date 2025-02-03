@@ -32,7 +32,7 @@ As you can see, we’re checking minimal things because we have limited expectat
 
 Does the project have a contributor guide?  If so, how complete/useful does it appear to be?
 
-Here you’re checking for a contributor guide, and whether it covers all of the aspects of contribution or just one or two of them.  For an example of a relatively complete Contributor Guide, see our template.  Note that for very complete contribution guides, there may be multiple files, including a release guide, testing guide, reviewing guide, etc.  Make sure you check for links to other documentation.  Contributor documentation may also be part of the project’s user documentation instead of being in a git repo.
+Here you’re checking for a contributor guide, and whether it covers all of the aspects of contribution or just one or two of them.  For an example of a relatively complete Contributor Guide, see [our template](https://contribute.cncf.io/maintainers/templates/contributing/).  Note that for very complete contribution guides, there may be multiple files, including a release guide, testing guide, reviewing guide, etc.  Make sure you check for links to other documentation.  Contributor documentation may also be part of the project’s user documentation instead of being in a git repo.
 
 If there is no contributor guide, then the comment we leave is:
 
