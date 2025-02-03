@@ -50,7 +50,7 @@ Once you’ve determined the type of governance, then look to see how complete t
 
 * A Contributor Ladder
 * How project leaders are selected, and how they leave
-* Decision-making process
+* Decision-making process and any history of using it
 * Official communications channels
 
 You are not doing an in-depth governance review here, just trying to get an impression of where the project governance is between minimum viable and well-developed.  Of course, some projects will have no written governance at all, in which case you say:
