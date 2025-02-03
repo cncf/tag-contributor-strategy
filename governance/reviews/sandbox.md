@@ -68,7 +68,7 @@ Follow the link supplied by the project for their roadmap.  Figure out what kind
 Sometimes projects have no roadmap, or the link they supply does not qualify as a roadmap, in which case you'll say:
 
 ```
-* The project has no roadmap yet
+* The project has no roadmap yet.
 ```
 
 ### Maintainers
