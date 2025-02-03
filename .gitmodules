@@ -1,3 +1,6 @@
 [submodule "website/themes/docsy"]
 	path = website/themes/docsy
 	url = https://github.com/google/docsy.git
+[submodule "website/assets/cncf-toc"]
+	path = website/assets/cncf-toc
+	url = https://github.com/cncf/toc.git
