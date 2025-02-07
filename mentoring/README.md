@@ -70,17 +70,16 @@ Meetings are monthly, on the 2nd Tuesday of each month, at 9:00PM UTC. This meet
 Facilitators:
 
 - Nate Waddington ([@nate-double-u](https://github.com/nate-double-u)), CNCF
-- Jay Tihema ([@jaytiaki](https://github.com/jaytiaki)), ii
 - Ihor Dvoretskyi ([@idvoretskyi](https://github.com/idvoretskyi)), CNCF
 
 ## Chairs
 
 * Nate Waddington (Linux Foundation/CNCF)
-* Ali Ok (Red Hat)
 
 ### Emeritus chairs
 
 * Jay Tihema (ii)
+* Ali Ok (Red Hat)
 
 ## Tech leads
 

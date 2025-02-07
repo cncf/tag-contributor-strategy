@@ -34,7 +34,6 @@ The following contributors are currently "members" of this working group:
 
 * Josh Berkus
 * Dawn Foster
-* Ali Ok
 
 ## Meetings
 

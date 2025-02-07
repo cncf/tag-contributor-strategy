@@ -4,7 +4,6 @@ title: "[Governance Review]: PROJECT NAME"
 labels: ["wg/governance", "project-governance-review"]
 assignees:
   - jberkus
-  - aliok
   - geekygirldawn
 body:
   - type: markdown
