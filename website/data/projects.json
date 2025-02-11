@@ -1527,7 +1527,7 @@
         "path": "Security & Compliance",
         "description": "in-toto is a framework to protect supply chain integrity.",
         "homepage_url": "https://in-toto.io",
-        "project": "incubating",
+        "project": "graduated",
         "repo_url": "https://github.com/in-toto/in-toto",
         "logo": "https://landscape.cncf.io/logos/78e76c8e6d3f6113e84431123f1f6642056727871828f76130b573c500aafd08.svg",
         "twitter": null,
