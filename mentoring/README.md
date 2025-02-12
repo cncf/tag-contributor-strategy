@@ -76,11 +76,10 @@ Facilitators:
 
 * Nate Waddington (Linux Foundation/CNCF)
 
-### Emeritus chairs
+## Emeritus
+Thank you for all your work!
 
-* Jay Tihema (ii)
-* Ali Ok (Red Hat)
+* Jay Tihema (chair, ii)
+* Ali Ok (chair, Red Hat)
+* Diane Mueller (tech lead, Bitergia)
 
-## Tech leads
-
-* Diane Mueller (Bitergia) — Statistics & Reporting lead ([@dmueller2001](https://github.com/dmueller2001))
