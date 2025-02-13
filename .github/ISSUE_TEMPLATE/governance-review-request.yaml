@@ -72,18 +72,10 @@ body:
     validations:
       required: true
 
-  - type: textarea
-    attributes:
-      label: Are there any sub-projects, plugins, and related?
-      description: |
-        If your project includes the sub-projects, plugins, and other notable divisions, please write them here.
-    validations:
-      required: true
-
   - type: markdown
     attributes:
       value: |
-        ## Governance information
+        ## Governance Information
 
   - type: textarea
     attributes:
@@ -91,6 +83,14 @@ body:
       description: |
         If your project governance is based on one of the [CNCF governance templates](https://contribute.cncf.io/maintainers/templates/governance-intro/), please indicate which one it is here, with any differences for your project.
         If not, please write a short description of your governance model.
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: Link to Incubating/Graduation/Sandbox Application
+      description: |
+        If your project is in the process of moving levels or being accepted into the CNCF please link to the Issue or PR for that event.  If for Incubation or Graduation, please fill out all items in the appropriate sections of that application (Governance and Contributing) before applying for a governance review.
     validations:
       required: true
 
@@ -111,8 +111,9 @@ body:
         - Who owns what code and docs
         
         These documents do NOT need to be separate documents. Single document or a few documents that explain everything above is good for us to read, understand and evaluate your project governance.
-
-        **NOTE**: Make sure you provide links to these documents as snapshots with commit hashes and use the same commit for all links from the same repository. Example: `https://github.com/FOO/BAR/blob/<commitHash>/path/to/doc.md`
+        
+        If these documents are already linked from an Incubation or Graduation application, you may simply
+        refer to that document by linking it here, and fill in only the documents not listed there.
     validations:
       required: true
 
