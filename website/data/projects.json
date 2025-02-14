@@ -3131,7 +3131,7 @@
     {
         "name": "OpenEBS",
         "path": "Cloud Native Storage",
-        "description": "Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.",
+        "description": "A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.",
         "homepage_url": "https://www.openebs.io/",
         "project": "sandbox",
         "repo_url": "https://github.com/openebs/openebs",
