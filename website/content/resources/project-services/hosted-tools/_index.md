@@ -34,7 +34,11 @@ Most services can be requested through a Service Desk ticket, unless otherwise n
 - [GitVote](https://github.com/cncf/gitvote) a GitHub application that allows voting in issues and pull requests.
 - [Gitpod](https://www.gitpod.io/) cloud development environments are on-demand and pre-configured with all tools, libraries and dependencies required to be ready-to-code.
 
-CNCF staff is familiar with and can help projects with, hosting on AWS, GCP, Oracle, and Azure clouds. In some cases, we have free credits ([AWS](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/), [GCP](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/), [Oracle](https://www.cncf.io/blog/2024/02/02/oracle-oci-credits-are-now-available-to-cncf-projects-here-is-what-you-need-to-know/)) for free hosting. We also have our own [Community Infrastructure Lab](https://www.cncf.io/community/infrastructure-lab/).
+## Cloud Infrastructure
+
+CNCF staff is familiar with and can help projects with, hosting on AWS, GCP, Oracle, and Azure clouds. In some cases, we have free credits ([AWS](https://www.cncf.io/announcement/2019/11/19/cloud-native-computing-foundation-receives-200000-in-credits-from-amazon-web-services-aws/), [GCP](https://www.cncf.io/google-cloud-recommits-3m-to-kubernetes/), [Oracle](https://www.cncf.io/blog/2024/02/02/oracle-oci-credits-are-now-available-to-cncf-projects-here-is-what-you-need-to-know/)) for free hosting.
+
+If you are a CNCF project maintainer, feel free to apply directly through the [CNCF Service Desk](http://servicedesk.cncf.io) for access to these credits.
 
 ## CI/CD
 
