@@ -3396,7 +3396,7 @@
         "name": "Operator Framework",
         "path": "Application Definition & Image Build",
         "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
-        "homepage_url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/what-are-openshift-operators",
+        "homepage_url": "https://operatorframework.io/",
         "project": "incubating",
         "repo_url": "https://github.com/operator-framework/operator-sdk",
         "logo": "https://landscape.cncf.io/logos/31185d07fe99edfa77fdadb1bf9de41fddcbe97a5fd4cf28dea07d1cea170213.svg",
