@@ -97,14 +97,14 @@ on exactly how your project plans to operate:
 
 ### What Do I Need to Customize?
 
-All sections of this template will likely need to be customized, so we recommend 
+All sections of this template will likely need to be customized, so we recommend
 that you review the [Knative Steering Committee](https://github.com/knative/community/blob/main/STEERING-COMMITTEE.md)
 as an example of how to customize this template.
 
 ### What Else Is Required?
 
-This template assumes that you have already adopted the [Code of Conduct], 
-added the CNCF-required [security practices], and added a [Scope section](../governance/charter/) to your README. 
+This template assumes that you have already adopted the [Code of Conduct],
+added the CNCF-required [security practices], and added a [Scope section](../governance/charter/) to your README.
 
 It assumes that you are using the [Contributor Ladder], since it is a good way to provide
 guidance about eligibility requirements. It is possible to implement this without a
@@ -116,7 +116,7 @@ guidance about eligibility requirements. It is possible to implement this withou
 
 **Steering Committee**: The overall governing body for your project, and the list of maintainers by CNCF definition.
 
-**Maintainers**:  The actual approvers/technical leadership of the project, which might be different from the membership of the Steering Committee. 
+**Maintainers**:  The actual approvers/technical leadership of the project, which might be different from the membership of the Steering Committee.
 
 **CNCF Maintainers**: The list of "maintainers" per CNCF rules, as in people who are allowed to make decisions for the project that the CNCF will carry out.  In a Steering Committee project, this is the Steering Committee instead of the list of approvers.
 
@@ -208,8 +208,8 @@ transition period, but plan to have staggered 2-year terms, we recommend that fo
 the first year of the Steering Committee half of the seats should be elected for a
 1-year term, and the other half should be elected for a 2-year term.
 
-While not recommended, an alternative to staggered terms is that you can 
-have all of the members elected at the same time to serve for a specified term. 
+While not recommended, an alternative to staggered terms is that you can
+have all of the members elected at the same time to serve for a specified term.
 This can introduce hardship on the newly elected members attempting to pick-up
 where the previous Committee left off if there is no formal overlap or handoff.
 
@@ -234,8 +234,8 @@ approver in one or more OWNERS files, or similar.
 
 **Voting Procedure**
 
-For most elections, we recommend using 
-[Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) ranking 
+For most elections, we recommend using
+[Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) ranking
 using the IRV method as specified in the template. [Elekto](https://elekto.dev/),
 [OpaVote](https://www.opavote.com/), and [Helios](https://vote.heliosvoting.org/)
 are all options for running an election.
@@ -278,6 +278,6 @@ needs. Recommended text can be found in the template.
 [TAG Contributor Strategy]: https://github.com/cncf/tag-contributor-strategy
 [Contributor Ladder]: https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md
 [Code of Conduct]: https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md
-[security practices]: https://github.com/cncf/tag-security/tree/main/project-resources
+[security practices]: https://github.com/cncf/tag-security/tree/main/community/resources/project-resources
 [Lazy Consensus]: https://community.apache.org/committers/lazyConsensus.html
 [Charters]: [/maintainers/governance/charter/]
