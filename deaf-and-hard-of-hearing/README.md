@@ -45,9 +45,9 @@ Facilitators:
 * Co-chair: Rob Koch, Slalom Build
 * Co-Chair: Sandeep Kanabar, Gen
 
-## WG Chair Emeritus
+## WG Chair Emeriti
 
-* Destiny O'Connor, Women Blessing Women
+* Chair Emeritus: Destiny O'Connor, Women Blessing Women
 
 ## Contact
 
