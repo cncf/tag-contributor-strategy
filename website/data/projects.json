@@ -1545,6 +1545,28 @@
         "language": "Go"
     },
     {
+        "name": "Hyperlight",
+        "path": "Container Runtime",
+        "description": "A lightweight, secure container runtime solution designed for modern cloud-native workloads",
+        "homepage_url": "https://github.com/hyperlight-dev/hyperlight",
+        "project": "sandbox",
+        "repo_url": "https://github.com/hyperlight-dev/hyperlight",
+        "logo": "https://landscape.cncf.io/logos/2121ac233715cffe4a7d3c1debc815f2b3f2d6920ebd37be8a5b17298e4bd0a4.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2025-03-04",
+        "dev_stats_url": "https://hyperlight.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Rust"
+    },
+    {
         "name": "in-toto",
         "path": "Security & Compliance",
         "description": "in-toto is a framework to protect supply chain integrity.",
