@@ -1699,6 +1699,28 @@
         "language": "Go"
     },
     {
+        "name": "k0s",
+        "path": "Certified Kubernetes - Distribution",
+        "description": "k0s is a single binary all-inclusive Kubernetes distribution with all the required bells and whistles preconfigured to make building a Kubernetes clusters a matter of just copying an executable to every host and running it.",
+        "homepage_url": "https://k0sproject.io",
+        "project": "sandbox",
+        "repo_url": "https://github.com/k0sproject/k0s",
+        "logo": "https://landscape.cncf.io/logos/9523ff790eb41082b7c6e4afc1f2c51d7ffd55c871199715a77f9ba33948d6b9.svg",
+        "twitter": null,
+        "crunchbase": "https://www.crunchbase.com/organization/cloud-native-computing-foundation",
+        "chat_channel": null,
+        "accepted": "2025-01-21",
+        "dev_stats_url": "https://k0s.devstats.cncf.io/",
+        "artwork_url": null,
+        "stack_overflow_url": null,
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": null,
+        "language": "Go"
+    },
+    {
         "name": "k3s",
         "path": "Certified Kubernetes - Distribution",
         "description": "Lightweight Kubernetes",
