@@ -1036,7 +1036,7 @@
         "slack_url": "https://cloud-native.slack.com/messages/devstream",
         "gitter_url": null,
         "youtube_url": null,
-        "language": "Go"
+        "language": "Python"
     },
     {
         "name": "Dex",
