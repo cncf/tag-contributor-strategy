@@ -555,6 +555,28 @@
         "language": "Python"
     },
     {
+        "name": "CloudNativePG",
+        "path": "Database",
+        "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+        "homepage_url": "https://www.cloudnative-pg.io/",
+        "project": "sandbox",
+        "repo_url": "https://github.com/cloudnative-pg/cloudnative-pg",
+        "logo": "https://landscape.cncf.io/logos/d795f87b2810954c88802c0b4bd6b3eee5a840c32cbee7276b25831cfb09e1cd.svg",
+        "twitter": "https://x.com/CloudNativePg",
+        "crunchbase": null,
+        "chat_channel": null,
+        "accepted": "2025-01-21",
+        "dev_stats_url": "https://cloudnativepg.devstats.cncf.io/",
+        "artwork_url": "https://github.com/cncf/artwork/blob/main/examples/sandbox.md#cloudnativepg-logos",
+        "stack_overflow_url": "https://stackoverflow.com/questions/tagged/cloudnative-pg",
+        "blog_url": null,
+        "mailing_list_url": null,
+        "slack_url": null,
+        "gitter_url": null,
+        "youtube_url": "https://www.youtube.com/channel/UCTGH88W1BiuRRPTzJUDPJyA",
+        "language": "Go"
+    },
+    {
         "name": "Clusternet",
         "path": "Scheduling & Orchestration",
         "description": "[CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet",
