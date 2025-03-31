@@ -2163,7 +2163,7 @@
     {
         "name": "Konveyor",
         "path": "Application Definition & Image Build",
-        "description": "Konveyor Operator fully manages the deployment and life cycle of Konveyor (formerly Tackle) on Kubernetes and OpenShift.",
+        "description": "Konveyor is an open-source project that gives developers and platform teams visibility, analysis, and transformation tools to predictably re-platform and refactor legacy applications at scale for Kubernetes and cloud-native technologies.",
         "homepage_url": "https://www.konveyor.io/",
         "project": "sandbox",
         "repo_url": "https://github.com/konveyor/operator",
