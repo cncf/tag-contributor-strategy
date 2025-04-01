@@ -18,7 +18,7 @@ The [TAG Contributor Strategy charter](https://github.com/cncf/toc/blob/main/tag
 We have one general meeting a month, along with meetings for our working groups.
 Go to [the CNCF calendar](https://tockify.com/cncf.public.events/monthly?search=Contributor+Strategy) to see when we meet next.
 
-- [Meeting minutes and agenda](https://bit.ly/meetingagendacncf)
+- [Meeting minutes and agenda](https://docs.google.com/document/d/1QKRyr5CNXx5Uc1nzMlyTq-gRKCIrBiYWGsiRZu_Dmyc/edit)
 - All meetings are recorded and can be accessed on the [CNCF TAG Contributor Strategy](https://www.youtube.com/channel/UCCqKWkTM2pkmLwXaj-7AvcA) Youtube channel.
 - Meeting Link: [zoom.us/my/cncftagcontributorstrategy](https://zoom.us/my/cncftagcontributorstrategy)
   - Meeting ID: **574 406 1161**
