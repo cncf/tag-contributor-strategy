@@ -18,21 +18,31 @@ Most services can be requested through a Service Desk ticket, unless otherwise n
 - [FOSSA](https://fossa.io) for license and security scanning.
 - [Snyk](https://snyk.io) for container image scanning.
 - [LFX Security](https://lfx.linuxfoundation.org/tools/security/) for source code security scanning and license compliance (white-labeled Snyk)
-- [Minder](https://github.com/mindersec) is an [OpenSSF](https://openssf.org/) sandbox project that automates and maintains consistent repository security configurations across your project, safeguarding your supply chain assets.
 - [Fastly](https://www.fastly.com/) has provided a [commitment to support CNCF and LF projects](https://www.fastly.com/blog/fast-forward-were-here-for-the-maintainers/). Apply for access directly with Fastly through that page.
+- [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation. [Get started](https://docs.scarf.sh/quick-start/).
+- [Dosu](https://dosu.dev/) is a new AI teammate that lives in your GitHub repo, helping you respond to issues, triage bugs, and build better documentation (early access program, mention CNCF when applying).
+- [Sourcegraph](https://sourcegraph.com/supporting-the-cncf) is offering complimentary AI and code search workspace licenses to eligible OSS developers who actively maintain a CNCF project.
+- [Minder](https://github.com/mindersec) is an [OpenSSF](https://openssf.org/) sandbox project that automates and maintains consistent repository security configurations across your project, safeguarding your supply chain assets.
 - [Lift](https://www.sonatype.com/products/sonatype-lift/) for cloud-native and collaborative code analysis platform built for developers.
 - [HackerOne](https://www.hackerone.com) for bug bounties.
 - [Docker Hub](https://hub.docker.com/) for storing and managing container images.
 - [Credly](https://info.credly.com) Custom badges powered by Credly (for example [Linkerd Hero](https://www.youracclaim.com/badges/538d249f-ec6d-4c5c-93f4-44d7c5596b36/twitter) program).
 - [Holopin](https://www.holopin.io/) Lightweight digital badges that maintainers can use to recognize contributors. Apply directly to [Holopin's open source program](https://www.holopin.io/opensource) (not CNCF managed) for access.
-- [Scarf](https://scarf.sh) for advanced analytics for container & artifact distribution, package installation, and web traffic to source documentation. [Get started](https://docs.scarf.sh/quick-start/).
-- [Dosu](https://dosu.dev/) is a new AI teammate that lives in your GitHub repo, helping you respond to issues, triage bugs, and build better documentation (early access program, mention CNCF when applying).
 - [Peritus.ai](https://peritus.ai/) for Machine Learning analytics and self-service for developer communities.
 - [CLOMonitor](https://clomonitor.io) scans repositories daily, checking for adherence to a wide range of actions that are taken to ensure best practise providing a way for end users to assess the health of open source projects from multiple points of view.
 - [CLOWarden](https://clowarden.io) an extensible, Git Ops-based access control service that controls and audits access to GitHub repositories for individuals and teams.
 - [CLOTributor](https://clotributor.dev/) search engine for people looking for opportunites to become Cloud Native contributors.
 - [GitVote](https://github.com/cncf/gitvote) a GitHub application that allows voting in issues and pull requests.
 - [Gitpod](https://www.gitpod.io/) cloud development environments are on-demand and pre-configured with all tools, libraries and dependencies required to be ready-to-code.
+
+## Domains
+
+The CNCF neutrally manages and registers domains for projects.
+
+- We will register the domain on your behalf. Please let us know one or more that you’d like to register.
+- While [.io isn’t expected to disappear soon](https://thenewstack.io/what-is-the-future-of-the-io-domain/), we won’t register new .io domains.
+- gTLDs like .org, .net, .com, .dev, are preferred.
+- Please avoid premium domains due to cost of registration, renewal, and transfer (if not registered by the CNCF).
 
 ## Cloud Infrastructure
 
