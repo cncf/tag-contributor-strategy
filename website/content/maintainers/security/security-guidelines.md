@@ -66,7 +66,7 @@ We recommend that any change to the repository should be introduced as part of a
 
 ### Issue template
 
-Any ideas, bugs or enhancement suggestions reported to the project need to be tracked, and can then be discussed, triaged and prioritized/de-prioritized for implementation. GitHub Issues are one such avenue that allows tracking and managing ideas until they are brought to fruition. We recommend the following template for proposing changes to the project [CNCF TAG Security Project Resouces - Issue Template](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md).
+Any ideas, bugs or enhancement suggestions reported to the project need to be tracked, and can then be discussed, triaged and prioritized/de-prioritized for implementation. GitHub Issues are one such avenue that allows tracking and managing ideas until they are brought to fruition. We recommend the following template for proposing changes to the project [CNCF TAG Security Project Resources - Issue Template](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/ISSUE_TEMPLATE.md).
 
 ### Commit signing
 
@@ -105,13 +105,13 @@ Self-assessment dives into the following aspects of the project to understand th
 7. Secure development practices
 8. Resolving security issues
 
-A template to perform the self assessment is available at [CNCF TAG Security Project Resouces - Self-assessment](https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md). All the assessments (self-assessment and joint assessment) conducted by TAG Security can be found at TAG Security GitHub repository. As an example, self assessments are available within the dedicated project folders at [Assessments folder of the CNCF TAG Security GitHub repository](https://github.com/cncf/tag-security/tree/main/assessments/projects). Further sections (SECURITY.md in particular) in this document provide some of the pointers to address the gaps and create the necessary process & documentation.
+A template to perform the self assessment is available at [CNCF TAG Security Project Resources - Self-assessment](https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md). All the assessments (self-assessment and joint assessment) conducted by TAG Security can be found at TAG Security GitHub repository. As an example, self assessments are available within the dedicated project folders at [Assessments folder of the CNCF TAG Security GitHub repository](https://github.com/cncf/tag-security/tree/main/assessments/projects). Further sections (SECURITY.md in particular) in this document provide some of the pointers to address the gaps and create the necessary process & documentation.
 
 ## 3. SECURITY.md
 
 Awareness and processes are a big part of enforcing security in any project. A SECURITY.md file in your repository should talk about the security considerations of the project, and the efforts undertaken to ensure that there are policies and processes in place to report vulnerabilities to the project maintainers, and for project maintainers to notify the community of the status of the vulnerabilities. It should also list the dedicated personnel responsible to address these vulnerabilities in a timely manner. In GitHub, the SECURITY.md file creates a security policy, and when someone creates an issue in your repository, they will see a link to your project's security policy. Further information regarding security policy is available at [GitHub Docs - Adding a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
 
-CNCF Technical Advisory Group for Security maintains a number of templates to assist projects in addressing these sections, which can be found at [CNCF TAG Security GitHub repository, under Project Resouces folder](https://github.com/cncf/tag-security/tree/main/project-resources). A special thank you to Google's OSS vulnerability guide folks for making the Security TAG aware of this collection of resources upon which much of this content was built on.
+CNCF Technical Advisory Group for Security maintains a number of templates to assist projects in addressing these sections, which can be found at [CNCF TAG Security GitHub repository, under Project Resources folder](https://github.com/cncf/tag-security/tree/main/community/resources/project-resources). A special thank you to Google's OSS vulnerability guide folks for making the Security TAG aware of this collection of resources upon which much of this content was built on.
 
 Disclaimer: These resources are designed to be helpful to projects and organizations, they require customization and configuration by the project intending to use them. It does not prevent security issues from being found in a project, will not automatically resolve them, and does not place CNCF Security TAG as the responsible party. If changes are made to these templates, projects are not required to pull in a new update.
 
@@ -121,7 +121,7 @@ This document is an outcome of the self-assessment which articulates all the mea
 
 ## 3.2 Security contacts
 
-This document states who are the personnel to reach out to in case of any security questions regarding the project, including but not limited to the triaging and handling of incoming security issues or security reports. Security contacts could be external participants and are not limited to being the maintainers of the projects. A template for this document is available at [CNCF TAG Security Project Resouces - Security Contacts](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY_CONTACTS.md)
+This document states who are the personnel to reach out to in case of any security questions regarding the project, including but not limited to the triaging and handling of incoming security issues or security reports. Security contacts could be external participants and are not limited to being the maintainers of the projects. A template for this document is available at [CNCF TAG Security Project Resources - Security Contacts](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/SECURITY_CONTACTS.md)
 
 **NOTE**
 
@@ -131,7 +131,7 @@ CNCF could help create a mailing address (through service desk ticket) should pr
 
 Vulnerabilities are sensitive information and exposure of information regarding vulnerabilities without the availability of a patch generates unintended risk for all the consumers of this project, hence it should be handled with caution.
 
-At a minimum, the vulnerability reporting policy projects should include is as follows, A template for this document is available at [CNCF TAG Security Project Resouces - Reporting a Vulnerability](https://github.com/cncf/tag-security/blob/main/project-resources/templates/SECURITY.md#reporting-a-vulnerability):
+At a minimum, the vulnerability reporting policy projects should include is as follows, A template for this document is available at [CNCF TAG Security Project Resources - Reporting a Vulnerability](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/SECURITY.md#reporting-a-vulnerability):
 
 1. The medium to report vulnerabilities - Email, Web form etc.
 2. Disclosure timeline
@@ -153,7 +153,7 @@ The vulnerabilities reported to the project are then handled by the security poi
 5. The consequences of any violations
 6. Disclosure timeline
 
-A template for this document is available at [CNCF TAG Security Project Resouces - Embargo Policy](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo-policy.md)
+A template for this document is available at [CNCF TAG Security Project Resources - Embargo Policy](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/embargo-policy.md)
 
 ## 3.5 Security notifications
 
@@ -169,7 +169,7 @@ The vulnerabilities may need to be reported to certain stakeholders, and for thi
 8. Timeline of events associated with this notification
 9. Any additional information relevant for this notification
 
-A template for this notification is available at [CNCF TAG Security Project Resouces - Embargo](https://github.com/cncf/tag-security/blob/main/project-resources/templates/embargo.md)
+A template for this notification is available at [CNCF TAG Security Project Resources - Embargo](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/embargo.md)
 
 ## 4. Incident Response
 
@@ -189,7 +189,7 @@ Incidence response primarily states how the vulnerability is triaged, replicated
   1. If a CVE is already present, request the CVE
 4. Patch publication and Notification
 
-In addition to the above, you could also consider adding relevant timelines, including but not limited to third party disclosure timelines. A template for the incident management process is available at [CNCF TAG Security Project Resouces - Incident Response](https://github.com/cncf/tag-security/blob/main/project-resources/templates/incident-response.md)
+In addition to the above, you could also consider adding relevant timelines, including but not limited to third party disclosure timelines. A template for the incident management process is available at [CNCF TAG Security Project Resources - Incident Response](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/incident-response.md)
 
 ## 5. OpenSSF best practices badging
 
