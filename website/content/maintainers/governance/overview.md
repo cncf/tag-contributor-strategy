@@ -41,7 +41,7 @@ When documenting your project’s roles, ask the following questions:
 * What duties, privileges, and forms of authority are associated with each role?
 * What project resources are the province or responsibility of people who perform certain roles?
 
-See the [section on Roles]() for more detail and examples of how to develop and document them for your project.
+See the [section on Roles](https://contribute.cncf.io/maintainers/governance/overview/#roles) for more detail and examples of how to develop and document them for your project.
 
 ## Policies and Procedures
 
@@ -57,7 +57,7 @@ Some useful questions to ask when developing P&P for your project include:
 * What is your [charter](charter/), including what is in / out of scope and project values.
 * If your project has elections, how are they conducted?
 
-There is a short list of P&P that every CNCF project is expected to have, and a slightly longer list that every project will want to have.  See the [section on Policies & Procedures]() for more detail.
+There is a short list of P&P that every CNCF project is expected to have, and a slightly longer list that every project will want to have.  See the [section on Policies & Procedures](https://contribute.cncf.io/maintainers/governance/overview/#policies-and-procedures) for more detail.
 
 ## Accurately Documenting Your Governance
 
