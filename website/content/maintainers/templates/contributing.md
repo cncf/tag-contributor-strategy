@@ -40,7 +40,7 @@ Below are instructions for each section in the template:
 
 Your contributing guide is the first place that new contributors will look to understand if your project welcomes contributions and what to expect. So start off strong and make it clear that the project encourages people to contribute. Customize the introductory text in the template to fit your project culture.
 
-The template includes a table of contents, and we encourage you to provide content not just for new contributors, but also for other relevant documentation that you have created for contributors. This makes it easy for everyone to find developer documentation without having to search for it. Splitting out developer documentation into separate documents, such as a Contributing Tutorial and [Reviewing Guide](../recommended/reviewing/) prevent your Contributing Guide becoming overwhelming.
+The template includes a table of contents, and we encourage you to provide content not just for new contributors, but also for other relevant documentation that you have created for contributors. This makes it easy for everyone to find developer documentation without having to search for it. Splitting out developer documentation into separate documents, such as a Contributing Tutorial and [Reviewing Guide](https://contribute.cncf.io/maintainers/templates/reviewing/) prevent your Contributing Guide becoming overwhelming.
 
 ## Ways to Contribute
 
