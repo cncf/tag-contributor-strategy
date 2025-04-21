@@ -1,3 +1,6 @@
-name: Governance review request
- description: OLD: please file a review request in the [TOC repo](https://github.com/cncf/toc/issues) instead
-
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This template has moved to the TOC repo. 
+        Please complete the Governance Review Request [here](https://github.com/cncf/toc/issues)
