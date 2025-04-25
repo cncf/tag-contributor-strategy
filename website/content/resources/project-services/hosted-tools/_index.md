@@ -34,7 +34,7 @@ Most services can be requested through a Service Desk ticket, unless otherwise n
 - [CLOTributor](https://clotributor.dev/) search engine for people looking for opportunites to become Cloud Native contributors.
 - [GitVote](https://github.com/cncf/gitvote) a GitHub application that allows voting in issues and pull requests.
 - [Gitpod](https://www.gitpod.io/) cloud development environments are on-demand and pre-configured with all tools, libraries and dependencies required to be ready-to-code.
-- [Ziplink](https://www.ziplink.click/) for link shortening, link management, QR code generation and audience analytics. Apply directly by filling the [contact form](https://www.ziplink.click/contact) and mention CNCF.
+- [Ziplink](https://www.ziplink.click/) for link shortening, link management, QR code generation and audience analytics. Apply directly for discounted prices by filling the [contact form](https://www.ziplink.click/contact) and mention CNCF.
 
 ## Domains
 
