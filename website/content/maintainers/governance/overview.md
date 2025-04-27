@@ -57,7 +57,7 @@ Some useful questions to ask when developing P&P for your project include:
 * What is your [charter](charter/), including what is in / out of scope and project values.
 * If your project has elections, how are they conducted?
 
-There is a short list of P&P that every CNCF project is expected to have, and a slightly longer list that every project will want to have.  See the [section on Policies & Procedures](#policies-and-procedures) for more detail.
+There is a short list of P&P that every CNCF project is expected to have, and a slightly longer list that every project will want to have.  
 
 ## Accurately Documenting Your Governance
 
