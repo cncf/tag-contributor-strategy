@@ -1,10 +1,10 @@
 ---
 title: "Project Guidance"
 linkTitle: "Maintainers"
-weight: 30
+weight: 32
 menu:
   main:
-    weight: 30
+    weight: 32
 ---
 
 
