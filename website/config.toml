@@ -37,7 +37,7 @@ pygmentsStyle = "tango"
     target = "content"
   
   [[module.mounts]]
-    source = "../CHARTER.md"
+    source = "assets/cncf-toc/tags/tag-charters/contributor-strategy.md"
     target = "content/about/charter.md"
   
   [[module.mounts]]
