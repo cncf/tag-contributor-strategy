@@ -123,7 +123,7 @@ Connect with other maintainers, share best practices, commiserate and grow.
 {{% blocks/feature icon="fas fa-video" title="Meetings" %}}
 View our <a href="https://tockify.com/cncf.public.events/monthly?search=Contributor+Strategy">calendar</a> to see when we meet next.
 
-<a href="https://bit.ly/cncf-contribstrat-agenda">Meeting minutes and agenda</a>
+<a href="https://docs.google.com/document/d/1QKRyr5CNXx5Uc1nzMlyTq-gRKCIrBiYWGsiRZu_Dmyc/edit">Meeting minutes and agenda</a>
 <a href="https://zoom.us/my/cncftagcontributorstrategy">Meeting Link</a>
 {{% /blocks/feature %}}
 
