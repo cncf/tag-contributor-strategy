@@ -33,7 +33,7 @@ Create a supportive and inclusive cloud native/open source community that offers
 
 Meetings occur every third Tuesday of the month, alternating between 5 pm CET / 11 am ET / 8 am PT _and_ 9 pm CET / 3 pm ET / 12 pm PT (check the [CNCF calendar](https://www.cncf.io/calendar/) for details)
 
-- [Monthly meeting minutes](https://docs.google.com/document/d/1XPbjOjcCXizI9_0k7jr-VTxZqMO9aQoitGdmdZd1iIE/edit?usp=drive_link)
+- [Monthly meeting minutes](https://docs.google.com/document/d/1XPbjOjcCXizI9_0k7jr-VTxZqMO9aQoitGdmdZd1iIE)
 
 Facilitators:
 
