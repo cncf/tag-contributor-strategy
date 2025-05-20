@@ -12,7 +12,12 @@ Here are the current open opportunites available to projects:
 
 | **Event** | **CFP Deadline** | **Maintainer CFP Deadline** | **Scholarship Deadline** | **Project Pavilion Deadline** | 
 | :-----: | :--: | :--: | :--: | :--: |
-| TBD | TBD | TBD | TBD | TBD |  
+| [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) | May 27 | TBD | TBD | TBD |
+| [gRPConf North America 2025](https://events.linuxfoundation.org/grpconf/program/cfp/#submit-your-talk) | May 28 | TBD | TBD | TBD |  
+| [KubeCon North America CNCF-hosted Co-located Events North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cfp-colocated-events/#submit-your-talk) | June 30 | TBD | TBD | TBD | 
+| [KubeCon North America + CloudNativeCon North America Project Lightning Talk, Maintainer Track + ContribFest](https://sessionize.com/project-lightning-talk-maintainer-track-na25/) | July 7 | TBD | TBD | TBD |  
+| [Maintainer Summit North America](https://sessionize.com/maintainer-summit-na-2025) | July 31 | TBD | TBD | TBD |  
+| [Submit to Upcoming KCDs](https://sessionize.com/2025-kcd-open-call-for-proposals/) | | | | |
 
 ## Marketing
 
