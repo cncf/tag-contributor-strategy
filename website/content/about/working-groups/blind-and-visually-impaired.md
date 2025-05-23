@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Blind and Visually Impaired Working Group"
 linkTitle: "Blind and Visually Impaired"
 url: /about/blind-and-visually-impaired
