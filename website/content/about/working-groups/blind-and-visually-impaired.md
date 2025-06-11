@@ -16,8 +16,8 @@ Read our [Charter](https://github.com/cncf/tag-contributor-strategy/tree/main/bl
 
 {{% blocks/section color="dark" %}}
 
-The CNCF Blind and Visually Impaired (BVI) working group aims to empower and include individuals who are blind or visually impaired in the cloud native and open source communities.
-Our group's mission is to create a supportive and inclusive environment within the cloud native and open source community.
+The CNCF Blind and Visually Impaired (BVI) initiative aims to empower individuals who are blind or visually impaired in the cloud native and open source communities.
+Our group's mission is to create a supportive environment within the cloud native and open source community.
 
 {{% /blocks/section %}}
 
@@ -50,18 +50,18 @@ Our group's mission is to create a supportive and inclusive environment within t
 
 Benefits for BVI individuals:
 
-- **Inclusion**: Become an active cloud native and open source community member.
+- **Participation**: Become an active cloud native and open source community member.
 - **Career Growth**: Grow your network of hearing and BVI peers and learn about professional opportunities.
 - **Networking**: Connect with a supportive BVI tech community.
 - **Inspiration**: Meet BVI role models.
 - **Educational Resources**: Learn about tools to enhance your tech skills.
 - **Visibility**: Find out about and get support for speaking or other public opportunities.
 
-Benefits for the hearing community:
+Benefits for the sighted community:
 
-- **Diversity and Inclusion**: Learn how to be more diverse and inclusive, enriching the community with different perspectives and talents.
+- **Welcome everyone**: Learn how to be more welcoming to peers with disabilities, enriching the community with different perspectives and talents.
 - **Expanded Talent Pool**: Access to a broader talent pool, including skilled BVI individuals.
-- **Innovation**: Diverse participation fosters innovation and creativity.
+- **Innovation**: Participation from individuals from different backgrounds fosters innovation and creativity.
 - **Education**: Enhanced awareness and understanding of BVI needs and accommodations.
 - **Role Models**: BVI role models can inspire and motivate others in the community.
 - **Networking**: Building connections and collaboration with the BVI in tech community.
