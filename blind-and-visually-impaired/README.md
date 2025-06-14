@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The CNCF Blind and Visually Impaired (BVI) initiative seeks to facilitate empower the BVI in cloud native and open source to become more active and visible.
+The CNCF Blind and Visually Impaired (BVI) initiative seeks to empower the BVI in cloud native and open source to become more active and visible.
 
 ## Problem statement
 
