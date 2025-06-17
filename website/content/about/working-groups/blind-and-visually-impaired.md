@@ -84,7 +84,7 @@ You may find resources of our working group [here](/accessibility/).
 
 We are happy to see that you are interested in helping with this working group. We would love to:
 
-- have you introduce yourself in our [Slack channel](https://cloud-native.slack.com/archives/C05BYNK8A3V).
+- have you introduce yourself in our [Slack channel](https://cloud-native.slack.com/archives/C07CPG6AFC7).
 - see you participate in our meetings where you can contribute ideas and take on responsibilities.
 - gather your feedback about our guides and documentation.
 
