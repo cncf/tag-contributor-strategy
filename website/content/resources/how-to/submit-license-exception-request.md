@@ -13,7 +13,7 @@ Many CNCF projects may require the use of different licenses for various compone
 Under section 11(g) of the CNCF charter, the CNCF Governing Board is empowered to approve alternative licenses on an exception basis. The Governing Board has taken several steps to facilitate this process:
 
 * utilizing Linux Foundation staff to assist with scanning for license policy issues;
-* implementing [a policy to automatically approve](https://github.com/cncf/foundation/blob/main/allowed-third-party-license-policy.md) third-party components meeting certain criteria; and
+* implementing [a policy to automatically approve](https://github.com/cncf/foundation/blob/main/policies-guidance/allowed-third-party-license-policy.md) third-party components meeting certain criteria; and
 * empowering the CNCF Legal Committee, consisting of attorneys from Governing Board member companies, to review and advise the Governing Board on review requests for exceptions where not automatically approved.
 
 # Submitting a license exception request
@@ -23,7 +23,7 @@ If you are a maintainer for a CNCF project that is seeking an exception to the C
 1. First, determine whether a new exception is required at all:
 
   * (a) If your request is for code under Apache-2.0 or documentation under CC-BY-4.0, then no exception should be needed.
-  * (b) If your request is for a component that is entirely covered by the [Approved Licenses for Allowlist](https://github.com/cncf/foundation/blob/main/allowed-third-party-license-policy.md#approved-licenses-for-allowlist), and also meets the other [Allowlist License Policy requirements](https://github.com/cncf/foundation/blob/main/allowed-third-party-license-policy.md#cncf-allowlist-license-policy), then no exception should be needed.
+  * (b) If your request is for a component that is entirely covered by the [Approved Licenses for Allowlist](https://github.com/cncf/foundation/blob/main/policies-guidance/allowed-third-party-license-policy.md#approved-licenses-for-allowlist), and also meets the other [Allowlist License Policy requirements](https://github.com/cncf/foundation/blob/main/policies-guidance/allowed-third-party-license-policy.md#cncf-allowlist-license-policy), then no exception should be needed.
   * (c) If your request is for a third-party component for which a license exception has previously been granted, and the license and intended use of that component have not changed from the prior approval, then no exception should be needed. (see **NOTE** below)
   * (d) If you believe that an exception is required despite the above criteria being satisfied, then please feel free to submit a request anyway, explaining why you believe an exception is required.
 
