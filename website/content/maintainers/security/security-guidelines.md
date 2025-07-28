@@ -70,7 +70,7 @@ Any ideas, bugs or enhancement suggestions reported to the project need to be tr
 
 ### Commit signing
 
-Any code committed to the source code repository associated with the project is recommended to be signed to help ensure the integrity of the code and establish identity of the author(s). Git inspired SCMs like [Github](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits), [Gitlab](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/), and [Bitbucket](https://confluence.atlassian.com/bitbucketserver/using-gpg-keys-913477014.html) all provide different mechanisms to sign & enforce git commits.
+Any code committed to the source code repository associated with the project is recommended to be signed to help ensure the integrity of the code and establish identity of the author(s). Git-inspired SCMs like [Github](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits), [Gitlab](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/), and [Bitbucket](https://confluence.atlassian.com/bitbucketserver/using-gpg-keys-913477014.html) all provide different mechanisms to sign & enforce git commits.
 
 As the security maturity increases, it is a recommended security practice to store the private signing keys on a hardware token (HSMs or YubiKeys) and the adoption of secure key distribution method(s) is encouraged.
 
@@ -193,7 +193,7 @@ In addition to the above, you could also consider adding relevant timelines, inc
 
 ## 5. OpenSSF best practices badging
 
-The [Open Source Security Foundation (OpenSSF)](https://openssf.org/) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices[[5]]. This initiative allows projects to voluntarily self-certify, at no cost, by using their web application[[5]] to explain how they follow each best practice. These badges are a great way to showcase the efforts towards securing the project.
+The [Open Source Security Foundation (OpenSSF)](https://openssf.org/) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices[[4]]. This initiative allows projects to voluntarily self-certify, at no cost, by using their web application[[5]] to explain how they follow each best practice. These badges are a great way to showcase the efforts towards securing the project.
 
 The criteria of best practices badging is defined at [Badging Criteria - BadgeApp](https://bestpractices.coreinfrastructure.org/en/criteria/0). We recommend that all projects obtain a best practices badge and that projects determine the desired badging level early in the development cycle and include it in the project milestones, to ensure efforts towards security as accounted for, managed and tracked. As adoption increases and the project becomes more critical, also consider increasing the badging level. As an example of defining this activity, you could consider passing a bronze/silver badging level prior to the "x" release of the project and aim to attain gold badging level within a defined timeframe.
 
@@ -232,10 +232,10 @@ The [OpenSSF Scorecards](https://securityscorecards.dev/) project helps quickly 
 
 This paper is influenced by the publications of CNCF Technical Advisory Group for Security, particularly the Cloud Native Security Whitepaper[[1]] and Software Supply Chain Security Best Practices Whitepaper,[[2]] and CNCF Cloud Native Security Map[[3]], programs and initiatives by OpenSSF[[4]] [[6]]. Our sincere gratitude for the contributors of these programs and publications, and to Emily Fox for suggesting the creation of this paper, to the contributors and reviewers of this paper.
 
-[1]: https://github.com/cncf/tag-security/blob/main/security-whitepaper/v2/cloud-native-security-whitepaper.md
-[2]: https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf
+[1]: https://github.com/cncf/tag-security/blob/main/community/resources/security-whitepaper/v2/cloud-native-security-whitepaper.md
+[2]: https://github.com/cncf/tag-security/blob/main/community/working-groups/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf
 [3]: https://cnsmap.github.io/
 [4]: https://bestpractices.coreinfrastructure.org/en
-[5]: https://github.com/cncf/tag-security/blob/main/PUBLICATIONS.md
+[5]: https://github.com/cncf/tag-security/tree/main/community/publications
 [6]: https://securityscorecards.dev/
 [7]: https://clomonitor.io/
