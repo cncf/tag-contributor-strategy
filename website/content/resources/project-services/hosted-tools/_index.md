@@ -42,7 +42,7 @@ In the contemporary software landscape, virtually all major projects require hea
 
 Some projects are perfectly well served with fairly basic CI setups, whereas projects like Kubernetes and Envoy require significant financial and human resources.
 
-When projects come to the CNCF requesting some form of CI help, we try to steer them towards GitHub Actions as much as possible. Projects that are part of the CNCF's GitHub Enterprise Account gain access to larger resource runners and runners hosted across various environments using the [GitHub Action Runner Controller](https://github.com/actions/actions-runner-controller).
+When projects come to the CNCF requesting some form of CI help, we try to steer them towards GitHub Actions as much as possible. Projects that are part of the CNCF's GitHub Enterprise Account gain access to larger resource runners and runners hosted across various environments using the [GitHub Action Runner Controller](https://github.com/actions/actions-runner-controller). The GHA setup can be found in the [cncf/automation](https://github.com/cncf/automation/tree/main/ci/) repository. There you'll find which runner groups can be used and how the runner image is built.
 
 
 ## Cloud Infrastructure
