@@ -68,7 +68,7 @@ Leverage GitHub Project Boards to visually organize tasks, issues, and milestone
 
 - Project Boards **provide a centralized platform** for managing and organizing tasks, issues, and milestones related to an open source project.
 - Project Boards offer a **visual representation of the roadmap**, allowing contributors to easily grasp the project's progress, priorities, and upcoming tasks.
-- Project Boards can be c**ustomized to match the specific workflow** of the project, enabling teams to create columns, labels, and categories that align with their development process.
+- Project Boards can be **customized to match the specific workflow** of the project, enabling teams to create columns, labels, and categories that align with their development process.
 - With the ability to **categorize and prioritize tasks**, contributors can focus on essential features or bug fixes, ensuring that the most critical items are addressed first.
 - Project Boards promote collaboration by allowing team members to comment, update, and discuss tasks directly on the board, **fostering better communication and coordination**.
 - Project Boards are tightly integrated with Issues and Pull Requests, **enabling seamless tracking of progress** and linking relevant work items to the roadmap.
@@ -79,7 +79,7 @@ Leverage GitHub Project Boards to visually organize tasks, issues, and milestone
 - By making the Project Board public, open source projects can **increase transparency**, allowing the community to follow the development progress and provide valuable feedback.
 - Project Boards **retain historical data**, making it possible to review past roadmaps, evaluate project performance, and learn from previous development cycles.
 
-A well-organized Project board, is a powerful magnet for attracting contributors to an open source organization. It communicates professionalism, vision, and transparency, while also simplifying the onboarding process and encouraging collaboration. By consistently triaging and grooming issues in bi-weekly community meetings the organization can ensure that the board remains streamlined and relevant, showcasing the organization's commitment to impactful development.
+A well-organized Project board is a powerful magnet for attracting contributors to an open source organization. It communicates professionalism, vision, and transparency, while also simplifying the onboarding process and encouraging collaboration. By consistently triaging and grooming issues in bi-weekly community meetings the organization can ensure that the board remains streamlined and relevant, showcasing the organization's commitment to impactful development.
 By investing in clarity and openness, open source organizations can build a vibrant community of contributors who are inspired to actively engage. Through these concerted efforts, organizations can effectively propel their projects to new heights of success while fostering an atmosphere of continuous improvement and innovation.
 
 **Google Sheets or Excel:**
