@@ -16,6 +16,7 @@ CNCF provides a full portfolio of marketing services and programs to support com
 - CNCF manages the blog editorial calendar for balanced content shared with the community. We also provide writing, editing, and funding freelancers to develop content.
 - Project media velocity reports: Monthly, CNCF pulls press mentions and share of voice data for all projects including mentions in social media and key messaging.
 - [Fashion a Phippy](https://github.com/cncf/foundation/blob/main/phippy-guidelines.md): Graduated projects can donate a character to the [Phippy and Friends](https://www.cncf.io/phippy/) program, to help others better understand the concepts of cloud native computing, and increase the marketing and engagement opportunities for their project.
+- Credly Badges - Each Graduated project can request up to four badges to be distributed to recognize contributors to the project. Maintainer, Contributor, Chop Wood Carry Water, and Documentarian. Graduated projects can [submit requests here](https://form.asana.com/?k=Ufi_ZE31X3EAKMTiplIEcA&d=9283783873717).
 
 ### Marketing Communications
 
