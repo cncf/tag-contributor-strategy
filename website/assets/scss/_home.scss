@@ -98,6 +98,12 @@
 				background-color: rgba(133, 98, 255, 0.8);
 			}
 		}
+		.cta-resources {
+			background-color: rgba(215, 243, 92, 0.7);
+			@media (min-width: 1200px) {
+				background-color: rgba(215, 243, 92, 0.8);
+			}
+		}
 		.cta-link {
 			font-weight: 300;
 			line-height: 140%;
