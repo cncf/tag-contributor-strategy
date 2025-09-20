@@ -38,7 +38,7 @@ When you finish editing the template, remove the Instruction links that explain 
 
 # Governance By Subprojects
 
-[Subproject Governance] is the most complex of our templates, since it covers 
+[Subproject Governance] is the most complex of our templates, since it covers
 the most complex situation: a "federated" project that consists of multiple,
 related, but quasi-autonomous subprojects.  The TAG developed it originally
 for the [Konveyor] project, and has been used by several since then, including
@@ -46,12 +46,12 @@ the [Operator Framework] project.
 
 By "subprojects", we mean technically distinct areas of your overall project
 that each have their own internal leadership and operations. Depending on your
-history, you may call these subprojects, projects, SIGs, vendors, plugins, 
+history, you may call these subprojects, projects, SIGs, vendors, plugins,
 drivers, or a variety of other labels. We will use "subprojects" as a generic
 label.
 
-This template defines a two-level structure where authority flows up from the 
-contributors to the subprojects, to subproject leadership, and from them to 
+This template defines a two-level structure where authority flows up from the
+contributors to the subprojects, to subproject leadership, and from them to
 overall project leadership.
 
 ## Is This Template for Us?
@@ -62,13 +62,13 @@ The [Subproject Governance] template is for you if your project:
 2. The different subprojects share few or no maintainers
 3. The overall pool of maintainers is too large or too differentiated for
    all maintainers to participate directly in overall project governance
-   
+
 If your project meets all of the above conditions, or expects to do so
 soon, governance by subproject may be for you.
 
-If you don't yet meet these conditions, we recommend that you start with a 
-simpler governance template, like the [Maintainer Council] template, and move to 
-this subprojects template later when you actually need it. Starting with 
+If you don't yet meet these conditions, we recommend that you start with a
+simpler governance template, like the [Maintainer Council] template, and move to
+this subprojects template later when you actually need it. Starting with
 a complicated governance structure before you need it creates overhead and
 extra work for project members and maintainers whose time is often better
 spent on project development, rather than governance.
@@ -81,32 +81,32 @@ In addition to the general requirement to research how organization, task
 assignment, and authority in your project already works, there are some specific
 research requirements for this template:
 
-* What are your subprojects, currently?  How many are there? How do things like 
+* What are your subprojects, currently?  How many are there? How do things like
 documentation and website development fit into your list of subprojects?
 * How are leaders/maintainers selected in each subproject?  What are the requirements
   to be a maintainer?  Is this the same across all subprojects, or different?
-* What does each subproject "own"? Do they have separate repositories, or do 
+* What does each subproject "own"? Do they have separate repositories, or do
   they share repos?
 
 Take your time answering these questions. Particularly, determining the list
-of subprojects can be harder than you expect. For example, you can pretty 
-easily decide that each "working group" in your project is a subproject, 
-but what about documentation? Does each subproject own its own docs, 
+of subprojects can be harder than you expect. For example, you can pretty
+easily decide that each "working group" in your project is a subproject,
+but what about documentation? Does each subproject own its own docs,
 or is there a "documentation" subproject?  What about general project
-administration, like github management, events, and your website?  Is that 
+administration, like github management, events, and your website?  Is that
 a subproject, or is it handled some other way?
 
 ### What Do I Need to Customize?
 
 Most customization of Subprojects happens in the following areas:
 
-* Names: the template uses Project/Subproject.  However, many CNCF projects 
-  already have other terms for these concepts, such as Project/SIG or 
+* Names: the template uses Project/Subproject.  However, many CNCF projects
+  already have other terms for these concepts, such as Project/SIG or
   Umbrella/Project, and you will need to do a search-and-replace.
 * Values: like all templates, you need to have a list of project values to
   include.
 * Individual Subproject Governance: the template assumes that each subproject
-  is governed by a maintainer council. Should you have different 
+  is governed by a maintainer council. Should you have different
   governance within subprojects, you will need to detail that.
 * Whether elected as well as appointed members should serve on the Steering
   Committee, and how many.
@@ -117,8 +117,8 @@ it.
 
 ### What Else Is Required?
 
-This template assumes that you have already adopted the [Code of Conduct](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md), 
-added the CNCF-required [security practices](https://github.com/cncf/tag-security/tree/main/project-resources), and added a [Scope section](../governance/charter/) to your README. 
+This template assumes that you have already adopted the [Code of Conduct](https://github.com/cncf/project-template/blob/main/CODE_OF_CONDUCT.md),
+added the CNCF-required [security practices](https://github.com/cncf/tag-security/tree/main/community/resources/project-resources), and added a [Scope section](../governance/charter/) to your README.
 
 The template also expects you to have a documented [Contributor Ladder], either
 based on our template or otherwise. If you do not, you will need to adopt that
@@ -129,15 +129,15 @@ as well.
 **Project**: The overall, "umbrella", "core", or "main" project
 
 **Subproject**: The individual group/repository where work on the project gets done;
-alternately called projects, SIGs, repos, drivers, plugins, operators, working 
+alternately called projects, SIGs, repos, drivers, plugins, operators, working
 groups, or other units of work that each have their own maintainers.
 
 **Maintainer**: A Maintainer of any individual Subproject; the highest level
 on the Contributor Ladder. Also called "owner" or "approver".
 
 **Contributor**: Anyone who contributes significantly to your project, whether
-code or non-code, according to the membership threshold defined in your 
-contributor ladder.  Called "Organization Member" in the [Contributor Ladder].  
+code or non-code, according to the membership threshold defined in your
+contributor ladder.  Called "Organization Member" in the [Contributor Ladder].
 Inclusive of the Maintainers.
 
 ## Template Details
@@ -170,27 +170,27 @@ the form of:
 * [Subproject Name](link): short definition of this subproject
 ```
 
-The name of the subproject should link to the "main" repository or subfolder 
+The name of the subproject should link to the "main" repository or subfolder
 of that subproject, where hopefully there is additional information about
 that subproject.
 
 Example:
 
 ```
-* [Documentation](https://github.com/ourproject/docs/): writes, edits, and owns 
+* [Documentation](https://github.com/ourproject/docs/): writes, edits, and owns
   the User Guide, Administrator Guide, and the project blog.
 ```
 
 This is then followed by an explanation of how each subproject is governed.  The
 example provided offers a simple maintainer committee structure which you'll
-notice is very similar to the [Maintainer Council] governance option for 
+notice is very similar to the [Maintainer Council] governance option for
 projects. This relies on having a complete [Contributor Ladder], which avoids
 needing to define maintainers and other roles in the governance document itself.
 
 If the term you use for your highest level of technical responsibility is not
 "maintainer", you'll want to replace that in this section.
 
-If your subprojects already have leadership structures that are 
+If your subprojects already have leadership structures that are
 different from this, you'll need to define them here, or in linked document(s).
 In addition to any details those subproject documents may have, you'll need
 to ensure that they also cover the following overall project governance
@@ -205,12 +205,12 @@ or one that expects to grow to 4 or more subprojects.  However, if your project
 has 2 to 4 subprojects and does not expect to grow, then it may be appropriate
 to have each subproject appoint two representatives.
 
-If you feel that selection of the representative is likely to be contentious, 
+If you feel that selection of the representative is likely to be contentious,
 you may wish to change to using a preference election system over simple polling.
 
 ### Steering Committee
 
-The Steering Committee (SC) is the escalation-level body in charge of the overall 
+The Steering Committee (SC) is the escalation-level body in charge of the overall
 project. This body might also be called the Technical Oversight Committee.
 The members of the SC are the project's owners as far as the CNCF is concerned,
 and are responsible for the running of the overall project.
@@ -218,7 +218,7 @@ and are responsible for the running of the overall project.
 There are a list of suggested duties for SC members, which should be edited
 to reflect your actual project's needs.  Also, note that the template suggests
 that the SC can delegate its powers to individuals or other groups, which
-will be a necessity for any large project.  For example, the SC could 
+will be a necessity for any large project.  For example, the SC could
 delegate handling security reports to a Security Team. In most projects, the
 day to day technical decisions are handled within each subproject, but conflicts
 between subprojects or anything else that can't be handled within a subproject
@@ -226,19 +226,19 @@ can be escalated to the Steering Committee.
 
 ### Elections
 
-The template includes text for elected members comprising a minority 
-of the Steering Committee. Our recommendation is to have zero, one, 
+The template includes text for elected members comprising a minority
+of the Steering Committee. Our recommendation is to have zero, one,
 or two of these, but not more.
 
 The reasons for having these are:
 
-* Helps balance out big vs. small subprojects without having designated numbers 
+* Helps balance out big vs. small subprojects without having designated numbers
   of extra seats for specific subprojects
 * Gives your general contributors some direct representation
 * Offers a route to leadership for folks outside of slowly working through
   the Contributor Ladder
 * Gets contributors to think about striving for leadership roles once a year
-  
+
 However, federated projects can work quite well without elected seats, especially
 if the overall pool of contributors is small and inclined to consensus. Elections
 do involve a significant amount of overhead.  If you decide to do without them,
@@ -248,13 +248,13 @@ of the Steering section.
 If you are holding elections, the process described is a simplifed version
 of the process used by Kubernetes. That project has found the appointment
 of Election Officers by the SC to be a good way to handle conducting elections.
-For the elections themselves, the CNCF can provide Elekto instances for 
+For the elections themselves, the CNCF can provide Elekto instances for
 holding the vote, or you may have another preference such as Helios or OpaVote.
 
-The template text outlines only one type of representative: a general 
+The template text outlines only one type of representative: a general
 contributor Member representative.  Eligibility to vote would be qualifiying for
 the "Organization Member" level on our template [Contributor Ladder], or
-whatever your project equivalent is. 
+whatever your project equivalent is.
 
 Depending on your project's needs, you may want to have alternative or additional
 types of representatives. For example, you might want to have a representative
@@ -264,18 +264,18 @@ would be:
 
 ```
 The Maintainer Representative(s) will be elected by the collective Maintainers
-of all subprojects, as defined in the Contributor Ladder.  They will be elected 
+of all subprojects, as defined in the Contributor Ladder.  They will be elected
 annually.
 ```
 
-In the current text, candidates are not required to be Organization Members 
-or Maintainers themselves. You may or may not want to require that.  If you 
+In the current text, candidates are not required to be Organization Members
+or Maintainers themselves. You may or may not want to require that.  If you
 do, use text like:
 
 ```
 The Contributor Representative(s) will be elected by the collective Organization
-Members of all subprojects, as defined in the Contributor Ladder.  
-Representative(s) must be Organization Members themselves, and will be elected 
+Members of all subprojects, as defined in the Contributor Ladder.
+Representative(s) must be Organization Members themselves, and will be elected
 annually.
 ```
 
@@ -290,10 +290,10 @@ to staff a CoCC outside of the SC.  If you do not, use instead the following tex
 ## Code of Conduct Reports
 
 The Steering Committee is responsible for handling initial Code of Conduct
-reports or incidents. They will receive reports of conduct violations 
-confidentially.  If a report is determined to be a violation, they will 
-recommend action on it appropriate to the scale, nature, and context of the 
-violation, from requiring an apology, up to expulsion of an individual from the 
+reports or incidents. They will receive reports of conduct violations
+confidentially.  If a report is determined to be a violation, they will
+recommend action on it appropriate to the scale, nature, and context of the
+violation, from requiring an apology, up to expulsion of an individual from the
 project. Should any report require a full investigation, or involve a member
 of the Steering Committee themselves, the report will be forwarded to the
 CNCF conduct team for handling.
@@ -304,7 +304,7 @@ instead.
 
 ### Adding and Removing Subprojects
 
-These sections outline the procedure for adding a new subproject, as well as 
+These sections outline the procedure for adding a new subproject, as well as
 removing one. There is not a lot of need for customization here, unless
 you want to specifically spell out additional technical requirements.  The
 one thing you need to spell out is the location of your "archive" or "attic"
