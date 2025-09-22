@@ -87,5 +87,6 @@ After successful initial screening and moving to the next stages, please be sure
 ✔️ Brief the interview team as outlined in [Brief the Interview Team](#brief-the-interview-team).
 
 - [ ] Share with the interview team the [Interviewers and Hiring Managers Guide](interviewers-and-hiring-managers-guide.md) and relevant sections of the [Interview Stage Specific Guide](interview-stage-specific-guide.md) for each specific interview stage.
-- [ ] Brief the candidate and interpreter ([Brief Candidate and Interpreter on What to Expect](#brief-candidate-and-interpreter-on-what-to-expect))
+✔️ Brief the candidate and interpreter ([Brief Candidate and Interpreter on What to Expect](#brief-candidate-and-interpreter-on-what-to-expect))
+
 - [ ] Share the information with the interpreters if arranged via an agency ([Interpreter Guide](interpreter-guide.md) and [Interview Stage Specific Guide](interview-stage-specific-guide.md)).
