@@ -3,7 +3,7 @@ title: Best Practices for Interviewing a Deaf Candidate Who Relies on Interprete
 ---
 **Note**: Please be sure to read the [introduction](_index.md) to this guide before reading on. 
 
-If you haven't interviewed deaf candidates yet, this guide will help you navigate the process smoothly and set both parties up for success.  
+If you haven't interviewed deaf or hard of hearing candidates before, this guide will help you navigate the process smoothly and set both parties up for success.  
 
 This guide includes various sections for different audiences. Please ensure everyone reads their relevant sections ahead of time. 
 
