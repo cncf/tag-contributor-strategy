@@ -37,7 +37,8 @@ Even with preferred interpreters, in a technical interview, miscommunication is 
 Sign language interpreters often aren't highly specialized in one area, and supporting your candidate might be just one of many topic areas they cover. That's very different from interpreters for spoken language, who tend to be highly specialized in one specific area. It's much more feasible for them to interpret for someone they have never worked with.  
 #### How do you minimize that risk? 
 If the candidate's response seems off, ask again and post the question in the chat if allowed. It is more likely that there was a misunderstanding than not. And always keep in mind that the interpreter, who does not have a technical background, needs to understand the question to interpret it correctly. 
-- **Offer the interviewers to participate**: Let the interviewer know it’s a good practice to briefly join this meeting to share the goal of the interview.  
+
+
 #### Prepare the Environment (Virtual and In-Person)
 Before any interaction, ensure the physical or virtual environment is accessible:
 - **Good lighting**: The interviewer's face must be well-lit and clearly visible. Avoid sitting with a bright window behind you. Since deaf people can't hear your voice, they fully rely on visuals to make a personal connection.
