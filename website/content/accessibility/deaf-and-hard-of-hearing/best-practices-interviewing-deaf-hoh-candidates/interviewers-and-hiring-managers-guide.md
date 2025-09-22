@@ -25,7 +25,8 @@ Even with preferred interpreters, in a technical interview, miscommunication is 
 Sign language interpreters often aren't highly specialized in one area, and supporting your candidate might be just one of many topic areas they cover. That's very different from interpreters for spoken language, who tend to be highly specialized in one specific area. It's much more feasible for them to interpret for someone they have never worked with.  
 ### How Do You Minimize That Risk?
 
-If the candidate's response seems off, ask again and post the question in the chat if allowed. It is more likely that there was a misunderstanding than not. And always keep in mind that the interpreter, who does not have a technical background, needs to understand the question to interpret it correctly. 
+If the candidate's response seems off, ask again and post the question in the chat if allowed. It is more likely that there was a misunderstanding than not. And always keep in mind that **the interpreter, who does not have a technical background, needs to understand the question to interpret it correctly**. 
+
 ##### Tip: Arrange a pre-interview chat
 Even the best designated interpreters emphasize that a brief preparation session is what "makes or breaks" a high-stakes interpretation.
 - **Facilitate a pre-interview chat**: When scheduling, encourage a 5-10 minute pre-meeting before the interview for the candidate and interpreter to connect.
