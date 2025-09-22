@@ -38,7 +38,8 @@ Before any interaction, ensure the physical or virtual environment is accessible
 - **Stable camera**: In virtual interviews, use a stable connection and position the camera at eye level.
 - **Minimal distractions**: A quiet environment with minimal background noise or visual clutter helps everyone focus.
 
-### Plan for Additional time
+## Plan for Additional time
+
 Also, keep in mind that the interpreter and candidate may need extra time. We recommend **planning for an additional 15-minute buffer** (or more, depending on your interview process). 
 Here is why:
 - The interpreter and candidate might need a few back-and-forths for clarification on technical signs, technical language, or terminology.
