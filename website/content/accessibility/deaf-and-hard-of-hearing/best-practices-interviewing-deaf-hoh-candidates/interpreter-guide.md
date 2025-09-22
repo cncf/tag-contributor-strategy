@@ -6,7 +6,8 @@ Thank you for interpreting this high-stakes conversation for our candiate. Your 
 - **Begin the interview with a professional introduction**: Start with a brief script to set clear expectations. This professionalizes the interaction from the start. For example:
 
 
-    Example: “Hello, I am [interpreter's name]. Before we begin, I’d like to briefly explain how we will work together: 1. Please address [candidate's name] directly, as you would in any interview. 2. Maintain a natural conversational pace; I will manage turns if needed. 3. If I need a technical clarification, I will ask briefly to ensure accuracy. Do you have any questions before we begin?”
+    > Example: “Hello, I am [INTERPRETER NAME]. Before we begin, I’d like to briefly explain how we will work together: 1. Please address [CANDIDATE NAME] directly, as you would in any interview. 2. Maintain a natural conversational pace; I will manage turns if needed. 3. If I need a technical clarification, I will ask briefly to ensure accuracy. Do you have any questions before we begin?”
+
 
 - **Prepare in advance**: Familiarize yourself with the interview format (review the Interview Stage Specific Guide), the candidate’s CV/resume, and ask for a list of potential tech topics and jargon in advance. HR or the interviewer (hiring manager or tech lead) should be able to provide this information. If HR didn’t provide any preparation materials, be proactive and ask them to provide that information.
 - **Clarify preferences**: Discuss with the candidate beforehand if they have specific interpreting preferences in each interview stage or particular scenarios or technical signs they would like to agree on.
