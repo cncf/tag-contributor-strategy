@@ -31,7 +31,8 @@ If the candidate's response seems off, ask again and post the question in the ch
 Even the best designated interpreters emphasize that a brief preparation session is what "makes or breaks" a high-stakes interpretation.
 - **Facilitate a pre-interview chat**: When scheduling, encourage a 5-10 minute pre-meeting before the interview for the candidate and interpreter to connect.
 - **Offer the interviewers to participate**: Let the interviewer know it’s a good practice to briefly join this meeting to share the goal of the interview.  
-#### Prepare the Environment (Virtual and In-Person)
+## Prepare the Environment (Virtual and In-Person)
+
 Before any interaction, ensure the physical or virtual environment is accessible:
 - **Good lighting**: The interviewer's face must be well-lit and clearly visible. Avoid sitting with a bright window behind you. Since deaf people can't hear your voice, they fully rely on visuals to make a personal connection.
 - **Stable camera**: In virtual interviews, use a stable connection and position the camera at eye level.
