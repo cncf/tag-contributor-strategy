@@ -5,7 +5,7 @@ description: >
   A Guide for Employers
 ---
 ### Introduction
-Accommodation needs will depend on the interviewee. Deaf individuals may use sign language or speak and lip-read, or use captions and write, while hard of hearing interviewees hear but also rely on additional cues (e.g., lip-reading, captions). In-person or virtual interviews offer different opportunities and challenges, so please be sure to read through all relevant sections ahead of time so you have time to ask the interviewee for necessary accommodations and set everything up to ensure a smooth interview for both parties.
+Accommodation needs vary depending on the interviewee. Deaf individuals may use sign language, speak and lip-read, use captions, or communicate in writing. Hard of hearing interviewees may hear but still rely on additional cues (e.g., lip-reading, captions). In-person and virtual interviews each present unique opportunities and challenges. Please review all relevant sections in advance so you have time to ask the interviewee about necessary accommodations and set everything up to ensure a smooth experience for both parties.
 
 #### Never Assume; Always Ask!
 
