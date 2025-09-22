@@ -4,7 +4,8 @@ title: Interviewer and Hiring Manager Guide
 ---
 You're about to interview a deaf candidate through an interpreter. If this is your first time, you may not be fully aware of what to expect. But don't worry. This guide will help you successfully navigate the interview process.
 
-### Sign language and interpreters: What you need to know
+## Sign Language and Interpreters: What You Need to Know
+
 Sign language interpreters generally do not have a technical background. While you will hopefully be working with someone experienced in interpreting technical discussions in your area of expertise, they won't be familiar with all the technical jargon. To interpret correctly, they must understand the context. If they don't, they will inadvertently misinterpret what you or the candidate said. 
 
 Sign language doesn't work as a one-to-one literal translation of spoken language. It's its own language with its own grammar. That means the interpreter often has to listen to the full sentence, understand it, and then interpret it. To do that effectively, you'll need to communicate in an interpreter-friendly manner. Remember, **if they don't understand you, the candidate won't either**. 
