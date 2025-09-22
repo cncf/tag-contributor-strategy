@@ -30,7 +30,7 @@ Consider sending HR-related questions you might typically cover during a screeni
 - **Accuracy and nuance**: Sign language relies on facial expressions and body language. An interpreter familiar with the candidate’s work drastically reduces ambiguity, and building up that familiarity takes time.
 - **Risk of error**: If the interpreter gets it wrong, you might attribute the error to the candidate, which might make all the difference between getting the job or not. This risk still exists with preferred interpreters, but it is less than with an unfamiliar one. 
 
-#### Why aren't captions enough?
+#### Why Aren’t Captions Enough?
 Some deaf individuals have excellent pronunciation but may still need an interpreter. While automated captions can help verify the accuracy of words, they don't capture the tone, pacing, and emotion, which are all part of effective communication. These are all subtleties the interpreter can help communicate.  
 #### There will be communication challenges
 Even with preferred interpreters, in a technical interview, miscommunication is likely to occur. Job interviews might branch out into topics that are not necessarily familiar to the interpreter. Always keep in mind that interpreters are not technical, even if they are familiar with some of the technical jargon. 
