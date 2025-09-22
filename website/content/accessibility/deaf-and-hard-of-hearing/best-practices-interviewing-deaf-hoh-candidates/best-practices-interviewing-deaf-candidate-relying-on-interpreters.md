@@ -1,5 +1,5 @@
 ---
-title: Best practices for Interviewing a Deaf Candidate Relying on Interpreters
+title: Best Practices for Interviewing a Deaf Candidate Who Relies on Interpreters
 ---
 **Note**: Please be sure to read the [introduction](_index.md) to this guide before reading on. 
 
