@@ -15,7 +15,8 @@ Sign language doesn't work as a one-to-one literal translation of spoken languag
 - If the candidate's answer doesn't make sense, **ask again and try to rephrase** the question (or paste the question in the chat) to ensure the interpreter got it right. It may be an interpreter issue, rather than a lack of subject matter expertise on the candidate's part. 
 - **Create a safe space for questions**. Start by saying, "If you need me to repeat or rephrase a question at any time, please don't hesitate to ask.”
 
-#### Why is it important to use the candidate's preferred interpreter? 
+### Why Is It Important to Use the Candidate’s Preferred Interpreter?
+
 - **Technical familiarity**: Sign language interpreters tend to cover a variety of topics and aren't hyper-specialized in one topic. A candidate's regular interpreter is often familiar with the technical jargon of the candidate’s job field.
 - **Accuracy and nuance**: Sign language relies on facial expressions and body language. An interpreter familiar with the candidate’s work drastically reduces ambiguity, and building up that familiarity takes time.
 - **Risk of error**: If the interpreter gets it wrong, you might attribute the error to the candidate, which might make all the difference between getting the job or not. This risk still exists with preferred interpreters, but it is less than with an unfamiliar one. 
