@@ -57,7 +57,8 @@ Here are the best practices by the Cloud Native Computing Foundation (part of th
     - [Interview Stage Specific Guide](interview-stage-specific-guide.md)
 ### Brief Candidate and Interpreter on What to Expect
 
-#### Why is this briefing important?
+#### Why Is This Briefing Important?
+
 **A successful interview requires a prepared interpreter**. Deaf candidates need to prepare their interpreters by providing domain-specific vocabulary, agreeing on signs (since many technical terms lack official signs), and determining when they might prefer to switch to written communication to prevent potential misinterpretations that could jeopardize their job prospects. 
 
 **For senior tech leaders with a broad range of expertise**, the communication challenge becomes more complex. While the interpreter can prepare for an in-depth discussion on one or two topics, they may struggle to keep up when the candidate discusses cross-functional knowledge, strategic trade-offs, or historical context from various technical domains. 
