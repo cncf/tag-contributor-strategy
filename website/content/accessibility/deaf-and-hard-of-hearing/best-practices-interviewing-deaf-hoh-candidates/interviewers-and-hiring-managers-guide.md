@@ -41,7 +41,7 @@ Also, keep in mind that the interpreter and candidate may need extra time. We re
 Here is why:
 - The interpreter and candidate might need a few back-and-forths for clarification on technical signs, technical language, or terminology.
 - During coding and whiteboarding, the candidate won't be able to code or draw and talk at the same time. This will happen sequentially (code or draw first and explain later), which naturally takes more time. 
-- Deaf candidates often think through both the technical solution and how to explain it simply for the interpreter.
+- The candidate needs to explain things to two audiences: 1) you, the technical interviewer, and 2) the interpreter, a non-technical individual who needs to accuratly interpret what the canidate says. A balancing act that can be quite challenging at times. 
 - Some candidates may read closed captions to monitor interpretation accuracy, which adds to their cognitive load. If they notice a misinterpretation, they may repeat their statements.
 
 To best assess a candidate’s expertise at each interview stage, please review the guidelines in the section [Interview Stage Specific Guide]().
