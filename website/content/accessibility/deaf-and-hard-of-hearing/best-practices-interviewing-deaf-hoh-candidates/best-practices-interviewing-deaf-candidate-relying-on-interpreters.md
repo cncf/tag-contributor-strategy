@@ -9,7 +9,7 @@ This guide contains different sections tailored for various audiences. Please ma
 
 - [HR or Recruitment Team Guide](#hr-and-recruitment-team-guide) (below)
 
-- [Interviewers and Hiring Managers Guide](interviewers-and-hiring-managers-guide.md)
+- [Interviewer and Hiring Managers Guide](interviewer-and-hiring-managers-guide.md)
 - [Interpreter Guide](interpreter-guide.md)
 - [Interview Stage-Specific Guide](interview-stage-specific-guide.md)
 
@@ -51,11 +51,10 @@ Before any interaction, ensure the physical or virtual environment is accessible
 ### Brief the Interview Team
 Educate all participants in the interview process about the accommodation details. Provide the interviewer with details about the candidate and the interview process, as this information will likely be new to them. Your briefing should include:
 - **Logistical details**: Interview format, the role of the interpreter, and the use of any technical aids.
-- **Interpersonal preparation**: It's common for interviewers to feel nervous or unsure if they haven't interacted with a deaf individual before. Assure them that the key is patience, respect, and directing questions to the candidate, not the interpreter. A 5-minute pre-briefing can significantly reduce their anxiety and create a more welcoming atmosphere. Be sure to send them a link to the “Info for Interviewers” section below.
+- **Interpersonal preparation**: It's common for interviewers to feel nervous or unsure if they haven't interacted with a deaf individual before. Assure them that the key is patience, respect, and directing questions to the candidate, not the interpreter. A 5-minute pre-briefing can significantly reduce their anxiety and create a more welcoming atmosphere. Please be sure to share the resources below to help them start their experience on a positive note.
 - **Share relevant resources**. You can copy and paste the message below in your brief:
-> Here are the best practices by the Cloud Native Computing Foundation (part of the Linux Foundation) for the interview process. Please be sure to read them ahead of time to ensure a smooth interview for you and the candidate: [Select the appropriate resource for the interview stage]
-
-    - [Interviewers & Hiring Managers](interviewers-and-hiring-managers-guide.md)
+> Here are the best practices by the Cloud Native Computing Foundation (part of the Linux Foundation) for the interview process. Please be sure to read them ahead of time to ensure a smooth interview for you and the candidate: [Select the appropriate resource for the interview stage]</br>
+    - [Interviewer & Hiring Managers](interviewer-and-hiring-managers-guide.md)</br>
     - [Interview Stage Specific Guide](interview-stage-specific-guide.md)
 ### Brief Candidate and Interpreter on What to Expect
 
@@ -80,13 +79,14 @@ Providing this information is not to give candidates an edge but rather to ensur
 
 ##### The Next Interview Stages
 After successful initial screening and moving to the next stages, please be sure to follow the checklist below:
+
 ✔️ Review [HR and Recruitment Team Guide](#hr-and-recruitment-team-guide).
 
 ✔️ Review [Interview Stage Specific Guide](interview-stage-specific-guide.md).
 
 ✔️ Brief the interview team as outlined in [Brief the Interview Team](#brief-the-interview-team).
 
-✔️ Share with the interview team the [Interviewers and Hiring Managers Guide](interviewers-and-hiring-managers-guide.md) and relevant sections of the [Interview Stage Specific Guide](interview-stage-specific-guide.md) for each specific interview stage.
+✔️ Share with the interview team the [Interviewer and Hiring Managers Guide](interviewer-and-hiring-managers-guide.md) and relevant sections of the [Interview Stage Specific Guide](interview-stage-specific-guide.md) for each specific interview stage.
 
 ✔️ Brief the candidate and interpreter ([Brief Candidate and Interpreter on What to Expect](#brief-candidate-and-interpreter-on-what-to-expect))
 

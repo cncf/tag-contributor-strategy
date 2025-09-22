@@ -8,7 +8,9 @@ Inform the candidates about the format of each interview stage and ask what acco
 3. **Suggest accommodation options**: If your company has an Accessibility or Accommodation team, consult with them about optimal accommodation. Some candidates may have only done a few job interviews in their lives, and they might not fully understand their needs before the interview either. 
 ### Interview Stage Accommodations
 **CV walkthrough**: This discussion typically covers a broad vocabulary to describe past projects and technologies. The interpreter will need to familiarize themselves with the CV and project list in advance and get a chance to ask for clarification (e.g., technical terms like Kubernetes, CI/CD, etc.).
+
 **Technical interview**: The interview will likely cover technical jargon specific to the role and the candidate’s background. The candidate will need to familiarize the interpreters with relevant terms in advance. For example, in an infrastructure-related conversation, the interpreters would need to be prepared for terms like OpenTofu, state file, drift, modules, and other concepts unique to the domain.
+
 **Live coding**: This can be challenging. The candidate will need to type and sign simultaneously. There will be interruptions for clarification, and the candidate will likely be monitoring captions to ensure interpretation accuracy. Interpreters are often unfamiliar with jargon like “Big O notation,” “O(nlogn),” or “linked list” and will likely struggle to follow and interrupt for clarifications.
 - **Consider a take-home assignment**: This allows the candidate to work without communication barriers and interruptions. Schedule a follow-up session where the candidate can walk through their code and answer follow-up questions.
 - **If live coding is mandatory**:
