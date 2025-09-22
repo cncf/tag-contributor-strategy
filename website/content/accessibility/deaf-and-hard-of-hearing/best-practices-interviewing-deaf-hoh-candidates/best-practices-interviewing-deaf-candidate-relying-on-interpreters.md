@@ -80,7 +80,8 @@ Providing this information is not to give candidates an edge but rather to ensur
 
 ##### The Next Interview Stages
 After successful initial screening and moving to the next stages, please be sure to follow the checklist below:
-- [ ] Review [HR and Recruitment Team Guide](#hr-and-recruitment-team-guide).
+✔️ Review [HR and Recruitment Team Guide](#hr-and-recruitment-team-guide).
+
 ✔️ Review [Interview Stage Specific Guide](interview-stage-specific-guide.md).
 
 - [ ] Brief the interview team as outlined in [Brief the Interview Team](#brief-the-interview-team).
