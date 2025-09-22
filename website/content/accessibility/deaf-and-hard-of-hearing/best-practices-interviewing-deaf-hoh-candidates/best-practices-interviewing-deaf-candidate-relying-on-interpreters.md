@@ -73,7 +73,7 @@ These gaps in the interpreter's knowledge can make the candidate appear less kno
 
 Providing this information is not to give candidates an edge but rather to ensure the interpreter is ready for the task; it’s about equipping the interpreter to accurately convey the candidate’s experience, which ensures a better evaluation.
 
-##### The next interview stages
+##### The Next Interview Stages
 After successful initial screening and moving to the next stages, please be sure to follow the checklist below:
 - [ ] Review [HR and Recruitment Team Guide](#hr-and-recruitment-team-guide).
 - [ ] Review [Interview Stage Specific Guide](interview-stage-specific-guide.md).
