@@ -55,7 +55,8 @@ Educate all participants in the interview process about the accommodation detail
 Here are the best practices by the Cloud Native Computing Foundation (part of the Linux Foundation) for the interview process. Please be sure to read them ahead of time to ensure a smooth interview for you and the candidate: [add the appropriate link]
     - [Interviewers & Hiring Managers](interviewers-and-hiring-managers-guide.md)
     - [Interview Stage Specific Guide](interview-stage-specific-guide.md)
-### Brief candidate and interpreter on what to expect
+### Brief Candidate and Interpreter on What to Expect
+
 #### Why is this briefing important?
 **A successful interview requires a prepared interpreter**. Deaf candidates need to prepare their interpreters by providing domain-specific vocabulary, agreeing on signs (since many technical terms lack official signs), and determining when they might prefer to switch to written communication to prevent potential misinterpretations that could jeopardize their job prospects. 
 
