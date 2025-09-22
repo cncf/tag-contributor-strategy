@@ -13,7 +13,7 @@ This guide contains different sections tailored for various audiences. Please ma
 - [Interpreter Guide](interpreter-guide.md)
 - [Interview Stage-Specific Guide](interview-stage-specific-guide.md)
 
-### HR and Recruitment Team Guide
+## HR and Recruitment Team Guide
 At this stage, you already know that the candidate will need interpreters and want to set up the initial screening meeting or call. 
 
 ### Initial HR Screening 
