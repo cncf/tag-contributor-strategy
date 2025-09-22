@@ -28,7 +28,8 @@ Consider sending HR-related questions you might typically cover during a screeni
 #### Why Is It Important to Use the Candidate’s Preferred Interpreter?
 - **Technical familiarity**: Sign language interpreters tend to cover a variety of topics and aren't hyper-specialized in one topic. A candidate's regular interpreter is often familiar with the technical jargon of the candidate’s job field.
 - **Accuracy and nuance**: Sign language relies on facial expressions and body language. An interpreter familiar with the candidate’s work drastically reduces ambiguity, and building up that familiarity takes time.
-- **Risk of error**: If the interpreter gets it wrong, you might attribute the error to the candidate, which might make all the difference between getting the job or not. This risk still exists with preferred interpreters, but it is less than with an unfamiliar one. 
+- **Risk of error**: If the interpreter gets it wrong, you might attribute the error to the candidate, which might make all the difference between getting the job or not. This risk still exists with preferred interpreters, but is significantly reduced. 
+
 
 #### Why Aren’t Captions Enough?
 Some deaf individuals have excellent pronunciation but may still need an interpreter. While automated captions can help verify the accuracy of words, they don't capture the tone, pacing, and emotion, which are all part of effective communication. These are all subtleties the interpreter can help communicate.  
