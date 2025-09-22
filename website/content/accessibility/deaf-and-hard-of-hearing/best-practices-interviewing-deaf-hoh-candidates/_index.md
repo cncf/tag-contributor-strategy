@@ -21,7 +21,8 @@ Most countries have laws mandating reasonable accommodations or adjustments for 
 - **México**: [Ley General para la Inclusión de las Personas con Discapacidad](https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf) (Art. 7 and 11) and [Ley Federal del Trabajo](https://www.gob.mx/cms/uploads/attachment/file/156203/1044_Ley_Federal_del_Trabajo.pdf) (Art. 3) (Spanish)</br>
 - **Japan**: [Act for Eliminating Discrimination against Persons with Disabilities](https://www.japaneselawtranslation.go.jp/en/laws/view/3052) (Japanese / English) </br>
 
-### Guides based on candidate needs
+### Guides Based on Candidate Needs
+
 1. [Best Practices for Interviewing a Deaf Candidate Relying on Interpreters](best-practices-interviewing-deaf-candidate-relying-on-interpreters.md) </br>
 2. Best Practices for Interviewing a Deaf Candidate Relying on Captions (coming soon)</br>
 3. Best Practices for Interviewing a Hard of Hearing Candidate Relying on Captions (coming soon)
