@@ -1,5 +1,6 @@
 ---
-title: Interviewers and Hiring Managers Guide
+title: Interviewer and Hiring Manager Guide
+
 ---
 You're about to interview a deaf candidate through an interpreter. If this is your first time, you may not be fully aware of what to expect. But don't worry. This guide will help you successfully navigate the interview process.
 
