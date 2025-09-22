@@ -7,7 +7,8 @@ If you haven't interviewed deaf candidates yet, this guide will help you navigat
 
 This guide includes various sections for different audiences. Please ensure everyone reads their relevant sections ahead of time. 
 
-- [HR or Recruitment Team Guide (below)](#hr-and-recruitment-team-guide)
+- [HR or Recruitment Team Guide](#hr-and-recruitment-team-guide) (below)
+
 - [Interviewers and Hiring Managers Guide](interviewers-and-hiring-managers-guide.md)
 - [Interpreter Guide](interpreter-guide.md)
 - [Interview Stage-Specific Guide](interview-stage-specific-guide.md)
