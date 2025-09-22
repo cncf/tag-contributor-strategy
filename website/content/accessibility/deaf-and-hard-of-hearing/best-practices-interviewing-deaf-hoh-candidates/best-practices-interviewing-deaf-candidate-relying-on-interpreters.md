@@ -74,7 +74,8 @@ These gaps in the interpreter's knowledge can make the candidate appear less kno
 
     To ensure our potential candidate has the best interview experience, please review the [guideline for interpreters](interpreter-guide.md) and connect with the candidate to prepare for the interview.
 
-Providing this information is not to give candidates an edge but rather to ensure the interpreter is ready for the task; it’s about equipping the interpreter to accurately convey the candidate’s experience, which ensures a better evaluation.
+Providing this information is not to give candidates an edge but rather to ensure the interpreter is ready for the task. It’s about equipping the interpreter to accurately convey the candidate’s experience, which ensures a better evaluation.
+
 
 ##### The Next Interview Stages
 After successful initial screening and moving to the next stages, please be sure to follow the checklist below:
