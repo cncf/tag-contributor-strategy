@@ -9,7 +9,7 @@ Accommodation needs vary depending on the interviewee. Deaf individuals may use 
 
 #### Never Assume; Always Ask!
 
-> When it comes to interviewing a deaf or hard of hearing candidate, the most important thing is **never to assume and always to ask the candidate about their needs and preferences**. Always ask the deaf candidate directly (or via the HR or accessibility team) what accommodations and communication methods work best for them.
+When it comes to interviewing a deaf or hard of hearing candidate, the most important thing is **never to assume and always to ask the candidate about their needs and preferences**. Always ask the deaf candidate directly (or via the HR or accessibility team) what accommodations and communication methods work best for them.
 Job interviews are stressful enough, and placing a candidate in an uncomfortable situation may jeopardize their chances of a fair process. Deaf and hard of hearing individuals already face many barriers. Please do your best to make the process smooth **at every stage of the interview** to ensure their full participation and optimal performance.
 
 ---
