@@ -32,7 +32,8 @@ Consider sending HR-related questions you might typically cover during a screeni
 
 #### Why Aren’t Captions Enough?
 Some deaf individuals have excellent pronunciation but may still need an interpreter. While automated captions can help verify the accuracy of words, they don't capture the tone, pacing, and emotion, which are all part of effective communication. These are all subtleties the interpreter can help communicate.  
-#### There will be communication challenges
+#### There Will Be Communication Challenges
+
 Even with preferred interpreters, in a technical interview, miscommunication is likely to occur. Job interviews might branch out into topics that are not necessarily familiar to the interpreter. Always keep in mind that interpreters are not technical, even if they are familiar with some of the technical jargon. 
 
 Sign language interpreters often aren't highly specialized in one area, and supporting your candidate might be just one of many topic areas they cover. That's very different from interpreters for spoken language, who tend to be highly specialized in one specific area. It's much more feasible for them to interpret for someone they have never worked with.  
