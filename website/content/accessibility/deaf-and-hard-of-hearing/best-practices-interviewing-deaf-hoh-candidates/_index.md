@@ -7,7 +7,8 @@ description: >
 ### Introduction
 Accommodation needs will depend on the interviewee. Deaf individuals may use sign language or speak and lip-read, or use captions and write, while hard of hearing interviewees hear but also rely on additional cues (e.g., lip-reading, captions). In-person or virtual interviews offer different opportunities and challenges, so please be sure to read through all relevant sections ahead of time so you have time to ask the interviewee for necessary accommodations and set everything up to ensure a smooth interview for both parties.
 
-#### Never assume; always ask!
+#### Never Assume; Always Ask!
+
 > When it comes to interviewing a deaf or hard of hearing candidate, the most important thing is **never to assume and always to ask the candidate about their needs and preferences**. Always ask the deaf candidate directly (or via the HR or accessibility team) what accommodations and communication methods work best for them.
 Job interviews are stressful enough, and if you put a candidate in an uncomfortable situation, it will jeopardize their chances of a fair interview process. Deaf and hard of hearing individuals already face enough barriers. Please try to make the process as smooth as possible **in each interview stage** to ensure their full participation and optimal performance.
 ---
