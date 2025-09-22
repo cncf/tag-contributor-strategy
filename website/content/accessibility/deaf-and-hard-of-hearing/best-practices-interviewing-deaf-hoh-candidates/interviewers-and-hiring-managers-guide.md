@@ -29,7 +29,6 @@ If the candidate's response seems off, ask again and post the question in the ch
 
 
 
-- **Offer the interviewers to participate**: Let the interviewer know it’s a good practice to briefly join this meeting to share the goal of the interview.  
 ## Prepare the Environment (Virtual and In-Person)
 
 Before any interaction, ensure the physical or virtual environment is accessible:
