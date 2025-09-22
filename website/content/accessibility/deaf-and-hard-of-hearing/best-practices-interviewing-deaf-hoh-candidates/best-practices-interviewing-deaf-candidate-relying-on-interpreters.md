@@ -16,7 +16,8 @@ This guide includes various sections for different audiences. Please ensure ever
 At this stage, you already know that the candidate will need interpreters and want to set up the initial screening meeting or call. 
 
 ### Initial HR screening 
-Before setting up the initial screening call, ask whether the candidate has a preferred interpreter. If they do, be sure to ensure you use theirs (learn more below). If the interview takes **over 30 minutes, you’ll need two interpreters**.
+Before setting up the initial screening call, ask whether the candidate has a preferred interpreter. If they do, be sure to ensure you use theirs (for more details see below). If the interview takes **over 30 minutes, you’ll need two interpreters**.
+
 - **If they have a preferred interpreter**, request the interpreter’s contact details to facilitate scheduling and payment (or pass the details to the Accessibility team to handle that).
 - **If they do not have a preferred interpreter**, book a qualified interpreter via an interpreter agency. Be sure to book someone with experience interpreting technical conversations. An interpreter without proper experience can negatively impact the interview outcome. Once you have booked someone, send the interpreter's contact details to the candidate so the candidate can brief the interpreter and provide any important information prior to the interview.
 
