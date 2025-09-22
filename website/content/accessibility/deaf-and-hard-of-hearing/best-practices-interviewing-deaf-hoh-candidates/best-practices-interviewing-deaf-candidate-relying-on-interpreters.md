@@ -65,7 +65,8 @@ Educate all participants in the interview process about the accommodation detail
 
 **For senior tech leaders with a broad range of expertise**, the communication challenge becomes more complex. While the interpreter can prepare for an in-depth discussion on one or two topics, they may struggle to keep up when the candidate discusses cross-functional knowledge, strategic trade-offs, or historical context from various technical domains. 
 
-These gaps in the interpreter's knowledge can make the candidate appear less knowledgeable. To prevent this, consider the following recommendations.
+These gaps in the interpreter's knowledge can make the candidate appear less knowledgeable. To prevent this, consider sharing the following information before the interview:
+
 - **Interview format**: What's the interview flow? For example, CV walkthrough, job experience, technical discussion, live coding, or system design. Interpreters need preparation. 
 - **Topics and domains of focus**: Without revealing specific questions, share the general technical areas that will be covered. For example: “The system design session will focus on data-intensive applications” or “The technical discussion will cover Kubernetes and infrastructure as code.”
 - **Tools and platforms**: Inform the candidate about any specialized tools that will be used (e.g., whiteboard and coding) so they can familiarize themselves with the interface and understand how to work with the interpreter, who may not see the code or diagrams if screen sharing is not permitted.
