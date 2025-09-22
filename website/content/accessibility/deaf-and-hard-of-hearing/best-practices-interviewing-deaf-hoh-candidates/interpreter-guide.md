@@ -1,7 +1,8 @@
 ---
 title: "Interpreter Guide"
 ---
-Thank you for interpreting this high-stakes conversation for your client. Your work is essential to the candidate's success and will directly impact the outcome of the hiring decision. To help ensure the interview goes as smoothly as possible, please keep the following recommendations in mind.
+Thank you for interpreting this high-stakes conversation for our candiate. Your work is essential to the candidate's success and will impact the outcome of the hiring decision. To help ensure the interview goes as smoothly as possible, please keep the following recommendations in mind.
+
 - **Begin the interview with a professional introduction**: Start with a brief script to set clear expectations. This professionalizes the interaction from the start:
 
     Example: “Hello, I am [interpreter's name]. Before we begin, I’d like to briefly explain how we will work together: 1. Please address [candidate's name] directly, as you would in any interview. 2. Maintain a natural conversational pace; I will manage turns if needed. 3. If I need a technical clarification, I will ask briefly to ensure accuracy. Do you have any questions before we begin?”
