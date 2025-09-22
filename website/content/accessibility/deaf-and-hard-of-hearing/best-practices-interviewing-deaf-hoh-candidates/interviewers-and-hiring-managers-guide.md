@@ -27,7 +27,6 @@ Sign language interpreters often aren't highly specialized in one area, and supp
 
 If the candidate's response seems off, ask again and post the question in the chat if allowed. It is more likely that there was a misunderstanding than not. And always keep in mind that **the interpreter, who does not have a technical background, needs to understand the question to interpret it correctly**. 
 
-##### Tip: Arrange a pre-interview chat
 Even the best designated interpreters emphasize that a brief preparation session is what "makes or breaks" a high-stakes interpretation.
 - **Facilitate a pre-interview chat**: When scheduling, encourage a 5-10 minute pre-meeting before the interview for the candidate and interpreter to connect.
 - **Offer the interviewers to participate**: Let the interviewer know it’s a good practice to briefly join this meeting to share the goal of the interview.  
