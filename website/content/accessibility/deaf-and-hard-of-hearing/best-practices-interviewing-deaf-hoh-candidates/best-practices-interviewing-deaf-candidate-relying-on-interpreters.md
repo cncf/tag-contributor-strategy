@@ -9,7 +9,7 @@ This guide contains different sections tailored for various audiences. Please ma
 
 - [HR or Recruitment Team Guide](#hr-and-recruitment-team-guide) (below)
 
-- [Interviewer and Hiring Managers Guide](interviewer-and-hiring-managers-guide.md)
+- [Interviewer and Hiring Manager Guide](interviewer-and-hiring-manager-guide.md)
 - [Interpreter Guide](interpreter-guide.md)
 - [Interview Stage-Specific Guide](interview-stage-specific-guide.md)
 
@@ -54,9 +54,7 @@ Educate all participants in the interview process about the accommodation detail
 - **Interpersonal preparation**: It's common for interviewers to feel nervous or unsure if they haven't interacted with a deaf individual before. Assure them that the key is patience, respect, and directing questions to the candidate, not the interpreter. A 5-minute pre-briefing can significantly reduce their anxiety and create a more welcoming atmosphere. Please be sure to share the resources below to help them start their experience on a positive note.
 - **Share relevant resources**. You can copy and paste the message below in your brief:
 > Here are the best practices by the Cloud Native Computing Foundation Deaf and Hard of Hearing Working Group for the interview process. Please be sure to read them ahead of time to ensure a smooth interview for you and the candidate: [Select the appropriate resource for the interview stage]</br>
-
-    - [Interviewer & Hiring Manager Guide](interviewer-and-hiring-managers-guide.md)</br>
-
+    - [Interviewer & Hiring Manager Guide](interviewer-and-hiring-manager-guide.md)</br>
     - [Interview Stage Specific Guide](interview-stage-specific-guide.md)
 ### Brief Candidate and Interpreter on What to Expect
 
@@ -90,7 +88,7 @@ After successful initial screening and moving to the next stages, please be sure
 ✔️ [Brief the Interview Team](#brief-the-interview-team).
 
 
-✔️ Share the [Interviewer and Hiring Manager Guide](interviewer-and-hiring-managers-guide.md) and relevant sections of the [Interview Stage Specific Guide](interview-stage-specific-guide.md) for each specific interview stage with the interview team.
+✔️ Share the [Interviewer and Hiring Manager Guide](interviewer-and-hiring-manager-guide.md) and relevant sections of the [Interview Stage Specific Guide](interview-stage-specific-guide.md) for each specific interview stage with the interview team.
 
 
 ✔️ ([Brief Candidate and Interpreter on What to Expect](#brief-candidate-and-interpreter-on-what-to-expect))
