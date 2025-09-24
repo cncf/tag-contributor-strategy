@@ -71,7 +71,8 @@ These gaps in the interpreter's knowledge can make the candidate appear less kno
 - **Tools and platforms**: Inform the candidate about any specialized tools that will be used (e.g., whiteboard and coding) so they can familiarize themselves with the interface and understand how to work with the interpreter, who may not see the code or diagrams if screen sharing is not permitted.
 - **Prepare the interpreter**: If you booked an interpreter through the agency, please share the [Interpreter Guide](interpreter-guide.md) with them. You can copy and paste the message below:
 
-> To ensure our potential candidate has the best interview experience, please review the [guideline for interpreters](interpreter-guide.md) and connect with the candidate to prepare for the interview.
+> To ensure a smooth interview experience for all parties, please review the [guideline for interpreters](interpreter-guide.md) and connect with the candidate to prepare for the interview.
+
 
 
 Providing this information is not to give candidates an edge but rather to ensure the interpreter is ready for the task. It’s about equipping the interpreter to accurately convey the candidate’s experience, which ensures a better evaluation.
