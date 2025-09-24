@@ -25,5 +25,6 @@ Most countries have laws mandating reasonable accommodations or adjustments for 
 ### Guides Based on Candidate Needs
 
 1. [Best Practices for Interviewing a Deaf Candidate Relying on Interpreters](best-practices-interviewing-deaf-candidate-relying-on-interpreters.md) </br>
-2. Best Practices for Interviewing a Deaf Candidate Relying on Captions (coming soon)</br>
+2. Best Practices for Interviewing a Deaf Candidate Relying on Captions (COMING SOON)</br>
+
 3. Best Practices for Interviewing a Hard of Hearing Candidate Relying on Captions (coming soon)
