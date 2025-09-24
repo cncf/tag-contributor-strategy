@@ -90,6 +90,7 @@ After successful initial screening and moving to the next stages, please be sure
 ✔️ Share the [Interviewer and Hiring Manager Guide](interviewer-and-hiring-managers-guide.md) and relevant sections of the [Interview Stage Specific Guide](interview-stage-specific-guide.md) for each specific interview stage with the interview team.
 
 
-✔️ Brief the candidate and interpreter ([Brief Candidate and Interpreter on What to Expect](#brief-candidate-and-interpreter-on-what-to-expect))
+✔️ ([Brief Candidate and Interpreter on What to Expect](#brief-candidate-and-interpreter-on-what-to-expect))
+
 
 ✔️ Share the information with the interpreters if arranged via an agency ([Interpreter Guide](interpreter-guide.md) and [Interview Stage Specific Guide](interview-stage-specific-guide.md)).
