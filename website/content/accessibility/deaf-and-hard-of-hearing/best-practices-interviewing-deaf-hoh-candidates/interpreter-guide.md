@@ -1,7 +1,8 @@
 ---
 title: "Interpreter Guide"
 ---
-Thank you for interpreting this high-stakes conversation for our candiate. Your work is essential to the candidate's success and will impact the outcome of the hiring decision. To help ensure the interview goes as smoothly as possible, please keep the following recommendations in mind.
+Thank you for interpreting this high-stakes conversation. Your work is essential to the candidate's success and will impact the outcome of the hiring decision. To help ensure the interview goes as smoothly as possible, please keep the following recommendations in mind.
+
 
 - **Begin the interview with a professional introduction**: Start with a brief script to set clear expectations. This professionalizes the interaction from the start. For example:
 
