@@ -53,7 +53,8 @@ Educate all participants in the interview process about the accommodation detail
 - **Logistical details**: Interview format, the role of the interpreter, and the use of any technical aids.
 - **Interpersonal preparation**: It's common for interviewers to feel nervous or unsure if they haven't interacted with a deaf individual before. Assure them that the key is patience, respect, and directing questions to the candidate, not the interpreter. A 5-minute pre-briefing can significantly reduce their anxiety and create a more welcoming atmosphere. Please be sure to share the resources below to help them start their experience on a positive note.
 - **Share relevant resources**. You can copy and paste the message below in your brief:
-> Here are the best practices by the Cloud Native Computing Foundation (part of the Linux Foundation) for the interview process. Please be sure to read them ahead of time to ensure a smooth interview for you and the candidate: [Select the appropriate resource for the interview stage]</br>
+> Here are the best practices by the Cloud Native Computing Foundation Deaf and Hard of Hearing Working Group for the interview process. Please be sure to read them ahead of time to ensure a smooth interview for you and the candidate: [Select the appropriate resource for the interview stage]</br>
+
     - [Interviewer & Hiring Managers](interviewer-and-hiring-managers-guide.md)</br>
     - [Interview Stage Specific Guide](interview-stage-specific-guide.md)
 ### Brief Candidate and Interpreter on What to Expect
