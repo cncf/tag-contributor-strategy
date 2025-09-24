@@ -93,4 +93,4 @@ After successful initial screening and moving to the next stages, please be sure
 ✔️ ([Brief Candidate and Interpreter on What to Expect](#brief-candidate-and-interpreter-on-what-to-expect))
 
 
-✔️ Share the information with the interpreters if arranged via an agency ([Interpreter Guide](interpreter-guide.md) and [Interview Stage Specific Guide](interview-stage-specific-guide.md)).
+✔️ Share the ([Interpreter Guide](interpreter-guide.md) and [Interview Stage Specific Guide](interview-stage-specific-guide.md)) with the interpreters if arranged via an agency. 
