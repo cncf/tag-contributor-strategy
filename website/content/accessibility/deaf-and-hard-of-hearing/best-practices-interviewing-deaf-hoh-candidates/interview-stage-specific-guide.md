@@ -2,11 +2,11 @@
 title: "Interview Stage Specific Guide"
 ---
 Inform the candidates about the format of each interview stage and ask what accommodations they need. Accommodation needs may differ depending on the setup or task. A successful interview also requires a prepared interpreter. The following example demonstrates why preparation needs to be different for each stage:
-## General Accommodations
+### General Accommodations
 1. **Offer extra time**: Ask if the candidate needs extra time for interviews.
 2. **Schedule a 30-minute pre-interview session**: If the candidate and interpreter don't know each other, arrange a meeting between the two so they can familiarize themselves with each other’s signing styles and discuss relevant background information and interview expectations.
 3. **Suggest accommodation options**: If your company has an Accessibility or Accommodation team, consult with them about optimal accommodation. Some candidates may have only done a few job interviews in their lives, and they might not fully understand their needs before the interview either. 
-## Interview Stage Accommodations
+### Interview Stage Accommodations
 **CV walkthrough**: This discussion typically covers a broad vocabulary to describe past projects and technologies. The interpreter will need to familiarize themselves with the CV and project list in advance and get a chance to ask for clarification (e.g., technical terms like Kubernetes, CI/CD, etc.).
 
 **Technical interview**: The interview will likely cover technical jargon specific to the role and the candidate’s background. The candidate will need to familiarize the interpreters with relevant terms in advance. For example, in an infrastructure-related conversation, the interpreters would need to be prepared for terms like OpenTofu, state file, drift, modules, and other concepts unique to the domain.
