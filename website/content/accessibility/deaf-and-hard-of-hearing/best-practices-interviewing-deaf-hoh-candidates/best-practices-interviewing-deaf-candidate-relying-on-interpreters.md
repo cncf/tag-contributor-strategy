@@ -85,7 +85,8 @@ After successful initial screening and moving to the next stages, please be sure
 
 ✔️ Review [Interview Stage Specific Guide](interview-stage-specific-guide.md).
 
-✔️ Brief the interview team as outlined in [Brief the Interview Team](#brief-the-interview-team).
+✔️ [Brief the Interview Team](#brief-the-interview-team).
+
 
 ✔️ Share the [Interviewer and Hiring Manager Guide](interviewer-and-hiring-managers-guide.md) and relevant sections of the [Interview Stage Specific Guide](interview-stage-specific-guide.md) for each specific interview stage with the interview team.
 
