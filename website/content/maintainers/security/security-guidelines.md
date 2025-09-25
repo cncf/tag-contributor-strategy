@@ -66,7 +66,7 @@ We recommend that any change to the repository should be introduced as part of a
 
 ### Issue template
 
-Any ideas, bugs or enhancement suggestions reported to the project need to be tracked, and can then be discussed, triaged and prioritized/de-prioritized for implementation. GitHub Issues are one such avenue that allows tracking and managing ideas until they are brought to fruition. We recommend the following template for proposing changes to the project [CNCF TAG Security Project Resouces - Issue Template](https://github.com/cncf/tag-security/blob/main/project-resources/templates/ISSUE_TEMPLATE.md).
+Any ideas, bugs or enhancement suggestions reported to the project need to be tracked, and can then be discussed, triaged and prioritized/de-prioritized for implementation. GitHub Issues are one such avenue that allows tracking and managing ideas until they are brought to fruition. We recommend the following template for proposing changes to the project [CNCF TAG Security Project Resouces - Issue Template](https://github.com/cncf/tag-security/blob/main/community/resources/project-resources/templates/ISSUE_TEMPLATE.md).
 
 ### Commit signing
 
