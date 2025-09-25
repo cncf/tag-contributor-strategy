@@ -47,4 +47,4 @@ We’re extending the window for Term 2 project ideas. You’ve now have until M
 
 ## Contribute!
 Want to contribute to the next newsletter? 
-[Contribute Today!](projects@cncf.io)
+[Contribute Today!](https://contribute.cncf.io/contributors/projects/)
