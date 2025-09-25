@@ -28,7 +28,6 @@ Most services can be requested through a Service Desk ticket, unless otherwise n
 - [HackerOne](https://www.hackerone.com) for bug bounties.
 - [Credly](#credly) for digital badges to highlight accomplishments and achievements within the ecosystem
 - [Holopin](https://www.holopin.io/) Lightweight digital badges that maintainers can use to recognize contributors. Apply directly to [Holopin's open source program](https://www.holopin.io/opensource) (not CNCF managed) for access.
-- [Peritus.ai](https://peritus.ai/) for Machine Learning analytics and self-service for developer communities.
 - [CLOMonitor](https://clomonitor.io) scans repositories daily, checking for adherence to a wide range of actions that are taken to ensure best practise providing a way for end users to assess the health of open source projects from multiple points of view.
 - [CLOWarden](https://clowarden.io) an extensible, Git Ops-based access control service that controls and audits access to GitHub repositories for individuals and teams.
 - [CLOTributor](https://clotributor.dev/) search engine for people looking for opportunites to become Cloud Native contributors.
